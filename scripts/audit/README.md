@@ -15,10 +15,8 @@ Tous les fichiers de travail vont dans un dossier `W`, pris hors du dépôt.
 2. `extract.py` : extraction du texte page par page, avec la couleur de chaque mot.
    - `⟦R:…⟧` marque le texte rouge, `⟦H:…⟧` le texte surligné.
    - Commande, pour chaque PDF : `python extract.py W/pdf/X.pdf W/col/X.txt`
-3. Compactage de `W/col/X.txt` en `W/cmp2/X.txt` :
-   - les fragments marqués deviennent `«…»` ;
-   - les lignes de puces vides sont supprimées.
-   - Voir l'extrait de code dans l'historique de session. Le principe : retirer les lignes « - », « • », « A. » vides, puis transformer les marqueurs en guillemets.
+3. `compact.py` : compactage de `W/col/X.txt` en `W/cmp2/X.txt`. Les fragments marqués deviennent `«…»` et les lignes de puces vides sont supprimées.
+   - Commande : `python compact.py W/col/X.txt W/cmp2/X.txt`
 4. `segment.py W` : découpage en questions et rattachement à la session et à la section. Produit `W/inv_raw.json`.
    - Les débuts de question des blocs non numérotés sont fixés à la main (dictionnaire `MANUAL`).
 5. `post.py W` : fusion des fragments, type de question, statut de correction et domaine provisoire. Produit `W/inv.json`.
