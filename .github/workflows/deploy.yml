@@ -1,0 +1,57 @@
+# Couche 2 – Intégration et déploiement automatiques.
+# À chaque push sur main (ou lancement manuel) : installation, vérification TypeScript,
+# validation du contenu, tests unitaires, construction, tests de bout en bout, puis publication
+# sur GitHub Pages. Si une étape échoue, rien n'est publié : la version en ligne reste la précédente.
+name: Déploiement GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Permissions minimales : lecture du code, écriture Pages, jeton OIDC pour le déploiement.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Vérification TypeScript
+        run: npm run typecheck
+      - name: Validation du contenu (questions, leçons, identifiants)
+        run: npm run validate:content
+      - name: Tests unitaires
+        run: npm test
+      - name: Construction
+        run: npm run build
+      - name: Navigateur pour les tests de bout en bout
+        run: npx playwright install --with-deps chromium
+      - name: Tests de bout en bout (ordinateur + smartphone)
+        run: npm run e2e
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5

@@ -1,0 +1,76 @@
+{
+  "sessions": [
+    {
+      "id": "2026-01",
+      "label": "Janvier 2026",
+      "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+      "durationMinutes": 120,
+      "announcedComposition": [
+        { "part": "Endocrinologie adulte", "teachers": ["Alexopoulou", "Loumaye", "Preumont"], "count": 44 },
+        { "part": "Pédiatrie", "teachers": ["Lysy"], "count": 16 },
+        { "part": "Radiologie", "teachers": [], "count": 4 },
+        { "part": "Anatomie pathologique", "teachers": [], "count": 4 },
+        { "part": "Pharmacologie", "teachers": ["Horsmans"], "count": 12 }
+      ],
+      "announcedTotal": 80,
+      "notTranscribedCount": 2,
+      "notes": ["Le nombre de bonnes réponses (1 ou 2) était indiqué dans chaque question.", "Environ 16 numéros absents de la retranscription."]
+    },
+    {
+      "id": "2025-01",
+      "label": "Janvier 2025",
+      "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+      "durationMinutes": 180,
+      "announcedComposition": null,
+      "announcedTotal": null,
+      "notTranscribedCount": 21,
+      "notes": ["Composition non indiquée dans la source (numérotation 1-100)."]
+    },
+    {
+      "id": "2024-01",
+      "label": "Janvier 2024",
+      "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+      "durationMinutes": null,
+      "announcedComposition": null,
+      "announcedTotal": null,
+      "notTranscribedCount": 3,
+      "notes": ["Composition non indiquée dans la source (numérotation 1-100)."]
+    },
+    {
+      "id": "2023-05",
+      "label": "Mai 2023",
+      "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+      "durationMinutes": null,
+      "announcedComposition": [
+        { "part": "Endocrinologie adulte", "teachers": ["Preumont", "Alexopoulou", "Loumaye", "Orioli", "Thissen", "Navez"], "count": 55 },
+        { "part": "Pédiatrie", "teachers": ["Lysy"], "count": 20 },
+        { "part": "Anatomie pathologique", "teachers": ["Marbaix"], "count": 5 },
+        { "part": "Radiologie", "teachers": ["Coche", "Duprez"], "count": 5 },
+        { "part": "Pharmacologie", "teachers": ["Horsmans"], "count": 15 }
+      ],
+      "announcedTotal": 100,
+      "notTranscribedCount": 4,
+      "notes": ["QCM à 1 ou 2 bonnes réponses."]
+    },
+    {
+      "id": "2022-05",
+      "label": "Mai 2022",
+      "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+      "durationMinutes": null,
+      "announcedComposition": null,
+      "announcedTotal": null,
+      "notTranscribedCount": 0,
+      "notes": ["Partie adulte annoncée à 55 questions ; anapath non retranscrite (« même que anciennes années »)."]
+    },
+    {
+      "id": "ND",
+      "label": "Compilation 2016-2021 (par enseignant, non datée)",
+      "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+      "durationMinutes": null,
+      "announcedComposition": null,
+      "announcedTotal": null,
+      "notTranscribedCount": 0,
+      "notes": ["Questions de plusieurs années regroupées par enseignant ; l'année exacte n'est pas connue."]
+    }
+  ]
+}

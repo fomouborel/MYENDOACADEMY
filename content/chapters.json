@@ -1,0 +1,59 @@
+{
+  "chapters": [
+    {
+      "id": "thyroide",
+      "order": 1,
+      "domain": "thyroide",
+      "title": "Pathologies thyroïdiennes",
+      "short": "Physiologie et exploration, nodules, cancers, thyroïdites, goitres",
+      "icon": "🦋",
+      "status": "pending",
+      "subchapters": [
+        { "id": "explo", "title": "Physiologie, iode et exploration (TSH, T4L, T3L, scintigraphie)" },
+        { "id": "nodules", "title": "Nodules : malignité, échographie (EU-TIRADS) et cytoponction" },
+        { "id": "cancers", "title": "Cancers thyroïdiens (clinique et anatomie pathologique)" },
+        { "id": "thyroidites", "title": "Thyroïdites (De Quervain, silencieuse, Hashimoto)" },
+        { "id": "goitre", "title": "Goitres" }
+      ],
+      "lessons": []
+    },
+    {
+      "id": "hyper",
+      "order": 2,
+      "domain": "thyroide",
+      "title": "Hyperthyroïdie",
+      "short": "Diagnostic étiologique, maladie de Basedow, amiodarone et traitements",
+      "icon": "🔥",
+      "status": "pending",
+      "subchapters": [
+        { "id": "diagnostic", "title": "Diagnostic étiologique (Tg, anticorps, scintigraphie)" },
+        { "id": "basedow", "title": "Maladie de Basedow (clinique, ATS, grossesse, orbitopathie)" },
+        { "id": "iatrogene", "title": "Amiodarone, iode et causes iatrogènes" }
+      ],
+      "lessons": []
+    },
+    {
+      "id": "hypo",
+      "order": 3,
+      "domain": "thyroide",
+      "title": "Hypothyroïdie",
+      "short": "Primaire ou centrale, L-thyroxine et surveillance, hypothyroïdie congénitale",
+      "icon": "🌙",
+      "status": "pending",
+      "subchapters": [
+        { "id": "diagnostic", "title": "Primaire ou centrale : biologie et causes" },
+        { "id": "traitement", "title": "L-thyroxine : dose, sujet âgé, grossesse, surveillance" },
+        { "id": "congenitale", "title": "Hypothyroïdie congénitale et de l'enfant (👶 Pédiatrie)" }
+      ],
+      "lessons": []
+    },
+    { "id": "diabete", "order": 10, "domain": "diabete", "title": "Diabète et hypoglycémies", "short": "Prévu après la thyroïde", "icon": "🩸", "status": "pending", "subchapters": [{ "id": "a-definir", "title": "À définir après intégration" }], "lessons": [] },
+    { "id": "hypophyse", "order": 11, "domain": "hypophyse", "title": "Hypophyse", "short": "Prévu après la thyroïde", "icon": "🧠", "status": "pending", "subchapters": [{ "id": "a-definir", "title": "À définir après intégration" }], "lessons": [] },
+    { "id": "surrenales", "order": 12, "domain": "surrenales", "title": "Surrénales", "short": "Prévu après la thyroïde", "icon": "⛰️", "status": "pending", "subchapters": [{ "id": "a-definir", "title": "À définir après intégration" }], "lessons": [] },
+    { "id": "gonades", "order": 13, "domain": "gonades", "title": "Gonades et hormones sexuelles", "short": "Prévu après la thyroïde", "icon": "⚥", "status": "pending", "subchapters": [{ "id": "a-definir", "title": "À définir après intégration" }], "lessons": [] },
+    { "id": "obesite", "order": 14, "domain": "obesite", "title": "Obésité, nutrition et syndrome métabolique", "short": "Prévu après la thyroïde", "icon": "⚖️", "status": "pending", "subchapters": [{ "id": "a-definir", "title": "À définir après intégration" }], "lessons": [] },
+    { "id": "phosphocalcique", "order": 15, "domain": "phosphocalcique", "title": "Phosphocalcique et parathyroïdes", "short": "Prévu après la thyroïde", "icon": "🦴", "status": "pending", "subchapters": [{ "id": "a-definir", "title": "À définir après intégration" }], "lessons": [] },
+    { "id": "pediatrie", "order": 16, "domain": "pediatrie", "title": "Endocrinologie pédiatrique (croissance, puberté)", "short": "Prévu après la thyroïde", "icon": "👶", "status": "pending", "subchapters": [{ "id": "a-definir", "title": "À définir après intégration" }], "lessons": [] },
+    { "id": "pharmaco", "order": 17, "domain": "pharmaco", "title": "Pharmacologie", "short": "Prévu après la thyroïde", "icon": "💊", "status": "pending", "subchapters": [{ "id": "a-definir", "title": "À définir après intégration" }], "lessons": [] }
+  ]
+}
