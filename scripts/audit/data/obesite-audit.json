@@ -1,0 +1,1141 @@
+[
+ {
+  "ref": "2024-01-Q22",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 4,
+  "num": 22,
+  "line": 113,
+  "stem": [
+   "question avec le périmètre abdo chez la femme androïde"
+  ],
+  "lines": [],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Définitions : IMC, tour de taille",
+  "note": "Seul le thème est retranscrit.",
+  "groupe": "OBES-DEF",
+  "answer": "",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "definitions",
+   "lessons": [
+    "obes-definitions"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-p4-l137",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 4,
+  "num": null,
+  "line": 137,
+  "stem": [
+   "Patho avec amaigrissement (2 fausses):"
+  ],
+  "lines": [
+   "Phéochromocytome",
+   "Hypothyroidie",
+   "Insulinome",
+   "Adisson"
+  ],
+  "marked": [
+   "Hypothyroidie",
+   "Insulinome"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Variations de poids d'origine endocrinienne",
+  "note": "",
+  "groupe": "POIDS-ENDO",
+  "answer": "Hypothyroidie | Insulinome",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "poids-endocrino",
+   "lessons": [
+    "obes-poids-endocrino"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q93",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 12,
+  "num": 93,
+  "line": 398,
+  "stem": [
+   "Qu’est ce qui ne donne pas un gain de poids :"
+  ],
+  "lines": [
+   "A. Glifozine",
+   "B. GLP1"
+  ],
+  "marked": [
+   "A. Glifozine",
+   "B. GLP1"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Médicaments du diabète et poids",
+  "note": "Deux propositions seulement (pharmacologie, Horsmans).",
+  "groupe": "MEDIC-POIDS",
+  "answer": "A. Glifozine | B. GLP1",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "traitement",
+   "lessons": [
+    "obes-traitement"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q18",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 16,
+  "num": 18,
+  "line": 575,
+  "stem": [
+   "Tous sont favorable ou neutre vis à vis de la perte de poids, sauf un : (1R)"
+  ],
+  "lines": [
+   "A) GLP1",
+   "B) Sulfamidés",
+   "C) SGL2",
+   "D) I-DPP4 (gliptines)",
+   "E) Metformine"
+  ],
+  "marked": [
+   "B) Sulfamidés"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Médicaments du diabète et poids",
+  "note": "",
+  "groupe": "MEDIC-POIDS",
+  "answer": "B) Sulfamidés",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "traitement",
+   "lessons": [
+    "obes-traitement"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q24",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 17,
+  "num": 24,
+  "line": 614,
+  "stem": [
+   "L’obésité androïde chez une femme caucasienne est définie par :"
+  ],
+  "lines": [
+   "A. BMI > 40",
+   "B. Hirsutisme",
+   "C. Un périmètre abdominal > 94 cm",
+   "D. Femme avec des traits masculins",
+   "E. Un périmètre abdominal >88 cm"
+  ],
+  "marked": [
+   "E. Un périmètre abdominal >88 cm"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Définitions : IMC, tour de taille",
+  "note": "Seuil de la définition américaine (NCEP-ATP III) ; les recommandations européennes retiennent 80 cm.",
+  "groupe": "OBES-DEF",
+  "answer": "E. Un périmètre abdominal >88 cm",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "definitions",
+   "lessons": [
+    "obes-definitions"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q25b",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 17,
+  "num": 25,
+  "line": 622,
+  "stem": [
+   "L’obésité est majoritairement"
+  ],
+  "lines": [
+   "A. Monogénique",
+   "B. Syndromique",
+   "C. Polygénique",
+   "D. Sans cause génétique (pas sure de cette proposition)",
+   "E. Secondaire à des perturbateurs endocriniens"
+  ],
+  "marked": [
+   "C. Polygénique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Causes de l'obésité : génétique",
+  "note": "Doute du transcripteur sur la proposition D (« pas sûre »), pas sur la réponse.",
+  "groupe": "OBES-GENET",
+  "answer": "C. Polygénique",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "definitions",
+   "lessons": [
+    "obes-definitions"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-Q9",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 29,
+  "num": 9,
+  "line": 1067,
+  "stem": [
+   "L’obésité androïde chez une femme caucasienne est définie par :"
+  ],
+  "lines": [
+   "A. BMI > 40",
+   "B. Hirsutisme",
+   "C. Un périmètre abdominal > 94 cm",
+   "D. Femme avec des traits masculins",
+   "E. Un périmètre abdominal >88 cm"
+  ],
+  "marked": [
+   "E. Un périmètre abdominal >88 cm"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Définitions : IMC, tour de taille",
+  "note": "Seuil de la définition américaine (NCEP-ATP III) ; les recommandations européennes retiennent 80 cm.",
+  "groupe": "OBES-DEF",
+  "answer": "E. Un périmètre abdominal >88 cm",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "definitions",
+   "lessons": [
+    "obes-definitions"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-Q10",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 29,
+  "num": 10,
+  "line": 1073,
+  "stem": [
+   "La plupart des obésités sont :"
+  ],
+  "lines": [
+   "• est monogénique",
+   "•  est polygénique",
+   "• est syndromique",
+   "• sans causes",
+   "• Perturbateurs endocriniens"
+  ],
+  "marked": [
+   "•  est polygénique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Causes de l'obésité : génétique",
+  "note": "",
+  "groupe": "OBES-GENET",
+  "answer": "•  est polygénique",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "definitions",
+   "lessons": [
+    "obes-definitions"
+   ]
+  }
+ },
+ {
+  "ref": "ND-hermans-syndrome-metabolique-Q47",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Hermans – Syndrome métabolique",
+  "disc": "ADULTE",
+  "teacher": "Hermans",
+  "page": 66,
+  "num": 47,
+  "line": 2848,
+  "stem": [
+   "Syndrome métabolique (la vraie)"
+  ],
+  "lines": [
+   "A) Toujours associé à une HTA",
+   "B) Toujours associé à une stéatose hépatique",
+   "C) Score va de 0/6 à 6/6",
+   "D) Un des critères est une diminution des HDL",
+   "E) Relation inverse avec insulinorésistance"
+  ],
+  "marked": [
+   "D) Un des critères est une diminution des HDL"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Syndrome métabolique : définition et associations",
+  "note": "Hermans.",
+  "groupe": "SM-DEF",
+  "answer": "D) Un des critères est une diminution des HDL",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "syndrome-metabolique",
+   "lessons": [
+    "obes-metabolique"
+   ]
+  }
+ },
+ {
+  "ref": "ND-hermans-syndrome-metabolique-Q69",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Hermans – Syndrome métabolique",
+  "disc": "ADULTE",
+  "teacher": "Hermans",
+  "page": 66,
+  "num": 69,
+  "line": 2854,
+  "stem": [
+   "Patients coronariens avec syndrome métabolique: la fausse:"
+  ],
+  "lines": [
+   "A) il n’y a pas de différence entre les sexes pour la complication coronarienne",
+   "B) souvent asymptomatiques",
+   "C) épreuve de cycloergomètre asymptomatique",
+   "D) Le risque de restenose de stent est plus élevé",
+   "E) Les lésions sont plus diffuse"
+  ],
+  "marked": [
+   "C) épreuve de cycloergomètre asymptomatique"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse discutée ou contestée",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Syndrome métabolique et maladie coronarienne",
+  "note": "Hermans. Formulation ambiguë de la proposition retenue (« épreuve de cycloergomètre asymptomatique ») : l'ischémie est souvent silencieuse, mais l'épreuve d'effort peut la révéler.",
+  "groupe": "SM-CORONAIRE",
+  "answer": "C) épreuve de cycloergomètre asymptomatique",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "syndrome-metabolique",
+   "lessons": [
+    "obes-metabolique"
+   ]
+  }
+ },
+ {
+  "ref": "ND-hermans-syndrome-metabolique-Q97",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Hermans – Syndrome métabolique",
+  "disc": "ADULTE",
+  "teacher": "Hermans",
+  "page": 66,
+  "num": 97,
+  "line": 2860,
+  "stem": [
+   "Concernant le syndrome métabolique, une seule de ces propositions est vraie ( c’était pas une fausse ? ) : si",
+   "c’était une fausse"
+  ],
+  "lines": [
+   "a. Dyslipidémie (les TG qui augmentent et HDL élevés) ça vaut 1 point",
+   "b. Augmentation de NASH dû à une hypo-insulinémie dans le sang portal",
+   "Il y a toujours une hyperglycémie ou un état de prédiabète",
+   "d. Les adipokines sécrétées en systémique diminuent la sensibilité à l’insuline des muscles",
+   "e. Lorsqu’il est associé au diabète de type deux, la résistance à l’insuline est plus importante"
+  ],
+  "marked": [
+   "c’était une fausse",
+   "a. Dyslipidémie (les TG qui augmentent et HDL élevés) ça vaut 1 point",
+   "b. Augmentation de NASH dû à une hypo-insulinémie dans le sang portal"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Syndrome métabolique : définition et associations",
+  "note": "Hermans. Consigne incertaine (« une vraie » ou « une fausse ? »).",
+  "groupe": "SM-DEF",
+  "answer": "c’était une fausse | a. Dyslipidémie (les TG qui augmentent et HDL élevés) ça vaut 1 point | b. Augmentation de NASH dû à une hypo-insulinémie dans le sang portal",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "syndrome-metabolique",
+   "lessons": [
+    "obes-metabolique"
+   ]
+  }
+ },
+ {
+  "ref": "ND-hermans-syndrome-metabolique-Q119",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Hermans – Syndrome métabolique",
+  "disc": "ADULTE",
+  "teacher": "Hermans",
+  "page": 66,
+  "num": 119,
+  "line": 2867,
+  "stem": [
+   "Patient qui présente un syndrome métabolique complet (5/5), diabète II et obèse, sans IR. Quel traitement ne",
+   "mettez-vous pas d’emblée en place?"
+  ],
+  "lines": [
+   "A. Augmenter l’activité sportive",
+   "B. Régime hypocalorique",
+   "C. Statines",
+   "D. Fibrate",
+   "E. Biguanide"
+  ],
+  "marked": [
+   "D. Fibrate",
+   "E. Biguanide"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse discutée ou contestée",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Syndrome métabolique : traitement",
+  "note": "Hermans. Consigne au singulier, deux réponses marquées (fibrate et biguanide). La metformine (biguanide) est pourtant le traitement de première intention du diabète de type 2 en l'absence d'insuffisance rénale : réponse discutable.",
+  "groupe": "SM-TRT",
+  "answer": "D. Fibrate | E. Biguanide",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "syndrome-metabolique",
+   "lessons": [
+    "obes-metabolique",
+    "obes-traitement"
+   ]
+  }
+ },
+ {
+  "ref": "ND-hermans-syndrome-metabolique-Q124",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Hermans – Syndrome métabolique",
+  "disc": "ADULTE",
+  "teacher": "Hermans",
+  "page": 66,
+  "num": 124,
+  "line": 2874,
+  "stem": [
+   "Question avec le syndrome métabolique, avec un score de 5/5 (1 fausse)"
+  ],
+  "lines": [
+   "A. Aura plus d’insulinorésistance que dans un Syndrome métabolique avec un score de 3/5",
+   "B. HDL < 40 chez une homme",
+   "C. Obésité = BMI >25",
+   "D. Chir bariatrique bons résultats si diabète associé à obésité importante",
+   "E. ?"
+  ],
+  "marked": [
+   "C. Obésité = BMI >25"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Syndrome métabolique : définition et associations",
+  "note": "Hermans. 5e proposition non retranscrite (« ? ») ; la réponse marquée est sans ambiguïté.",
+  "groupe": "SM-DEF",
+  "answer": "C. Obésité = BMI >25",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "syndrome-metabolique",
+   "lessons": [
+    "obes-metabolique"
+   ]
+  }
+ },
+ {
+  "ref": "ND-hermans-syndrome-metabolique-Q126",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Hermans – Syndrome métabolique",
+  "disc": "ADULTE",
+  "teacher": "Hermans",
+  "page": 66,
+  "num": 126,
+  "line": 2880,
+  "stem": [
+   "A propos du syndrome métabolique à 5/5 (une proposition fausse) :"
+  ],
+  "lines": [
+   "A. Le cholestérol HDL chez un homme sera < 40 mg/dl",
+   "B. Implique une insulinorésistance supérieure par rapport à un syndrome métabolique 3/5",
+   "C. Est souvent associée à une hyperferritinémie",
+   "D. Il y a toujours présence d’une protéinurie franche",
+   "E. Peut être associé à un OMPK chez la femme"
+  ],
+  "marked": [
+   "D. Il y a toujours présence d’une protéinurie franche"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Syndrome métabolique : définition et associations",
+  "note": "Hermans.",
+  "groupe": "SM-DEF",
+  "answer": "D. Il y a toujours présence d’une protéinurie franche",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "syndrome-metabolique",
+   "lessons": [
+    "obes-metabolique"
+   ]
+  }
+ },
+ {
+  "ref": "ND-navez-chirurgie-bariatrique-Q1",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Navez – Chirurgie bariatrique",
+  "disc": "ADULTE",
+  "teacher": "Navez",
+  "page": 67,
+  "num": 1,
+  "line": 2888,
+  "stem": [
+   "Un bypass gastrique peut être responsable des complications chroniques suivantes SAUF UNE :"
+  ],
+  "lines": [
+   "A. Syndrome d’apnées du sommeil",
+   "B. Ostéopénie",
+   "C. Carence en B12",
+   "D. Hypoglycémies postprandiales",
+   "E. Lithiase vésiculaire"
+  ],
+  "marked": [
+   "A. Syndrome d’apnées du sommeil"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Chirurgie bariatrique : complications",
+  "note": "Navez.",
+  "groupe": "BARIA-COMPL",
+  "answer": "A. Syndrome d’apnées du sommeil",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "traitement",
+   "lessons": [
+    "obes-traitement"
+   ]
+  }
+ },
+ {
+  "ref": "ND-navez-chirurgie-bariatrique-Q2",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Navez – Chirurgie bariatrique",
+  "disc": "ADULTE",
+  "teacher": "Navez",
+  "page": 67,
+  "num": 2,
+  "line": 2894,
+  "stem": [
+   "Critères corrects (2) pour la chirurgie bariatrique/sleeve:"
+  ],
+  "lines": [
+   "A. poids de plus de 100kg",
+   "B. Imc plus de 35",
+   "C. Imc plus de 35 avec apnée du sommeil et diabète mal contrôlé",
+   "D. Imc de plus 40",
+   "E. Imc de plus de 40 avec boulimie sévère"
+  ],
+  "marked": [
+   "C. Imc plus de 35 avec apnée du sommeil et diabète mal contrôlé",
+   "D. Imc de plus 40"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Chirurgie bariatrique : indications",
+  "note": "Navez. Réponse conforme aux critères de 1991 (IMC ≥ 40, ou ≥ 35 avec complications). Depuis 2022 (ASMBS et IFSO), la chirurgie est recommandée dès un IMC ≥ 35, même sans complication : « IMC plus de 35 » serait aussi exacte.",
+  "groupe": "BARIA-INDIC",
+  "answer": "C. Imc plus de 35 avec apnée du sommeil et diabète mal contrôlé | D. Imc de plus 40",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "traitement",
+   "lessons": [
+    "obes-traitement"
+   ]
+  }
+ },
+ {
+  "ref": "ND-navez-chirurgie-bariatrique-Q3",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Navez – Chirurgie bariatrique",
+  "disc": "ADULTE",
+  "teacher": "Navez",
+  "page": 67,
+  "num": 3,
+  "line": 2900,
+  "stem": [
+   "Le by pass gastrique peut donner toutes ces complications sauf une :"
+  ],
+  "lines": [
+   "a. insuffisance hépatique",
+   "b. dumping syndrome",
+   "carence en Vit B12",
+   "d. lithiase vésiculaire",
+   "e. ostéoporose"
+  ],
+  "marked": [
+   "a. insuffisance hépatique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Chirurgie bariatrique : complications",
+  "note": "Navez.",
+  "groupe": "BARIA-COMPL",
+  "answer": "a. insuffisance hépatique",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "traitement",
+   "lessons": [
+    "obes-traitement"
+   ]
+  }
+ },
+ {
+  "ref": "ND-thissen-obesite-Q1",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Thissen – Obésité",
+  "disc": "ADULTE",
+  "teacher": "Thissen",
+  "page": 67,
+  "num": 1,
+  "line": 2907,
+  "stem": [
+   "Tous ces médocs sont favorables sauf 2 qui augmentent l’excès pondéral :"
+  ],
+  "lines": [
+   "a. Sulfamidés hypoglycémiants",
+   "b. Pioglitazone",
+   "DPP4",
+   "d. Metformine",
+   "e. Analogue de GLP-1"
+  ],
+  "marked": [
+   "a. Sulfamidés hypoglycémiants",
+   "b. Pioglitazone"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Médicaments du diabète et poids",
+  "note": "Thissen.",
+  "groupe": "MEDIC-POIDS",
+  "answer": "a. Sulfamidés hypoglycémiants | b. Pioglitazone",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "traitement",
+   "lessons": [
+    "obes-traitement"
+   ]
+  }
+ },
+ {
+  "ref": "ND-thissen-obesite-Q2",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Thissen – Obésité",
+  "disc": "ADULTE",
+  "teacher": "Thissen",
+  "page": 67,
+  "num": 2,
+  "line": 2913,
+  "stem": [
+   "Ces médicaments ont un effet neutre ou favorable sur l’excès de poids. Quelle est la fausse ?"
+  ],
+  "lines": [
+   "A) Inhibiteur DPP4",
+   "B) Inhibiteur Sglt2 (glifozines)",
+   "C) Sulfamidés",
+   "D) Famille metformine",
+   "E) analogues GLP1 (incrétinomimétiques)",
+   "3. La plupart des obésités sont",
+   "A) Monogéniques",
+   "B) Polygéniques",
+   "C) Syndromiques",
+   "D) sans cause",
+   "E) Perturbateurs endocriniens"
+  ],
+  "marked": [
+   "C) Sulfamidés",
+   "B) Polygéniques"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Médicaments du diabète et poids",
+  "note": "Thissen. La question suivante (« la plupart des obésités sont… ») était collée aux propositions dans la retranscription.",
+  "groupe": "MEDIC-POIDS",
+  "answer": "C) Sulfamidés | B) Polygéniques",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "traitement",
+   "lessons": [
+    "obes-traitement"
+   ]
+  }
+ },
+ {
+  "ref": "ND-thissen-obesite-Q4",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Thissen – Obésité",
+  "disc": "ADULTE",
+  "teacher": "Thissen",
+  "page": 67,
+  "num": 4,
+  "line": 2925,
+  "stem": [
+   "L’obésité androïde chez une femme caucasienne est définie par :"
+  ],
+  "lines": [
+   "A. BMI > 40",
+   "B. Hirsutisme",
+   "C. Un périmètre abdominal > 94 cm",
+   "D. Femme avec des traits masculins",
+   "E. Un périmètre abdominal >88 cm"
+  ],
+  "marked": [
+   "E. Un périmètre abdominal >88 cm"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Définitions : IMC, tour de taille",
+  "note": "Thissen. Seuil de la définition américaine (NCEP-ATP III) ; les recommandations européennes retiennent 80 cm.",
+  "groupe": "OBES-DEF",
+  "answer": "E. Un périmètre abdominal >88 cm",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "definitions",
+   "lessons": [
+    "obes-definitions"
+   ]
+  }
+ },
+ {
+  "ref": "ND-thissen-obesite-Q5",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Thissen – Obésité",
+  "disc": "ADULTE",
+  "teacher": "Thissen",
+  "page": 67,
+  "num": 5,
+  "line": 2931,
+  "stem": [
+   "Trouvez la fausse:"
+  ],
+  "lines": [
+   "a) obésité définie par un BMI > 30",
+   "b) haute densité énergétique correspond à un aliment riche en graisse avec un faible pouvoir satiétogène",
+   "c) une chirurgie bariatrique peut donner une rémission d’un diabète de type 2 associée à une obésité",
+   "d) les obèses ont un métabolisme de base faible"
+  ],
+  "marked": [
+   "d) les obèses ont un métabolisme de base faible"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Dépense énergétique, nutrition, idées reçues",
+  "note": "Thissen.",
+  "groupe": "OBES-ENERGIE",
+  "answer": "d) les obèses ont un métabolisme de base faible",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "definitions",
+   "lessons": [
+    "obes-definitions",
+    "obes-traitement"
+   ]
+  }
+ },
+ {
+  "ref": "ND-thissen-obesite-Q6",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Thissen – Obésité",
+  "disc": "ADULTE",
+  "teacher": "Thissen",
+  "page": 68,
+  "num": 6,
+  "line": 2937,
+  "stem": [
+   "Laquelle de ces pathos ne donne pas d’amaigrissement :"
+  ],
+  "lines": [
+   "a. Insulinome",
+   "b. Diabète sucré décompensé",
+   "Phéochromocytome",
+   "d. Cushing"
+  ],
+  "marked": [
+   "a. Insulinome",
+   "d. Cushing"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Variations de poids d'origine endocrinienne",
+  "note": "Thissen. Consigne au singulier (« laquelle ») mais deux réponses marquées, toutes deux exactes : l'insulinome et le Cushing font prendre du poids.",
+  "groupe": "POIDS-ENDO",
+  "answer": "a. Insulinome | d. Cushing",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "poids-endocrino",
+   "lessons": [
+    "obes-poids-endocrino"
+   ]
+  }
+ },
+ {
+  "ref": "ND-thissen-obesite-Q7",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Thissen – Obésité",
+  "disc": "ADULTE",
+  "teacher": "Thissen",
+  "page": 68,
+  "num": 7,
+  "line": 2942,
+  "stem": [
+   "Toutes les pathos suivantes peuvent donner un amaigrissement sauf une."
+  ],
+  "lines": [
+   "A. Carcinome papillaire de la thyroïde",
+   "B. Hyperthyroïdie",
+   "C. Insuffisance corticosurrénale",
+   "D. Phéochromocytome",
+   "E. Diabète sucré déséquilibré"
+  ],
+  "marked": [
+   "A. Carcinome papillaire de la thyroïde"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Variations de poids d'origine endocrinienne",
+  "note": "Thissen.",
+  "groupe": "POIDS-ENDO",
+  "answer": "A. Carcinome papillaire de la thyroïde",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "poids-endocrino",
+   "lessons": [
+    "obes-poids-endocrino"
+   ]
+  }
+ },
+ {
+  "ref": "ND-thissen-obesite-Q8",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Thissen – Obésité",
+  "disc": "ADULTE",
+  "teacher": "Thissen",
+  "page": 68,
+  "num": 8,
+  "line": 2948,
+  "stem": [
+   "Toutes les affirmations suivantes sont correctes, sauf 2 :"
+  ],
+  "lines": [
+   "A. L’obésité est définie à partir d’un BMI > 25",
+   "B. Les obèses ont un risque plus élevé d’avoir des lithiases vésiculaires",
+   "C. Les obèses ont un métabolisme de base diminué",
+   "D. L’efficacité d’un régime hypocalorique dépend de la compliance du patient",
+   "E. Le bypass gastrique peut avoir comme effets secondaires un dumping syndrome et une carence en vitamine",
+   "B12."
+  ],
+  "marked": [
+   "A. L’obésité est définie à partir d’un BMI > 25",
+   "C. Les obèses ont un métabolisme de base diminué"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Dépense énergétique, nutrition, idées reçues",
+  "note": "Thissen.",
+  "groupe": "OBES-ENERGIE",
+  "answer": "A. L’obésité est définie à partir d’un BMI > 25 | C. Les obèses ont un métabolisme de base diminué",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "definitions",
+   "lessons": [
+    "obes-definitions",
+    "obes-traitement"
+   ]
+  }
+ },
+ {
+  "ref": "ND-thissen-obesite-Q9",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Thissen – Obésité",
+  "disc": "ADULTE",
+  "teacher": "Thissen",
+  "page": 68,
+  "num": 9,
+  "line": 2955,
+  "stem": [
+   "Toutes les pathologies suivantes entraînent un gain de poids sauf une. Laquelle?"
+  ],
+  "lines": [
+   "A. Hypothyroïdie",
+   "B. Phéochromocytome",
+   "C. Insulinome",
+   "D. Diabète de type I trop bien contrôlé",
+   "E. Tumeur surrénalienne entraînant libération de cortisol"
+  ],
+  "marked": [
+   "B. Phéochromocytome"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Variations de poids d'origine endocrinienne",
+  "note": "Thissen.",
+  "groupe": "POIDS-ENDO",
+  "answer": "B. Phéochromocytome",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "poids-endocrino",
+   "lessons": [
+    "obes-poids-endocrino"
+   ]
+  }
+ },
+ {
+  "ref": "ND-thissen-obesite-Q10",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Thissen – Obésité",
+  "disc": "ADULTE",
+  "teacher": "Thissen",
+  "page": 68,
+  "num": 10,
+  "line": 2961,
+  "stem": [
+   "A propos de l’alimentation chez l’obèse : (Il fallait dire la fausse)"
+  ],
+  "lines": [
+   "A. L’apport glucidique doit constituer 40-50% de l’apport calorique total",
+   "B. Édulcorant type aspartame contient 0 calories",
+   "C. Index glycémique mesure la capacité d'un glucide donné à élever la glycémie après le repas par rapport à un",
+   "standard de référence qui est le glucose pur (= 100%)",
+   "D. Charge glycémique de 200 g de pain (contenu glucides 50%, index 75%) + 200 g de fromage blanc sucré",
+   "(contenu glucides 10%, index 50%) = 95 gr",
+   "E. L’alcool doit être pris en compte dans le calcul des calories"
+  ],
+  "marked": [
+   "D. Charge glycémique de 200 g de pain (contenu glucides 50%, index 75%) + 200 g de fromage blanc sucré",
+   "(contenu glucides 10%, index 50%) = 95 gr"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Nutrition : index et charge glycémiques",
+  "note": "Thissen. La charge glycémique se calcule : 200 g × 50 % × 0,75 + 200 g × 10 % × 0,50 = 75 + 10 = 85 g, et non 95 g.",
+  "groupe": "NUTRITION",
+  "answer": "D. Charge glycémique de 200 g de pain (contenu glucides 50%, index 75%) + 200 g de fromage blanc sucré | (contenu glucides 10%, index 50%) = 95 gr",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "traitement",
+   "lessons": [
+    "obes-traitement"
+   ]
+  }
+ },
+ {
+  "ref": "ND-thissen-obesite-Q11",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Thissen – Obésité",
+  "disc": "ADULTE",
+  "teacher": "Thissen",
+  "page": 68,
+  "num": 11,
+  "line": 2969,
+  "stem": [
+   "Deux affirmations fausses à propos de l’obésité :"
+  ],
+  "lines": [
+   "A. L’obésité se définit par un IMC > 25",
+   "B. L’obésité est plus fréquemment associée à des lithiases vésiculaires",
+   "C. Un régime pauvre en hydrates de carbone est plus efficace qu’un régime pauvre en graisse pour induire un",
+   "amaigrissement à long terme",
+   "D. Les sujets obèses ont un métabolisme basal augmenté",
+   "E. La chirurgie bariatrique peut induire une rémission complète d’un diabète associé à une obésité importante"
+  ],
+  "marked": [
+   "A. L’obésité se définit par un IMC > 25",
+   "C. Un régime pauvre en hydrates de carbone est plus efficace qu’un régime pauvre en graisse pour induire un",
+   "amaigrissement à long terme"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Dépense énergétique, nutrition, idées reçues",
+  "note": "Thissen.",
+  "groupe": "OBES-ENERGIE",
+  "answer": "A. L’obésité se définit par un IMC > 25 | C. Un régime pauvre en hydrates de carbone est plus efficace qu’un régime pauvre en graisse pour induire un | amaigrissement à long terme",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "definitions",
+   "lessons": [
+    "obes-definitions",
+    "obes-traitement"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-p16-l489",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "RADIO",
+  "teacher": "non précisé",
+  "page": 16,
+  "num": null,
+  "line": 489,
+  "stem": [
+   "pour excès de poids (1 faux) :"
+  ],
+  "lines": [
+   "A. BMI > 40",
+   "B. BMI entre 27 et 29.9 avec complications cardiovasculaires",
+   "C. BMI >30 sans complications cardio",
+   "D. BMI entre 25 et 26,9 avec complications cardiovasculaires",
+   "E. BMI >35 avec complications cardiovasculaires",
+   "Question de radio sur l’aspect du phéochromocytome au CT",
+   "a. Masse hypervascularisée",
+   "b. Masse hypovascularisée..."
+  ],
+  "marked": [
+   "D. BMI entre 25 et 26,9 avec complications cardiovasculaires",
+   "a. Masse hypervascularisée"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Obésité et nutrition",
+  "autres": "",
+  "sous_theme": "Seuils de prise en charge de l'excès de poids",
+  "note": "Énoncé abrégé (« pour excès de poids ») : vraisemblablement les seuils de prise en charge médicamenteuse. La question suivante (radiologie du phéochromocytome) était collée aux propositions.",
+  "groupe": "TRT-SEUILS",
+  "answer": "D. BMI entre 25 et 26,9 avec complications cardiovasculaires | a. Masse hypervascularisée",
+  "map": {
+   "chapter": "obesite",
+   "subchapter": "traitement",
+   "lessons": [
+    "obes-traitement"
+   ]
+  }
+ }
+]

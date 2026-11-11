@@ -1,0 +1,146 @@
+{
+  "source": "import-obesite-2024-01",
+  "questions": [
+    {
+      "id": "ENDO-2024-01-ADULTE-QCM-022",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "question avec le périmètre abdo chez la femme androïde",
+      "labs": [],
+      "options": [],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 4,
+        "originalNumber": 22,
+        "auditRef": "2024-01-Q22"
+      },
+      "chapter": "obesite",
+      "subchapter": "definitions",
+      "lessonLinks": [
+        "obes-definitions"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "OBES-DEF",
+      "answerNote": "Seul le thème est retranscrit."
+    },
+    {
+      "id": "ENDO-2024-01-ADULTE-QCMM-903",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Patho avec amaigrissement (2 fausses):",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Phéochromocytome",
+          "explanation": "Amaigrissement."
+        },
+        {
+          "id": "B",
+          "text": "Hypothyroidie",
+          "explanation": "Faux (réponse attendue) : fait grossir."
+        },
+        {
+          "id": "C",
+          "text": "Insulinome",
+          "explanation": "Faux (réponse attendue) : fait grossir."
+        },
+        {
+          "id": "D",
+          "text": "Adisson",
+          "explanation": "Amaigrissement."
+        }
+      ],
+      "expected": [
+        "B",
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 4,
+        "originalNumber": null,
+        "auditRef": "2024-01-p4-l137"
+      },
+      "chapter": "obesite",
+      "subchapter": "poids-endocrino",
+      "lessonLinks": [
+        "obes-poids-endocrino"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "POIDS-ENDO",
+      "hints": [
+        "Deux maladies font au contraire grossir.",
+        "Une maladie ralentit la dépense d’énergie.",
+        "Une tumeur provoque des hypoglycémies répétées."
+      ],
+      "explanation": {
+        "text": "Le phéochromocytome et la maladie d’Addison font maigrir. Deux propositions sont fausses : l’hypothyroïdie (dépense d’énergie ralentie) et l’insulinome (hypoglycémies corrigées en mangeant, stockage par l’insuline) font grossir. Font maigrir : l’hyperthyroïdie, le phéochromocytome, le diabète déséquilibré (glycosurie) et la maladie d’Addison. Font grossir : l’hypothyroïdie, le Cushing, l’insulinome (hypoglycémies répétées, stockage par l’insuline) et l’insuline trop dosée.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2024-01-PHARMA-QCMM-093",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Qu’est ce qui ne donne pas un gain de poids :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Glifozine"
+        },
+        {
+          "id": "B",
+          "text": "GLP1"
+        }
+      ],
+      "expected": [
+        "A",
+        "B"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 12,
+        "originalNumber": 93,
+        "auditRef": "2024-01-Q93"
+      },
+      "chapter": "obesite",
+      "subchapter": "traitement",
+      "lessonLinks": [
+        "obes-traitement"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "MEDIC-POIDS",
+      "answerNote": "Deux propositions seulement (pharmacologie, Horsmans)."
+    }
+  ]
+}

@@ -435,17 +435,66 @@
       "id": "obesite",
       "order": 14,
       "domain": "obesite",
-      "title": "Obésité, nutrition et syndrome métabolique",
-      "short": "Prévu après la thyroïde",
+      "title": "Obésité et nutrition",
+      "short": "Définitions, variations de poids endocriniennes, traitement (nutrition, médicaments, chirurgie), syndrome métabolique",
       "icon": "⚖️",
-      "status": "pending",
+      "status": "available",
       "subchapters": [
         {
-          "id": "a-definir",
-          "title": "À définir après intégration"
+          "id": "definitions",
+          "title": "Définitions et causes"
+        },
+        {
+          "id": "poids-endocrino",
+          "title": "Variations de poids d'origine endocrinienne"
+        },
+        {
+          "id": "traitement",
+          "title": "Traitement : nutrition, médicaments, chirurgie"
+        },
+        {
+          "id": "syndrome-metabolique",
+          "title": "Syndrome métabolique"
         }
       ],
-      "lessons": []
+      "lessons": [
+        {
+          "id": "obes-definitions",
+          "title": "Obésité : définitions, causes et dépense énergétique",
+          "file": "obesite/01-definitions.md",
+          "subchapters": [
+            "definitions"
+          ],
+          "minutes": 7
+        },
+        {
+          "id": "obes-poids-endocrino",
+          "title": "Variations de poids d'origine endocrinienne",
+          "file": "obesite/02-poids-endocrino.md",
+          "subchapters": [
+            "poids-endocrino"
+          ],
+          "minutes": 4
+        },
+        {
+          "id": "obes-traitement",
+          "title": "Traitement : nutrition, médicaments, chirurgie bariatrique",
+          "file": "obesite/03-traitement.md",
+          "subchapters": [
+            "traitement"
+          ],
+          "minutes": 9
+        },
+        {
+          "id": "obes-metabolique",
+          "title": "Syndrome métabolique",
+          "file": "obesite/04-syndrome-metabolique.md",
+          "subchapters": [
+            "syndrome-metabolique"
+          ],
+          "minutes": 7
+        }
+      ]
     },
     {
       "id": "phosphocalcique",

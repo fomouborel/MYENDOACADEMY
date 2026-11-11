@@ -1,0 +1,144 @@
+{
+  "source": "import-obesite-2022-05",
+  "questions": [
+    {
+      "id": "ENDO-2022-05-ADULTE-QCM-009",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "L’obésité androïde chez une femme caucasienne est définie par :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "BMI > 40",
+          "explanation": "Non : c’est l’obésité de classe 3, pas la répartition."
+        },
+        {
+          "id": "B",
+          "text": "Hirsutisme",
+          "explanation": "Non : sans rapport."
+        },
+        {
+          "id": "C",
+          "text": "Un périmètre abdominal > 94 cm",
+          "explanation": "Non : seuil européen de l’homme."
+        },
+        {
+          "id": "D",
+          "text": "Femme avec des traits masculins",
+          "explanation": "Non : « androïde » décrit la répartition des graisses."
+        },
+        {
+          "id": "E",
+          "text": "Un périmètre abdominal >88 cm",
+          "explanation": "Oui (réponse attendue) : seuil américain chez la femme (80 cm selon les recommandations européennes)."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2022-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 29,
+        "originalNumber": 9,
+        "auditRef": "2022-05-Q9"
+      },
+      "chapter": "obesite",
+      "subchapter": "definitions",
+      "lessonLinks": [
+        "obes-definitions"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "OBES-DEF",
+      "answerNote": "Seuil de la définition américaine (NCEP-ATP III) ; les recommandations européennes retiennent 80 cm.",
+      "hints": [
+        "« Androïde » décrit la répartition des graisses, pas l’aspect masculin.",
+        "Quelle mesure simple reflète la graisse abdominale ?",
+        "Le seuil de la femme est plus bas que celui de l’homme."
+      ],
+      "explanation": {
+        "text": "L’obésité androïde est une accumulation de graisse abdominale et viscérale, mesurée par le tour de taille. Chez la femme, les archives retiennent un tour de taille supérieur à 88 cm : c’est le seuil de la définition américaine (NCEP-ATP III). Les recommandations européennes (2015) retiennent 80 cm chez la femme et 94 cm chez l’homme. Un IMC supérieur à 40 définit l’obésité de classe 3 ; l’hirsutisme et les « traits masculins » n’ont rien à voir.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2022-05-ADULTE-QCM-010",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "La plupart des obésités sont :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "est monogénique",
+          "explanation": "Non : rare."
+        },
+        {
+          "id": "B",
+          "text": "est polygénique",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "est syndromique",
+          "explanation": "Non : rare."
+        },
+        {
+          "id": "D",
+          "text": "sans causes",
+          "explanation": "Non : la susceptibilité génétique joue presque toujours."
+        },
+        {
+          "id": "E",
+          "text": "Perturbateurs endocriniens",
+          "explanation": "Non : facteur favorisant étudié, pas la cause principale."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2022-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 29,
+        "originalNumber": 10,
+        "auditRef": "2022-05-Q10"
+      },
+      "chapter": "obesite",
+      "subchapter": "definitions",
+      "lessonLinks": [
+        "obes-definitions"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "OBES-GENET",
+      "hints": [
+        "Les formes à un seul gène ou syndromiques sont rares.",
+        "L’obésité commune résulte de nombreux petits effets génétiques.",
+        "Ils s’expriment dans un environnement favorable."
+      ],
+      "explanation": {
+        "text": "La grande majorité des obésités sont polygéniques : de nombreux gènes, chacun avec un petit effet, augmentent la susceptibilité, et s’expriment dans un environnement favorable (alimentation dense en énergie, sédentarité). Les obésités monogéniques (MC4R, leptine) et syndromiques (Prader-Willi) sont rares. Les perturbateurs endocriniens sont étudiés comme facteurs favorisants, pas comme cause de la plupart des obésités.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

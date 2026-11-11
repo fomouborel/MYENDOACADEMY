@@ -1,0 +1,413 @@
+{
+  "source": "import-obesite-nd-hermans",
+  "questions": [
+    {
+      "id": "ENDO-ND-ADULTE-QCM-547",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "Syndrome métabolique (la vraie)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Toujours associé à une HTA",
+          "explanation": "Faux : 3 critères sur 5 suffisent."
+        },
+        {
+          "id": "B",
+          "text": "Toujours associé à une stéatose hépatique",
+          "explanation": "Faux : fréquente, pas constante."
+        },
+        {
+          "id": "C",
+          "text": "Score va de 0/6 à 6/6",
+          "explanation": "Faux : de 0 à 5."
+        },
+        {
+          "id": "D",
+          "text": "Un des critères est une diminution des HDL",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "Relation inverse avec insulinorésistance",
+          "explanation": "Faux : relation directe."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Hermans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 66,
+        "originalNumber": 47,
+        "auditRef": "ND-hermans-syndrome-metabolique-Q47"
+      },
+      "chapter": "obesite",
+      "subchapter": "syndrome-metabolique",
+      "lessonLinks": [
+        "obes-metabolique"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SM-DEF",
+      "answerNote": "Hermans.",
+      "hints": [
+        "Méfie-toi du mot « toujours ».",
+        "Le diagnostic repose sur 3 critères parmi 5.",
+        "Le HDL-cholestérol est-il augmenté ou diminué ?"
+      ],
+      "explanation": {
+        "text": "Le syndrome métabolique se définit par au moins 3 critères parmi 5 : tour de taille, triglycérides élevés, HDL-cholestérol bas, pression artérielle élevée, glycémie à jeun élevée. Un des critères est donc une diminution du HDL. Il n’est pas « toujours » associé à une HTA ou à une stéatose ; le score va de 0 à 5 ; et la relation avec l’insulinorésistance est directe.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-569",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Patients coronariens avec syndrome métabolique: la fausse:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "il n’y a pas de différence entre les sexes pour la complication coronarienne",
+          "explanation": "Vrai selon le cours."
+        },
+        {
+          "id": "B",
+          "text": "souvent asymptomatiques",
+          "explanation": "Vrai : ischémie silencieuse."
+        },
+        {
+          "id": "C",
+          "text": "épreuve de cycloergomètre asymptomatique",
+          "explanation": "Réponse retenue, formulation ambiguë."
+        },
+        {
+          "id": "D",
+          "text": "Le risque de restenose de stent est plus élevé",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "Les lésions sont plus diffuse",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Hermans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 66,
+        "originalNumber": 69,
+        "auditRef": "ND-hermans-syndrome-metabolique-Q69"
+      },
+      "chapter": "obesite",
+      "subchapter": "syndrome-metabolique",
+      "lessonLinks": [
+        "obes-metabolique"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "SM-CORONAIRE",
+      "answerNote": "Hermans. Formulation ambiguë de la proposition retenue (« épreuve de cycloergomètre asymptomatique ») : l'ischémie est souvent silencieuse, mais l'épreuve d'effort peut la révéler.",
+      "hints": [
+        "Chez le diabétique et en cas de syndrome métabolique, l’ischémie est souvent silencieuse.",
+        "Les lésions coronaires sont plus diffuses et récidivent plus souvent.",
+        "Cette question a une correction discutée : lis l’explication après avoir répondu."
+      ],
+      "explanation": {
+        "text": "Correction discutée. Chez les coronariens qui ont un syndrome métabolique, l’ischémie est souvent asymptomatique (silencieuse), les lésions sont plus diffuses et le risque de resténose de stent est plus élevé. La proposition retenue comme fausse, « épreuve de cycloergomètre asymptomatique », est ambiguë : le patient peut ne rien ressentir pendant l’effort, mais l’épreuve peut révéler l’ischémie (modifications de l’électrocardiogramme). La proposition sur l’absence de différence entre les sexes vient du cours ; elle n’est pas détaillée ici.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-597",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant le syndrome métabolique, une seule de ces propositions est vraie ( c’était pas une fausse ? ) : si c’était une fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Dyslipidémie (les TG qui augmentent et HDL élevés) ça vaut 1 point"
+        },
+        {
+          "id": "B",
+          "text": "Augmentation de NASH dû à une hypo-insulinémie dans le sang portal"
+        },
+        {
+          "id": "C",
+          "text": "Il y a toujours une hyperglycémie ou un état de prédiabète"
+        },
+        {
+          "id": "D",
+          "text": "Les adipokines sécrétées en systémique diminuent la sensibilité à l’insuline des muscles"
+        },
+        {
+          "id": "E",
+          "text": "Lorsqu’il est associé au diabète de type deux, la résistance à l’insuline est plus importante"
+        }
+      ],
+      "expected": [
+        "A",
+        "B"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Hermans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 66,
+        "originalNumber": 97,
+        "auditRef": "ND-hermans-syndrome-metabolique-Q97"
+      },
+      "chapter": "obesite",
+      "subchapter": "syndrome-metabolique",
+      "lessonLinks": [
+        "obes-metabolique"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SM-DEF",
+      "answerNote": "Hermans. Consigne incertaine (« une vraie » ou « une fausse ? »)."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-619",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Patient qui présente un syndrome métabolique complet (5/5), diabète II et obèse, sans IR. Quel traitement ne mettez-vous pas d’emblée en place?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Augmenter l’activité sportive",
+          "explanation": "À faire."
+        },
+        {
+          "id": "B",
+          "text": "Régime hypocalorique",
+          "explanation": "À faire."
+        },
+        {
+          "id": "C",
+          "text": "Statines",
+          "explanation": "À discuter selon le risque cardiovasculaire."
+        },
+        {
+          "id": "D",
+          "text": "Fibrate",
+          "explanation": "Pas d’emblée (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "Biguanide",
+          "explanation": "Retenu par la compilation, discutable : traitement de première intention habituel."
+        }
+      ],
+      "expected": [
+        "D",
+        "E"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Hermans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 66,
+        "originalNumber": 119,
+        "auditRef": "ND-hermans-syndrome-metabolique-Q119"
+      },
+      "chapter": "obesite",
+      "subchapter": "syndrome-metabolique",
+      "lessonLinks": [
+        "obes-metabolique",
+        "obes-traitement"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "SM-TRT",
+      "answerNote": "Hermans. Consigne au singulier, deux réponses marquées (fibrate et biguanide). La metformine (biguanide) est pourtant le traitement de première intention du diabète de type 2 en l'absence d'insuffisance rénale : réponse discutable.",
+      "hints": [
+        "Le mode de vie vient toujours en premier.",
+        "Une classe d’hypolipémiants n’est pas un traitement de première intention.",
+        "Cette question a une correction discutée : lis l’explication après avoir répondu."
+      ],
+      "explanation": {
+        "text": "Correction discutée. Devant un syndrome métabolique complet avec diabète de type 2 et obésité, on commence par l’activité physique et un régime hypocalorique ; une statine se discute selon le risque cardiovasculaire. Un fibrate n’est pas un traitement de première intention (réservé aux hypertriglycéridémies importantes). La compilation retient aussi le biguanide comme à ne pas débuter d’emblée. Or la metformine est le traitement habituel de première intention du diabète de type 2 en l’absence d’insuffisance rénale : la réponse est discutable, et la consigne est au singulier.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-624",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Question avec le syndrome métabolique, avec un score de 5/5 (1 fausse)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Aura plus d’insulinorésistance que dans un Syndrome métabolique avec un score de 3/5",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "HDL < 40 chez une homme",
+          "explanation": "Vrai : critère du syndrome métabolique."
+        },
+        {
+          "id": "C",
+          "text": "Obésité = BMI >25",
+          "explanation": "Faux (réponse attendue) : 30 ou plus."
+        },
+        {
+          "id": "D",
+          "text": "Chir bariatrique bons résultats si diabète associé à obésité importante",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "?",
+          "explanation": "Proposition non retranscrite."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Hermans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 66,
+        "originalNumber": 124,
+        "auditRef": "ND-hermans-syndrome-metabolique-Q124"
+      },
+      "chapter": "obesite",
+      "subchapter": "syndrome-metabolique",
+      "lessonLinks": [
+        "obes-metabolique"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SM-DEF",
+      "answerNote": "Hermans. 5e proposition non retranscrite (« ? ») ; la réponse marquée est sans ambiguïté.",
+      "hints": [
+        "Une proposition donne une mauvaise définition de l’obésité.",
+        "Le surpoids commence à 25.",
+        "À partir de quel IMC parle-t-on d’obésité ?"
+      ],
+      "explanation": {
+        "text": "L’obésité se définit par un IMC de 30 ou plus (25 à 29,9 est un surpoids). Le reste est exact : un syndrome métabolique à 5 sur 5 comporte plus d’insulinorésistance qu’à 3 sur 5 ; un HDL inférieur à 40 mg/dL chez l’homme est un critère ; la chirurgie bariatrique donne de bons résultats en cas de diabète associé à une obésité importante. La 5e proposition n’a pas été retranscrite.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-626",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "A propos du syndrome métabolique à 5/5 (une proposition fausse) :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Le cholestérol HDL chez un homme sera < 40 mg/dl",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "Implique une insulinorésistance supérieure par rapport à un syndrome métabolique 3/5",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Est souvent associée à une hyperferritinémie",
+          "explanation": "Vrai : hyperferritinémie métabolique."
+        },
+        {
+          "id": "D",
+          "text": "Il y a toujours présence d’une protéinurie franche",
+          "explanation": "Faux (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "Peut être associé à un OMPK chez la femme",
+          "explanation": "Vrai : insulinorésistance commune."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Hermans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 66,
+        "originalNumber": 126,
+        "auditRef": "ND-hermans-syndrome-metabolique-Q126"
+      },
+      "chapter": "obesite",
+      "subchapter": "syndrome-metabolique",
+      "lessonLinks": [
+        "obes-metabolique"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SM-DEF",
+      "answerNote": "Hermans.",
+      "hints": [
+        "Méfie-toi du mot « toujours ».",
+        "Les atteintes rénales du syndrome métabolique sont-elles constantes ?",
+        "Pense à la différence entre microalbuminurie et protéinurie franche."
+      ],
+      "explanation": {
+        "text": "Un syndrome métabolique à 5 sur 5 comporte un HDL bas (moins de 40 mg/dL chez l’homme), une insulinorésistance plus importante qu’à 3 sur 5, souvent une hyperferritinémie métabolique, et peut s’associer à des ovaires polykystiques. Il n’y a pas « toujours » de protéinurie franche : une microalbuminurie est possible, mais pas constante.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

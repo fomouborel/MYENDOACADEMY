@@ -14,7 +14,8 @@ HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.join(HERE, "..
 sys.path.insert(0, HERE)
 cfg = importlib.import_module(DOM)
 LABEL = {"hypophyse": ("Hypophyse", "Hypophyse"), "surrenales": ("Surrénales", "Surrénales"),
-         "pharmaco": ("Pharmacologie générale (hors endocrinologie)", "Pharmacologie")}[DOM]  # (domaine dans l'audit, titre du cours)
+         "pharmaco": ("Pharmacologie générale (hors endocrinologie)", "Pharmacologie"),
+         "obesite": ("Obésité, nutrition & syndrome métabolique", "Obésité et nutrition")}[DOM]  # (domaine dans l'audit, titre du cours)
 
 final = json.load(open(os.path.join(W, "final.json"), encoding="utf-8"))
 # Le domaine de l'audit, plus les questions classées ailleurs par l'extraction et rattachées ici à la main.

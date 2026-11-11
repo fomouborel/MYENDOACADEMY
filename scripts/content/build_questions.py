@@ -555,6 +555,32 @@ VF("exercices-pharmaco", 8, "pharmaco", "hypolipemiants", ["pharm-hypolipemiants
    "La ciclosporine augmente les taux de statines comme la simvastatine : risque de douleurs musculaires, voire de rhabdomyolyse.",
    H("Les deux médicaments partagent des voies de métabolisme et de transport.", "Si une statine est moins éliminée, ses taux montent.", "Quelle toxicité des statines dépend de leur taux ?"), ["statines", "interactions"])
 
+# ============================ COURS 7 — OBÉSITÉ ET NUTRITION (exercices vrai ou faux) ============================
+VF("exercices-obesite", 1, "obesite", "definitions", ["obes-definitions"], "Un IMC de 27 kg/m² correspond à une obésité.", False,
+   "Un IMC de 25 à 29,9 correspond à un surpoids ; l’obésité commence à 30.",
+   H("Il y a deux seuils à connaître : 25 et 30.", "Entre les deux, comment parle-t-on de la corpulence ?", "L’obésité commence au seuil le plus haut."), ["IMC"])
+VF("exercices-obesite", 2, "obesite", "definitions", ["obes-definitions"], "La plupart des obésités sont polygéniques.", True,
+   "De nombreux gènes, chacun avec un petit effet, augmentent la susceptibilité, et s’expriment dans un environnement favorable. Les formes monogéniques et syndromiques sont rares.",
+   H("Les formes à un seul gène sont-elles fréquentes ?", "L’obésité commune résulte de nombreux petits effets.", "On parle de susceptibilité génétique."), ["génétique"])
+VF("exercices-obesite", 3, "obesite", "poids-endocrino", ["obes-poids-endocrino"], "Un insulinome fait typiquement maigrir.", False,
+   "L’excès d’insuline provoque des hypoglycémies répétées, corrigées en mangeant, et favorise le stockage : l’insulinome fait grossir.",
+   H("L’insuline est l’hormone du stockage.", "Que fait un patient qui fait des hypoglycémies répétées ?", "Que devient alors son poids ?"), ["insulinome"])
+VF("exercices-obesite", 4, "obesite", "poids-endocrino", ["obes-poids-endocrino"], "Un diabète déséquilibré peut faire maigrir.", True,
+   "Au-delà d’un certain seuil, le glucose passe dans les urines et emporte des calories ; le manque d’insuline favorise aussi la dégradation des graisses et des muscles.",
+   H("Où va le glucose en excès dans un diabète déséquilibré ?", "Le glucose contient des calories.", "Les perdre dans les urines, c’est perdre de l’énergie."), ["diabète"])
+VF("exercices-obesite", 5, "obesite", "traitement", ["obes-traitement"], "Les sulfamidés hypoglycémiants ont un effet neutre sur le poids.", False,
+   "Ils stimulent la sécrétion d’insuline et exposent aux hypoglycémies : ils font prendre du poids, comme la pioglitazone et l’insuline.",
+   H("Les sulfamidés font sécréter de l’insuline.", "L’insuline favorise le stockage.", "Ils exposent aussi aux hypoglycémies."), ["médicaments"])
+VF("exercices-obesite", 6, "obesite", "traitement", ["obes-traitement"], "Après un bypass gastrique, une supplémentation à vie en vitamine B12 est nécessaire.", True,
+   "La petite poche gastrique sécrète peu de facteur intrinsèque et une partie de l’intestin est court-circuitée : la B12 est mal absorbée. Le fer, le calcium et la vitamine D sont aussi à surveiller.",
+   H("De quoi la vitamine B12 a-t-elle besoin pour être absorbée ?", "Où ce facteur est-il fabriqué ?", "Que reste-t-il de l’estomac fonctionnel après un bypass ?"), ["chirurgie bariatrique"])
+VF("exercices-obesite", 7, "obesite", "syndrome-metabolique", ["obes-metabolique"], "Le syndrome métabolique comporte toujours une hypertension artérielle.", False,
+   "Il faut au moins 3 critères parmi 5 (tour de taille, triglycérides, HDL bas, pression artérielle, glycémie), et aucun n’est obligatoire.",
+   H("Combien de critères faut-il réunir ?", "Combien de critères existe-t-il ?", "Un critère est-il obligatoire ?"), ["syndrome métabolique"])
+VF("exercices-obesite", 8, "obesite", "syndrome-metabolique", ["obes-metabolique"], "Dans le syndrome métabolique, le HDL-cholestérol est diminué.", True,
+   "Un HDL bas (moins de 40 mg/dL chez l’homme, moins de 50 mg/dL chez la femme) est un des 5 critères, avec des triglycérides élevés.",
+   H("Le HDL est souvent appelé « bon cholestérol ».", "Dans l’insulinorésistance, les triglycérides montent.", "Et le HDL ?"), ["syndrome métabolique", "lipides"])
+
 # ============================ CAS CLINIQUES PROGRESSIFS (créés, hors archives) ============================
 NORMES = "normes reprises d’un énoncé d’examen UCL (compilation 2016-2021) — valeurs propres au laboratoire de l’exercice"
 def LAB(a, v, u, r): return {"analyte": a, "value": v, "unit": u, "reference": r, "referenceOrigin": NORMES}

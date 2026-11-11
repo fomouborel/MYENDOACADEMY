@@ -5,7 +5,7 @@ Application **statique** et gratuite : aucun serveur ni compte, la progression r
 
 - **Application : https://fomouborel.github.io/MYENDOACADEMY/** (publiée automatiquement à chaque modification validée sur `main`)
 - Mode d'emploi pour l'étudiante : dans l'application, lien « ❔ Mode d'emploi » en bas du menu
-- Documentation : [audit](docs/AUDIT-PHASE-1.md) · [architecture](docs/ARCHITECTURE-PHASE-2.md) · [conception pédagogique](docs/PHASE-3-CONCEPTION.md) · [prototype](docs/PHASE-4-PROTOTYPE.md) · [banque](docs/PHASE-5-BANQUE.md) · [fonctionnalités](docs/PHASE-6-FONCTIONNALITES.md) · [tests et déploiement](docs/PHASE-7-DEPLOIEMENT.md) · [domaine hypophyse](docs/DOMAINE-HYPOPHYSE.md) · [domaine surrénales](docs/DOMAINE-SURRENALES.md) · [pharmacologie](docs/DOMAINE-PHARMACOLOGIE.md) · [décisions validées](docs/DECISIONS.md)
+- Documentation : [audit](docs/AUDIT-PHASE-1.md) · [architecture](docs/ARCHITECTURE-PHASE-2.md) · [conception pédagogique](docs/PHASE-3-CONCEPTION.md) · [prototype](docs/PHASE-4-PROTOTYPE.md) · [banque](docs/PHASE-5-BANQUE.md) · [fonctionnalités](docs/PHASE-6-FONCTIONNALITES.md) · [tests et déploiement](docs/PHASE-7-DEPLOIEMENT.md) · [domaine hypophyse](docs/DOMAINE-HYPOPHYSE.md) · [domaine surrénales](docs/DOMAINE-SURRENALES.md) · [pharmacologie](docs/DOMAINE-PHARMACOLOGIE.md) · [obésité](docs/DOMAINE-OBESITE.md) · [décisions validées](docs/DECISIONS.md)
 
 ## Commandes (développement)
 

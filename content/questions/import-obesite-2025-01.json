@@ -1,0 +1,75 @@
+{
+  "source": "import-obesite-2025-01",
+  "questions": [
+    {
+      "id": "ENDO-2025-01-RADIO-QCM-903",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "pour excès de poids (1 faux) :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "BMI > 40",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "BMI entre 27 et 29.9 avec complications cardiovasculaires",
+          "explanation": "Vrai : IMC de 27 ou plus avec complications."
+        },
+        {
+          "id": "C",
+          "text": "BMI >30 sans complications cardio",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "BMI entre 25 et 26,9 avec complications cardiovasculaires",
+          "explanation": "Faux (réponse attendue) : sous le seuil de 27."
+        },
+        {
+          "id": "E",
+          "text": "BMI >35 avec complications cardiovasculaires",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "RADIO",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 16,
+        "originalNumber": null,
+        "auditRef": "2025-01-p16-l489"
+      },
+      "chapter": "obesite",
+      "subchapter": "traitement",
+      "lessonLinks": [
+        "obes-traitement"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "TRT-SEUILS",
+      "answerNote": "Énoncé abrégé (« pour excès de poids ») : vraisemblablement les seuils de prise en charge médicamenteuse. La question suivante (radiologie du phéochromocytome) était collée aux propositions.",
+      "hints": [
+        "Énoncé abrégé : il s’agit vraisemblablement des seuils de prise en charge, notamment médicamenteuse.",
+        "Les médicaments de l’obésité sont indiqués à partir d’un IMC de 30, ou de 27 avec complications.",
+        "Une proposition descend sous ce seuil."
+      ],
+      "explanation": {
+        "text": "Énoncé abrégé (« pour excès de poids »), vraisemblablement les seuils de prise en charge, notamment médicamenteuse. Les traitements de l’obésité s’envisagent à partir d’un IMC de 30, ou de 27 avec une complication liée au poids ; au-delà de 35 ou 40, la chirurgie peut aussi se discuter. Un IMC de 25 à 26,9, même avec des complications, est en dessous de ces seuils.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

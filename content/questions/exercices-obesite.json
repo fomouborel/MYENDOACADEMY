@@ -1,0 +1,270 @@
+{
+  "source": "exercices-obesite",
+  "questions": [
+    {
+      "id": "ENDO-EX-obesite-VF-001",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Un IMC de 27 kg/m² correspond à une obésité.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "obesite",
+      "subchapter": "definitions",
+      "lessonLinks": [
+        "obes-definitions"
+      ],
+      "tags": [
+        "IMC"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Il y a deux seuils à connaître : 25 et 30.",
+        "Entre les deux, comment parle-t-on de la corpulence ?",
+        "L’obésité commence au seuil le plus haut."
+      ],
+      "explanation": {
+        "text": "Un IMC de 25 à 29,9 correspond à un surpoids ; l’obésité commence à 30.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-obesite-VF-002",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "La plupart des obésités sont polygéniques.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "obesite",
+      "subchapter": "definitions",
+      "lessonLinks": [
+        "obes-definitions"
+      ],
+      "tags": [
+        "génétique"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Les formes à un seul gène sont-elles fréquentes ?",
+        "L’obésité commune résulte de nombreux petits effets.",
+        "On parle de susceptibilité génétique."
+      ],
+      "explanation": {
+        "text": "De nombreux gènes, chacun avec un petit effet, augmentent la susceptibilité, et s’expriment dans un environnement favorable. Les formes monogéniques et syndromiques sont rares.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-obesite-VF-003",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Un insulinome fait typiquement maigrir.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "obesite",
+      "subchapter": "poids-endocrino",
+      "lessonLinks": [
+        "obes-poids-endocrino"
+      ],
+      "tags": [
+        "insulinome"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "L’insuline est l’hormone du stockage.",
+        "Que fait un patient qui fait des hypoglycémies répétées ?",
+        "Que devient alors son poids ?"
+      ],
+      "explanation": {
+        "text": "L’excès d’insuline provoque des hypoglycémies répétées, corrigées en mangeant, et favorise le stockage : l’insulinome fait grossir.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-obesite-VF-004",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Un diabète déséquilibré peut faire maigrir.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "obesite",
+      "subchapter": "poids-endocrino",
+      "lessonLinks": [
+        "obes-poids-endocrino"
+      ],
+      "tags": [
+        "diabète"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Où va le glucose en excès dans un diabète déséquilibré ?",
+        "Le glucose contient des calories.",
+        "Les perdre dans les urines, c’est perdre de l’énergie."
+      ],
+      "explanation": {
+        "text": "Au-delà d’un certain seuil, le glucose passe dans les urines et emporte des calories ; le manque d’insuline favorise aussi la dégradation des graisses et des muscles.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-obesite-VF-005",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Les sulfamidés hypoglycémiants ont un effet neutre sur le poids.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "obesite",
+      "subchapter": "traitement",
+      "lessonLinks": [
+        "obes-traitement"
+      ],
+      "tags": [
+        "médicaments"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Les sulfamidés font sécréter de l’insuline.",
+        "L’insuline favorise le stockage.",
+        "Ils exposent aussi aux hypoglycémies."
+      ],
+      "explanation": {
+        "text": "Ils stimulent la sécrétion d’insuline et exposent aux hypoglycémies : ils font prendre du poids, comme la pioglitazone et l’insuline.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-obesite-VF-006",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Après un bypass gastrique, une supplémentation à vie en vitamine B12 est nécessaire.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "obesite",
+      "subchapter": "traitement",
+      "lessonLinks": [
+        "obes-traitement"
+      ],
+      "tags": [
+        "chirurgie bariatrique"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "De quoi la vitamine B12 a-t-elle besoin pour être absorbée ?",
+        "Où ce facteur est-il fabriqué ?",
+        "Que reste-t-il de l’estomac fonctionnel après un bypass ?"
+      ],
+      "explanation": {
+        "text": "La petite poche gastrique sécrète peu de facteur intrinsèque et une partie de l’intestin est court-circuitée : la B12 est mal absorbée. Le fer, le calcium et la vitamine D sont aussi à surveiller.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-obesite-VF-007",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Le syndrome métabolique comporte toujours une hypertension artérielle.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "obesite",
+      "subchapter": "syndrome-metabolique",
+      "lessonLinks": [
+        "obes-metabolique"
+      ],
+      "tags": [
+        "syndrome métabolique"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Combien de critères faut-il réunir ?",
+        "Combien de critères existe-t-il ?",
+        "Un critère est-il obligatoire ?"
+      ],
+      "explanation": {
+        "text": "Il faut au moins 3 critères parmi 5 (tour de taille, triglycérides, HDL bas, pression artérielle, glycémie), et aucun n’est obligatoire.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-obesite-VF-008",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Dans le syndrome métabolique, le HDL-cholestérol est diminué.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "obesite",
+      "subchapter": "syndrome-metabolique",
+      "lessonLinks": [
+        "obes-metabolique"
+      ],
+      "tags": [
+        "syndrome métabolique",
+        "lipides"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Le HDL est souvent appelé « bon cholestérol ».",
+        "Dans l’insulinorésistance, les triglycérides montent.",
+        "Et le HDL ?"
+      ],
+      "explanation": {
+        "text": "Un HDL bas (moins de 40 mg/dL chez l’homme, moins de 50 mg/dL chez la femme) est un des 5 critères, avec des triglycérides élevés.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

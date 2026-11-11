@@ -1,0 +1,216 @@
+{
+  "source": "import-obesite-nd-navez",
+  "questions": [
+    {
+      "id": "ENDO-ND-ADULTE-QCM-601",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Un bypass gastrique peut être responsable des complications chroniques suivantes SAUF UNE :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Syndrome d’apnées du sommeil",
+          "explanation": "Ne fait pas partie (réponse attendue) : s’améliore."
+        },
+        {
+          "id": "B",
+          "text": "Ostéopénie",
+          "explanation": "Complication."
+        },
+        {
+          "id": "C",
+          "text": "Carence en B12",
+          "explanation": "Complication."
+        },
+        {
+          "id": "D",
+          "text": "Hypoglycémies postprandiales",
+          "explanation": "Complication."
+        },
+        {
+          "id": "E",
+          "text": "Lithiase vésiculaire",
+          "explanation": "Complication."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Navez",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 67,
+        "originalNumber": 1,
+        "auditRef": "ND-navez-chirurgie-bariatrique-Q1"
+      },
+      "chapter": "obesite",
+      "subchapter": "traitement",
+      "lessonLinks": [
+        "obes-traitement"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "BARIA-COMPL",
+      "answerNote": "Navez.",
+      "hints": [
+        "Le bypass court-circuite une partie de l’estomac et de l’intestin.",
+        "Pense aux carences et à l’arrivée rapide des aliments dans l’intestin.",
+        "Une proposition décrit au contraire une complication de l’obésité, que la perte de poids améliore."
+      ],
+      "explanation": {
+        "text": "Le bypass gastrique peut donner une ostéopénie (malabsorption du calcium et de la vitamine D), une carence en vitamine B12, des hypoglycémies après les repas et une lithiase vésiculaire (perte de poids rapide). Le syndrome d’apnées du sommeil, au contraire, est une complication de l’obésité que la perte de poids améliore.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-602",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-correct",
+      "stem": "Critères corrects (2) pour la chirurgie bariatrique/sleeve:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "poids de plus de 100kg",
+          "explanation": "Non : on raisonne en IMC."
+        },
+        {
+          "id": "B",
+          "text": "Imc plus de 35",
+          "explanation": "Indication depuis 2022 (non retenue par la compilation)."
+        },
+        {
+          "id": "C",
+          "text": "Imc plus de 35 avec apnée du sommeil et diabète mal contrôlé",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Imc de plus 40",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "Imc de plus de 40 avec boulimie sévère",
+          "explanation": "Non : un trouble du comportement alimentaire sévère contre-indique la chirurgie."
+        }
+      ],
+      "expected": [
+        "C",
+        "D"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Navez",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 67,
+        "originalNumber": 2,
+        "auditRef": "ND-navez-chirurgie-bariatrique-Q2"
+      },
+      "chapter": "obesite",
+      "subchapter": "traitement",
+      "lessonLinks": [
+        "obes-traitement"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "BARIA-INDIC",
+      "answerNote": "Navez. Réponse conforme aux critères de 1991 (IMC ≥ 40, ou ≥ 35 avec complications). Depuis 2022 (ASMBS et IFSO), la chirurgie est recommandée dès un IMC ≥ 35, même sans complication : « IMC plus de 35 » serait aussi exacte.",
+      "hints": [
+        "On raisonne en IMC, pas en poids.",
+        "Un trouble du comportement alimentaire sévère est une contre-indication.",
+        "Cette question a une correction discutée : lis l’explication après avoir répondu."
+      ],
+      "explanation": {
+        "text": "Correction discutée. La compilation retient « IMC de plus de 35 avec apnées du sommeil et diabète mal contrôlé » et « IMC de plus de 40 », conformément aux critères historiques de 1991. Depuis 2022, les sociétés savantes (ASMBS et IFSO) recommandent la chirurgie dès un IMC de 35, même sans complication : « IMC de plus de 35 » serait aussi une indication. Le poids seul (« plus de 100 kg ») n’est pas un critère, et une boulimie sévère est une contre-indication tant qu’elle n’est pas stabilisée.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-603",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Le by pass gastrique peut donner toutes ces complications sauf une :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "insuffisance hépatique",
+          "explanation": "Ne fait pas partie (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "dumping syndrome",
+          "explanation": "Complication."
+        },
+        {
+          "id": "C",
+          "text": "carence en Vit B12",
+          "explanation": "Complication."
+        },
+        {
+          "id": "D",
+          "text": "lithiase vésiculaire",
+          "explanation": "Complication."
+        },
+        {
+          "id": "E",
+          "text": "ostéoporose",
+          "explanation": "Complication."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Navez",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 67,
+        "originalNumber": 3,
+        "auditRef": "ND-navez-chirurgie-bariatrique-Q3"
+      },
+      "chapter": "obesite",
+      "subchapter": "traitement",
+      "lessonLinks": [
+        "obes-traitement"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "BARIA-COMPL",
+      "answerNote": "Navez.",
+      "hints": [
+        "Le bypass court-circuite une partie de l’estomac et de l’intestin.",
+        "Pense aux carences et à l’arrivée rapide des aliments dans l’intestin.",
+        "Une proposition décrit au contraire une complication de l’obésité, que la perte de poids améliore."
+      ],
+      "explanation": {
+        "text": "Le bypass gastrique peut donner un dumping syndrome, une carence en vitamine B12, une lithiase vésiculaire et une ostéoporose (malabsorption du calcium et de la vitamine D). L’insuffisance hépatique ne fait pas partie des complications attendues : la perte de poids améliore au contraire la stéatose hépatique.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

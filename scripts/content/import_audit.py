@@ -103,7 +103,8 @@ def expected_of(opts, marked):
 # Numérotation stable des sections non datées (ND) : base + numéro dans la section.
 ND_BASE = {"Maiter adulte – Thyroïde": 200, "Maiter adulte – Hypophyse": 300, "Lysy – Thyroïde": 160, "Marbaix – Anapath thyroïde/parathyroïdes/surrénales": 100,
            "Duprez + Coche – Imagerie": 0, "Horsmans – Pharmaco hormones": 0, "Marbaix – Anapath hypophyse": 120, "Maiter adulte – Surrénale": 400,
-           "Horsmans – Pharmaco hématopoïèse": 10, "Horsmans – Pharmaco hypolipémiants": 20, "Horsmans – Pharmaco immunosuppresseurs": 30}
+           "Horsmans – Pharmaco hématopoïèse": 10, "Horsmans – Pharmaco hypolipémiants": 20, "Horsmans – Pharmaco immunosuppresseurs": 30,
+           "Hermans – Syndrome métabolique": 500, "Navez – Chirurgie bariatrique": 600, "Thissen – Obésité": 700}
 used = collections.defaultdict(set)
 for qid in existing.values():
     m = re.match(r"ENDO-(.+)-(ADULTE|PEDIA|RADIO|ANAPATH|PHARMA)-(QCM|QCMM|VF|QROC|CAS)-(\d{3})$", qid)
@@ -153,6 +154,12 @@ RESPLIT = {"2024-01-Q39": ("observables en cas de macropolactinome nô secretant
            # Pharmacologie : numéro collé à l'énoncé ; commentaires sur l'examen lus comme des propositions
            "2024-01-p10-l353": ("Le folate est absorbée au niveau :", ["Jéjunum", "Estomac", "Iléon", "colon", "Gastrique"]),
            "2023-05-Q100": ("biodisponibilité IV :", ["25%", "50%", "75%", "100%", "10 %"]),
+           # Obésité : question suivante collée aux propositions
+           "ND-thissen-obesite-Q2": ("Ces médicaments ont un effet neutre ou favorable sur l’excès de poids. Quelle est la fausse ?",
+                           ["Inhibiteur DPP4", "Inhibiteur Sglt2 (glifozines)", "Sulfamidés", "Famille metformine", "analogues GLP1 (incrétinomimétiques)"]),
+           "2025-01-p16-l489": ("pour excès de poids (1 faux) :",
+                           ["BMI > 40", "BMI entre 27 et 29.9 avec complications cardiovasculaires", "BMI >30 sans complications cardio",
+                            "BMI entre 25 et 26,9 avec complications cardiovasculaires", "BMI >35 avec complications cardiovasculaires"]),
            # la mention « Réponses à confirmer +1+1 » du transcripteur avait été lue comme une 6e proposition
            "2025-01-Q50": ("Hypercortisolémie avec ACTH élévé lesquelles des ses situations ne sont possibles (2 réponses) :",
                            ["macroadenome hypophysaire", "microadénome hypophysaire", "tumeur carcinoïde bronchique",
@@ -175,7 +182,11 @@ INSTR = {"ND-maiter-hypophyse-Q8": "one-false",
          "ND-maiter-surrenale-Q23": "one-false",      # « (1 mauvaise) »
          "ND-marbaix-thyroide-parathyroides-Q10": "one-correct",  # la bonne réponse est « aucune »
          "2023-05-Q35": "one-false", "2022-05-Q42": "one-false",  # « une chose à pas faire »
-         "2023-05-Q42": "one-true"}                   # « parmi ces propositions fausses, laquelle est la vraie »
+         "2023-05-Q42": "one-true",
+         # Obésité
+         "ND-thissen-obesite-Q6": "two-false",         # deux réponses exactes marquées (« laquelle ne donne pas »)
+         "ND-hermans-syndrome-metabolique-Q119": "two-false",
+         "ND-thissen-obesite-Q11": "two-false"}       # « Deux affirmations fausses »                   # « parmi ces propositions fausses, laquelle est la vraie »
 
 files = collections.defaultdict(list)
 report = collections.Counter()
