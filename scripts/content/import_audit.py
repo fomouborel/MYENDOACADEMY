@@ -3,12 +3,15 @@ déjà saisies à la main (scripts/content/build_questions.py). Préserve l'éno
 provenance, les commentaires d'étudiants et le statut de fiabilité vérifié en phase 1.
 Les questions importées n'ont pas encore d'indices ni d'explication rédigée : la correction affiche la
 réponse proposée, son statut et le lien vers la leçon.
-Usage : python3 scripts/content/import_audit.py"""
-import json, os, re, glob, unicodedata, collections
+Usage : python3 scripts/content/import_audit.py [domaine]   (thyroide par défaut ; ex. hypophyse)
+Les données viennent de scripts/audit/data/<domaine>-audit.json. Hors thyroïde, les fichiers produits
+s'appellent import-<domaine>-<session>.json."""
+import json, os, re, glob, sys, unicodedata, collections
 
 HERE = os.path.dirname(__file__)
 ROOT = os.path.join(HERE, "..", "..")
-AUDIT = json.load(open(os.path.join(ROOT, "scripts/audit/data/thyroide-audit.json"), encoding="utf-8"))
+DOM = sys.argv[1] if len(sys.argv) > 1 else "thyroide"
+AUDIT = json.load(open(os.path.join(ROOT, f"scripts/audit/data/{DOM}-audit.json"), encoding="utf-8"))
 OUTDIR = os.path.join(ROOT, "content/questions")
 SRC = {"A": "#Compilation endocrino 2016-2024.pdf", "E": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf", "G": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf"}
 STATUS = {"Réponse proposée dans la compilation": "proposed", "Réponse discutée ou contestée": "disputed", "Question incomplète": "incomplete",
@@ -53,7 +56,9 @@ def parse_options(lines):
         if not t: continue
         cur_len, prev_len = len(t), prev_len
         if re.match(r"^(=>|⇒)\s*\S", t): arrows.append(re.sub(r"^(=>|⇒)\s*", "", t)); continue
-        if COMMENT.match(t): comments.append(t); continue
+        if COMMENT.match(t):
+            if len(t) > 1: comments.append(t)  # une parenthèse orpheline n'est pas un commentaire
+            continue
         # Une ligne qui suit une ligne courte (non coupée par le retour à la ligne du PDF) est une nouvelle
         # proposition, même si sa lettre a été perdue à l'extraction.
         if OPT.match(t) or not opts or new_item or prev_len < 70:
@@ -80,20 +85,22 @@ def parse_options(lines):
     return clean[:10], comments
 
 def expected_of(opts, marked):
+    """Rattache chaque fragment marqué en rouge à une proposition. On cherche d'abord une correspondance
+    complète (le fragment contient la proposition ou l'inverse), puis seulement sur les 25 premiers
+    caractères : deux propositions qui commencent pareil ne doivent pas être confondues."""
     exp = []
+    nos = [norm(o) for o in opts]
     for m in marked:
         mt = norm(OPT.sub("", m.strip(), count=1))
         if len(mt) < 3: continue
-        for i, o in enumerate(opts):
-            no = norm(o)
-            if no and (mt[:25] in no or no[:25] in mt):
-                if "ABCDEFGHIJ"[i] not in exp: exp.append("ABCDEFGHIJ"[i])
-                break
+        hit = [i for i, no in enumerate(nos) if no and (mt in no or (len(no) >= 8 and no in mt))]
+        if not hit: hit = [i for i, no in enumerate(nos) if no and (mt[:25] in no or no[:25] in mt)]
+        if hit and "ABCDEFGHIJ"[hit[0]] not in exp: exp.append("ABCDEFGHIJ"[hit[0]])
     return exp
 
 # Numérotation stable des sections non datées (ND) : base + numéro dans la section.
 ND_BASE = {"Maiter adulte – Thyroïde": 200, "Maiter adulte – Hypophyse": 300, "Lysy – Thyroïde": 160, "Marbaix – Anapath thyroïde/parathyroïdes/surrénales": 100,
-           "Duprez + Coche – Imagerie": 0, "Horsmans – Pharmaco hormones": 0}
+           "Duprez + Coche – Imagerie": 0, "Horsmans – Pharmaco hormones": 0, "Marbaix – Anapath hypophyse": 120}
 used = collections.defaultdict(set)
 for qid in existing.values():
     m = re.match(r"ENDO-(.+)-(ADULTE|PEDIA|RADIO|ANAPATH|PHARMA)-(QCM|QCMM|VF|QROC|CAS)-(\d{3})$", qid)
@@ -114,6 +121,35 @@ def number_for(q, beauloye_rank):
 TRUNCATE = {"2025-01-p16-l482": "Question sur les critères", "2026-01-Q18": "Q28."}
 FORCE = {"ND-maiter-thyroide-Q1": ("incomplete", "Bloc d'association de 3 cas cliniques (énoncé du cas 1 non retranscrit) : consultable, non noté sous forme de QCM.")}
 EXTRA_COMMENT = {"ND-marbaix-thyroide-parathyroides-Q2": "La proposition E est vraisemblablement une plaisanterie du transcripteur (proposition originale inconnue)."}
+# Découpage énoncé / propositions refait à la main quand l'extraction les a mélangés (texte original inchangé).
+RESPLIT = {"2024-01-Q39": ("observables en cas de macropolactinome nô secretant chez femme, la fausse :",
+                           ["Alopecie temporale", "Galactorhée", "Aménorrhée secondaire", "céphalées"]),
+           "2025-01-Q35": ("Monsieur, connu pour macroadénome, arrive aux urgences pour céphalées, vomissements, raideur de nuque mais pas de fièvre, diagnostic :",
+                           ["Méningite bactérienne", "Apoplexie hypophysaire", "Syndrôme de Sheehan", "Lymphome hypophysaire", "Métastases carcinome hypophysaire"]),
+           # lettre de proposition perdue à l'extraction : deux propositions fusionnées
+           "ND-maiter-hypophyse-Q2": ("Toutes les propositions sont correctes sauf 1 :",
+                           ["Si hyperprolactinémie est supérieure à 50 (nl : 20), c’est toujours lié à un prolactinome",
+                            "Apoplexie hypophysaire est une complication possible d’un macroadénome",
+                            "Il ne faut pas se fier à des taux de TSH pour le ttmnt d’une hypothyroïdie centrale",
+                            "Le traitement à la fluorohydrocortisone n’est pas indiqué dans l’insuffisance ACTH"]),
+           "ND-maiter-hypophyse-Q10": ("Concernant le prolactinome, toutes sont vraies sauf une :",
+                           ["Il entraîne un hypogonadisme hypergonadotrope aussi bien chez les hommes que chez les femmes",
+                            "Le taux de prolactine est corrélé à la taille de la tumeur hypophysaire",
+                            "Il entraîne une gynécomastie chez les hommes et une galactorrhée chez la femme",
+                            "Il est traité par agoniste dopaminergique",
+                            "Il n’entraîne pas de symptômes chez une femme ménopausée"]),
+           "ND-marbaix-hypophyse-Q1": ("Adénome hypophysaire",
+                           ["Cellules avec gros noyaux",
+                            "Peut causer une amputation du champ visuel sans causer de troubles hormonaux (??)",
+                            "Contient des fibres réticulaires"])}
+# Consigne déduite d'une autre occurrence de la même question (énoncé abrégé dans la retranscription).
+INSTR = {"ND-maiter-hypophyse-Q8": "one-false",
+         # formulations de consigne non reconnues automatiquement
+         "ND-maiter-hypophyse-Q14": "one-false",      # « n'apparaît pas »
+         "ND-maiter-hypophyse-Q15": "two-correct",    # « (Deux justes) »
+         "ND-maiter-hypophyse-Q24": "two-false",      # « 2 F »
+         "2025-01-Q37": "two-false",                  # « 2 propositions fausses »
+         "ND-duprez-coche-imagerie-Q9": "one-correct"} # « n'est pas graisseuse » décrit la masse, pas la consigne
 
 files = collections.defaultdict(list)
 report = collections.Counter()
@@ -128,6 +164,7 @@ for q in AUDIT:
     extra, rest = split_stem(q["lines"])
     if extra: stem = (stem + " " + " ".join(x.strip() for x in extra)).strip()
     opts, comments = parse_options(rest)
+    if q["ref"] in RESPLIT: stem, opts = RESPLIT[q["ref"]][0], list(RESPLIT[q["ref"]][1])
     if q["ref"] in TRUNCATE:
         opts = [o for o in opts if not o.startswith(TRUNCATE[q["ref"]])]
     opts = [re.sub(r"\s+[a-e]$", "", o) for o in opts]  # lettre orpheline en fin de ligne
@@ -135,7 +172,7 @@ for q in AUDIT:
     exp = expected_of(opts, q["marked"])
     status = STATUS[q["status"]]
     if q["ref"] in FORCE: status = FORCE[q["ref"]][0]
-    instr = instruction_of(stem, len(exp))
+    instr = INSTR.get(q["ref"]) or instruction_of(stem, len(exp))
     note = (FORCE[q["ref"]][1] if q["ref"] in FORCE else q["note"]) or None
     if status in ("proposed", "disputed", "deduced") and not exp:
         problems.append((q["ref"], "réponse marquée introuvable dans les propositions", q["marked"]))
@@ -153,6 +190,7 @@ for q in AUDIT:
     typ = "QCMM" if (instr in ("two-false", "two-correct") or len(exp) > 1) else "QCM"
     teacher = q["teacher"] if q["teacher"] not in ("non attribué (adulte)", "non précisé") else None
     fname = q["session"] if sess != "ND" else "nd-" + q["section"].split()[0].lower().replace("+", "")
+    if DOM != "thyroide": fname = f"{DOM}-{fname}"
     item = {
         "id": f"ENDO-{sess}-{q['disc']}-{typ}-{n:03d}", "kind": "archive", "format": "mcq", "instruction": instr,
         "stem": stem, "labs": [], "options": [{"id": "ABCDEFGHIJ"[i], "text": o} for i, o in enumerate(opts)],

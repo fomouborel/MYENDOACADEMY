@@ -225,16 +225,104 @@
       "order": 11,
       "domain": "hypophyse",
       "title": "Hypophyse",
-      "short": "Prévu après la thyroïde",
+      "short": "Imagerie, adénomes, prolactine, acromégalie, Cushing, insuffisance, diabète insipide",
       "icon": "🧠",
-      "status": "pending",
+      "status": "available",
       "subchapters": [
         {
-          "id": "a-definir",
-          "title": "À définir après intégration"
+          "id": "imagerie",
+          "title": "Anatomie, physiologie et imagerie (IRM)"
+        },
+        {
+          "id": "adenomes",
+          "title": "Adénomes, syndrome tumoral, apoplexie, craniopharyngiome"
+        },
+        {
+          "id": "prolactine",
+          "title": "Hyperprolactinémie et prolactinome"
+        },
+        {
+          "id": "acromegalie",
+          "title": "Acromégalie et somatostatine"
+        },
+        {
+          "id": "cushing",
+          "title": "Maladie et syndrome de Cushing"
+        },
+        {
+          "id": "insuffisance",
+          "title": "Insuffisance antéhypophysaire"
+        },
+        {
+          "id": "posthypophyse",
+          "title": "Posthypophyse et diabète insipide"
         }
       ],
-      "lessons": []
+      "lessons": [
+        {
+          "id": "hyph-anatomie",
+          "title": "Anatomie, physiologie et imagerie de l'hypophyse",
+          "file": "hypophyse/01-anatomie-imagerie.md",
+          "subchapters": [
+            "imagerie"
+          ],
+          "minutes": 9
+        },
+        {
+          "id": "hyph-adenomes",
+          "title": "Adénomes hypophysaires, apoplexie et autres lésions sellaires",
+          "file": "hypophyse/02-adenomes.md",
+          "subchapters": [
+            "adenomes"
+          ],
+          "minutes": 11
+        },
+        {
+          "id": "hyph-prolactine",
+          "title": "Hyperprolactinémie et prolactinome",
+          "file": "hypophyse/03-prolactine.md",
+          "subchapters": [
+            "prolactine"
+          ],
+          "minutes": 10
+        },
+        {
+          "id": "hyph-acromegalie",
+          "title": "Acromégalie et somatostatine",
+          "file": "hypophyse/04-acromegalie.md",
+          "subchapters": [
+            "acromegalie"
+          ],
+          "minutes": 9
+        },
+        {
+          "id": "hyph-cushing",
+          "title": "Maladie et syndrome de Cushing",
+          "file": "hypophyse/05-cushing.md",
+          "subchapters": [
+            "cushing"
+          ],
+          "minutes": 10
+        },
+        {
+          "id": "hyph-insuffisance",
+          "title": "Insuffisance antéhypophysaire",
+          "file": "hypophyse/06-insuffisance.md",
+          "subchapters": [
+            "insuffisance"
+          ],
+          "minutes": 10
+        },
+        {
+          "id": "hyph-posthypophyse",
+          "title": "Posthypophyse et diabète insipide",
+          "file": "hypophyse/07-posthypophyse.md",
+          "subchapters": [
+            "posthypophyse"
+          ],
+          "minutes": 8
+        }
+      ]
     },
     {
       "id": "surrenales",

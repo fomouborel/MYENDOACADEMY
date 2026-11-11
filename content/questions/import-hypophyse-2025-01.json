@@ -1,0 +1,539 @@
+{
+  "source": "import-hypophyse-2025-01",
+  "questions": [
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-035",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Monsieur, connu pour macroadénome, arrive aux urgences pour céphalées, vomissements, raideur de nuque mais pas de fièvre, diagnostic :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Méningite bactérienne",
+          "explanation": "Moins probable : pas de fièvre."
+        },
+        {
+          "id": "B",
+          "text": "Apoplexie hypophysaire",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Syndrôme de Sheehan",
+          "explanation": "Non : post-partum."
+        },
+        {
+          "id": "D",
+          "text": "Lymphome hypophysaire",
+          "explanation": "Non : rare, ne correspond pas à ce tableau brutal."
+        },
+        {
+          "id": "E",
+          "text": "Métastases carcinome hypophysaire",
+          "explanation": "Non : exceptionnel."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 7,
+        "originalNumber": 35,
+        "auditRef": "2025-01-Q35"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "APOPLEXIE",
+      "hints": [
+        "Le patient est porteur d’un macroadénome connu.",
+        "Céphalées brutales, vomissements, signes visuels et méningés, mais pas de fièvre.",
+        "Quelle complication aiguë d’un adénome associe hémorragie et effet de masse ?"
+      ],
+      "explanation": {
+        "text": "Céphalées brutales, vomissements, troubles visuels ou syndrome méningé, sans fièvre, chez un patient porteur d’un macroadénome : c’est une apoplexie hypophysaire (hémorragie ou infarctus de l’adénome). L’absence de fièvre rend une méningite moins probable. Le syndrome de Sheehan survient après une hémorragie du post-partum, et les carcinomes hypophysaires sont exceptionnels. Urgence : hydrocortisone, puis IRM.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCMM-037",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "2 propositions fausses",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "lors d’une insuffisance hypophysaire, il faut doser les hormones hypophysaires et peripheriques",
+          "explanation": "Vrai : c’est la règle d’or."
+        },
+        {
+          "id": "B",
+          "text": "Un syndrome de Cushing est toujours associé à Acth élevé",
+          "explanation": "Faux (réponse attendue) : ACTH basse dans les causes surrénaliennes."
+        },
+        {
+          "id": "C",
+          "text": "Craniopharyngiome=tumeur benigne kystique et ou calcifié issu de la poche de rathke",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "Le dosage d’une GH élevée est un bon critère diag pour diagnostiquer l’acromegalie chez l’adulte",
+          "explanation": "Faux (réponse attendue) : on se fonde sur l’IGF-1 et l’HGPO."
+        },
+        {
+          "id": "E",
+          "text": "Un effet secondaire du traitement à la cabergoline pendant une longue periode est la fibrose valvulaire cardiaque",
+          "explanation": "Vrai : surtout aux fortes doses."
+        }
+      ],
+      "expected": [
+        "B",
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 7,
+        "originalNumber": 37,
+        "auditRef": "2025-01-Q37"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes",
+        "hyph-cushing",
+        "hyph-acromegalie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HYPOPH-MIXTE",
+      "hints": [
+        "Deux propositions contiennent une généralisation ou un critère insuffisant.",
+        "Pense aux causes de Cushing où l’ACTH est freinée.",
+        "La GH est-elle sécrétée de façon continue ou par pics ?"
+      ],
+      "explanation": {
+        "text": "Deux propositions sont fausses. Un syndrome de Cushing n’est pas toujours associé à une ACTH élevée : dans les causes surrénaliennes et la prise de corticoïdes, l’ACTH est freinée. Et une GH élevée isolée n’est pas un bon critère d’acromégalie : la GH est sécrétée par pics ; on se fonde sur l’IGF-1 et sur l’absence de freinage de la GH sous HGPO. Les autres propositions sont exactes : dans une insuffisance hypophysaire, on dose l’hormone hypophysaire et l’hormone périphérique ; le craniopharyngiome est une tumeur bénigne kystique et calcifiée issue de la poche de Rathke ; la cabergoline au long cours (surtout à forte dose) expose à une fibrose valvulaire.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-039",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Dans l’acromégalie, qu’est-ce qu’on ne retrouve pas (1 fausse) :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "- Syndrome d’apnées du sommeil",
+          "explanation": "Retrouvé."
+        },
+        {
+          "id": "B",
+          "text": "- Céphalées",
+          "explanation": "Retrouvées : effet de masse et sécrétion de GH."
+        },
+        {
+          "id": "C",
+          "text": "- Hypoglycémie",
+          "explanation": "Pas retrouvée (réponse attendue) : c’est une hyperglycémie."
+        },
+        {
+          "id": "D",
+          "text": "- Hyperprolactinémie",
+          "explanation": "Retrouvée parfois : adénome mixte ou compression de la tige."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 7,
+        "originalNumber": 39,
+        "auditRef": "2025-01-Q39"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "acromegalie",
+      "lessonLinks": [
+        "hyph-acromegalie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ACRO-SIGNES",
+      "hints": [
+        "Une proposition concerne la glycémie.",
+        "La GH s’oppose à l’action de l’insuline.",
+        "L’acromégalie fait-elle monter ou baisser la glycémie ?"
+      ],
+      "explanation": {
+        "text": "La GH est une hormone hyperglycémiante : elle s’oppose à l’insuline. L’acromégalie donne une intolérance au glucose, voire un diabète, pas d’hypoglycémie. Les apnées du sommeil et les céphalées sont fréquentes ; une hyperprolactinémie est possible (adénome mixte ou compression de la tige).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-045",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant le diabète insipide, quelle réponse est fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "il peut être d’origine centrale ou nephrogenique",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "un test de restriction hydrique permet de faire la différence entre les différentes étiologies",
+          "explanation": "Vrai : restriction hydrique puis desmopressine."
+        },
+        {
+          "id": "C",
+          "text": "le dosage unique de l’ADH permet le diagnostic",
+          "explanation": "Faux (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Il peut y avoir des symptômes de polyurie et polydipsie",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "La desmopressine est le r/ du diabète centrale",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 8,
+        "originalNumber": 45,
+        "auditRef": "2025-01-Q45"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "posthypophyse",
+      "lessonLinks": [
+        "hyph-posthypophyse"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DI",
+      "hints": [
+        "L’ADH est difficile à doser et varie avec l’osmolalité du moment.",
+        "Le diagnostic repose sur un test dynamique.",
+        "Peut-on conclure sur une seule mesure ?"
+      ],
+      "explanation": {
+        "text": "Un dosage unique de l’ADH ne permet pas le diagnostic : l’ADH est instable, difficile à doser, et doit s’interpréter avec l’osmolalité du moment. Le diagnostic repose sur l’épreuve de restriction hydrique suivie de desmopressine, ou sur la copeptine après stimulation. Le diabète insipide peut être central ou néphrogénique, il donne une polyurie et une polydipsie, et la desmopressine traite la forme centrale.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2025-01-PHARMA-QCM-090",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quinagolide",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Agoniste dopaminergique",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Hyperprolactinémique",
+          "explanation": "Non : il fait baisser la prolactine."
+        },
+        {
+          "id": "C",
+          "text": "Hyperglycémiant",
+          "explanation": "Non."
+        },
+        {
+          "id": "D",
+          "text": "Anti-mycotique",
+          "explanation": "Non."
+        },
+        {
+          "id": "E",
+          "text": "Anti-thyroidien",
+          "explanation": "Non : c’est un traitement de l’hyperprolactinémie."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 14,
+        "originalNumber": 90,
+        "auditRef": "2025-01-Q90"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "prolactine",
+      "lessonLinks": [
+        "hyph-prolactine"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "AGONISTES-DA",
+      "answerNote": "Pharmacologie (Horsmans).",
+      "hints": [
+        "Le quinagolide est utilisé dans le traitement de l’hyperprolactinémie.",
+        "Quel neurotransmetteur freine naturellement la prolactine ?",
+        "Le médicament imite ce neurotransmetteur."
+      ],
+      "explanation": {
+        "text": "Le quinagolide est un agoniste dopaminergique non dérivé de l’ergot de seigle. Comme la dopamine, il freine la sécrétion de prolactine : il traite les hyperprolactinémies et les prolactinomes. Il n’est ni antithyroïdien, ni antifongique, ni hypo- ou hyperglycémiant, et il fait baisser la prolactine.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2025-01-PHARMA-QCM-093",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Concernant les effets de la somatostatine, quel effet secondaire est rencontré ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hypoglycémie",
+          "explanation": "Possible mais rare ; ce n’est pas l’effet retenu."
+        },
+        {
+          "id": "B",
+          "text": "Hyperglycémie",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Hypercalcémie",
+          "explanation": "Non."
+        },
+        {
+          "id": "D",
+          "text": "Augmentation des Ph Alcalines",
+          "explanation": "Non."
+        },
+        {
+          "id": "E",
+          "text": "Diarrhées",
+          "explanation": "Effet indésirable réel, fréquent : d’où le statut « discutée »."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 15,
+        "originalNumber": 93,
+        "auditRef": "2025-01-Q93"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "acromegalie",
+      "lessonLinks": [
+        "hyph-acromegalie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SOMATOSTATINE",
+      "answerNote": "Deux effets proposés sont réels : l'hyperglycémie (retenue) et les diarrhées, effet indésirable digestif fréquent des analogues de la somatostatine.",
+      "hints": [
+        "La somatostatine freine de nombreuses hormones, dont deux hormones du pancréas.",
+        "Laquelle de ces deux hormones pancréatiques fait baisser la glycémie ?",
+        "Si on freine l’hormone qui abaisse la glycémie, que devient la glycémie ?"
+      ],
+      "explanation": {
+        "text": "La somatostatine et ses analogues (octréotide, lanréotide) freinent la GH, la TSH et les sécrétions digestives, mais aussi l’insuline et le glucagon. L’effet métabolique retenu dans les archives est l’hyperglycémie, par inhibition de l’insuline. Les effets indésirables digestifs (diarrhées, douleurs abdominales) et la lithiase biliaire sont fréquents. Hypercalcémie, hypocalcémie et élévation des phosphatases alcalines ne sont pas des effets classiques. Correction discutée : ici, les diarrhées sont aussi un effet indésirable réel. La réponse retenue reste l’hyperglycémie.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-900",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quel est le type d’adenome le plus fréquent",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Thyréotrope",
+          "explanation": "Non : rare."
+        },
+        {
+          "id": "B",
+          "text": "Microprolactinome chez la femme",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Corticotrope",
+          "explanation": "Non : moins fréquent."
+        },
+        {
+          "id": "D",
+          "text": "Somatotrope",
+          "explanation": "Non : moins fréquent."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 17,
+        "originalNumber": null,
+        "auditRef": "2025-01-p17-l499"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ADENOME-EPIDEMIO",
+      "hints": [
+        "Les adénomes thyréotropes sont rares.",
+        "Pense à l’adénome sécrétant le plus fréquent.",
+        "Chez la femme jeune, des troubles des règles le révèlent tôt, quand il est encore petit."
+      ],
+      "explanation": {
+        "text": "Le prolactinome est l’adénome hypophysaire le plus fréquent, et chez la femme jeune il est découvert tôt, au stade de microadénome, grâce aux troubles des règles et à la galactorrhée. Les adénomes corticotropes et somatotropes sont moins fréquents, les thyréotropes rares.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCMM-901",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Une question sur le diabète insipide (proposition fausse)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Il peut être nephro génique ou central"
+        },
+        {
+          "id": "B",
+          "text": "Test à la soif permet de le différencier"
+        },
+        {
+          "id": "C",
+          "text": "Polyurie et polydipsie"
+        },
+        {
+          "id": "D",
+          "text": "Osmolalité urinaire < osmolalité plasmatique"
+        },
+        {
+          "id": "E",
+          "text": "Un test de dosage d’ADH permet de faire la différence"
+        }
+      ],
+      "expected": [
+        "B",
+        "E"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 18,
+        "originalNumber": null,
+        "auditRef": "2025-01-p18-l557"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "posthypophyse",
+      "lessonLinks": [
+        "hyph-posthypophyse"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DI",
+      "answerNote": "Deux propositions en rouge pour une seule fausse. Le test de restriction hydrique permet bien de différencier les causes ; d'après la question Q45 de la même session, seule « dosage d'ADH » est fausse."
+    }
+  ]
+}

@@ -69,17 +69,17 @@ export function ChapterPage() {
         <li className="step">
           <h2>2. Vérifier ma compréhension</h2>
           <p className="muted">Questions simples (vrai ou faux) pour vérifier les notions de base.</p>
-          <Link className="btn" to={`/quiz?mode=check&chapter=${c.id}`}>Commencer ({count('check')} questions)</Link>
+          <StartButton n={count('check')} to={`/quiz?mode=check&chapter=${c.id}`} />
         </li>
         <li className="step">
           <h2>3. M’entraîner</h2>
           <p className="muted">Difficulté progressive, avec indices.</p>
-          <Link className="btn" to={`/quiz?mode=training&chapter=${c.id}`}>Commencer ({count('training')} questions)</Link>
+          <StartButton n={count('training')} to={`/quiz?mode=training&chapter=${c.id}`} />
         </li>
         <li className="step">
           <h2>4. Niveau examen</h2>
           <p className="muted">Les vraies questions des anciens examens rattachées à ce cours, sans indice.</p>
-          <Link className="btn" to={`/quiz?mode=exam-level&chapter=${c.id}`}>Commencer ({count('exam-level')} questions)</Link>
+          <StartButton n={count('exam-level')} to={`/quiz?mode=exam-level&chapter=${c.id}`} />
         </li>
         <li className="step">
           <h2>5. Évaluation finale</h2>
@@ -112,4 +112,10 @@ export function ChapterPage() {
       </ol>
     </section>
   );
+}
+
+/** Pas de bouton vers une liste vide : on dit simplement qu'il n'y a encore rien. */
+function StartButton({ n, to }: { n: number; to: string }) {
+  if (n === 0) return <p className="muted">Pas encore de questions de ce type pour ce cours.</p>;
+  return <Link className="btn" to={to}>Commencer ({n} question{n > 1 ? 's' : ''})</Link>;
 }

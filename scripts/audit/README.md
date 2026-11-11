@@ -35,3 +35,10 @@ Classement **manuel** de chaque question de thyroïde. Pour chacune :
 - famille de doublons.
 
 Pour corriger un rattachement, modifier ce fichier puis relancer les étapes 6 à 8.
+
+## Autres domaines : `domain_audit.py`
+
+Pour un domaine hors thyroïde (par exemple l'hypophyse) :
+1. classement manuel dans `scripts/audit/<domaine>.py` (familles, statuts vérifiés, questions écartées) ;
+2. `python3 scripts/audit/domain_audit.py W <domaine>` produit `data/<domaine>-audit.json` et l'inventaire `docs/audit/INVENTAIRE-<DOMAINE>.md` ;
+3. `python3 scripts/content/import_audit.py <domaine>` importe les questions.

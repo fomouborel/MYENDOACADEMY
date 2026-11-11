@@ -446,6 +446,50 @@ VF("exercices-hypo", 5, "hypo", "congenitale", ["hypo-congenitale"], "Devant un 
    "On convoque l’enfant en urgence, on prélève pour confirmer, puis on traite immédiatement ; l’imagerie précise la cause ensuite.",
    H("Chaque jour compte pour le développement cérébral.", "L’imagerie change-t-elle la décision de traiter ?", "Elle précise seulement la cause."), ["dépistage néonatal", "pédiatrie"])
 
+# ============================ COURS 4 — HYPOPHYSE (exercices vrai ou faux) ============================
+VF("exercices-hypophyse", 1, "hypophyse", "imagerie", ["hyph-anatomie"], "La prolactine est la seule hormone hypophysaire freinée en permanence par l’hypothalamus, par la dopamine.", True,
+   "Les autres hormones antéhypophysaires ont besoin d’une stimulation hypothalamique. La prolactine, elle, est freinée par la dopamine : une compression de la tige la fait monter.",
+   H("Pense à ce qui arrive aux hormones quand la tige est coupée.", "Toutes baissent, sauf une.", "Quel neurotransmetteur freine la lactation ?"), ["prolactine", "physiologie"])
+VF("exercices-hypophyse", 2, "hypophyse", "imagerie", ["hyph-anatomie"], "En IRM, en phase précoce après injection, un microadénome se rehausse plus que la glande normale.", False,
+   "C’est l’inverse : la glande normale, irriguée par le système porte, se rehausse vite et fort ; l’adénome se rehausse moins et plus tard.",
+   H("Quel tissu est le plus richement vascularisé ?", "La glande normale n’a pas de barrière hémato-encéphalique.", "L’adénome apparaît-il plus clair ou plus sombre ?"), ["IRM"])
+VF("exercices-hypophyse", 3, "hypophyse", "adenomes", ["hyph-adenomes"], "Un macroadénome qui s’étend vers le haut donne typiquement une hémianopsie bitemporale.", True,
+   "En s’étendant vers le haut, il comprime le chiasma optique, où se croisent les fibres des rétines nasales, qui portent les champs temporaux.",
+   H("Quelle structure se trouve au-dessus de l’hypophyse ?", "Au chiasma, certaines fibres se croisent.", "Ces fibres portent quels champs visuels ?"), ["troubles visuels"])
+VF("exercices-hypophyse", 4, "hypophyse", "adenomes", ["hyph-adenomes"], "Un adénome hypophysaire non fonctionnel donne un hypogonadisme hypergonadotrope.", False,
+   "Il écrase les cellules gonadotropes : LH et FSH sont basses ou inappropriées. L’hypogonadisme est hypogonadotrope (central).",
+   H("D’où vient le déficit : des gonades ou de l’hypophyse ?", "Si l’hypophyse est déficitaire, que deviennent LH et FSH ?", "« Hyper » signifierait des LH et FSH élevées."), ["adénome non fonctionnel"])
+VF("exercices-hypophyse", 5, "hypophyse", "prolactine", ["hyph-prolactine"], "L’hypothyroïdie primaire peut provoquer une hyperprolactinémie.", True,
+   "Dans l’hypothyroïdie primaire, la TRH augmente ; elle stimule aussi les cellules lactotropes. La prolactine se normalise avec la L-thyroxine.",
+   H("Quelle hormone hypothalamique monte dans l’hypothyroïdie primaire ?", "Cette hormone agit sur plusieurs types de cellules hypophysaires.", "Pense aux cellules lactotropes."), ["prolactine", "thyroïde"])
+VF("exercices-hypophyse", 6, "hypophyse", "prolactine", ["hyph-prolactine"], "Un macroprolactinome doit être opéré en première intention.", False,
+   "Le prolactinome, même volumineux, se traite d’abord par un agoniste dopaminergique (cabergoline), qui fait baisser la prolactine et rétrécir l’adénome.",
+   H("Le prolactinome est une exception parmi les adénomes.", "Un médicament imite le frein naturel de la prolactine.", "Ce traitement réduit aussi la taille de l’adénome."), ["prolactinome", "traitement"])
+VF("exercices-hypophyse", 7, "hypophyse", "acromegalie", ["hyph-acromegalie"], "Le dosage de l’IGF-1 est le premier examen pour dépister une acromégalie.", True,
+   "L’IGF-1 reflète la sécrétion moyenne de GH. Un dosage isolé de GH ne suffit pas, car la GH est sécrétée par pics. On confirme si besoin par l’absence de freinage de la GH sous HGPO.",
+   H("La GH est sécrétée par pics.", "Quelle hormone, fabriquée par le foie, reflète la GH sur la durée ?", "Elle varie peu au cours de la journée."), ["acromégalie", "diagnostic"])
+VF("exercices-hypophyse", 8, "hypophyse", "acromegalie", ["hyph-acromegalie"], "Dans l’acromégalie, la GH est normalement freinée par l’hyperglycémie provoquée par voie orale.", False,
+   "Chez le sujet sain, le glucose freine la GH. Dans l’acromégalie, ce freinage n’a pas lieu : c’est un critère diagnostique.",
+   H("Que fait normalement le glucose sur la GH ?", "Un adénome somatotrope échappe-t-il à ce contrôle ?", "L’absence de freinage est le critère recherché."), ["acromégalie", "HGPO"])
+VF("exercices-hypophyse", 9, "hypophyse", "cushing", ["hyph-cushing"], "Pour dépister un syndrome de Cushing, on dose le cortisol salivaire de fin de soirée.", True,
+   "Le cortisol est normalement au plus bas vers minuit. Dans le Cushing, le rythme circadien disparaît et le cortisol du soir reste élevé.",
+   H("Le cortisol suit un rythme sur 24 heures.", "À quel moment est-il normalement le plus bas ?", "Le Cushing efface ce rythme."), ["Cushing", "diagnostic"])
+VF("exercices-hypophyse", 10, "hypophyse", "cushing", ["hyph-cushing"], "Dans un syndrome de Cushing, l’ACTH est toujours élevée.", False,
+   "L’ACTH est élevée ou normale dans la maladie de Cushing et la sécrétion ectopique, mais effondrée dans les causes surrénaliennes et la prise de corticoïdes.",
+   H("Méfie-toi du mot « toujours ».", "Le cortisol en excès freine l’hypophyse.", "Que devient l’ACTH si la cause est surrénalienne ?"), ["Cushing", "ACTH"])
+VF("exercices-hypophyse", 11, "hypophyse", "insuffisance", ["hyph-insuffisance"], "Dans un panhypopituitarisme, on commence la L-thyroxine avant l’hydrocortisone.", False,
+   "C’est l’inverse : la L-thyroxine accélère la dégradation du cortisol. Donnée seule, elle peut déclencher une insuffisance surrénale aiguë. L’hydrocortisone vient avant ou en même temps.",
+   H("Un des deux traitements augmente les besoins de l’autre hormone.", "La L-thyroxine accélère le métabolisme du cortisol.", "Que risque un patient sans réserve de cortisol ?"), ["panhypopituitarisme", "traitement"])
+VF("exercices-hypophyse", 12, "hypophyse", "insuffisance", ["hyph-insuffisance"], "Sous L-thyroxine, une hypothyroïdie centrale se surveille par la T4 libre, et non par la TSH.", True,
+   "Dans l’hypothyroïdie centrale, l’hypophyse ne produit pas une TSH fiable : la TSH ne reflète pas la dose. On ajuste la L-thyroxine sur la T4 libre.",
+   H("Où est la maladie : dans la thyroïde ou dans l’hypophyse ?", "La TSH vient de l’hypophyse.", "Peut-on se fier à une hormone produite par l’organe malade ?"), ["hypothyroïdie centrale"])
+VF("exercices-hypophyse", 13, "hypophyse", "posthypophyse", ["hyph-posthypophyse"], "Dans un diabète insipide, les urines sont plus concentrées que le plasma.", False,
+   "Sans ADH, le rein ne réabsorbe pas l’eau : les urines sont abondantes et diluées, leur osmolalité est inférieure à celle du plasma.",
+   H("L’ADH sert à réabsorber l’eau dans le rein.", "Sans ADH, l’eau part dans les urines.", "Les urines sont-elles alors concentrées ou diluées ?"), ["diabète insipide"])
+VF("exercices-hypophyse", 14, "hypophyse", "posthypophyse", ["hyph-posthypophyse"], "Dans un diabète insipide central, les urines se concentrent nettement après l’administration de desmopressine.", True,
+   "Dans la forme centrale, c’est la sécrétion d’ADH qui manque ; le rein répond normalement quand on lui apporte de la desmopressine. Dans la forme néphrogénique, il n’y a pas de réponse.",
+   H("Où est le défaut dans la forme centrale ?", "Le rein est-il capable de répondre à l’ADH ?", "La desmopressine remplace l’ADH manquante."), ["diabète insipide", "desmopressine"])
+
 
 # ============================ CAS CLINIQUES PROGRESSIFS (créés, hors archives) ============================
 NORMES = "normes reprises d’un énoncé d’examen UCL (compilation 2016-2021) — valeurs propres au laboratoire de l’exercice"

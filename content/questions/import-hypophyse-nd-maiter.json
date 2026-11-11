@@ -1,0 +1,1886 @@
+{
+  "source": "import-hypophyse-nd-maiter",
+  "questions": [
+    {
+      "id": "ENDO-ND-ADULTE-QCM-301",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Acromégalie : tous des critères diagnostiques sauf 1 :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Modifications morphologiques caractéristiques du visage et des extrémités",
+          "explanation": "Vrai : élargissement des extrémités, traits épaissis."
+        },
+        {
+          "id": "B",
+          "text": "Adénome hypophysaire + plusieurs complications typiques (HTA, SAS, polypes du côlon)",
+          "explanation": "Vrai : HTA, apnées du sommeil et polypes coliques sont typiques."
+        },
+        {
+          "id": "C",
+          "text": "Taux élevés d’IGF-1",
+          "explanation": "Vrai : premier examen à demander."
+        },
+        {
+          "id": "D",
+          "text": "Absence de suppression de GH au test OGTT",
+          "explanation": "Vrai : le glucose freine normalement la GH."
+        },
+        {
+          "id": "E",
+          "text": "Absence d’élévation de la GH à l’hypoglycémie insulinique",
+          "explanation": "Faux (réponse attendue) : ce test sert au diagnostic d’un déficit en GH."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 58,
+        "originalNumber": 1,
+        "auditRef": "ND-maiter-hypophyse-Q1"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "acromegalie",
+      "lessonLinks": [
+        "hyph-acromegalie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ACRO-DIAG",
+      "hints": [
+        "Distingue les tests qui cherchent un EXCÈS de GH de ceux qui cherchent un DÉFICIT.",
+        "Le glucose freine normalement la GH ; l’hypoglycémie la stimule.",
+        "Quel test de stimulation sert à prouver un déficit en GH ?"
+      ],
+      "explanation": {
+        "text": "L’acromégalie se reconnaît à la dysmorphie, aux complications typiques et à la biologie : IGF-1 élevée pour l’âge et absence de freinage de la GH pendant une hyperglycémie provoquée par voie orale. L’hypoglycémie insulinique, elle, stimule la GH : c’est le test de référence pour prouver un déficit en GH, pas pour diagnostiquer une acromégalie.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-302",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Toutes les propositions sont correctes sauf 1 :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Si hyperprolactinémie est supérieure à 50 (nl : 20), c’est toujours lié à un prolactinome",
+          "explanation": "Faux (réponse attendue) : « toujours » est faux."
+        },
+        {
+          "id": "B",
+          "text": "Apoplexie hypophysaire est une complication possible d’un macroadénome",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Il ne faut pas se fier à des taux de TSH pour le ttmnt d’une hypothyroïdie centrale",
+          "explanation": "Vrai : on suit la T4L."
+        },
+        {
+          "id": "D",
+          "text": "Le traitement à la fluorohydrocortisone n’est pas indiqué dans l’insuffisance ACTH",
+          "explanation": "Vrai : l’aldostérone dépend de la rénine."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 58,
+        "originalNumber": 2,
+        "auditRef": "ND-maiter-hypophyse-Q2"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "prolactine",
+      "lessonLinks": [
+        "hyph-prolactine",
+        "hyph-insuffisance"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PRL-MIXTE",
+      "hints": [
+        "Méfie-toi du mot « toujours ».",
+        "Médicaments, hypothyroïdie et compression de la tige donnent des taux modérés.",
+        "Une prolactine à 2,5 fois la norme suffit-elle à affirmer un prolactinome ?"
+      ],
+      "explanation": {
+        "text": "Une prolactine supérieure à 50 (norme à 20) n’est pas toujours due à un prolactinome : médicaments, hypothyroïdie, insuffisance rénale, déconnexion et macroprolactinémie donnent des taux de cet ordre. Les autres propositions sont exactes : l’apoplexie complique un macroadénome ; on ne se fie pas à la TSH pour traiter une hypothyroïdie centrale (on suit la T4L) ; la fludrocortisone n’est pas indiquée dans l’insuffisance corticotrope, car l’aldostérone est préservée.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-303",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "50 ans, Adénome hypophysaire de 2cm comprimant la tige pituitaire. Bio hormonale T4 libre 26umol/L (nl 10-22), TSH 4.9 uU/ml (nl 0.30-3.5), Cortisol nl, ACTH nl, Prolactine 65umol/L (nl <20), LH nl, Testostérone nl, GH nl, IGF1 augmenté. Quel est le type précis d’adénome ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Macroadénome à GH (acromégalie)",
+          "explanation": "Incomplet : n’explique pas la T4L élevée avec une TSH non freinée."
+        },
+        {
+          "id": "B",
+          "text": "Microadénome à TSH et Prolactine",
+          "explanation": "Non : 2 cm, c’est un macroadénome."
+        },
+        {
+          "id": "C",
+          "text": "Macroprolactinome",
+          "explanation": "Insuffisant : une prolactine à 65 n’explique ni la T4L ni l’IGF-1."
+        },
+        {
+          "id": "D",
+          "text": "Macroadénome cliniquement non fonctionnel avec hyperprolactinémie de compression",
+          "explanation": "Non : l’adénome sécrète (TSH et GH)."
+        },
+        {
+          "id": "E",
+          "text": "Macroadénome mixte GH, TSH et peut-être Prolactine",
+          "explanation": "Oui (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 58,
+        "originalNumber": 3,
+        "auditRef": "ND-maiter-hypophyse-Q3"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes",
+        "hyph-acromegalie"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "ADENOME-BIO",
+      "answerNote": "Cas clinique avec valeurs et normes de l'énoncé.",
+      "hints": [
+        "Interprète chaque axe séparément : hormone hypophysaire et hormone périphérique.",
+        "Une T4L élevée avec une TSH non freinée : d’où vient l’excès ?",
+        "L’IGF-1 élevée signe l’excès d’une autre hormone hypophysaire."
+      ],
+      "explanation": {
+        "text": "La T4 libre est élevée alors que la TSH n’est pas freinée (elle est même au-dessus de la norme) : l’hypophyse sécrète trop de TSH, il y a une composante thyréotrope. L’IGF-1 élevée signe un excès de GH, même si une GH isolée est « normale » (elle est sécrétée par pics). La prolactine à 65 peut venir de l’adénome ou de la compression de la tige. Avec 2 cm, c’est un macroadénome : la conclusion des archives est un macroadénome mixte GH et TSH, peut-être prolactine.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-305",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "A propos de l’hypophyse, 1F :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Adénome clinique non fonctionnel le plus souvent est un adénome gonadotrope silencieux"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 58,
+        "originalNumber": 5,
+        "auditRef": "ND-maiter-hypophyse-Q5"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ADENOME-EPIDEMIO",
+      "answerNote": "Une seule proposition."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-306",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Qu’est-ce qui n’augmente pas/ ne provoque pas une hyperprolactinémie?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Spironolactone",
+          "explanation": "Ne provoque pas (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Neuroleptique",
+          "explanation": "Provoque."
+        },
+        {
+          "id": "C",
+          "text": "Irradiation de la tête",
+          "explanation": "Provoque : lésion de l’hypothalamus."
+        },
+        {
+          "id": "D",
+          "text": "Insuffisance rénale",
+          "explanation": "Provoque : élimination diminuée."
+        },
+        {
+          "id": "E",
+          "text": "Agrégations de molécules de prolactine",
+          "explanation": "Provoque : macroprolactinémie."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 58,
+        "originalNumber": 6,
+        "auditRef": "ND-maiter-hypophyse-Q6"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "prolactine",
+      "lessonLinks": [
+        "hyph-prolactine"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PRL-CAUSES",
+      "hints": [
+        "Un médicament peut donner une gynécomastie sans toucher à la prolactine.",
+        "Les médicaments qui élèvent la prolactine bloquent la dopamine.",
+        "Un diurétique anti-aldostérone n’est pas antidopaminergique."
+      ],
+      "explanation": {
+        "text": "Les neuroleptiques (antidopaminergiques), l’irradiation de la tête (lésion hypothalamique), l’insuffisance rénale et les agrégats de prolactine (macroprolactinémie) élèvent la prolactine. La spironolactone peut donner une gynécomastie par effet anti-androgène, mais elle ne provoque pas d’hyperprolactinémie.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-307",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Un macroadénome hypophysaire non fonctionnel peut donner ces signes/complications suivantes SAUF UNE:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Céphalées sévères",
+          "explanation": "Possible : effet de masse."
+        },
+        {
+          "id": "B",
+          "text": "Hypogonadisme secondaire chez l’homme",
+          "explanation": "Possible : déficit gonadotrope."
+        },
+        {
+          "id": "C",
+          "text": "Hyperprolactinémie avec galactorrhée chez la femme",
+          "explanation": "Possible : compression de la tige."
+        },
+        {
+          "id": "D",
+          "text": "Valeur de T4 libre élevée avec TSH basse",
+          "explanation": "Impossible (réponse attendue) : c’est une hyperthyroïdie primaire."
+        },
+        {
+          "id": "E",
+          "text": "Diplopie par compression des nerfs oculomoteurs",
+          "explanation": "Possible : sinus caverneux."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 58,
+        "originalNumber": 7,
+        "auditRef": "ND-maiter-hypophyse-Q7"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ANF-SIGNES",
+      "hints": [
+        "Un adénome non fonctionnel donne des signes de masse et des déficits.",
+        "Un déficit thyréotrope donne une T4 basse.",
+        "Une proposition décrit une hyperthyroïdie primaire."
+      ],
+      "explanation": {
+        "text": "Un macroadénome non fonctionnel peut donner des céphalées, un hypogonadisme secondaire (déficit gonadotrope), une hyperprolactinémie de déconnexion avec galactorrhée et une diplopie par envahissement du sinus caverneux. En revanche, une T4 libre élevée avec une TSH basse est une hyperthyroïdie primaire : un adénome non fonctionnel donne au contraire une T4 basse (insuffisance thyréotrope).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-308",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Adénome hypophysaire non fonctionnel cliniquement",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Acouphènes",
+          "explanation": "Absent (réponse attendue) : l’oreille est loin de la selle."
+        },
+        {
+          "id": "B",
+          "text": "Céphalées",
+          "explanation": "Présent : effet de masse."
+        },
+        {
+          "id": "C",
+          "text": "Aménorrhée 2R",
+          "explanation": "Présent : déficit gonadotrope."
+        },
+        {
+          "id": "D",
+          "text": "TSH normal, T4 basse",
+          "explanation": "Présent : insuffisance thyréotrope."
+        },
+        {
+          "id": "E",
+          "text": "Trouble de l'acuité d'un œil",
+          "explanation": "Présent : compression des voies optiques."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 58,
+        "originalNumber": 8,
+        "auditRef": "ND-maiter-hypophyse-Q8"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ANF-SIGNES",
+      "answerNote": "Énoncé abrégé : d'après la même question de mai 2023, il faut trouver le signe absent.",
+      "hints": [
+        "Pense aux structures voisines de l’hypophyse.",
+        "Chiasma au-dessus, sinus caverneux sur les côtés : quels organes des sens sont concernés ?",
+        "L’oreille n’est pas au voisinage de la selle turcique."
+      ],
+      "explanation": {
+        "text": "Énoncé abrégé : d’après la même question de mai 2023, il faut trouver le signe absent. Un adénome non fonctionnel peut donner des céphalées, une aménorrhée secondaire (déficit gonadotrope ou hyperprolactinémie de déconnexion), une T4 basse avec une TSH normale (insuffisance thyréotrope) et une baisse d’acuité d’un œil. Les acouphènes n’ont aucun rapport avec l’hypophyse.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-309",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Causes d’hyperprolactinémie : la fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hyperthyroïdie",
+          "explanation": "Fausse (réponse attendue) : c’est l’hypothyroïdie."
+        },
+        {
+          "id": "B",
+          "text": "Macroprolactinémie",
+          "explanation": "Cause."
+        },
+        {
+          "id": "C",
+          "text": "Macroadénome compressif non sécrétant",
+          "explanation": "Cause : déconnexion."
+        },
+        {
+          "id": "D",
+          "text": "Prolactinome",
+          "explanation": "Cause."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 58,
+        "originalNumber": 9,
+        "auditRef": "ND-maiter-hypophyse-Q9"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "prolactine",
+      "lessonLinks": [
+        "hyph-prolactine"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PRL-CAUSES",
+      "hints": [
+        "Pense au lien entre la thyroïde et la prolactine.",
+        "C’est la TRH qui stimule la prolactine.",
+        "Quand la TRH est-elle élevée : quand la thyroïde fonctionne trop, ou pas assez ?"
+      ],
+      "explanation": {
+        "text": "C’est l’hypothyroïdie primaire qui élève la prolactine (la TRH augmente et stimule aussi les cellules lactotropes). Dans l’hyperthyroïdie, la TRH est freinée. La macroprolactinémie, un macroadénome compressif non sécrétant et le prolactinome sont des causes d’hyperprolactinémie.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-310",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant le prolactinome, toutes sont vraies sauf une :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Il entraîne un hypogonadisme hypergonadotrope aussi bien chez les hommes que chez les femmes",
+          "explanation": "Faux (réponse attendue) : hypogonadotrope."
+        },
+        {
+          "id": "B",
+          "text": "Le taux de prolactine est corrélé à la taille de la tumeur hypophysaire",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Il entraîne une gynécomastie chez les hommes et une galactorrhée chez la femme",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "Il est traité par agoniste dopaminergique",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "Il n’entraîne pas de symptômes chez une femme ménopausée",
+          "explanation": "Vrai pour les signes hormonaux ; un syndrome tumoral reste possible."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 59,
+        "originalNumber": 10,
+        "auditRef": "ND-maiter-hypophyse-Q10"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "prolactine",
+      "lessonLinks": [
+        "hyph-prolactine"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PRL-PROLACTINOME",
+      "hints": [
+        "La prolactine freine une hormone hypothalamique.",
+        "Si la GnRH est freinée, que deviennent la LH et la FSH ?",
+        "L’hypogonadisme est-il dû aux gonades ou à l’hypophyse ?"
+      ],
+      "explanation": {
+        "text": "L’hyperprolactinémie freine la GnRH : LH et FSH sont basses, l’hypogonadisme est hypogonadotrope, pas hypergonadotrope. Le taux de prolactine est corrélé à la taille d’un prolactinome ; galactorrhée chez la femme et gynécomastie possible chez l’homme ; traitement par agoniste dopaminergique. Chez la femme ménopausée, il n’y a plus de cycle à perturber : pas de signe hormonal visible, même si un syndrome tumoral reste possible.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-311",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "Parmi ces propositions, une seule est correcte",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "En cas de galactorrhée isolée (sans trouble du cycle menstruel), la cause la plus fréquente est une hyperprolactinémie",
+          "explanation": "Faux : la prolactine est souvent normale."
+        },
+        {
+          "id": "B",
+          "text": "En cas d’incidentalome surrénalien, le dosage de la rénine et de l’angiotensine doit être réalisé",
+          "explanation": "Faux : seulement en cas d’HTA ou d’hypokaliémie."
+        },
+        {
+          "id": "C",
+          "text": "En cas d’hypothyroïdie centrale, la TSH est toujours diminuée",
+          "explanation": "Faux : basse ou normale."
+        },
+        {
+          "id": "D",
+          "text": "En cas d’hyperandrogénisme chez la femme, le dosage de la 17-hydroxyprogestérone n’est pas fait en première ligne",
+          "explanation": "Faux : elle fait partie du bilan initial."
+        },
+        {
+          "id": "E",
+          "text": "Aucune de ces réponses n’est correcte",
+          "explanation": "Vrai (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 59,
+        "originalNumber": 11,
+        "auditRef": "ND-maiter-hypophyse-Q11"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "prolactine",
+      "lessonLinks": [
+        "hyph-prolactine",
+        "hyph-insuffisance"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PRL-MIXTE",
+      "answerNote": "Question transversale (galactorrhée, incidentalome surrénalien, hypothyroïdie centrale, hyperandrogénie).",
+      "hints": [
+        "Chaque proposition contient une affirmation catégorique.",
+        "Vérifie-les une par une : galactorrhée isolée, incidentalome surrénalien, hypothyroïdie centrale, hyperandrogénie.",
+        "Si aucune ne résiste, une proposition le dit."
+      ],
+      "explanation": {
+        "text": "Aucune des quatre premières propositions n’est correcte. Une galactorrhée isolée, avec des cycles normaux, s’accompagne le plus souvent d’une prolactine normale. Devant un incidentalome surrénalien, on dose l’aldostérone et la rénine seulement en cas d’HTA ou d’hypokaliémie. Dans l’hypothyroïdie centrale, la TSH est basse ou normale, pas toujours diminuée. Devant une hyperandrogénie chez la femme, la 17-hydroxyprogestérone fait partie du bilan de première ligne (bloc en 21-hydroxylase).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-312",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Un macroadénome non sécrétant peut donner toutes ces complications sauf 1 :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Apoplexie hypophysaire",
+          "explanation": "Possible."
+        },
+        {
+          "id": "B",
+          "text": "Hypogonadisme hypergonadotrope",
+          "explanation": "Impossible (réponse attendue) : il est hypogonadotrope."
+        },
+        {
+          "id": "C",
+          "text": "Hyponatrémie",
+          "explanation": "Possible : déficit corticotrope."
+        },
+        {
+          "id": "D",
+          "text": "Troubles visuels",
+          "explanation": "Possible : chiasma."
+        },
+        {
+          "id": "E",
+          "text": "Céphalées",
+          "explanation": "Possible."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 59,
+        "originalNumber": 12,
+        "auditRef": "ND-maiter-hypophyse-Q12"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ANF-SIGNES",
+      "hints": [
+        "Un adénome écrase les cellules hypophysaires normales.",
+        "L’hypophyse ne produit alors plus assez de LH et de FSH.",
+        "Le préfixe « hyper » ou « hypo » de l’hypogonadisme dépend du niveau de LH et FSH."
+      ],
+      "explanation": {
+        "text": "Un macroadénome non sécrétant peut se compliquer d’apoplexie, d’une hyponatrémie (insuffisance corticotrope), de troubles visuels et de céphalées. L’hypogonadisme qu’il donne est hypogonadotrope : LH et FSH sont basses ou inappropriées, car c’est l’hypophyse qui est déficitaire. Un hypogonadisme hypergonadotrope (LH et FSH élevées) traduit une atteinte des gonades.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-313",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Pour évoquer ou poser un diagnostic d’acromégalie, toutes les propositions suivantes sont justes sauf une",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Allongement mains et pieds",
+          "explanation": "Vrai : bagues et chaussures trop petites."
+        },
+        {
+          "id": "B",
+          "text": "igf1 élevé",
+          "explanation": "Vrai : premier examen à demander."
+        },
+        {
+          "id": "C",
+          "text": "Un prognathisme de plus en plus important avec l’âge",
+          "explanation": "Vrai : la mâchoire continue de croître."
+        },
+        {
+          "id": "D",
+          "text": "Absence de suppression de la GH en réponse à une hyperglycémie (HGPO )",
+          "explanation": "Vrai : le glucose freine normalement la GH."
+        },
+        {
+          "id": "E",
+          "text": "Absence d’augmentation de la GH en réponse à une hypoglycémie",
+          "explanation": "Faux (réponse attendue) : ce test sert au diagnostic d’un déficit en GH."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 59,
+        "originalNumber": 13,
+        "auditRef": "ND-maiter-hypophyse-Q13"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "acromegalie",
+      "lessonLinks": [
+        "hyph-acromegalie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ACRO-DIAG",
+      "hints": [
+        "Distingue les tests qui cherchent un EXCÈS de GH de ceux qui cherchent un DÉFICIT.",
+        "Le glucose freine normalement la GH ; l’hypoglycémie la stimule.",
+        "Quel test de stimulation sert à prouver un déficit en GH ?"
+      ],
+      "explanation": {
+        "text": "L’acromégalie se reconnaît à la dysmorphie, aux complications typiques et à la biologie : IGF-1 élevée pour l’âge et absence de freinage de la GH pendant une hyperglycémie provoquée par voie orale. L’hypoglycémie insulinique, elle, stimule la GH : c’est le test de référence pour prouver un déficit en GH, pas pour diagnostiquer une acromégalie.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-314",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Acromégalie, qu’est ce qui n'apparaît pas dans la maladie",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Coxarthrose",
+          "explanation": "Apparaît : arthropathie acromégalique."
+        },
+        {
+          "id": "B",
+          "text": "Calcul biliaire",
+          "explanation": "N’apparaît pas dans la maladie (réponse attendue) : c’est un effet du traitement."
+        },
+        {
+          "id": "C",
+          "text": "Canal carpien bilatéral",
+          "explanation": "Apparaît."
+        },
+        {
+          "id": "D",
+          "text": "HTA",
+          "explanation": "Apparaît."
+        },
+        {
+          "id": "E",
+          "text": "SAS",
+          "explanation": "Apparaît."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 59,
+        "originalNumber": 14,
+        "auditRef": "ND-maiter-hypophyse-Q14"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "acromegalie",
+      "lessonLinks": [
+        "hyph-acromegalie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ACRO-SIGNES",
+      "hints": [
+        "Une proposition concerne une complication du traitement plutôt que de la maladie.",
+        "Les analogues de la somatostatine diminuent la contraction de la vésicule.",
+        "Quel organe digestif souffre alors ?"
+      ],
+      "explanation": {
+        "text": "L’acromégalie donne une arthropathie (y compris une coxarthrose), un canal carpien souvent bilatéral, une HTA et des apnées du sommeil. Les calculs biliaires ne sont pas un signe de la maladie : ils compliquent son traitement par les analogues de la somatostatine, qui ralentissent la vésicule.",
+        "status": "complement",
+        "sources": []
+      },
+      "pitfall": "Calculs biliaires : penser aux analogues de la somatostatine."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-315",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-correct",
+      "stem": "Causes centrales d’insuffisance hypothalamo-hypophysaire donnant un hypogonadisme (Deux justes)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hémochromatose",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Chimio pour un lymphome dans la jeunesse",
+          "explanation": "Faux : atteinte des gonades."
+        },
+        {
+          "id": "C",
+          "text": "Alcool et autres drogues",
+          "explanation": "Discutable : les opioïdes donnent un hypogonadisme central."
+        },
+        {
+          "id": "D",
+          "text": "Virus oreillons",
+          "explanation": "Faux : orchite (atteinte du testicule)."
+        },
+        {
+          "id": "E",
+          "text": "État anxio-dépressif",
+          "explanation": "Vrai (réponse attendue) : hypogonadisme fonctionnel."
+        }
+      ],
+      "expected": [
+        "A",
+        "E"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 59,
+        "originalNumber": 15,
+        "auditRef": "ND-maiter-hypophyse-Q15"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "hyph-insuffisance"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "INSUF-GONADO",
+      "hints": [
+        "Un hypogonadisme central vient de l’hypothalamus ou de l’hypophyse.",
+        "Certaines causes détruisent directement les testicules ou les ovaires.",
+        "Pense aux dépôts de fer et aux causes fonctionnelles."
+      ],
+      "explanation": {
+        "text": "Correction discutée. L’hémochromatose (dépôts de fer dans l’hypophyse, qui touchent surtout l’axe gonadotrope) et l’état anxio-dépressif (hypogonadisme fonctionnel hypothalamique) sont des causes centrales. La chimiothérapie et les oreillons (orchite) détruisent les gonades : l’hypogonadisme est périphérique. La proposition « alcool et autres drogues » est discutable : les opioïdes donnent un hypogonadisme central, et l’alcool agit à la fois sur le testicule et sur l’axe hypothalamo-hypophysaire.",
+        "status": "complement",
+        "sources": []
+      },
+      "answerNote": "Réponse discutable : « alcool et autres drogues » peut aussi être une cause centrale (les opioïdes donnent un hypogonadisme hypogonadotrope ; l’alcool agit aussi sur l’axe hypothalamo-hypophysaire)."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-316",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Cause d’hyperprolactinémie et de céphalées. Quelle hypothèse n’est pas à envisager, 1 fausse : sur que c’était ça les propositions ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hypothyroïdie",
+          "explanation": "À envisager : la TRH stimule la prolactine."
+        },
+        {
+          "id": "B",
+          "text": "Microprolactinome",
+          "explanation": "À envisager."
+        },
+        {
+          "id": "C",
+          "text": "Macroadénome hypophysaire comprimant la tige pituitaire",
+          "explanation": "À envisager : déconnexion."
+        },
+        {
+          "id": "D",
+          "text": "Irradiation de l’hypothalamus",
+          "explanation": "À envisager : lésion hypothalamique."
+        },
+        {
+          "id": "E",
+          "text": "Spironolactone",
+          "explanation": "Pas à envisager (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 59,
+        "originalNumber": 16,
+        "auditRef": "ND-maiter-hypophyse-Q16"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "prolactine",
+      "lessonLinks": [
+        "hyph-prolactine"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PRL-CAUSES",
+      "answerNote": "Doute du transcripteur sur les propositions (« sûr que c'était ça les propositions ? »).",
+      "hints": [
+        "Les causes d’hyperprolactinémie stimulent la prolactine ou lèvent le frein dopaminergique.",
+        "Un médicament proposé donne une gynécomastie, mais par un autre mécanisme.",
+        "Il s’agit d’un diurétique anti-aldostérone."
+      ],
+      "explanation": {
+        "text": "Doute du transcripteur sur les propositions. L’hypothyroïdie, un microprolactinome, un macroadénome qui comprime la tige et l’irradiation de l’hypothalamus peuvent expliquer une hyperprolactinémie. La spironolactone n’élève pas la prolactine : elle donne une gynécomastie par effet anti-androgène.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-317",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Un adénome hypophysaire de 4 cm peut provoquer : 1 fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Scotome bilatéral",
+          "explanation": "Possible : chiasma."
+        },
+        {
+          "id": "B",
+          "text": "Diplopie latérale",
+          "explanation": "Possible : sinus caverneux."
+        },
+        {
+          "id": "C",
+          "text": "Acouphènes intermittents",
+          "explanation": "Impossible (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Syndrome méningé",
+          "explanation": "Possible : apoplexie."
+        },
+        {
+          "id": "E",
+          "text": "Galactorrhée",
+          "explanation": "Possible : prolactine."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 60,
+        "originalNumber": 17,
+        "auditRef": "ND-maiter-hypophyse-Q17"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes",
+        "hyph-anatomie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "VISION",
+      "hints": [
+        "Un adénome de 4 cm comprime tout ce qui l’entoure.",
+        "Pense aux voies visuelles, aux nerfs oculomoteurs, aux méninges et à la tige.",
+        "Une proposition concerne un organe des sens éloigné de la selle."
+      ],
+      "explanation": {
+        "text": "Un adénome géant de 4 cm peut donner un scotome bilatéral (chiasma), une diplopie (sinus caverneux), un syndrome méningé (apoplexie, extension) et une galactorrhée (hyperprolactinémie de déconnexion ou prolactinome). Les acouphènes n’ont aucun rapport avec l’hypophyse.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-318",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Qu’est ce qu’on ne retrouve pas dans une insuffisance de l’adénohypophyse ? (1 réponse)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hyperprolactinémie",
+          "explanation": "Possible : compression de la tige."
+        },
+        {
+          "id": "B",
+          "text": "TSH basse + T4 basse",
+          "explanation": "Possible : insuffisance thyréotrope."
+        },
+        {
+          "id": "C",
+          "text": "TSH normale + T4 basse",
+          "explanation": "Possible : TSH inappropriée."
+        },
+        {
+          "id": "D",
+          "text": "Dosage de l’IGF-1 peut être normal",
+          "explanation": "Possible : l’IGF-1 ne suffit pas à exclure un déficit."
+        },
+        {
+          "id": "E",
+          "text": "Cortisol vespéral paradoxalement augmenté",
+          "explanation": "Impossible (réponse attendue) : c’est un Cushing."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 60,
+        "originalNumber": 18,
+        "auditRef": "ND-maiter-hypophyse-Q18"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "hyph-insuffisance"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "INSUF-BIO",
+      "hints": [
+        "Dans un déficit, les hormones périphériques sont basses.",
+        "Le cortisol a un rythme circadien : il est au plus bas le soir.",
+        "Une proposition décrit au contraire un excès de cortisol."
+      ],
+      "explanation": {
+        "text": "Dans une insuffisance antéhypophysaire, on peut trouver une hyperprolactinémie (compression de la tige), une T4 basse avec une TSH basse ou normale (insuffisance thyréotrope), et une IGF-1 normale malgré un déficit en GH. Un cortisol du soir « paradoxalement augmenté » est au contraire un signe de Cushing (perte du rythme circadien).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-319",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Toutes les propositions suivantes sont justes sauf une :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "La fréquence des adénomes hypophysaires symptomatiques est de 1/1000",
+          "explanation": "Vrai : ordre de grandeur retenu."
+        },
+        {
+          "id": "B",
+          "text": "Les adénomes hypophysaires cliniquement non fonctionnels sont les plus fréquents",
+          "explanation": "Faux (réponse attendue) : ce sont les prolactinomes."
+        },
+        {
+          "id": "C",
+          "text": "Le test à l’insuline est utile pour “détecter un trouble” au niveau de la GH, du cortisol ou de l’ACTH",
+          "explanation": "Vrai : test de référence des déficits en GH et en ACTH."
+        },
+        {
+          "id": "D",
+          "text": "L’hypophyse augmente de taille lors de la grossesse",
+          "explanation": "Vrai : hyperplasie lactotrope."
+        },
+        {
+          "id": "E",
+          "text": "Un prolactinome chez un jeune garçon peut provoquer un retard de croissance",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 60,
+        "originalNumber": 19,
+        "auditRef": "ND-maiter-hypophyse-Q19"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ADENOME-EPIDEMIO",
+      "hints": [
+        "Une proposition porte sur la fréquence relative des types d’adénomes.",
+        "Quel adénome sécrétant est découvert très souvent chez la femme jeune ?",
+        "Les adénomes non fonctionnels sont surtout fréquents parmi les macroadénomes."
+      ],
+      "explanation": {
+        "text": "La proposition fausse retenue est que les adénomes non fonctionnels seraient les plus fréquents : ce sont les prolactinomes, d’après les archives (janvier 2025). Les adénomes non fonctionnels sont surtout les macroadénomes les plus fréquents, car découverts tard. Les autres propositions sont exactes : les adénomes symptomatiques touchent de l’ordre de 1 personne sur 1 000 ; l’hypoglycémie insulinique explore la GH et l’ACTH ; l’hypophyse grossit pendant la grossesse ; un prolactinome chez le garçon peut retarder la puberté et la croissance.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-320",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Acromégalie peut donner ces signes/complications (une fausse)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Goitre",
+          "explanation": "Vrai : organomégalie."
+        },
+        {
+          "id": "B",
+          "text": "Transpiration excessive",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Syndrome canal carpien",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "Syndrome d'apnées du sommeil",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "Syndrome métabolique",
+          "explanation": "Réponse retenue, discutable : insulinorésistance, diabète et HTA sont fréquents."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 60,
+        "originalNumber": 20,
+        "auditRef": "ND-maiter-hypophyse-Q20"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "acromegalie",
+      "lessonLinks": [
+        "hyph-acromegalie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ACRO-SIGNES",
+      "answerNote": "Réponse « syndrome métabolique » discutable : l'acromégalie donne insulinorésistance, diabète et HTA, même si la masse grasse tend à diminuer.",
+      "hints": [
+        "Quatre propositions sont des signes directs de l’excès de GH.",
+        "Une proposition regroupe plusieurs anomalies métaboliques.",
+        "Cette question a une correction discutée : lis l’explication après avoir répondu."
+      ],
+      "explanation": {
+        "text": "Correction discutée. Goitre, transpiration excessive, canal carpien et apnées du sommeil sont des signes classiques. La réponse retenue est « syndrome métabolique », ce qui se comprend parce que l’obésité abdominale n’est pas typique de l’acromégalie. Mais l’acromégalie donne une insulinorésistance, un diabète et une HTA, qui sont des composantes du syndrome métabolique. Aucune correction officielle n’existe.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-321",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Toutes les affirmations suivantes sont correctes, sauf une.",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Le syndrome de la selle turcique vide est dû à la présence d’un arachnoïdocèle dans la selle turcique.",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "Une hyponatrémie peut se rencontrer dans une insuffisance cortico-surrénalienne secondaire",
+          "explanation": "Vrai : le déficit en cortisol favorise la sécrétion d’ADH."
+        },
+        {
+          "id": "C",
+          "text": "Une hyponatrémie peut se rencontrer dans un diabète insipide d’origine centrale",
+          "explanation": "Faux (réponse attendue) : risque d’hypernatrémie."
+        },
+        {
+          "id": "D",
+          "text": "Dans un diabète insipide central, l’osmolalité urinaire augmente nettement après l’administration de desmopressine",
+          "explanation": "Vrai : le rein répond à l’ADH apportée."
+        },
+        {
+          "id": "E",
+          "text": "Chez un homme de 50 ans atteint d’une insuffisance gonadotrope sévère qui ne souhaite plus avoir d’enfants, le traitement consiste en des injections intramusculaires d’esters de testostérone (Sustanon)",
+          "explanation": "Vrai : esters de testostérone."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 60,
+        "originalNumber": 21,
+        "auditRef": "ND-maiter-hypophyse-Q21"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "posthypophyse",
+      "lessonLinks": [
+        "hyph-posthypophyse"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "DI",
+      "answerNote": "Question transversale (selle turcique vide, hyponatrémie, diabète insipide, testostérone).",
+      "hints": [
+        "Dans le diabète insipide, le patient perd de l’eau libre.",
+        "Que devient le sodium quand on perd plus d’eau que de sel ?",
+        "Une proposition décrit l’inverse de ce qui se passe."
+      ],
+      "explanation": {
+        "text": "Le diabète insipide fait perdre de l’eau libre : la natrémie est normale si le patient boit, élevée sinon. Une hyponatrémie n’en fait pas partie, sauf surdosage en desmopressine. Les autres propositions sont exactes : la selle turcique vide est due à une arachnoïdocèle ; l’insuffisance corticotrope peut donner une hyponatrémie ; l’osmolalité urinaire augmente nettement après desmopressine dans la forme centrale ; l’homme hypogonadique qui ne veut plus d’enfant reçoit de la testostérone.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-322",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Quelle anomalie ne peut-on pas retrouver dans le syndrome de Cushing ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Obésité et érythème facial (?)",
+          "explanation": "Possible : obésité facio-tronculaire, visage érythrosique."
+        },
+        {
+          "id": "B",
+          "text": "Risque thromboembolique augmenté",
+          "explanation": "Possible : risque augmenté."
+        },
+        {
+          "id": "C",
+          "text": "Alcalose hypokaliémique",
+          "explanation": "Possible : surtout dans les formes sévères."
+        },
+        {
+          "id": "D",
+          "text": "Ostéopénie",
+          "explanation": "Possible : fréquente."
+        },
+        {
+          "id": "E",
+          "text": "Hypercalcémie hypocalciurie",
+          "explanation": "Impossible (réponse attendue) : c’est une hypercalciurie."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 60,
+        "originalNumber": 22,
+        "auditRef": "ND-maiter-hypophyse-Q22"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "hyph-cushing"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CUSHING-SIGNES",
+      "answerNote": "Doute du transcripteur sur la proposition a (« érythème facial (?) »), pas sur la réponse.",
+      "hints": [
+        "L’excès de cortisol fait fondre l’os.",
+        "Où va le calcium perdu par l’os ?",
+        "Le rein élimine-t-il plus ou moins de calcium ?"
+      ],
+      "explanation": {
+        "text": "Le cortisol en excès détruit l’os (ostéopénie) et diminue l’absorption digestive du calcium : le calcium libéré est éliminé dans les urines (hypercalciurie, lithiases), avec une calcémie normale. L’hypercalcémie avec hypocalciurie n’en fait pas partie. Obésité et érythrose faciale, risque thromboembolique, alcalose hypokaliémique et ostéopénie sont classiques.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-323",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Cushing : trouver la fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hyperleucocytose neutro"
+        },
+        {
+          "id": "B",
+          "text": "ACTH bas"
+        },
+        {
+          "id": "C",
+          "text": "Ostéopénie trabéculaire"
+        },
+        {
+          "id": "D",
+          "text": "?"
+        },
+        {
+          "id": "E",
+          "text": "?"
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 60,
+        "originalNumber": 23,
+        "auditRef": "ND-maiter-hypophyse-Q23"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "hyph-cushing"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CUSHING-SIGNES",
+      "answerNote": "Propositions D et E non retranscrites."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-324",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Diagnostic initial de cushing 2 F :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "ACTH très bas !",
+          "explanation": "Discutable : l’ACTH sert au diagnostic étiologique, pas au dépistage."
+        },
+        {
+          "id": "B",
+          "text": "Test à la corticolibérine (CRH)",
+          "explanation": "Fausse retenue (réponse attendue) : test étiologique."
+        },
+        {
+          "id": "C",
+          "text": "Dosage cortisolurie 24h",
+          "explanation": "Vrai : test de dépistage."
+        },
+        {
+          "id": "D",
+          "text": "Test long à le dexo",
+          "explanation": "Vrai : freinage faible sur 48 h."
+        },
+        {
+          "id": "E",
+          "text": "Dosage salivaire de cortisol au matin",
+          "explanation": "Fausse retenue (réponse attendue) : on le dose le soir tard."
+        }
+      ],
+      "expected": [
+        "B",
+        "E"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 61,
+        "originalNumber": 24,
+        "auditRef": "ND-maiter-hypophyse-Q24"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "hyph-cushing"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CUSHING-DIAG",
+      "answerNote": "Deux fausses retenues (test à la CRH, cortisol salivaire du matin). La proposition « ACTH très bas ! » n'est pas non plus un test de dépistage : l'ACTH sert au diagnostic étiologique. Retranscription possiblement inexacte.",
+      "hints": [
+        "Le diagnostic se fait en deux temps : prouver l’excès de cortisol, puis trouver sa cause.",
+        "Quels examens servent au premier temps ? Lesquels au second ?",
+        "Le cortisol est normalement au plus bas à un moment précis de la journée."
+      ],
+      "explanation": {
+        "text": "Correction discutée. Le diagnostic initial repose sur le cortisol libre urinaire des 24 h, le cortisol salivaire de fin de soirée (pas du matin) et les tests de freinage faible par la dexaméthasone. Le test à la CRH sert à trouver la cause, pas au dépistage. Ce sont les deux fausses retenues. Mais la proposition « ACTH très bas ! » n’est pas non plus un test de dépistage : l’ACTH sert au diagnostic étiologique. La retranscription est possiblement inexacte.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-325",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Tous ces signes nous orientent vers un syndrome de Cushing SAUF UN",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Polynévrite périphérique sensitivo-motrice",
+          "explanation": "N’oriente pas (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Adiposité tronculaire",
+          "explanation": "Oriente."
+        },
+        {
+          "id": "C",
+          "text": "Visage bouffi",
+          "explanation": "Oriente."
+        },
+        {
+          "id": "D",
+          "text": "Ostéopénie axiale",
+          "explanation": "Oriente."
+        },
+        {
+          "id": "E",
+          "text": "Bosse de bison (“Buffalo neck”)",
+          "explanation": "Oriente."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 61,
+        "originalNumber": 25,
+        "auditRef": "ND-maiter-hypophyse-Q25"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "hyph-cushing"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CUSHING-SIGNES",
+      "hints": [
+        "Quatre propositions décrivent la morphologie ou l’os.",
+        "La myopathie du Cushing est proximale et musculaire.",
+        "Une proposition décrit une atteinte des nerfs."
+      ],
+      "explanation": {
+        "text": "L’adiposité tronculaire, le visage bouffi, l’ostéopénie axiale et la bosse de bison orientent vers un Cushing. La polynévrite sensitivo-motrice n’en fait pas partie : le Cushing donne une myopathie proximale, pas une neuropathie.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-326",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "En cas de syndrome de Cushing sévère, on peut retrouver ces anomalies sauf deux - Cochez les deux réponses fausses",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hirsutisme chez la femme",
+          "explanation": "Possible."
+        },
+        {
+          "id": "B",
+          "text": "Abolition du rythme circadien de cortisol plasmatique et salivaire",
+          "explanation": "Possible : signe biologique majeur."
+        },
+        {
+          "id": "C",
+          "text": "Lymphocytose relative avec éosinophilie",
+          "explanation": "Fausse (réponse attendue) : lymphopénie et éosinopénie."
+        },
+        {
+          "id": "D",
+          "text": "Alcalose hypokaliémique",
+          "explanation": "Possible : formes sévères."
+        },
+        {
+          "id": "E",
+          "text": "Augmentation des CPK",
+          "explanation": "Fausse (réponse attendue) : CPK normales."
+        }
+      ],
+      "expected": [
+        "C",
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 61,
+        "originalNumber": 26,
+        "auditRef": "ND-maiter-hypophyse-Q26"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "hyph-cushing"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CUSHING-SIGNES",
+      "hints": [
+        "Deux propositions décrivent la numération sanguine ou une enzyme musculaire.",
+        "Les corticoïdes font baisser certains globules blancs.",
+        "La myopathie du Cushing détruit-elle les fibres musculaires ?"
+      ],
+      "explanation": {
+        "text": "Deux propositions sont fausses. Le cortisol en excès donne une lymphopénie et une éosinopénie (et une polynucléose neutrophile), pas une lymphocytose avec éosinophilie. Et la myopathie du Cushing est une amyotrophie sans élévation des CPK. L’hirsutisme, l’abolition du rythme circadien du cortisol et l’alcalose hypokaliémique se voient dans les formes sévères.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-327",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Anomalies présentes dans maladie de cushing (1 fausse)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Augmentation CPK",
+          "explanation": "Fausse (réponse attendue) : CPK normales."
+        },
+        {
+          "id": "B",
+          "text": "Hypokaliémie",
+          "explanation": "Présente."
+        },
+        {
+          "id": "C",
+          "text": "Hirsutisme chez la femme",
+          "explanation": "Présent."
+        },
+        {
+          "id": "D",
+          "text": "Perte du rythme circadien",
+          "explanation": "Présente."
+        },
+        {
+          "id": "E",
+          "text": "Amyotrophie proximale",
+          "explanation": "Présente."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 61,
+        "originalNumber": 27,
+        "auditRef": "ND-maiter-hypophyse-Q27"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "hyph-cushing"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CUSHING-SIGNES",
+      "hints": [
+        "La myopathie du Cushing est réelle : comment se manifeste-t-elle à la prise de sang ?",
+        "Une amyotrophie par catabolisme protéique ne détruit pas brutalement les fibres.",
+        "Quelle enzyme monte quand les fibres musculaires sont détruites ?"
+      ],
+      "explanation": {
+        "text": "La maladie de Cushing donne une hypokaliémie, un hirsutisme chez la femme, une perte du rythme circadien du cortisol et une amyotrophie proximale. Cette myopathie est due au catabolisme protéique, sans destruction des fibres : les CPK restent normales.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-328",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Tous les signes suivants sont en faveur d’un syndrome de Cushing sauf un, lequel?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Bouffissure du visage",
+          "explanation": "En faveur."
+        },
+        {
+          "id": "B",
+          "text": "Fragilité cutanée anormale",
+          "explanation": "En faveur."
+        },
+        {
+          "id": "C",
+          "text": "Macroglossie",
+          "explanation": "Pas en faveur (réponse attendue) : évoque l’acromégalie."
+        },
+        {
+          "id": "D",
+          "text": "Amyotrophie proximale",
+          "explanation": "En faveur."
+        },
+        {
+          "id": "E",
+          "text": "Rétention hydro-saline",
+          "explanation": "En faveur."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 61,
+        "originalNumber": 28,
+        "auditRef": "ND-maiter-hypophyse-Q28"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "hyph-cushing"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CUSHING-SIGNES",
+      "hints": [
+        "Quatre signes viennent du catabolisme et de la rétention de sel.",
+        "Une proposition décrit une organomégalie.",
+        "Ce signe appartient à une autre maladie hypophysaire, due à la GH."
+      ],
+      "explanation": {
+        "text": "La bouffissure du visage, la fragilité cutanée, l’amyotrophie proximale et la rétention hydrosodée sont en faveur d’un Cushing. La macroglossie est un signe d’acromégalie (ou d’hypothyroïdie), pas de Cushing.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-329",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "A propos de la maladie de Cushing, 2 réponses fausses :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Plus souvent microadénomes que macro (vrai)"
+        },
+        {
+          "id": "B",
+          "text": "Diminution de > 50% par dexaméthasone fortes doses"
+        },
+        {
+          "id": "C",
+          "text": "La contraception majore les valeurs de cortisol"
+        },
+        {
+          "id": "D",
+          "text": "L’IRM peut ne pas être positive"
+        },
+        {
+          "id": "E",
+          "text": "Augmentation des CPK et diminution des LDH"
+        }
+      ],
+      "expected": [
+        "B",
+        "C",
+        "E"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 61,
+        "originalNumber": 29,
+        "auditRef": "ND-maiter-hypophyse-Q29"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "hyph-cushing"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CUSHING-DIAG",
+      "answerNote": "Trois propositions en rouge pour « 2 réponses fausses ». La freination par la dexaméthasone à forte dose (> 50 %) et l'élévation du cortisol sous contraception sont classiquement exactes : la retranscription est probablement inexacte."
+    }
+  ]
+}

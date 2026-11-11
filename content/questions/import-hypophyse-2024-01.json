@@ -1,0 +1,358 @@
+{
+  "source": "import-hypophyse-2024-01",
+  "questions": [
+    {
+      "id": "ENDO-2024-01-ADULTE-QCM-023",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "en cas d’acromegalie, qu’est ce qui n’est pas observée ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Atrophie cutane",
+          "explanation": "Non observée (réponse attendue) : la peau est épaissie."
+        },
+        {
+          "id": "B",
+          "text": "SAS",
+          "explanation": "Observé : complication fréquente."
+        },
+        {
+          "id": "C",
+          "text": "Polype colon",
+          "explanation": "Observé : justifie une coloscopie."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 4,
+        "originalNumber": 23,
+        "auditRef": "2024-01-Q23"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "acromegalie",
+      "lessonLinks": [
+        "hyph-acromegalie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ACRO-SIGNES",
+      "answerNote": "3 propositions.",
+      "hints": [
+        "Pense à l’effet de la GH sur la peau et les tissus mous.",
+        "L’acromégalie épaissit la peau.",
+        "Une peau fine et atrophique évoque une autre maladie hypophysaire."
+      ],
+      "explanation": {
+        "text": "La peau de l’acromégale est épaissie, grasse et moite : l’atrophie cutanée n’en fait pas partie (elle évoque plutôt un Cushing). Le syndrome d’apnées du sommeil et les polypes du côlon sont des complications classiques, qui justifient une polygraphie et une coloscopie.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2024-01-RADIO-QCM-900",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Dans le diabète insipide centrale (la fausse)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Osmolarité urinaire plus haute que la plasmatique",
+          "explanation": "Faux (réponse attendue) : les urines sont diluées."
+        },
+        {
+          "id": "B",
+          "text": "On ne voit plus la neurohypophyse à l’IRM",
+          "explanation": "Vrai : perte de l’hypersignal T1."
+        },
+        {
+          "id": "C",
+          "text": "Repond au minirin",
+          "explanation": "Vrai : c’est le traitement."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "RADIO",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 4,
+        "originalNumber": null,
+        "auditRef": "2024-01-p4-l118"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "posthypophyse",
+      "lessonLinks": [
+        "hyph-posthypophyse"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DI",
+      "answerNote": "Radiologie ; 3 propositions.",
+      "hints": [
+        "Dans le diabète insipide, le rein ne concentre plus les urines.",
+        "Les urines sont-elles plus ou moins concentrées que le plasma ?",
+        "Pense aussi à l’IRM et à l’effet de la desmopressine."
+      ],
+      "explanation": {
+        "text": "Dans le diabète insipide central, le manque d’ADH empêche de concentrer les urines : l’osmolalité urinaire est inférieure à l’osmolalité plasmatique. L’hypersignal T1 de la neurohypophyse disparaît à l’IRM, et la desmopressine (Minirin) corrige la polyurie.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2024-01-ADULTE-QCM-039",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "observables en cas de macropolactinome nô secretant chez femme, la fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Alopecie temporale",
+          "explanation": "Fausse (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Galactorhée",
+          "explanation": "Observable."
+        },
+        {
+          "id": "C",
+          "text": "Aménorrhée secondaire",
+          "explanation": "Observable : la prolactine freine la GnRH."
+        },
+        {
+          "id": "D",
+          "text": "céphalées",
+          "explanation": "Observables : effet de masse."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 6,
+        "originalNumber": 39,
+        "auditRef": "2024-01-Q39"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "prolactine",
+      "lessonLinks": [
+        "hyph-prolactine"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PRL-CLINIQUE",
+      "answerNote": "La première proposition (« Alopécie temporale ») est collée à l'énoncé dans la retranscription.",
+      "hints": [
+        "Trois propositions découlent de l’excès de prolactine ou de l’effet de masse.",
+        "La prolactine freine la GnRH et stimule la glande mammaire.",
+        "Une proposition concerne les cheveux."
+      ],
+      "explanation": {
+        "text": "Énoncé retranscrit de façon approximative (« macroprolactinome non sécrétant »). Chez la femme, un macroadénome qui fait monter la prolactine (prolactinome ou compression de la tige) donne une galactorrhée, une aménorrhée secondaire et des céphalées (effet de masse). L’alopécie temporale n’est pas un signe d’hyperprolactinémie.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2024-01-ADULTE-QCM-042",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Ce qui donne une hyperprolactinémie",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Selle turcique vide"
+        },
+        {
+          "id": "B",
+          "text": "Microadénome non-sécrétant"
+        },
+        {
+          "id": "C",
+          "text": "??"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 6,
+        "originalNumber": 42,
+        "auditRef": "2024-01-Q42"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "prolactine",
+      "lessonLinks": [
+        "hyph-prolactine"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PRL-CAUSES",
+      "answerNote": "Retranscription incomplète (propositions ou énoncé manquants) : question consultable, non notée."
+    },
+    {
+      "id": "ENDO-2024-01-ADULTE-QCM-044",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "adénome hypophysaire de 25mm compressif avec t4 diminué tsh nle, cortisol nle, acth nle , gh nle; igf1 augmenté, prolactine augmentée",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Macro adénome non sécrétant mais augmentant la prolactine par compression"
+        },
+        {
+          "id": "B",
+          "text": "?"
+        },
+        {
+          "id": "C",
+          "text": "Micro adénome à gh"
+        },
+        {
+          "id": "D",
+          "text": "Macro adénome à gh (et peut-être prolactinome)"
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 7,
+        "originalNumber": 44,
+        "auditRef": "2024-01-Q44"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes",
+        "hyph-acromegalie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ADENOME-BIO",
+      "answerNote": "Proposition B non retranscrite (« ? »)."
+    },
+    {
+      "id": "ENDO-2024-01-RADIO-QCM-901",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant l’adénome hypophysaire, toutes les propositions suivant sont bonnes sauf une, laquelle ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Un macroadenome est >1cm",
+          "explanation": "Vrai : 10 mm ou plus."
+        },
+        {
+          "id": "B",
+          "text": "Ils peuvent être sécrétant ou alors ne rien sécréter et donner des symptômes dus a leurs tailles",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "L’hypophyse est situés à proximité des sinus caverneux et chiasma optique, il est intéressant de vérifier ces structures sur une imagerie",
+          "explanation": "Vrai : risque de diplopie et de troubles visuels."
+        },
+        {
+          "id": "D",
+          "text": "Pour bien visualiser l’hypophyse, IRM en pondération T1 avec du produit de contraste est bien",
+          "explanation": "Vrai : examen de référence, avec une séquence dynamique."
+        },
+        {
+          "id": "E",
+          "text": "Sur un une imagerie irm t1, l’adénome va prendre plus de contraste que le reste de la glande car l’adénome est mieux vascularisée.",
+          "explanation": "Faux (réponse attendue) : il se rehausse moins et plus tard."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "RADIO",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 10,
+        "originalNumber": null,
+        "auditRef": "2024-01-p10-l334"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "imagerie",
+      "lessonLinks": [
+        "hyph-anatomie",
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "IRM-ADENOME",
+      "answerNote": "Radiologie ; même question en janvier 2026 (« tuyau »).",
+      "hints": [
+        "Une proposition se trompe sur le rehaussement de l’adénome.",
+        "Comment se rehausse l’hypophyse normale en phase précoce ?",
+        "L’adénome se rehausse-t-il plus ou moins que la glande normale ?"
+      ],
+      "explanation": {
+        "text": "Les quatre premières propositions sont exactes : un macroadénome mesure 10 mm ou plus ; un adénome peut sécréter ou non, et donner alors des signes de masse ; les rapports avec les sinus caverneux et le chiasma doivent être vérifiés ; l’IRM en T1 avec gadolinium est l’examen de référence. La fausse : l’adénome ne prend pas plus de contraste que la glande normale. En phase précoce, il se rehausse moins et plus tard, car il est moins vascularisé que la glande, irriguée par le système porte.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { SESSION_LABEL, chapterById, examSessions, openChapters, questions } from '@/data/content';
+import { SESSION_LABEL, chapterById, examSessions, integratedDomainsLabel, openChapters, questions } from '@/data/content';
 import { useProgress } from '@/state/ProgressContext';
 import { buildMockExam, type MockConfig } from '@/features/exams/mockExam';
 import { archiveQuestions } from '@/features/exams/archiveFilters';
@@ -32,11 +32,11 @@ export function MockExamsPage() {
   return (
     <section>
       <h1>Examens blancs</h1>
-      <p className="lead">Compose un examen à partir des vraies questions des anciens examens (thyroïde pour l’instant). Pas de correction pendant l’examen : tout s’affiche à la fin.</p>
+      <p className="lead">Compose un examen à partir des vraies questions des anciens examens ({integratedDomainsLabel} pour l’instant). Pas de correction pendant l’examen : tout s’affiche à la fin.</p>
       <div className="filters grid">
         <label>Composer à partir de
           <select value={source} onChange={(e) => setSource(e.target.value as MockConfig['source'])}>
-            <option value="mix">Mélange des trois cours de thyroïde</option>
+            <option value="mix">Mélange des cours disponibles</option>
             <option value="session">Une année / session</option>
             <option value="teacher">Un professeur</option>
           </select>
@@ -71,7 +71,7 @@ export function MockExamsPage() {
       {source === 'session' && info && (
         <div className="notice warn">
           <strong>{info.label}</strong> : {info.announcedComposition ? `composition annoncée ${info.announcedTotal} questions (${info.announcedComposition.map((p) => `${p.part} ${p.count}`).join(', ')})` : 'composition non indiquée dans la source'}.
-          {' '}Cet examen blanc ne contient que les questions de thyroïde disponibles de cette session, dans leur ordre d’origine : ce n’est <strong>pas</strong> la reproduction complète de l’examen officiel.
+          {' '}Cet examen blanc ne contient que les questions disponibles de cette session ({integratedDomainsLabel}), dans leur ordre d’origine : ce n’est <strong>pas</strong> la reproduction complète de l’examen officiel.
         </div>
       )}
       <p>{preview.length} question(s) seront proposées{preview.length < count ? ` (toutes celles disponibles avec ces critères)` : ''}.</p>

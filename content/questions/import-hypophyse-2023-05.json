@@ -1,0 +1,613 @@
+{
+  "source": "import-hypophyse-2023-05",
+  "questions": [
+    {
+      "id": "ENDO-2023-05-ADULTE-QCMM-013",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Adénome hypophysaire non fonctionnel cliniquement, quel symptôme n’est pas présent",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Surdité brutale"
+        },
+        {
+          "id": "B",
+          "text": "Céphalée"
+        },
+        {
+          "id": "C",
+          "text": "Aménorrhée"
+        },
+        {
+          "id": "D",
+          "text": "TSH normal, T4 basse"
+        },
+        {
+          "id": "E",
+          "text": "Trouble visuels"
+        }
+      ],
+      "expected": [
+        "A",
+        "D"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [
+        "« +1 » ×2 sur la proposition : Surdité brutale"
+      ],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 16,
+        "originalNumber": 13,
+        "auditRef": "2023-05-Q13"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ANF-SIGNES",
+      "answerNote": "Deux propositions en rouge pour une question à une réponse : « surdité brutale » (+1+1) et « TSH normale, T4 basse ». Or une insuffisance thyréotrope (TSH normale, T4 basse) est possible dans un adénome non fonctionnel : la réponse attendue est vraisemblablement « surdité brutale » (voir la même question, Maiter Q8)."
+    },
+    {
+      "id": "ENDO-2023-05-ADULTE-QCM-026",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Un patient connu comme porteur d’un macroadénome hypophysaire asymptomatique et non traité arrive aux urgences pour céphalées, vomissements, diplopie. Il est afébrile. Quel est le diagnostic le plus probable?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Syndrome de Sheehan",
+          "explanation": "Non : survient après une hémorragie du post-partum."
+        },
+        {
+          "id": "B",
+          "text": "Apoplexie hypophysaire",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Méningite bactérienne ou virale",
+          "explanation": "Moins probable : le patient est afébrile."
+        },
+        {
+          "id": "D",
+          "text": "Métastases d’un carcinome hypophysaire",
+          "explanation": "Non : exceptionnel."
+        },
+        {
+          "id": "E",
+          "text": "??",
+          "explanation": "Proposition non retranscrite."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 18,
+        "originalNumber": 26,
+        "auditRef": "2023-05-Q26"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "APOPLEXIE",
+      "answerNote": "5e proposition non retranscrite (« ?? ») ; la réponse marquée est sans ambiguïté.",
+      "hints": [
+        "Le patient est porteur d’un macroadénome connu.",
+        "Céphalées brutales, vomissements, signes visuels et méningés, mais pas de fièvre.",
+        "Quelle complication aiguë d’un adénome associe hémorragie et effet de masse ?"
+      ],
+      "explanation": {
+        "text": "Céphalées brutales, vomissements, troubles visuels ou syndrome méningé, sans fièvre, chez un patient porteur d’un macroadénome : c’est une apoplexie hypophysaire (hémorragie ou infarctus de l’adénome). L’absence de fièvre rend une méningite moins probable. Le syndrome de Sheehan survient après une hémorragie du post-partum, et les carcinomes hypophysaires sont exceptionnels. Urgence : hydrocortisone, puis IRM.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2023-05-ADULTE-QCM-027",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "50 ans, Adénome hypophysaire de 2cm comprimant la tige pituitaire. Bio hormonale T4 libre 26umol/L (nl 10-22), TSH 4.9 uU/ml (nl 0.30-3.5), Cortisol nl, ACTH nl, Prolactine 65umol/L (nl <20), LH nl, Testostérone nl, GH nl, IGF1 augmenté. Quel est le type précis d’adénome ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Macroadénome à GH (acromégalie)",
+          "explanation": "Incomplet : n’explique pas la T4L élevée avec une TSH non freinée."
+        },
+        {
+          "id": "B",
+          "text": "Microadénome à TSH et Prolactine",
+          "explanation": "Non : 2 cm, c’est un macroadénome."
+        },
+        {
+          "id": "C",
+          "text": "Macroprolactinome",
+          "explanation": "Insuffisant : une prolactine à 65 n’explique ni la T4L ni l’IGF-1."
+        },
+        {
+          "id": "D",
+          "text": "Macroadénome cliniquement non fonctionnel avec hyperprolactinémie de compression",
+          "explanation": "Non : l’adénome sécrète (TSH et GH)."
+        },
+        {
+          "id": "E",
+          "text": "Macroadénome mixte GH, TSH et peut-être Prolactine",
+          "explanation": "Oui (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 18,
+        "originalNumber": 27,
+        "auditRef": "2023-05-Q27"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes",
+        "hyph-acromegalie"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "ADENOME-BIO",
+      "answerNote": "Cas clinique avec valeurs et normes de l'énoncé.",
+      "hints": [
+        "Interprète chaque axe séparément : hormone hypophysaire et hormone périphérique.",
+        "Une T4L élevée avec une TSH non freinée : d’où vient l’excès ?",
+        "L’IGF-1 élevée signe l’excès d’une autre hormone hypophysaire."
+      ],
+      "explanation": {
+        "text": "La T4 libre est élevée alors que la TSH n’est pas freinée (elle est même au-dessus de la norme) : l’hypophyse sécrète trop de TSH, il y a une composante thyréotrope. L’IGF-1 élevée signe un excès de GH, même si une GH isolée est « normale » (elle est sécrétée par pics). La prolactine à 65 peut venir de l’adénome ou de la compression de la tige. Avec 2 cm, c’est un macroadénome : la conclusion des archives est un macroadénome mixte GH et TSH, peut-être prolactine.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2023-05-ADULTE-QCM-029",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Causes modérées d’augmentattion de la prolactine, 1 fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hypothyroïdie primaire",
+          "explanation": "Cause."
+        },
+        {
+          "id": "B",
+          "text": "Diurétiques thiazidés",
+          "explanation": "Pas une cause (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Neuroleptiques",
+          "explanation": "Cause."
+        },
+        {
+          "id": "D",
+          "text": "Macroadénome compressif",
+          "explanation": "Cause."
+        },
+        {
+          "id": "E",
+          "text": "Macroprolactinémie",
+          "explanation": "Cause : taux élevé sans symptôme."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 18,
+        "originalNumber": 29,
+        "auditRef": "2023-05-Q29"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "prolactine",
+      "lessonLinks": [
+        "hyph-prolactine"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PRL-CAUSES",
+      "hints": [
+        "Les médicaments qui élèvent la prolactine bloquent la dopamine.",
+        "Un diurétique n’a pas d’effet antidopaminergique.",
+        "Pense aussi aux agrégats de prolactine détectés au laboratoire."
+      ],
+      "explanation": {
+        "text": "L’hypothyroïdie primaire (TRH), les neuroleptiques (antidopaminergiques), un macroadénome compressif (déconnexion) et la macroprolactinémie (agrégats peu actifs) élèvent modérément la prolactine. Les diurétiques thiazidés n’ont pas cet effet.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2023-05-ADULTE-QCM-033",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Qu’est ce qui n’apparait pas dans une acromégalie",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Obésité",
+          "explanation": "N’apparaît pas (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Goitre",
+          "explanation": "Apparaît : goitre souvent multinodulaire."
+        },
+        {
+          "id": "C",
+          "text": "Transpiration",
+          "explanation": "Apparaît : sueurs abondantes."
+        },
+        {
+          "id": "D",
+          "text": "Canal carpien",
+          "explanation": "Apparaît : souvent bilatéral."
+        },
+        {
+          "id": "E",
+          "text": "SAS",
+          "explanation": "Apparaît : macroglossie, voies aériennes épaissies."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 19,
+        "originalNumber": 33,
+        "auditRef": "2023-05-Q33"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "acromegalie",
+      "lessonLinks": [
+        "hyph-acromegalie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ACRO-SIGNES",
+      "hints": [
+        "L’excès de GH fait grossir l’os, les tissus mous et les viscères.",
+        "Que devient la masse grasse sous l’effet de la GH ?",
+        "Un des signes proposés concerne la silhouette générale plutôt que les extrémités."
+      ],
+      "explanation": {
+        "text": "L’acromégalie donne un goitre (organomégalie), des sueurs abondantes, un canal carpien et des apnées du sommeil. En revanche, elle ne donne pas d’obésité : la GH augmente la masse maigre et favorise la dégradation des graisses.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2023-05-ADULTE-QCM-034",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Acromégalie : tous des critères diagnostiques sauf 1 :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Modifications morphologiques caractéristiques du visage et des extrémités",
+          "explanation": "Vrai : élargissement des extrémités, traits épaissis."
+        },
+        {
+          "id": "B",
+          "text": "Adénome hypophysaire + plusieurs complications typiques (HTA, SAS, polypes du côlon)",
+          "explanation": "Vrai : HTA, apnées du sommeil et polypes coliques sont typiques."
+        },
+        {
+          "id": "C",
+          "text": "Taux élevés d’IGF-1",
+          "explanation": "Vrai : premier examen à demander."
+        },
+        {
+          "id": "D",
+          "text": "Absence de suppression de GH au test OGTT",
+          "explanation": "Vrai : le glucose freine normalement la GH."
+        },
+        {
+          "id": "E",
+          "text": "Absence d’élévation de la GH à l’hypoglycémie insulinique",
+          "explanation": "Faux (réponse attendue) : ce test sert au diagnostic d’un déficit en GH."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 19,
+        "originalNumber": 34,
+        "auditRef": "2023-05-Q34"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "acromegalie",
+      "lessonLinks": [
+        "hyph-acromegalie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ACRO-DIAG",
+      "hints": [
+        "Distingue les tests qui cherchent un EXCÈS de GH de ceux qui cherchent un DÉFICIT.",
+        "Le glucose freine normalement la GH ; l’hypoglycémie la stimule.",
+        "Quel test de stimulation sert à prouver un déficit en GH ?"
+      ],
+      "explanation": {
+        "text": "L’acromégalie se reconnaît à la dysmorphie, aux complications typiques et à la biologie : IGF-1 élevée pour l’âge et absence de freinage de la GH pendant une hyperglycémie provoquée par voie orale. L’hypoglycémie insulinique, elle, stimule la GH : c’est le test de référence pour prouver un déficit en GH, pas pour diagnostiquer une acromégalie.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2023-05-RADIO-QCM-079",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Qu’est-ce qui distingue un adénome hypophysaire d’un tissu normal en parenchymographie?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Ne rehausse pas",
+          "explanation": "Faux : il se rehausse, mais moins."
+        },
+        {
+          "id": "B",
+          "text": "Rehausse, mais moins que le tissu normal",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Rehausse de la même manière",
+          "explanation": "Faux : sinon on ne le verrait pas."
+        },
+        {
+          "id": "D",
+          "text": "rehausse plus",
+          "explanation": "Faux : c’est l’inverse."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "RADIO",
+        "teacher": "Coche / Duprez",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 24,
+        "originalNumber": 79,
+        "auditRef": "2023-05-Q79"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "imagerie",
+      "lessonLinks": [
+        "hyph-anatomie",
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "IRM-ADENOME",
+      "answerNote": "Radiologie (Coche / Duprez).",
+      "hints": [
+        "La glande normale n’a pas de barrière hémato-encéphalique et reçoit le sang du système porte.",
+        "Comment se rehausse un tissu très richement vascularisé dans les premières secondes ?",
+        "L’adénome est-il plus ou moins vascularisé que la glande normale ?"
+      ],
+      "explanation": {
+        "text": "En phase précoce après injection de gadolinium, l’hypophyse normale se rehausse vite et fort (système porte, pas de barrière hémato-encéphalique). L’adénome, moins vascularisé, se rehausse aussi, mais moins et plus tard : il apparaît comme une zone relativement sombre dans une glande brillante. C’est le principe de la séquence dynamique.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2023-05-RADIO-QCM-080",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quelle caractéristique de la neurohypophyse fonctionnelle a l’imagerie :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hyposignal t1",
+          "explanation": "Faux."
+        },
+        {
+          "id": "B",
+          "text": "Hypersignal t1",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Hyposignal t2",
+          "explanation": "Faux : la séquence clé est le T1."
+        },
+        {
+          "id": "D",
+          "text": "Hypersignal t2",
+          "explanation": "Faux : la séquence clé est le T1."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "RADIO",
+        "teacher": "Coche / Duprez",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 24,
+        "originalNumber": 80,
+        "auditRef": "2023-05-Q80"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "imagerie",
+      "lessonLinks": [
+        "hyph-anatomie",
+        "hyph-posthypophyse"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "IRM-NEURO",
+      "answerNote": "Radiologie (Coche / Duprez).",
+      "hints": [
+        "La neurohypophyse stocke une hormone dans des granules.",
+        "Ces granules modifient le signal IRM d’une séquence particulière.",
+        "On parle classiquement de « tache blanche » de la posthypophyse."
+      ],
+      "explanation": {
+        "text": "La neurohypophyse fonctionnelle apparaît spontanément en hypersignal T1 (« tache blanche »), grâce aux granules de vasopressine stockés dans les terminaisons nerveuses. Cet hypersignal disparaît dans le diabète insipide central.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2023-05-PHARMA-QCM-091",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quel effet a la somatostatine ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hypoglycémie",
+          "explanation": "Possible mais rare (inhibition du glucagon) ; ce n’est pas l’effet retenu."
+        },
+        {
+          "id": "B",
+          "text": "Hyperglycémie",
+          "explanation": "Oui (réponse attendue) : inhibition de l’insuline."
+        },
+        {
+          "id": "C",
+          "text": "Hypocalcémie",
+          "explanation": "Non."
+        },
+        {
+          "id": "D",
+          "text": "Hypercalcémie",
+          "explanation": "Non."
+        },
+        {
+          "id": "E",
+          "text": "Augmentation des phosphatases alcalines",
+          "explanation": "Non."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 26,
+        "originalNumber": 91,
+        "auditRef": "2023-05-Q91"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "acromegalie",
+      "lessonLinks": [
+        "hyph-acromegalie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SOMATOSTATINE",
+      "answerNote": "Pharmacologie (Horsmans).",
+      "hints": [
+        "La somatostatine freine de nombreuses hormones, dont deux hormones du pancréas.",
+        "Laquelle de ces deux hormones pancréatiques fait baisser la glycémie ?",
+        "Si on freine l’hormone qui abaisse la glycémie, que devient la glycémie ?"
+      ],
+      "explanation": {
+        "text": "La somatostatine et ses analogues (octréotide, lanréotide) freinent la GH, la TSH et les sécrétions digestives, mais aussi l’insuline et le glucagon. L’effet métabolique retenu dans les archives est l’hyperglycémie, par inhibition de l’insuline. Les effets indésirables digestifs (diarrhées, douleurs abdominales) et la lithiase biliaire sont fréquents. Hypercalcémie, hypocalcémie et élévation des phosphatases alcalines ne sont pas des effets classiques.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

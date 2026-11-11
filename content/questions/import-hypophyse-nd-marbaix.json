@@ -1,0 +1,270 @@
+{
+  "source": "import-hypophyse-nd-marbaix",
+  "questions": [
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-121",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Adénome hypophysaire",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Cellules avec gros noyaux",
+          "explanation": "Non : cellules monotones, sans gros noyaux caractéristiques."
+        },
+        {
+          "id": "B",
+          "text": "Peut causer une amputation du champ visuel sans causer de troubles hormonaux (??)",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Contient des fibres réticulaires",
+          "explanation": "Non : la trame réticulinique est perdue."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 81,
+        "originalNumber": 1,
+        "auditRef": "ND-marbaix-hypophyse-Q1"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ANAPATH-ADENOME",
+      "answerNote": "Doute du transcripteur (« (??) ») ; la proposition retenue est la seule exacte.",
+      "hints": [
+        "Un adénome peut être non fonctionnel.",
+        "Sans sécrétion, comment un adénome se révèle-t-il ?",
+        "Pense à la structure nerveuse située au-dessus de l’hypophyse."
+      ],
+      "explanation": {
+        "text": "Un adénome non fonctionnel peut amputer le champ visuel par compression du chiasma sans aucun trouble hormonal apparent. Les cellules adénomateuses n’ont pas de « gros noyaux » caractéristiques : elles sont monotones. Et l’adénome se caractérise par la disparition de la trame réticulinique, qui entoure normalement les acini : il ne « contient » pas de fibres réticulaires organisées.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-122",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Dans quelle partie de l’hypophyse les terminaisons des neurones hypothalamiques",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Post hypophyse",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Partie latérale de l’hypophyse",
+          "explanation": "Non."
+        },
+        {
+          "id": "C",
+          "text": "Partie mediane de l’hypophyse",
+          "explanation": "Non."
+        },
+        {
+          "id": "D",
+          "text": "Pars intermedia",
+          "explanation": "Non : partie intermédiaire, rudimentaire chez l’humain."
+        },
+        {
+          "id": "E",
+          "text": "Poche de rathke",
+          "explanation": "Non : origine embryologique de l’antéhypophyse."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 81,
+        "originalNumber": 2,
+        "auditRef": "ND-marbaix-hypophyse-Q2"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "imagerie",
+      "lessonLinks": [
+        "hyph-anatomie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ANAT-HYPOPH",
+      "answerNote": "Anatomie pathologique (Marbaix).",
+      "hints": [
+        "L’hypophyse a deux parties d’origine différente.",
+        "L’une est une glande, l’autre est faite de tissu nerveux.",
+        "Les axones des neurones hypothalamiques descendent le long de la tige."
+      ],
+      "explanation": {
+        "text": "La posthypophyse (neurohypophyse) est faite des terminaisons axonales des neurones des noyaux supraoptiques et paraventriculaires de l’hypothalamus : elles y libèrent l’ADH et l’ocytocine. La pars intermedia et la poche de Rathke appartiennent à l’antéhypophyse et à son origine embryologique.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-123",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Syndrome de Sheehan:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Caractérisé par la triade: galactorrhée ménorragies hyperpigmentation",
+          "explanation": "Faux : c’est l’inverse (agalactie, aménorrhée, dépigmentation)."
+        },
+        {
+          "id": "B",
+          "text": "Synonyme de “selle turcique vide”",
+          "explanation": "Faux : la selle peut devenir vide ensuite, mais ce n’est pas un synonyme."
+        },
+        {
+          "id": "C",
+          "text": "Est la conséquence de thromboses dans les sinus caverneux",
+          "explanation": "Faux."
+        },
+        {
+          "id": "D",
+          "text": "Nécrose ischémique de l’hypophyse sur choc circulatoire secondaire à des hémorragies du postpartum",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "un autre truc sur les les adénomes hypophysaires qui se nécrosaient, mais c’était clairement pas ça",
+          "explanation": "Proposition résumée par le transcripteur."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 81,
+        "originalNumber": 3,
+        "auditRef": "ND-marbaix-hypophyse-Q3"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "hyph-insuffisance"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SHEEHAN",
+      "answerNote": "Anatomie pathologique (Marbaix) ; proposition e résumée par le transcripteur.",
+      "hints": [
+        "Le syndrome de Sheehan survient dans un contexte obstétrical.",
+        "Pendant la grossesse, l’hypophyse grossit et devient vulnérable.",
+        "Une hémorragie grave prive la glande de sang."
+      ],
+      "explanation": {
+        "text": "Le syndrome de Sheehan est une nécrose ischémique de l’hypophyse, après un choc hémorragique du post-partum. Il donne une insuffisance antéhypophysaire : absence de montée laiteuse (pas de galactorrhée), absence de retour des règles, dépigmentation (pas d’hyperpigmentation). Ce n’est ni une selle turcique vide, ni une thrombose des sinus caverneux.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-124",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "Concernant l’adénome hypophysaire (1 vrai)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Entraîne toujours des symptômes endocriniens multiples",
+          "explanation": "Faux : « toujours » ; beaucoup d’adénomes sont non fonctionnels."
+        },
+        {
+          "id": "B",
+          "text": "Trame réticulinique augmentée",
+          "explanation": "Faux : elle est perdue."
+        },
+        {
+          "id": "C",
+          "text": "Entraîne toujours une hyperprolactinémie",
+          "explanation": "Faux : « toujours »."
+        },
+        {
+          "id": "D",
+          "text": "Peut causer une déficience visuelle",
+          "explanation": "Vrai (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 81,
+        "originalNumber": 4,
+        "auditRef": "ND-marbaix-hypophyse-Q4"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ANAPATH-ADENOME",
+      "answerNote": "Anatomie pathologique (Marbaix).",
+      "hints": [
+        "Méfie-toi du mot « toujours ».",
+        "En anatomie pathologique, l’adénome détruit l’organisation normale du tissu.",
+        "Un adénome volumineux peut comprimer une structure nerveuse voisine."
+      ],
+      "explanation": {
+        "text": "Un adénome peut causer une déficience visuelle par compression du chiasma. Il n’entraîne pas toujours de symptômes endocriniens (adénomes non fonctionnels), ni toujours une hyperprolactinémie. En anatomie pathologique, la trame réticulinique est détruite, pas augmentée.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

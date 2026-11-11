@@ -1,0 +1,476 @@
+{
+  "source": "exercices-hypophyse",
+  "questions": [
+    {
+      "id": "ENDO-EX-hypophyse-VF-001",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "La prolactine est la seule hormone hypophysaire freinée en permanence par l’hypothalamus, par la dopamine.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypophyse",
+      "subchapter": "imagerie",
+      "lessonLinks": [
+        "hyph-anatomie"
+      ],
+      "tags": [
+        "prolactine",
+        "physiologie"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Pense à ce qui arrive aux hormones quand la tige est coupée.",
+        "Toutes baissent, sauf une.",
+        "Quel neurotransmetteur freine la lactation ?"
+      ],
+      "explanation": {
+        "text": "Les autres hormones antéhypophysaires ont besoin d’une stimulation hypothalamique. La prolactine, elle, est freinée par la dopamine : une compression de la tige la fait monter.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hypophyse-VF-002",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "En IRM, en phase précoce après injection, un microadénome se rehausse plus que la glande normale.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypophyse",
+      "subchapter": "imagerie",
+      "lessonLinks": [
+        "hyph-anatomie"
+      ],
+      "tags": [
+        "IRM"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Quel tissu est le plus richement vascularisé ?",
+        "La glande normale n’a pas de barrière hémato-encéphalique.",
+        "L’adénome apparaît-il plus clair ou plus sombre ?"
+      ],
+      "explanation": {
+        "text": "C’est l’inverse : la glande normale, irriguée par le système porte, se rehausse vite et fort ; l’adénome se rehausse moins et plus tard.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hypophyse-VF-003",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Un macroadénome qui s’étend vers le haut donne typiquement une hémianopsie bitemporale.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes"
+      ],
+      "tags": [
+        "troubles visuels"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Quelle structure se trouve au-dessus de l’hypophyse ?",
+        "Au chiasma, certaines fibres se croisent.",
+        "Ces fibres portent quels champs visuels ?"
+      ],
+      "explanation": {
+        "text": "En s’étendant vers le haut, il comprime le chiasma optique, où se croisent les fibres des rétines nasales, qui portent les champs temporaux.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hypophyse-VF-004",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Un adénome hypophysaire non fonctionnel donne un hypogonadisme hypergonadotrope.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes"
+      ],
+      "tags": [
+        "adénome non fonctionnel"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "D’où vient le déficit : des gonades ou de l’hypophyse ?",
+        "Si l’hypophyse est déficitaire, que deviennent LH et FSH ?",
+        "« Hyper » signifierait des LH et FSH élevées."
+      ],
+      "explanation": {
+        "text": "Il écrase les cellules gonadotropes : LH et FSH sont basses ou inappropriées. L’hypogonadisme est hypogonadotrope (central).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hypophyse-VF-005",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "L’hypothyroïdie primaire peut provoquer une hyperprolactinémie.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypophyse",
+      "subchapter": "prolactine",
+      "lessonLinks": [
+        "hyph-prolactine"
+      ],
+      "tags": [
+        "prolactine",
+        "thyroïde"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Quelle hormone hypothalamique monte dans l’hypothyroïdie primaire ?",
+        "Cette hormone agit sur plusieurs types de cellules hypophysaires.",
+        "Pense aux cellules lactotropes."
+      ],
+      "explanation": {
+        "text": "Dans l’hypothyroïdie primaire, la TRH augmente ; elle stimule aussi les cellules lactotropes. La prolactine se normalise avec la L-thyroxine.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hypophyse-VF-006",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Un macroprolactinome doit être opéré en première intention.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypophyse",
+      "subchapter": "prolactine",
+      "lessonLinks": [
+        "hyph-prolactine"
+      ],
+      "tags": [
+        "prolactinome",
+        "traitement"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Le prolactinome est une exception parmi les adénomes.",
+        "Un médicament imite le frein naturel de la prolactine.",
+        "Ce traitement réduit aussi la taille de l’adénome."
+      ],
+      "explanation": {
+        "text": "Le prolactinome, même volumineux, se traite d’abord par un agoniste dopaminergique (cabergoline), qui fait baisser la prolactine et rétrécir l’adénome.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hypophyse-VF-007",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Le dosage de l’IGF-1 est le premier examen pour dépister une acromégalie.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypophyse",
+      "subchapter": "acromegalie",
+      "lessonLinks": [
+        "hyph-acromegalie"
+      ],
+      "tags": [
+        "acromégalie",
+        "diagnostic"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "La GH est sécrétée par pics.",
+        "Quelle hormone, fabriquée par le foie, reflète la GH sur la durée ?",
+        "Elle varie peu au cours de la journée."
+      ],
+      "explanation": {
+        "text": "L’IGF-1 reflète la sécrétion moyenne de GH. Un dosage isolé de GH ne suffit pas, car la GH est sécrétée par pics. On confirme si besoin par l’absence de freinage de la GH sous HGPO.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hypophyse-VF-008",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Dans l’acromégalie, la GH est normalement freinée par l’hyperglycémie provoquée par voie orale.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypophyse",
+      "subchapter": "acromegalie",
+      "lessonLinks": [
+        "hyph-acromegalie"
+      ],
+      "tags": [
+        "acromégalie",
+        "HGPO"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Que fait normalement le glucose sur la GH ?",
+        "Un adénome somatotrope échappe-t-il à ce contrôle ?",
+        "L’absence de freinage est le critère recherché."
+      ],
+      "explanation": {
+        "text": "Chez le sujet sain, le glucose freine la GH. Dans l’acromégalie, ce freinage n’a pas lieu : c’est un critère diagnostique.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hypophyse-VF-009",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Pour dépister un syndrome de Cushing, on dose le cortisol salivaire de fin de soirée.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypophyse",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "hyph-cushing"
+      ],
+      "tags": [
+        "Cushing",
+        "diagnostic"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Le cortisol suit un rythme sur 24 heures.",
+        "À quel moment est-il normalement le plus bas ?",
+        "Le Cushing efface ce rythme."
+      ],
+      "explanation": {
+        "text": "Le cortisol est normalement au plus bas vers minuit. Dans le Cushing, le rythme circadien disparaît et le cortisol du soir reste élevé.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hypophyse-VF-010",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Dans un syndrome de Cushing, l’ACTH est toujours élevée.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypophyse",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "hyph-cushing"
+      ],
+      "tags": [
+        "Cushing",
+        "ACTH"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Méfie-toi du mot « toujours ».",
+        "Le cortisol en excès freine l’hypophyse.",
+        "Que devient l’ACTH si la cause est surrénalienne ?"
+      ],
+      "explanation": {
+        "text": "L’ACTH est élevée ou normale dans la maladie de Cushing et la sécrétion ectopique, mais effondrée dans les causes surrénaliennes et la prise de corticoïdes.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hypophyse-VF-011",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Dans un panhypopituitarisme, on commence la L-thyroxine avant l’hydrocortisone.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypophyse",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "hyph-insuffisance"
+      ],
+      "tags": [
+        "panhypopituitarisme",
+        "traitement"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Un des deux traitements augmente les besoins de l’autre hormone.",
+        "La L-thyroxine accélère le métabolisme du cortisol.",
+        "Que risque un patient sans réserve de cortisol ?"
+      ],
+      "explanation": {
+        "text": "C’est l’inverse : la L-thyroxine accélère la dégradation du cortisol. Donnée seule, elle peut déclencher une insuffisance surrénale aiguë. L’hydrocortisone vient avant ou en même temps.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hypophyse-VF-012",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Sous L-thyroxine, une hypothyroïdie centrale se surveille par la T4 libre, et non par la TSH.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypophyse",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "hyph-insuffisance"
+      ],
+      "tags": [
+        "hypothyroïdie centrale"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Où est la maladie : dans la thyroïde ou dans l’hypophyse ?",
+        "La TSH vient de l’hypophyse.",
+        "Peut-on se fier à une hormone produite par l’organe malade ?"
+      ],
+      "explanation": {
+        "text": "Dans l’hypothyroïdie centrale, l’hypophyse ne produit pas une TSH fiable : la TSH ne reflète pas la dose. On ajuste la L-thyroxine sur la T4 libre.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hypophyse-VF-013",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Dans un diabète insipide, les urines sont plus concentrées que le plasma.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypophyse",
+      "subchapter": "posthypophyse",
+      "lessonLinks": [
+        "hyph-posthypophyse"
+      ],
+      "tags": [
+        "diabète insipide"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "L’ADH sert à réabsorber l’eau dans le rein.",
+        "Sans ADH, l’eau part dans les urines.",
+        "Les urines sont-elles alors concentrées ou diluées ?"
+      ],
+      "explanation": {
+        "text": "Sans ADH, le rein ne réabsorbe pas l’eau : les urines sont abondantes et diluées, leur osmolalité est inférieure à celle du plasma.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hypophyse-VF-014",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Dans un diabète insipide central, les urines se concentrent nettement après l’administration de desmopressine.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypophyse",
+      "subchapter": "posthypophyse",
+      "lessonLinks": [
+        "hyph-posthypophyse"
+      ],
+      "tags": [
+        "diabète insipide",
+        "desmopressine"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Où est le défaut dans la forme centrale ?",
+        "Le rein est-il capable de répondre à l’ADH ?",
+        "La desmopressine remplace l’ADH manquante."
+      ],
+      "explanation": {
+        "text": "Dans la forme centrale, c’est la sécrétion d’ADH qui manque ; le rein répond normalement quand on lui apporte de la desmopressine. Dans la forme néphrogénique, il n’y a pas de réponse.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

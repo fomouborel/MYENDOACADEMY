@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { chapters, lessons as allLessons, questions } from '@/data/content';
+import { integratedDomainsLabel, lessons as allLessons, openChapters, questions } from '@/data/content';
 import { ChapterCard } from '@/components/ChapterCard';
 import { BackupReminder } from '@/components/BackupReminder';
 import { CoverageStats } from '@/components/Stats';
@@ -12,8 +12,7 @@ export function HomePage() {
   const { lessons, states, sessions, attempts } = useProgress();
   const now = new Date();
   const nextLesson = allLessons.find((l) => !lessons.get(l.id)?.completedAt);
-  const thyroid = chapters.filter((c) => c.domain === 'thyroide');
-  const levels = thyroid.map((c) => ({ c, m: chapterMastery(c.id, questions, states, sessions) }));
+  const levels = openChapters.map((c) => ({ c, m: chapterMastery(c.id, questions, states, sessions) }));
   const mastered = levels.filter((x) => x.m.level === 'mastered');
   const toStrengthen = levels.filter((x) => x.m.level !== 'not-started' && x.m.level !== 'mastered' && (x.m.successRate ?? 1) < 0.7);
   const errors = errorNotebook(questions, attempts, states, now).filter((e) => !e.resolved).slice(0, 5);
@@ -35,8 +34,8 @@ export function HomePage() {
         <div className="notice"><strong>🔁 {due.ids.length} question(s) à réviser aujourd’hui.</strong> <Link to={`/quiz?mode=free&ids=${due.ids.slice(0, 20).join(',')}`}>Réviser maintenant</Link></div>
       )}
 
-      <h2>Thyroïde : tes trois premiers cours</h2>
-      <ul className="cards">{thyroid.map((c) => <ChapterCard key={c.id} c={c} />)}</ul>
+      <h2>Tes cours ({integratedDomainsLabel})</h2>
+      <ul className="cards">{openChapters.map((c) => <ChapterCard key={c.id} c={c} />)}</ul>
 
       <h2>Ta progression</h2>
       <CoverageStats />
@@ -75,7 +74,7 @@ export function HomePage() {
         <p className="muted">Ton tableau de bord se remplira dès tes premières réponses.</p>
       )}
       <p className="muted">
-        Banque actuelle : {questions.filter((q) => q.kind === 'archive').length} questions d’anciens examens de thyroïde (2016-2026), {questions.filter((q) => q.kind === 'exercise').length} exercices et cas cliniques.{' '}
+        Banque actuelle : {questions.filter((q) => q.kind === 'archive').length} questions d’anciens examens ({integratedDomainsLabel}, 2016-2026), {questions.filter((q) => q.kind === 'exercise').length} exercices et cas cliniques.{' '}
         <Link to="/examens">Parcourir les anciens examens</Link>
       </p>
     </section>

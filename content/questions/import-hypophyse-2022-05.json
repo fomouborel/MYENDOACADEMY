@@ -1,0 +1,140 @@
+{
+  "source": "import-hypophyse-2022-05",
+  "questions": [
+    {
+      "id": "ENDO-2022-05-ADULTE-QCM-040",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "la prolactine peut être modérément augmentée si (1 fausse ?) :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hypothyroidie",
+          "explanation": "Cause : la TRH stimule la prolactine."
+        },
+        {
+          "id": "B",
+          "text": "Insuffisance rénale",
+          "explanation": "Cause : élimination diminuée."
+        },
+        {
+          "id": "C",
+          "text": "Insuffisance cortico-surrénalienne",
+          "explanation": "Pas une cause classique (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Neuroleptiques",
+          "explanation": "Cause : antidopaminergiques."
+        },
+        {
+          "id": "E",
+          "text": "Macroadenome de l'hypophyse compressifa",
+          "explanation": "Cause : déconnexion."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2022-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 32,
+        "originalNumber": 40,
+        "auditRef": "2022-05-Q40"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "prolactine",
+      "lessonLinks": [
+        "hyph-prolactine"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PRL-CAUSES",
+      "answerNote": "Consigne retranscrite avec doute (« 1 fausse ? »).",
+      "hints": [
+        "Classe les propositions : hormone qui stimule, élimination diminuée, frein dopaminergique levé.",
+        "La TRH élevée de l’hypothyroïdie stimule aussi la prolactine.",
+        "Une proposition concerne une glande qui n’agit pas sur la prolactine."
+      ],
+      "explanation": {
+        "text": "L’hypothyroïdie (TRH élevée), l’insuffisance rénale (élimination diminuée), les neuroleptiques (antidopaminergiques) et un macroadénome qui comprime la tige (déconnexion) élèvent modérément la prolactine. L’insuffisance cortico-surrénalienne n’est pas une cause classique. La consigne a été retranscrite avec un doute (« 1 fausse ? »).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2022-05-PHARMA-QCM-900",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "quinagolide est:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "un agoniste dopaminergique",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "un anthyroidien de synthèse",
+          "explanation": "Non."
+        },
+        {
+          "id": "C",
+          "text": "médicament hypoglycémiant",
+          "explanation": "Non."
+        },
+        {
+          "id": "D",
+          "text": "la maladie de sachs",
+          "explanation": "Non : proposition fantaisiste."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2022-05",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 37,
+        "originalNumber": null,
+        "auditRef": "2022-05-p37-l1414"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "prolactine",
+      "lessonLinks": [
+        "hyph-prolactine"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "AGONISTES-DA",
+      "answerNote": "Pharmacologie (Horsmans).",
+      "hints": [
+        "Le quinagolide est utilisé dans le traitement de l’hyperprolactinémie.",
+        "Quel neurotransmetteur freine naturellement la prolactine ?",
+        "Le médicament imite ce neurotransmetteur."
+      ],
+      "explanation": {
+        "text": "Le quinagolide est un agoniste dopaminergique non dérivé de l’ergot de seigle. Comme la dopamine, il freine la sécrétion de prolactine : il traite les hyperprolactinémies et les prolactinomes. Il n’est ni antithyroïdien, ni antifongique, ni hypo- ou hyperglycémiant, et il fait baisser la prolactine.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

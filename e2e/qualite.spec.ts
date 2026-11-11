@@ -2,7 +2,8 @@ import { expect, test } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
 
 const PAGES = ['./', './#/cours', './#/cours/thyroide', './#/cours/hyper/lecon/hyper-diagnostic', './#/quiz?mode=exam-level&chapter=hypo',
-  './#/entrainement', './#/examens', './#/cas-cliniques/cas-hyper-basedow', './#/examens-blancs', './#/erreurs', './#/revisions', './#/progression', './#/aide'];
+  './#/entrainement', './#/examens', './#/cas-cliniques/cas-hyper-basedow', './#/examens-blancs', './#/erreurs', './#/revisions', './#/progression', './#/aide',
+  './#/cours/hypophyse', './#/cours/hypophyse/lecon/hyph-anatomie', './#/quiz?mode=check&chapter=hypophyse'];
 
 test('accessibilité : aucune violation grave ou critique (axe-core)', async ({ page }) => {
   const all: string[] = [];

@@ -58,5 +58,5 @@
 3. **Site public** : toute personne qui connaît l'adresse peut voir les cours et les questions, jamais la progression. Voir l'étude Cloudflare Access (phase 2, § 10).
 4. **Corrections non officielles** : 0 correction officielle dans les sources. 14 réponses sont discutées et 52 questions ne sont que consultables.
 5. **Explications** : toutes les questions d'examen notées ont désormais 3 indices, une explication et une remarque par proposition (complété après la phase 7, en deux lots). **Toutes ces explications sont « à valider »** : aucune n'a été relue par un enseignant. Un test empêche désormais d'ajouter une question notée sans explication.
-6. **Périmètre** : la thyroïde seulement. Les autres domaines sont inventoriés (phase 1), mais pas encore intégrés.
+6. **Périmètre** : la thyroïde et l'hypophyse (voir `DOMAINE-HYPOPHYSE.md`). Les autres domaines sont inventoriés (phase 1), mais pas encore intégrés.
 7. **Taille** : l'application pèse environ 300 Ko compressés. Elle reste utilisable hors connexion après la première visite.

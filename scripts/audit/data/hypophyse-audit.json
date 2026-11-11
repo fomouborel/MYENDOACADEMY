@@ -1,0 +1,3477 @@
+[
+ {
+  "ref": "2024-01-Q23",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 4,
+  "num": 23,
+  "line": 114,
+  "stem": [
+   "en cas d’acromegalie, qu’est ce qui n’est pas observée ?"
+  ],
+  "lines": [
+   "a) Atrophie cutane",
+   "b) SAS",
+   "c) Polype colon"
+  ],
+  "marked": [
+   "a) Atrophie cutane"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Acromégalie : signes et complications",
+  "note": "3 propositions.",
+  "groupe": "ACRO-SIGNES",
+  "answer": "a) Atrophie cutane",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "acromegalie",
+   "lessons": [
+    "hyph-acromegalie"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-p4-l118",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "RADIO",
+  "teacher": "non précisé",
+  "page": 4,
+  "num": null,
+  "line": 118,
+  "stem": [
+   "Dans le diabète insipide centrale (la fausse)"
+  ],
+  "lines": [
+   "Osmolarité urinaire plus haute que la plasmatique",
+   "On ne voit plus la neurohypophyse à l’IRM",
+   "Repond au minirin"
+  ],
+  "marked": [
+   "Osmolarité urinaire plus haute que la plasmatique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Diabète insipide",
+  "note": "Radiologie ; 3 propositions.",
+  "groupe": "DI",
+  "answer": "Osmolarité urinaire plus haute que la plasmatique",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "posthypophyse",
+   "lessons": [
+    "hyph-posthypophyse"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q39",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 6,
+  "num": 39,
+  "line": 208,
+  "stem": [
+   "observables en cas de macropolactinome nô secretant chez femme, la fausse :",
+   "Alopecie temporale"
+  ],
+  "lines": [
+   "Galactorhée",
+   "Aménorrhée secondaire",
+   "céphalées"
+  ],
+  "marked": [
+   "Alopecie temporale"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Hyperprolactinémie : signes",
+  "note": "La première proposition (« Alopécie temporale ») est collée à l'énoncé dans la retranscription.",
+  "groupe": "PRL-CLINIQUE",
+  "answer": "Alopecie temporale",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "prolactine",
+   "lessons": [
+    "hyph-prolactine"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q42",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 6,
+  "num": 42,
+  "line": 213,
+  "stem": [
+   "Ce qui donne une hyperprolactinémie"
+  ],
+  "lines": [
+   "Selle turcique vide",
+   "Microadénome non-sécrétant",
+   "??"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Causes d'hyperprolactinémie",
+  "note": "",
+  "groupe": "PRL-CAUSES",
+  "answer": "",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "prolactine",
+   "lessons": [
+    "hyph-prolactine"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q44",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 7,
+  "num": 44,
+  "line": 224,
+  "stem": [
+   "adénome hypophysaire de 25mm compressif avec t4 diminué tsh nle, cortisol nle, acth nle , gh nle; igf1",
+   "augmenté, prolactine augmentée"
+  ],
+  "lines": [
+   "A. Macro adénome non sécrétant mais augmentant la prolactine par compression",
+   "B. ?",
+   "C. Micro adénome à gh",
+   "D. Macro adénome à gh (et peut-être prolactinome)"
+  ],
+  "marked": [
+   "D. Macro adénome à gh (et peut-être prolactinome)"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Adénome avec bilan hormonal : quel type ?",
+  "note": "Proposition B non retranscrite (« ? »).",
+  "groupe": "ADENOME-BIO",
+  "answer": "D. Macro adénome à gh (et peut-être prolactinome)",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes",
+    "hyph-acromegalie"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-p10-l334",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "RADIO",
+  "teacher": "non précisé",
+  "page": 10,
+  "num": null,
+  "line": 334,
+  "stem": [
+   "Concernant l’adénome hypophysaire, toutes les propositions suivant sont bonnes sauf une, laquelle ?"
+  ],
+  "lines": [
+   "a) Un macroadenome est >1cm",
+   "b) Ils peuvent être sécrétant ou alors ne rien sécréter et donner des symptômes dus a leurs",
+   "tailles",
+   "c) L’hypophyse est situés à proximité des sinus caverneux et chiasma optique, il est",
+   "intéressant de vérifier ces structures sur une imagerie",
+   "d) Pour bien visualiser l’hypophyse, IRM en pondération T1 avec du produit de contraste est",
+   "bien",
+   "e) Sur un une imagerie irm t1, l’adénome va prendre plus de contraste que le reste de la",
+   "glande car l’adénome est mieux vascularisée."
+  ],
+  "marked": [
+   "e) Sur un une imagerie irm t1, l’adénome va prendre plus de contraste que le reste de la",
+   "glande car l’adénome est mieux vascularisée."
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "IRM : rehaussement de l'adénome, séquences",
+  "note": "Radiologie ; même question en janvier 2026 (« tuyau »).",
+  "groupe": "IRM-ADENOME",
+  "answer": "e) Sur un une imagerie irm t1, l’adénome va prendre plus de contraste que le reste de la | glande car l’adénome est mieux vascularisée.",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "imagerie",
+   "lessons": [
+    "hyph-anatomie",
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q13",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 16,
+  "num": 13,
+  "line": 544,
+  "stem": [
+   "Adénome hypophysaire non fonctionnel cliniquement, quel symptôme n’est pas présent"
+  ],
+  "lines": [
+   "A. Surdité brutale +1+1",
+   "B. Céphalée",
+   "C. Aménorrhée",
+   "D. TSH normal, T4 basse",
+   "E. Trouble visuels"
+  ],
+  "marked": [
+   "A. Surdité brutale +1+1",
+   "D. TSH normal, T4 basse"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Adénome non fonctionnel : signes et complications",
+  "note": "Deux propositions en rouge pour une question à une réponse : « surdité brutale » (+1+1) et « TSH normale, T4 basse ». Or une insuffisance thyréotrope (TSH normale, T4 basse) est possible dans un adénome non fonctionnel : la réponse attendue est vraisemblablement « surdité brutale » (voir la même question, Maiter Q8).",
+  "groupe": "ANF-SIGNES",
+  "answer": "A. Surdité brutale +1+1 | D. TSH normal, T4 basse",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q26",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 18,
+  "num": 26,
+  "line": 629,
+  "stem": [
+   "Un patient connu comme porteur d’un macroadénome hypophysaire asymptomatique et",
+   "non traité arrive aux urgences pour céphalées, vomissements, diplopie. Il est afébrile. Quel est",
+   "le diagnostic le plus probable?"
+  ],
+  "lines": [
+   "A. Syndrome de Sheehan",
+   "B. Apoplexie hypophysaire",
+   "C. Méningite bactérienne ou virale",
+   "D. Métastases d’un carcinome hypophysaire",
+   "E. ??"
+  ],
+  "marked": [
+   "B. Apoplexie hypophysaire"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Apoplexie hypophysaire",
+  "note": "5e proposition non retranscrite (« ?? ») ; la réponse marquée est sans ambiguïté.",
+  "groupe": "APOPLEXIE",
+  "answer": "B. Apoplexie hypophysaire",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q27",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 18,
+  "num": 27,
+  "line": 637,
+  "stem": [
+   "50 ans, Adénome hypophysaire de 2cm comprimant la tige pituitaire. Bio hormonale T4 libre",
+   "26umol/L (nl 10-22), TSH 4.9 uU/ml (nl 0.30-3.5), Cortisol nl, ACTH nl, Prolactine 65umol/L (nl",
+   "<20), LH nl, Testostérone nl, GH nl, IGF1 augmenté. Quel est le type précis d’adénome ?"
+  ],
+  "lines": [
+   "A. Macroadénome à GH (acromégalie)",
+   "B. Microadénome à TSH et Prolactine",
+   "C. Macroprolactinome",
+   "D. Macroadénome cliniquement non fonctionnel avec hyperprolactinémie de compression",
+   "E. Macroadénome mixte GH, TSH et peut-être Prolactine"
+  ],
+  "marked": [
+   "E. Macroadénome mixte GH, TSH et peut-être Prolactine"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Adénome avec bilan hormonal : quel type ?",
+  "note": "Cas clinique avec valeurs et normes de l'énoncé.",
+  "groupe": "ADENOME-BIO",
+  "answer": "E. Macroadénome mixte GH, TSH et peut-être Prolactine",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes",
+    "hyph-acromegalie"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q29",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 18,
+  "num": 29,
+  "line": 653,
+  "stem": [
+   "Causes modérées d’augmentattion de la prolactine, 1 fausse :"
+  ],
+  "lines": [
+   "A. Hypothyroïdie primaire",
+   "B. Diurétiques thiazidés",
+   "C. Neuroleptiques",
+   "D. Macroadénome compressif",
+   "E. Macroprolactinémie"
+  ],
+  "marked": [
+   "B. Diurétiques thiazidés"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Causes d'hyperprolactinémie",
+  "note": "",
+  "groupe": "PRL-CAUSES",
+  "answer": "B. Diurétiques thiazidés",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "prolactine",
+   "lessons": [
+    "hyph-prolactine"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q33",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 19,
+  "num": 33,
+  "line": 677,
+  "stem": [
+   "Qu’est ce qui n’apparait pas dans une acromégalie"
+  ],
+  "lines": [
+   "A. Obésité",
+   "B. Goitre",
+   "C. Transpiration",
+   "D. Canal carpien",
+   "E. SAS"
+  ],
+  "marked": [
+   "A. Obésité"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Acromégalie : signes et complications",
+  "note": "",
+  "groupe": "ACRO-SIGNES",
+  "answer": "A. Obésité",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "acromegalie",
+   "lessons": [
+    "hyph-acromegalie"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q34",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 19,
+  "num": 34,
+  "line": 683,
+  "stem": [
+   "Acromégalie : tous des critères diagnostiques sauf 1 :"
+  ],
+  "lines": [
+   "a. Modifications morphologiques caractéristiques du visage et des extrémités",
+   "b. Adénome hypophysaire + plusieurs complications typiques (HTA, SAS, polypes du côlon)",
+   "c. Taux élevés d’IGF-1",
+   "d. Absence de suppression de GH au test OGTT",
+   "e. Absence d’élévation de la GH à l’hypoglycémie insulinique"
+  ],
+  "marked": [
+   "e. Absence d’élévation de la GH à l’hypoglycémie insulinique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Acromégalie : critères diagnostiques",
+  "note": "",
+  "groupe": "ACRO-DIAG",
+  "answer": "e. Absence d’élévation de la GH à l’hypoglycémie insulinique",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "acromegalie",
+   "lessons": [
+    "hyph-acromegalie"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q79",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "RADIO",
+  "teacher": "Coche / Duprez",
+  "page": 24,
+  "num": 79,
+  "line": 902,
+  "stem": [
+   "Qu’est-ce qui distingue un adénome hypophysaire d’un tissu normal en parenchymographie?"
+  ],
+  "lines": [
+   "a) Ne rehausse pas",
+   "b) Rehausse, mais moins que le tissu normal",
+   "c) Rehausse de la même manière",
+   "d) rehausse plus"
+  ],
+  "marked": [
+   "b) Rehausse, mais moins que le tissu normal"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "IRM : rehaussement de l'adénome, séquences",
+  "note": "Radiologie (Coche / Duprez).",
+  "groupe": "IRM-ADENOME",
+  "answer": "b) Rehausse, mais moins que le tissu normal",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "imagerie",
+   "lessons": [
+    "hyph-anatomie",
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q80",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "RADIO",
+  "teacher": "Coche / Duprez",
+  "page": 24,
+  "num": 80,
+  "line": 907,
+  "stem": [
+   "Quelle caractéristique de la neurohypophyse fonctionnelle a l’imagerie :"
+  ],
+  "lines": [
+   "A. Hyposignal t1",
+   "B. Hypersignal t1",
+   "C. Hyposignal t2",
+   "D. Hypersignal t2"
+  ],
+  "marked": [
+   "B. Hypersignal t1"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "IRM : signal de la neurohypophyse",
+  "note": "Radiologie (Coche / Duprez).",
+  "groupe": "IRM-NEURO",
+  "answer": "B. Hypersignal t1",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "imagerie",
+   "lessons": [
+    "hyph-anatomie",
+    "hyph-posthypophyse"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q91",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 26,
+  "num": 91,
+  "line": 964,
+  "stem": [
+   "Quel effet a la somatostatine ?"
+  ],
+  "lines": [
+   "A. Hypoglycémie",
+   "B. Hyperglycémie",
+   "C. Hypocalcémie",
+   "D. Hypercalcémie",
+   "E. Augmentation des phosphatases alcalines"
+  ],
+  "marked": [
+   "B. Hyperglycémie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Pharmacologie : somatostatine et analogues",
+  "note": "Pharmacologie (Horsmans).",
+  "groupe": "SOMATOSTATINE",
+  "answer": "B. Hyperglycémie",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "acromegalie",
+   "lessons": [
+    "hyph-acromegalie"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-Q40",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 32,
+  "num": 40,
+  "line": 1205,
+  "stem": [
+   "la prolactine peut être modérément augmentée si (1 fausse ?) :"
+  ],
+  "lines": [
+   "• Hypothyroidie",
+   "• Insuffisance rénale",
+   "• Insuffisance cortico-surrénalienne",
+   "• Neuroleptiques",
+   "• Macroadenome de l'hypophyse compressifa",
+   "("
+  ],
+  "marked": [
+   "• Insuffisance cortico-surrénalienne"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Causes d'hyperprolactinémie",
+  "note": "Consigne retranscrite avec doute (« 1 fausse ? »).",
+  "groupe": "PRL-CAUSES",
+  "answer": "• Insuffisance cortico-surrénalienne",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "prolactine",
+   "lessons": [
+    "hyph-prolactine"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-p37-l1414",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Pharmacologie",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 37,
+  "num": null,
+  "line": 1414,
+  "stem": [
+   "97-quinagolide est:"
+  ],
+  "lines": [
+   "-un agoniste dopaminergique",
+   "-un anthyroidien de synthèse",
+   "-médicament hypoglycémiant",
+   "-la maladie de sachs"
+  ],
+  "marked": [
+   "-un agoniste dopaminergique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Agonistes dopaminergiques (cabergoline, quinagolide)",
+  "note": "Pharmacologie (Horsmans).",
+  "groupe": "AGONISTES-DA",
+  "answer": "-un agoniste dopaminergique",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "prolactine",
+   "lessons": [
+    "hyph-prolactine"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q1",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 58,
+  "num": 1,
+  "line": 2446,
+  "stem": [
+   "Acromégalie : tous des critères diagnostiques sauf 1 :"
+  ],
+  "lines": [
+   "f.",
+   "Modifications morphologiques caractéristiques du visage et des extrémités",
+   "g. Adénome hypophysaire + plusieurs complications typiques (HTA, SAS, polypes du côlon)",
+   "h. Taux élevés d’IGF-1",
+   "i.",
+   "Absence de suppression de GH au test OGTT",
+   "j.",
+   "Absence d’élévation de la GH à l’hypoglycémie insulinique"
+  ],
+  "marked": [
+   "j.",
+   "Absence d’élévation de la GH à l’hypoglycémie insulinique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Acromégalie : critères diagnostiques",
+  "note": "",
+  "groupe": "ACRO-DIAG",
+  "answer": "j. | Absence d’élévation de la GH à l’hypoglycémie insulinique",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "acromegalie",
+   "lessons": [
+    "hyph-acromegalie"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q2",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 58,
+  "num": 2,
+  "line": 2455,
+  "stem": [
+   "Toutes les propositions sont correctes sauf 1 :"
+  ],
+  "lines": [
+   "a. Si hyperprolactinémie est supérieure à 50 (nl : 20), c’est toujours lié à un prolactinome",
+   "b. Apoplexie hypophysaire est une complication possible d’un macroadénome",
+   "Il ne faut pas se fier à des taux de TSH pour le ttmnt d’une hypothyroïdie centrale",
+   "d. Le traitement à la fluorohydrocortisone n’est pas indiqué dans l’insuffisance ACTH"
+  ],
+  "marked": [
+   "a. Si hyperprolactinémie est supérieure à 50 (nl : 20), c’est toujours lié à un prolactinome"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Prolactine et insuffisance hypophysaire (questions mixtes)",
+  "note": "",
+  "groupe": "PRL-MIXTE",
+  "answer": "a. Si hyperprolactinémie est supérieure à 50 (nl : 20), c’est toujours lié à un prolactinome",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "prolactine",
+   "lessons": [
+    "hyph-prolactine",
+    "hyph-insuffisance"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q3",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 58,
+  "num": 3,
+  "line": 2460,
+  "stem": [
+   "50 ans, Adénome hypophysaire de 2cm comprimant la tige pituitaire. Bio hormonale T4 libre 26umol/L (nl 10-22),",
+   "TSH 4.9 uU/ml (nl 0.30-3.5), Cortisol nl, ACTH nl, Prolactine 65umol/L (nl <20), LH nl, Testostérone nl, GH nl, IGF1",
+   "augmenté. Quel est le type précis d’adénome ?"
+  ],
+  "lines": [
+   "F.",
+   "Macroadénome à GH (acromégalie)",
+   "G. Microadénome à TSH et Prolactine",
+   "H. Macroprolactinome",
+   "I.",
+   "Macroadénome cliniquement non fonctionnel avec hyperprolactinémie de compression",
+   "J.",
+   "Macroadénome mixte GH, TSH et peut-être Prolactine"
+  ],
+  "marked": [
+   "J.",
+   "Macroadénome mixte GH, TSH et peut-être Prolactine"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Adénome avec bilan hormonal : quel type ?",
+  "note": "Cas clinique avec valeurs et normes de l'énoncé.",
+  "groupe": "ADENOME-BIO",
+  "answer": "J. | Macroadénome mixte GH, TSH et peut-être Prolactine",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes",
+    "hyph-acromegalie"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q5",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 58,
+  "num": 5,
+  "line": 2473,
+  "stem": [
+   "A propos de l’hypophyse, 1F :"
+  ],
+  "lines": [
+   "a. Adénome clinique non fonctionnel le plus souvent est un adénome gonadotrope silencieux"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Adénomes : fréquence et types",
+  "note": "Une seule proposition.",
+  "groupe": "ADENOME-EPIDEMIO",
+  "answer": "",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q6",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 58,
+  "num": 6,
+  "line": 2475,
+  "stem": [
+   "Qu’est-ce qui n’augmente pas/ ne provoque pas une hyperprolactinémie?"
+  ],
+  "lines": [
+   "a. Spironolactone",
+   "b. Neuroleptique",
+   "Irradiation de la tête",
+   "d. Insuffisance rénale",
+   "e. Agrégations de molécules de prolactine"
+  ],
+  "marked": [
+   "a. Spironolactone"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Causes d'hyperprolactinémie",
+  "note": "",
+  "groupe": "PRL-CAUSES",
+  "answer": "a. Spironolactone",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "prolactine",
+   "lessons": [
+    "hyph-prolactine"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q7",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 58,
+  "num": 7,
+  "line": 2481,
+  "stem": [
+   "Un macroadénome hypophysaire non fonctionnel peut donner ces signes/complications suivantes SAUF UNE:"
+  ],
+  "lines": [
+   "A. Céphalées sévères",
+   "B. Hypogonadisme secondaire chez l’homme",
+   "C. Hyperprolactinémie avec galactorrhée chez la femme",
+   "D. Valeur de T4 libre élevée avec TSH basse",
+   "E. Diplopie par compression des nerfs oculomoteurs"
+  ],
+  "marked": [
+   "D. Valeur de T4 libre élevée avec TSH basse"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Adénome non fonctionnel : signes et complications",
+  "note": "",
+  "groupe": "ANF-SIGNES",
+  "answer": "D. Valeur de T4 libre élevée avec TSH basse",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q8",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 58,
+  "num": 8,
+  "line": 2487,
+  "stem": [
+   "Adénome hypophysaire non fonctionnel cliniquement"
+  ],
+  "lines": [
+   "A. Acouphènes",
+   "B. Céphalées",
+   "C. Aménorrhée 2R",
+   "D. TSH normal, T4 basse",
+   "E. Trouble de l'acuité d'un œil"
+  ],
+  "marked": [
+   "A. Acouphènes"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Adénome non fonctionnel : signes et complications",
+  "note": "Énoncé abrégé : d'après la même question de mai 2023, il faut trouver le signe absent.",
+  "groupe": "ANF-SIGNES",
+  "answer": "A. Acouphènes",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q9",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 58,
+  "num": 9,
+  "line": 2493,
+  "stem": [
+   "Causes d’hyperprolactinémie : la fausse"
+  ],
+  "lines": [
+   "A. Hyperthyroïdie",
+   "B. Macroprolactinémie",
+   "C. Macroadénome compressif non sécrétant",
+   "D. Prolactinome"
+  ],
+  "marked": [
+   "A. Hyperthyroïdie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Causes d'hyperprolactinémie",
+  "note": "",
+  "groupe": "PRL-CAUSES",
+  "answer": "A. Hyperthyroïdie",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "prolactine",
+   "lessons": [
+    "hyph-prolactine"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q10",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 59,
+  "num": 10,
+  "line": 2499,
+  "stem": [
+   "Concernant le prolactinome, toutes sont vraies sauf une :"
+  ],
+  "lines": [
+   "a. Il entraîne un hypogonadisme hypergonadotrope aussi bien chez les hommes que chez les femmes",
+   "b. Le taux de prolactine est corrélé à la taille de la tumeur hypophysaire",
+   "Il entraîne une gynécomastie chez les hommes et une galactorrhée chez la femme",
+   "d. Il est traité par agoniste dopaminergique",
+   "e. Il n’entraîne pas de symptômes chez une femme ménopausée"
+  ],
+  "marked": [
+   "a. Il entraîne un hypogonadisme hypergonadotrope aussi bien chez les hommes que chez les femmes"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Prolactinome",
+  "note": "",
+  "groupe": "PRL-PROLACTINOME",
+  "answer": "a. Il entraîne un hypogonadisme hypergonadotrope aussi bien chez les hommes que chez les femmes",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "prolactine",
+   "lessons": [
+    "hyph-prolactine"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q11",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 59,
+  "num": 11,
+  "line": 2506,
+  "stem": [
+   "Parmi ces propositions, une seule est correcte"
+  ],
+  "lines": [
+   "A. En cas de galactorrhée isolée (sans trouble du cycle menstruel), la cause la plus fréquente est une",
+   "hyperprolactinémie",
+   "B. En cas d’incidentalome surrénalien, le dosage de la rénine et de l’angiotensine doit être réalisé",
+   "C. En cas d’hypothyroïdie centrale, la TSH est toujours diminuée",
+   "D. En cas d’hyperandrogénisme chez la femme, le dosage de la 17-hydroxyprogestérone n’est pas fait en",
+   "première ligne",
+   "E. Aucune de ces réponses n’est correcte"
+  ],
+  "marked": [
+   "E. Aucune de ces réponses n’est correcte"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Prolactine et insuffisance hypophysaire (questions mixtes)",
+  "note": "Question transversale (galactorrhée, incidentalome surrénalien, hypothyroïdie centrale, hyperandrogénie).",
+  "groupe": "PRL-MIXTE",
+  "answer": "E. Aucune de ces réponses n’est correcte",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "prolactine",
+   "lessons": [
+    "hyph-prolactine",
+    "hyph-insuffisance"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q12",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 59,
+  "num": 12,
+  "line": 2514,
+  "stem": [
+   "Un macroadénome non sécrétant peut donner toutes ces complications sauf 1 :"
+  ],
+  "lines": [
+   "D. Apoplexie hypophysaire",
+   "E. Hypogonadisme hypergonadotrope",
+   "F. Hyponatrémie",
+   "G. Troubles visuels",
+   "H. Céphalées"
+  ],
+  "marked": [
+   "E. Hypogonadisme hypergonadotrope"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Adénome non fonctionnel : signes et complications",
+  "note": "",
+  "groupe": "ANF-SIGNES",
+  "answer": "E. Hypogonadisme hypergonadotrope",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q13",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 59,
+  "num": 13,
+  "line": 2520,
+  "stem": [
+   "Pour évoquer ou poser un diagnostic d’acromégalie, toutes les propositions suivantes sont justes sauf une"
+  ],
+  "lines": [
+   "f. Allongement mains et pieds",
+   "g. igf1 élevé",
+   "h. Un prognathisme de plus en plus important avec l’âge",
+   "i.",
+   "Absence de suppression de la GH en réponse à une hyperglycémie (HGPO )",
+   "j.",
+   "Absence d’augmentation de la GH en réponse à une hypoglycémie"
+  ],
+  "marked": [
+   "j.",
+   "Absence d’augmentation de la GH en réponse à une hypoglycémie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Acromégalie : critères diagnostiques",
+  "note": "",
+  "groupe": "ACRO-DIAG",
+  "answer": "j. | Absence d’augmentation de la GH en réponse à une hypoglycémie",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "acromegalie",
+   "lessons": [
+    "hyph-acromegalie"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q14",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 59,
+  "num": 14,
+  "line": 2528,
+  "stem": [
+   "Acromégalie, qu’est ce qui n'apparaît pas dans la maladie"
+  ],
+  "lines": [
+   "A. Coxarthrose",
+   "B. Calcul biliaire",
+   "C. Canal carpien bilatéral",
+   "D. HTA",
+   "E. SAS"
+  ],
+  "marked": [
+   "B. Calcul biliaire"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Acromégalie : signes et complications",
+  "note": "",
+  "groupe": "ACRO-SIGNES",
+  "answer": "B. Calcul biliaire",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "acromegalie",
+   "lessons": [
+    "hyph-acromegalie"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q15",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 59,
+  "num": 15,
+  "line": 2534,
+  "stem": [
+   "Causes centrales d’insuffisance hypothalamo-hypophysaire donnant un hypogonadisme (Deux justes)"
+  ],
+  "lines": [
+   "A. Hémochromatose",
+   "B. Chimio pour un lymphome dans la jeunesse",
+   "C. Alcool et autres drogues",
+   "D. Virus oreillons",
+   "E. État anxio-dépressif"
+  ],
+  "marked": [
+   "A. Hémochromatose",
+   "E. État anxio-dépressif"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Hypogonadisme d'origine centrale",
+  "note": "",
+  "groupe": "INSUF-GONADO",
+  "answer": "A. Hémochromatose | E. État anxio-dépressif",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "insuffisance",
+   "lessons": [
+    "hyph-insuffisance"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q16",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 59,
+  "num": 16,
+  "line": 2540,
+  "stem": [
+   "Cause d’hyperprolactinémie et de céphalées. Quelle hypothèse n’est pas à envisager, 1 fausse : sur que c’était ça",
+   "les propositions ?"
+  ],
+  "lines": [
+   "A. Hypothyroïdie",
+   "B. Microprolactinome",
+   "C. Macroadénome hypophysaire comprimant la tige pituitaire",
+   "D. Irradiation de l’hypothalamus",
+   "E. Spironolactone"
+  ],
+  "marked": [
+   "E. Spironolactone"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Causes d'hyperprolactinémie",
+  "note": "Doute du transcripteur sur les propositions (« sûr que c'était ça les propositions ? »).",
+  "groupe": "PRL-CAUSES",
+  "answer": "E. Spironolactone",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "prolactine",
+   "lessons": [
+    "hyph-prolactine"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q17",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 60,
+  "num": 17,
+  "line": 2548,
+  "stem": [
+   "Un adénome hypophysaire de 4 cm peut provoquer : 1 fausse"
+  ],
+  "lines": [
+   "A. Scotome bilatéral",
+   "B. Diplopie latérale",
+   "C. Acouphènes intermittents",
+   "D. Syndrome méningé",
+   "E. Galactorrhée"
+  ],
+  "marked": [
+   "C. Acouphènes intermittents"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Syndrome tumoral : troubles visuels",
+  "note": "",
+  "groupe": "VISION",
+  "answer": "C. Acouphènes intermittents",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes",
+    "hyph-anatomie"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q18",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 60,
+  "num": 18,
+  "line": 2554,
+  "stem": [
+   "Qu’est ce qu’on ne retrouve pas dans une insuffisance de l’adénohypophyse ? (1 réponse)"
+  ],
+  "lines": [
+   "A. Hyperprolactinémie",
+   "B. TSH basse + T4 basse",
+   "C. TSH normale + T4 basse",
+   "D. Dosage de l’IGF-1 peut être normal",
+   "E. Cortisol vespéral paradoxalement augmenté"
+  ],
+  "marked": [
+   "E. Cortisol vespéral paradoxalement augmenté"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Insuffisance antéhypophysaire : biologie",
+  "note": "",
+  "groupe": "INSUF-BIO",
+  "answer": "E. Cortisol vespéral paradoxalement augmenté",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "insuffisance",
+   "lessons": [
+    "hyph-insuffisance"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q19",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 60,
+  "num": 19,
+  "line": 2560,
+  "stem": [
+   "Toutes les propositions suivantes sont justes sauf une :"
+  ],
+  "lines": [
+   "A. La fréquence des adénomes hypophysaires symptomatiques est de 1/1000",
+   "B. Les adénomes hypophysaires cliniquement non fonctionnels sont les plus fréquents",
+   "C. Le test à l’insuline est utile pour “détecter un trouble” au niveau de la GH, du cortisol ou de l’ACTH",
+   "D. L’hypophyse augmente de taille lors de la grossesse",
+   "E. Un prolactinome chez un jeune garçon peut provoquer un retard de croissance"
+  ],
+  "marked": [
+   "B. Les adénomes hypophysaires cliniquement non fonctionnels sont les plus fréquents"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Adénomes : fréquence et types",
+  "note": "",
+  "groupe": "ADENOME-EPIDEMIO",
+  "answer": "B. Les adénomes hypophysaires cliniquement non fonctionnels sont les plus fréquents",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q20",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 60,
+  "num": 20,
+  "line": 2566,
+  "stem": [
+   "Acromégalie peut donner ces signes/complications (une fausse)"
+  ],
+  "lines": [
+   "A. Goitre",
+   "B. Transpiration excessive",
+   "C. Syndrome canal carpien",
+   "D. Syndrome d'apnées du sommeil",
+   "E. Syndrome métabolique"
+  ],
+  "marked": [
+   "E. Syndrome métabolique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Acromégalie : signes et complications",
+  "note": "Réponse « syndrome métabolique » discutable : l'acromégalie donne insulinorésistance, diabète et HTA, même si la masse grasse tend à diminuer.",
+  "groupe": "ACRO-SIGNES",
+  "answer": "E. Syndrome métabolique",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "acromegalie",
+   "lessons": [
+    "hyph-acromegalie"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q21",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 60,
+  "num": 21,
+  "line": 2572,
+  "stem": [
+   "Toutes les affirmations suivantes sont correctes, sauf une."
+  ],
+  "lines": [
+   "A. Le syndrome de la selle turcique vide est dû à la présence d’un arachnoïdocèle dans la selle turcique.",
+   "B. Une hyponatrémie peut se rencontrer dans une insuffisance cortico-surrénalienne secondaire",
+   "C. Une hyponatrémie peut se rencontrer dans un diabète insipide d’origine centrale",
+   "D. Dans un diabète insipide central, l’osmolalité urinaire augmente nettement après l’administration de",
+   "desmopressine",
+   "E. Chez un homme de 50 ans atteint d’une insuffisance gonadotrope sévère qui ne souhaite plus avoir",
+   "d’enfants, le traitement consiste en des injections intramusculaires d’esters de testostérone (Sustanon)"
+  ],
+  "marked": [
+   "C. Une hyponatrémie peut se rencontrer dans un diabète insipide d’origine centrale"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Diabète insipide",
+  "note": "Question transversale (selle turcique vide, hyponatrémie, diabète insipide, testostérone).",
+  "groupe": "DI",
+  "answer": "C. Une hyponatrémie peut se rencontrer dans un diabète insipide d’origine centrale",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "posthypophyse",
+   "lessons": [
+    "hyph-posthypophyse"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q22",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 60,
+  "num": 22,
+  "line": 2580,
+  "stem": [
+   "Quelle anomalie ne peut-on pas retrouver dans le syndrome de Cushing ?"
+  ],
+  "lines": [
+   "a. Obésité et érythème facial (?)",
+   "b. Risque thromboembolique augmenté",
+   "Alcalose hypokaliémique",
+   "d. Ostéopénie",
+   "e. Hypercalcémie hypocalciurie"
+  ],
+  "marked": [
+   "e. Hypercalcémie hypocalciurie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Syndrome de Cushing : signes",
+  "note": "Doute du transcripteur sur la proposition a (« érythème facial (?) »), pas sur la réponse.",
+  "groupe": "CUSHING-SIGNES",
+  "answer": "e. Hypercalcémie hypocalciurie",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "cushing",
+   "lessons": [
+    "hyph-cushing"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q23",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 60,
+  "num": 23,
+  "line": 2586,
+  "stem": [
+   "Cushing : trouver la fausse :"
+  ],
+  "lines": [
+   "A. Hyperleucocytose neutro",
+   "B. ACTH bas",
+   "C. Ostéopénie trabéculaire",
+   "D. ?",
+   "E. ?",
+   "F."
+  ],
+  "marked": [
+   "B. ACTH bas"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Syndrome de Cushing : signes",
+  "note": "Propositions D et E non retranscrites.",
+  "groupe": "CUSHING-SIGNES",
+  "answer": "B. ACTH bas",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "cushing",
+   "lessons": [
+    "hyph-cushing"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q24",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 61,
+  "num": 24,
+  "line": 2594,
+  "stem": [
+   "Diagnostic initial de cushing 2 F :"
+  ],
+  "lines": [
+   "a. ACTH très bas !",
+   "b. Test à la corticolibérine (CRH)",
+   "Dosage cortisolurie 24h",
+   "d. Test long à le dexo",
+   "e. Dosage salivaire de cortisol au matin"
+  ],
+  "marked": [
+   "b. Test à la corticolibérine (CRH)",
+   "e. Dosage salivaire de cortisol au matin"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Syndrome de Cushing : diagnostic",
+  "note": "Deux fausses retenues (test à la CRH, cortisol salivaire du matin). La proposition « ACTH très bas ! » n'est pas non plus un test de dépistage : l'ACTH sert au diagnostic étiologique. Retranscription possiblement inexacte.",
+  "groupe": "CUSHING-DIAG",
+  "answer": "b. Test à la corticolibérine (CRH) | e. Dosage salivaire de cortisol au matin",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "cushing",
+   "lessons": [
+    "hyph-cushing"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q25",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 61,
+  "num": 25,
+  "line": 2600,
+  "stem": [
+   "Tous ces signes nous orientent vers un syndrome de Cushing SAUF UN"
+  ],
+  "lines": [
+   "A. Polynévrite périphérique sensitivo-motrice",
+   "B. Adiposité tronculaire",
+   "C. Visage bouffi",
+   "D. Ostéopénie axiale",
+   "E. Bosse de bison (“Buffalo neck”)"
+  ],
+  "marked": [
+   "A. Polynévrite périphérique sensitivo-motrice"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Syndrome de Cushing : signes",
+  "note": "",
+  "groupe": "CUSHING-SIGNES",
+  "answer": "A. Polynévrite périphérique sensitivo-motrice",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "cushing",
+   "lessons": [
+    "hyph-cushing"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q26",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 61,
+  "num": 26,
+  "line": 2606,
+  "stem": [
+   "En cas de syndrome de Cushing sévère, on peut retrouver ces anomalies sauf deux - Cochez les deux réponses",
+   "fausses"
+  ],
+  "lines": [
+   "A. Hirsutisme chez la femme",
+   "B. Abolition du rythme circadien de cortisol plasmatique et salivaire",
+   "C. Lymphocytose relative avec éosinophilie",
+   "D. Alcalose hypokaliémique",
+   "E.  Augmentation des CPK"
+  ],
+  "marked": [
+   "C. Lymphocytose relative avec éosinophilie",
+   "E.  Augmentation des CPK"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Syndrome de Cushing : signes",
+  "note": "",
+  "groupe": "CUSHING-SIGNES",
+  "answer": "C. Lymphocytose relative avec éosinophilie | E.  Augmentation des CPK",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "cushing",
+   "lessons": [
+    "hyph-cushing"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q27",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 61,
+  "num": 27,
+  "line": 2613,
+  "stem": [
+   "Anomalies présentes dans maladie de cushing (1 fausse)"
+  ],
+  "lines": [
+   "A. Augmentation CPK",
+   "B. Hypokaliémie",
+   "C. Hirsutisme chez la femme",
+   "D. Perte du rythme circadien",
+   "E. Amyotrophie proximale"
+  ],
+  "marked": [
+   "A. Augmentation CPK"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Syndrome de Cushing : signes",
+  "note": "",
+  "groupe": "CUSHING-SIGNES",
+  "answer": "A. Augmentation CPK",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "cushing",
+   "lessons": [
+    "hyph-cushing"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q28",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 61,
+  "num": 28,
+  "line": 2619,
+  "stem": [
+   "Tous les signes suivants sont en faveur d’un syndrome de Cushing sauf un, lequel?"
+  ],
+  "lines": [
+   "A. Bouffissure du visage",
+   "B. Fragilité cutanée anormale",
+   "C. Macroglossie",
+   "D. Amyotrophie proximale",
+   "E. Rétention hydro-saline"
+  ],
+  "marked": [
+   "C. Macroglossie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Syndrome de Cushing : signes",
+  "note": "",
+  "groupe": "CUSHING-SIGNES",
+  "answer": "C. Macroglossie",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "cushing",
+   "lessons": [
+    "hyph-cushing"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q29",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 61,
+  "num": 29,
+  "line": 2625,
+  "stem": [
+   "A propos de la maladie de Cushing, 2 réponses fausses :"
+  ],
+  "lines": [
+   "A. Plus souvent microadénomes que macro (vrai)",
+   "B. Diminution de > 50% par dexaméthasone fortes doses",
+   "C. La contraception majore les valeurs de cortisol",
+   "D. L’IRM peut ne pas être positive",
+   "E. Augmentation des CPK et diminution des LDH"
+  ],
+  "marked": [
+   "B. Diminution de > 50% par dexaméthasone fortes doses",
+   "C. La contraception majore les valeurs de cortisol",
+   "E. Augmentation des CPK et diminution des LDH"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Syndrome de Cushing : diagnostic",
+  "note": "Trois propositions en rouge pour « 2 réponses fausses ». La freination par la dexaméthasone à forte dose (> 50 %) et l'élévation du cortisol sous contraception sont classiquement exactes : la retranscription est probablement inexacte.",
+  "groupe": "CUSHING-DIAG",
+  "answer": "B. Diminution de > 50% par dexaméthasone fortes doses | C. La contraception majore les valeurs de cortisol | E. Augmentation des CPK et diminution des LDH",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "cushing",
+   "lessons": [
+    "hyph-cushing"
+   ]
+  }
+ },
+ {
+  "ref": "ND-marbaix-hypophyse-Q1",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Marbaix – Anapath hypophyse",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 81,
+  "num": 1,
+  "line": 3592,
+  "stem": [
+   "Adénome hypophysaire"
+  ],
+  "lines": [
+   "a. Cellules avec gros noyaux",
+   "b. Peut causer une amputation du champ visuel sans causer de troubles hormonaux (??)",
+   "Contient des fibres réticulaires"
+  ],
+  "marked": [
+   "b. Peut causer une amputation du champ visuel sans causer de troubles hormonaux (??)"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Anatomie pathologique de l'adénome",
+  "note": "Doute du transcripteur (« (??) ») ; la proposition retenue est la seule exacte.",
+  "groupe": "ANAPATH-ADENOME",
+  "answer": "b. Peut causer une amputation du champ visuel sans causer de troubles hormonaux (??)",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "ND-marbaix-hypophyse-Q2",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Marbaix – Anapath hypophyse",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 81,
+  "num": 2,
+  "line": 3596,
+  "stem": [
+   "Dans quelle partie de l’hypophyse les terminaisons des neurones hypothalamiques"
+  ],
+  "lines": [
+   "a. Post hypophyse",
+   "b. Partie latérale de l’hypophyse",
+   "c. Partie mediane de l’hypophyse",
+   "d. Pars intermedia",
+   "e. Poche de rathke"
+  ],
+  "marked": [
+   "a. Post hypophyse"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Anatomie et histologie de l'hypophyse",
+  "note": "Anatomie pathologique (Marbaix).",
+  "groupe": "ANAT-HYPOPH",
+  "answer": "a. Post hypophyse",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "imagerie",
+   "lessons": [
+    "hyph-anatomie"
+   ]
+  }
+ },
+ {
+  "ref": "ND-marbaix-hypophyse-Q3",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Marbaix – Anapath hypophyse",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 81,
+  "num": 3,
+  "line": 3602,
+  "stem": [
+   "Syndrome de Sheehan:"
+  ],
+  "lines": [
+   "a. Caractérisé par la triade: galactorrhée ménorragies hyperpigmentation",
+   "b. Synonyme de “selle turcique vide”",
+   "c. Est la conséquence de thromboses dans les sinus caverneux",
+   "d.  Nécrose ischémique de l’hypophyse sur choc circulatoire secondaire à des hémorragies du postpartum",
+   "e. un autre truc sur les les adénomes hypophysaires qui se nécrosaient, mais c’était clairement pas ça"
+  ],
+  "marked": [
+   "d.  Nécrose ischémique de l’hypophyse sur choc circulatoire secondaire à des hémorragies du postpartum"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Syndrome de Sheehan",
+  "note": "Anatomie pathologique (Marbaix) ; proposition e résumée par le transcripteur.",
+  "groupe": "SHEEHAN",
+  "answer": "d.  Nécrose ischémique de l’hypophyse sur choc circulatoire secondaire à des hémorragies du postpartum",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "insuffisance",
+   "lessons": [
+    "hyph-insuffisance"
+   ]
+  }
+ },
+ {
+  "ref": "ND-marbaix-hypophyse-Q4",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Marbaix – Anapath hypophyse",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 81,
+  "num": 4,
+  "line": 3608,
+  "stem": [
+   "Concernant l’adénome hypophysaire (1 vrai)"
+  ],
+  "lines": [
+   "A. Entraîne toujours des symptômes endocriniens multiples",
+   "B. Trame réticulinique augmentée",
+   "C. Entraîne toujours une hyperprolactinémie",
+   "D. Peut causer une déficience visuelle"
+  ],
+  "marked": [
+   "D. Peut causer une déficience visuelle"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Anatomie pathologique de l'adénome",
+  "note": "Anatomie pathologique (Marbaix).",
+  "groupe": "ANAPATH-ADENOME",
+  "answer": "D. Peut causer une déficience visuelle",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q1",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 83,
+  "num": 1,
+  "line": 3714,
+  "stem": [
+   "Quelle anomalie de la vision retrouvera-t-on le plus souvent en cas d’extension supra-sellaire d’un adénome de",
+   "l’hypophyse :"
+  ],
+  "lines": [
+   "a. Hémianopsie bitemporale",
+   "b. Hémianopsie binasale",
+   "Diplopie"
+  ],
+  "marked": [
+   "a. Hémianopsie bitemporale"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Syndrome tumoral : troubles visuels",
+  "note": "Radiologie ; 3 propositions.",
+  "groupe": "VISION",
+  "answer": "a. Hémianopsie bitemporale",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes",
+    "hyph-anatomie"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q4",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 83,
+  "num": 4,
+  "line": 3727,
+  "stem": [
+   "Un microadénome, la différence avec le reste du tissu glandulaire:"
+  ],
+  "lines": [
+   "a. Aura un rehaussement tardif après une parenchymographie avec pdc ??"
+  ],
+  "marked": [
+   "a. Aura un rehaussement tardif après une parenchymographie avec pdc ??"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "IRM : rehaussement de l'adénome, séquences",
+  "note": "Une seule proposition.",
+  "groupe": "IRM-ADENOME",
+  "answer": "a. Aura un rehaussement tardif après une parenchymographie avec pdc ??",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "imagerie",
+   "lessons": [
+    "hyph-anatomie",
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q5",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 83,
+  "num": 5,
+  "line": 3729,
+  "stem": [
+   "Symptômes visuels :"
+  ],
+  "lines": [
+   "a. T hypophyse allant jusqu’au sinus caverneux donne une diplopie"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Syndrome tumoral : troubles visuels",
+  "note": "Une seule proposition.",
+  "groupe": "VISION",
+  "answer": "",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes",
+    "hyph-anatomie"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q6",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 83,
+  "num": 6,
+  "line": 3731,
+  "stem": [
+   "Craniopharyngiome"
+  ],
+  "lines": [
+   "a. T+ bénigne kystique hypophysaire avec un aspect d’huile de moteur",
+   "b. Métastase systématique par les méninges",
+   "Cancer < cellules germinales ectopique à la base du cerveau",
+   "d. Localisation préférentielle dans l’épiphyse",
+   "e. Entraîne systématiquement un diabète insipide central"
+  ],
+  "marked": [
+   "a. T+ bénigne kystique hypophysaire avec un aspect d’huile de moteur"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Craniopharyngiome",
+  "note": "Radiologie.",
+  "groupe": "CRANIO",
+  "answer": "a. T+ bénigne kystique hypophysaire avec un aspect d’huile de moteur",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q7",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 84,
+  "num": 7,
+  "line": 3738,
+  "stem": [
+   "IRM + PDC dynamique pour hypophyse :"
+  ],
+  "lines": [
+   "a. Démasquer les microadénomes non vus en T1 et T2 standards"
+  ],
+  "marked": [
+   "a. Démasquer les microadénomes non vus en T1 et T2 standards"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "IRM : rehaussement de l'adénome, séquences",
+  "note": "Une seule proposition.",
+  "groupe": "IRM-ADENOME",
+  "answer": "a. Démasquer les microadénomes non vus en T1 et T2 standards",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "imagerie",
+   "lessons": [
+    "hyph-anatomie",
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q9",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 84,
+  "num": 9,
+  "line": 3746,
+  "stem": [
+   "Question avec une masse qui n’est pas graisseuse, qqch dans le genre : On retrouve une masse non graisseuse au",
+   "niveau de l’hypophyse:"
+  ],
+  "lines": [
+   "1. C’est très probablement un processus bénin",
+   "2. C’est très probablement un processus malin",
+   "3. Il peut encore s’agir d’un adénome : confirmation par irm",
+   "4. Cela explique sa non-hypodensité au CTscan",
+   "5. il faut le faire analyser par un anatomopathologiste."
+  ],
+  "marked": [
+   "3. Il peut encore s’agir d’un adénome : confirmation par irm"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Masse de la région sellaire au scanner",
+  "note": "Énoncé reconstitué de mémoire (« qqch dans le genre »).",
+  "groupe": "IMAGERIE-MASSE",
+  "answer": "3. Il peut encore s’agir d’un adénome : confirmation par irm",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "imagerie",
+   "lessons": [
+    "hyph-anatomie"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q11",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 84,
+  "num": 11,
+  "line": 3759,
+  "stem": [
+   "Quels sont les bords de l’hypophyse qui ne sont pas bordés par une structure osseuse (2 réponses)"
+  ],
+  "lines": [
+   "A. le plafond de l’hypophyse",
+   "B. la face antérieur",
+   "C. le dos",
+   "D. la face inférieure",
+   "E. les faces latérales"
+  ],
+  "marked": [
+   "A. le plafond de l’hypophyse",
+   "E. les faces latérales"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Loge hypophysaire : parois osseuses et non osseuses",
+  "note": "Radiologie.",
+  "groupe": "ANAT-SELLE",
+  "answer": "A. le plafond de l’hypophyse | E. les faces latérales",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "imagerie",
+   "lessons": [
+    "hyph-anatomie"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q13",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 84,
+  "num": 13,
+  "line": 3771,
+  "stem": [
+   "Question sur métastase dans l’hypophyse:"
+  ],
+  "lines": [
+   "A. le plus souvent en adénohypophyse",
+   "B. Peuvent provoquer une diabète insipide central",
+   "C. Toujours dans le cadre d’une carcinomatose méningée"
+  ],
+  "marked": [
+   "B. Peuvent provoquer une diabète insipide central"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Métastases hypophysaires",
+  "note": "Radiologie ; 3 propositions.",
+  "groupe": "METASTASE",
+  "answer": "B. Peuvent provoquer une diabète insipide central",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes",
+    "hyph-posthypophyse"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q17",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 85,
+  "num": 17,
+  "line": 3794,
+  "stem": [
+   "Qu’est-ce qui provoque une amputation des champs visuels"
+  ],
+  "lines": [
+   "A. Nécrose",
+   "B. Hémorragie",
+   "C. Compression chiasma optique",
+   "D. Envahissement du dorsum sellae",
+   "E. Envahissement du sinus caverneux"
+  ],
+  "marked": [
+   "C. Compression chiasma optique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Syndrome tumoral : troubles visuels",
+  "note": "Radiologie.",
+  "groupe": "VISION",
+  "answer": "C. Compression chiasma optique",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes",
+    "hyph-anatomie"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q112",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 86,
+  "num": 112,
+  "line": 3844,
+  "stem": [
+   "Un adénome de l’hypophyse en IRM T1 avec injection de PC en temps précoce"
+  ],
+  "lines": [
+   "a. ne rehausse pas",
+   "b. rehausse plus que le parenchyme",
+   "c.  rehausse mais moins que le parenchyme",
+   "d. Réhausse de la même façon que le parenchyme"
+  ],
+  "marked": [
+   "c.  rehausse mais moins que le parenchyme"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "IRM : rehaussement de l'adénome, séquences",
+  "note": "Radiologie.",
+  "groupe": "IRM-ADENOME",
+  "answer": "c.  rehausse mais moins que le parenchyme",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "imagerie",
+   "lessons": [
+    "hyph-anatomie",
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q113",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 86,
+  "num": 113,
+  "line": 3849,
+  "stem": [
+   "Entre un adénome de l’hypophyse sécrétant et non sécrétant"
+  ],
+  "lines": [
+   "a. aucune caractéristique ne permet de les différentier"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "IRM : rehaussement de l'adénome, séquences",
+  "note": "Une seule proposition.",
+  "groupe": "IRM-ADENOME",
+  "answer": "",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "imagerie",
+   "lessons": [
+    "hyph-anatomie",
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q117",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 86,
+  "num": 117,
+  "line": 3851,
+  "stem": [
+   "Quelle imagerie pour détecter un adénome hypophysaire"
+  ],
+  "lines": [
+   "a. T2 contraste phase précoce",
+   "b. T1 contraste phase précoce",
+   "c. T1 contraste phase tardive",
+   "d. Scan injecté"
+  ],
+  "marked": [
+   "b. T1 contraste phase précoce"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "IRM : rehaussement de l'adénome, séquences",
+  "note": "Radiologie.",
+  "groupe": "IRM-ADENOME",
+  "answer": "b. T1 contraste phase précoce",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "imagerie",
+   "lessons": [
+    "hyph-anatomie",
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q121",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 86,
+  "num": 121,
+  "line": 3856,
+  "stem": [
+   "Examen le plus sensible pour détecter un micro-adénome hypophysaire"
+  ],
+  "lines": [
+   "a. CT avec produit de contraste",
+   "b. CT sans produit de contraste",
+   "c. IRM avec produit de contraste",
+   "d. IRM sans produit de contraste",
+   "e. PET"
+  ],
+  "marked": [
+   "c. IRM avec produit de contraste"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "IRM : rehaussement de l'adénome, séquences",
+  "note": "Radiologie.",
+  "groupe": "IRM-ADENOME",
+  "answer": "c. IRM avec produit de contraste",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "imagerie",
+   "lessons": [
+    "hyph-anatomie",
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q125",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 86,
+  "num": 125,
+  "line": 3862,
+  "stem": [
+   "Un adénome hypophysaire EXPANSIF provoque typiquement (2 réponses exactes):"
+  ],
+  "lines": [
+   "a. Une amputation des champs visuels",
+   "b. Un trouble de l’acuité visuelle",
+   "c. Un trouble de la vision des couleurs",
+   "d.  Une diplopie",
+   "e. Une alopécie bitemporale"
+  ],
+  "marked": [
+   "a. Une amputation des champs visuels",
+   "d.  Une diplopie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Syndrome tumoral : troubles visuels",
+  "note": "Radiologie.",
+  "groupe": "VISION",
+  "answer": "a. Une amputation des champs visuels | d.  Une diplopie",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes",
+    "hyph-anatomie"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q126",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 86,
+  "num": 126,
+  "line": 3868,
+  "stem": [
+   "Concernant les atteintes dans le nanisme hypophysaire, trouvez les 2 intrus (c’était pas 1 intru ? :( non 2 par",
+   "contre les propositions sont mal retranscrites je pense, ou bien c'était \"trouver les 2 justes\") : pour moi c’était",
+   "trouver les deux justes…. Et la tige pituitaire n’est pas “visible” mais elle est bien présente! Donc pour moi C et D",
+   "sont bons"
+  ],
+  "lines": [
+   "A. Hamartome du 3e ventricule (c'était pas un nom bizarre genre uncinae truc ?)",
+   "B. Selle turcique vide",
+   "C. Petite anté-hypophyse",
+   "D. Pas de tige pituitaire",
+   "E. Néoplasie ectopie à la base du 3ème ventricule."
+  ],
+  "marked": [
+   "C. Petite anté-hypophyse",
+   "D. Pas de tige pituitaire"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Imagerie du déficit hypophysaire de l'enfant",
+  "note": "Consigne incertaine (« 2 intrus » ou « 2 justes ») et propositions mal retranscrites selon les étudiants : consultable, non notée.",
+  "groupe": "NANISME",
+  "answer": "C. Petite anté-hypophyse | D. Pas de tige pituitaire",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "imagerie",
+   "lessons": [
+    "hyph-anatomie",
+    "hyph-insuffisance"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q127",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 86,
+  "num": 127,
+  "line": 3877,
+  "stem": [
+   "Par rapport à un adénome adénohypophysaire, une vraie:"
+  ],
+  "lines": [
+   "A. Parenchymatographie dynamique est précoce par rapport au reste de la glande",
+   "B. Parenchymatographie dynamique est retardée/ralentie par rapport au reste de la glande",
+   "C. Hyperrehaussement de l’adénome est retardé, après injection de PDC."
+  ],
+  "marked": [
+   "B. Parenchymatographie dynamique est retardée/ralentie par rapport au reste de la glande"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "IRM : rehaussement de l'adénome, séquences",
+  "note": "Radiologie ; 3 propositions.",
+  "groupe": "IRM-ADENOME",
+  "answer": "B. Parenchymatographie dynamique est retardée/ralentie par rapport au reste de la glande",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "imagerie",
+   "lessons": [
+    "hyph-anatomie",
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q129",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 87,
+  "num": 129,
+  "line": 3887,
+  "stem": [
+   "Question sur les parois de la selle turcique (je sais plus), lesquelles ne sont pas osseuses (2 réponses) :"
+  ],
+  "lines": [
+   "a.  Latérales",
+   "b. Postérieure",
+   "c. Antérieur",
+   "d. Plancher",
+   "e. Toit"
+  ],
+  "marked": [
+   "a.  Latérales",
+   "e. Toit"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Loge hypophysaire : parois osseuses et non osseuses",
+  "note": "Énoncé retranscrit de mémoire (« je sais plus ») ; réponse identique à la question Q11 de la même section.",
+  "groupe": "ANAT-SELLE",
+  "answer": "a.  Latérales | e. Toit",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "imagerie",
+   "lessons": [
+    "hyph-anatomie"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q130",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 87,
+  "num": 130,
+  "line": 3893,
+  "stem": [
+   "question avec tumeur hypoph, à propos du rehaussement par rapport au tissu sain en phase précoce?"
+  ],
+  "lines": [
+   "A. moins rehaussant",
+   "B. plus rehaussant",
+   "C. iso-rehaussant",
+   "D. …",
+   "E. ne rehausse pas"
+  ],
+  "marked": [
+   "A. moins rehaussant"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "IRM : rehaussement de l'adénome, séquences",
+  "note": "Radiologie ; proposition D non retranscrite (« … »).",
+  "groupe": "IRM-ADENOME",
+  "answer": "A. moins rehaussant",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "imagerie",
+   "lessons": [
+    "hyph-anatomie",
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "ND-horsmans-hormones-Q1",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Horsmans – Pharmaco hormones",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 87,
+  "num": 1,
+  "line": 3913,
+  "stem": [
+   "La cabergoline a les propriétés suivantes sauf une. Laquelle ?"
+  ],
+  "lines": [
+   "A. C’est un dérivé de l’ergot de seigle",
+   "B. C’est un agoniste des récepteurs dopaminergiques",
+   "C. Elle a une courte durée d’action",
+   "D. Elle est utilisée dans le traitement des hyperprolactinémies",
+   "E. Elle a une action sérotoninergique partielle associée"
+  ],
+  "marked": [
+   "C. Elle a une courte durée d’action"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Agonistes dopaminergiques (cabergoline, quinagolide)",
+  "note": "Pharmacologie (Horsmans).",
+  "groupe": "AGONISTES-DA",
+  "answer": "C. Elle a une courte durée d’action",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "prolactine",
+   "lessons": [
+    "hyph-prolactine"
+   ]
+  }
+ },
+ {
+  "ref": "ND-horsmans-hormones-Q2",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Horsmans – Pharmaco hormones",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 87,
+  "num": 2,
+  "line": 3919,
+  "stem": [
+   "Quinagolide"
+  ],
+  "lines": [
+   "A. Agoniste dopaminergique",
+   "B. Hyperprolactinémique",
+   "C. Hyperglycémiant",
+   "D. Anti-mycotique",
+   "E. Anti-thyroidien"
+  ],
+  "marked": [
+   "A. Agoniste dopaminergique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Agonistes dopaminergiques (cabergoline, quinagolide)",
+  "note": "Pharmacologie (Horsmans).",
+  "groupe": "AGONISTES-DA",
+  "answer": "A. Agoniste dopaminergique",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "prolactine",
+   "lessons": [
+    "hyph-prolactine"
+   ]
+  }
+ },
+ {
+  "ref": "ND-horsmans-hormones-Q3",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Horsmans – Pharmaco hormones",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 87,
+  "num": 3,
+  "line": 3925,
+  "stem": [
+   "Concernant les effets de la somatostatine, quel effet secondaire n’est pas rencontré ?"
+  ],
+  "lines": [
+   "A. Hypoglycémie",
+   "B. Hyperglycémie",
+   "C. Hypercalcémie",
+   "D. Augmentation des Ph Alcalines",
+   "E. Diarrhées"
+  ],
+  "marked": [
+   "A. Hypoglycémie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Pharmacologie : somatostatine et analogues",
+  "note": "Les analogues de la somatostatine peuvent donner des hypo- et des hyperglycémies (ils freinent l'insuline et le glucagon) : « hypoglycémie » comme effet non rencontré est discutable. Les autres questions de la série retiennent l'hyperglycémie comme effet principal.",
+  "groupe": "SOMATOSTATINE",
+  "answer": "A. Hypoglycémie",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "acromegalie",
+   "lessons": [
+    "hyph-acromegalie"
+   ]
+  }
+ },
+ {
+  "ref": "ND-horsmans-hormones-Q4",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Horsmans – Pharmaco hormones",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 88,
+  "num": 4,
+  "line": 3932,
+  "stem": [
+   "Quel effet a la somatostatine ?"
+  ],
+  "lines": [
+   "A. Hypoglycémie",
+   "B. Hyperglycémie",
+   "C. Hypocalcémie",
+   "D. Hypercalcémie",
+   "E. Augmentation des phosphatases alcalines"
+  ],
+  "marked": [
+   "B. Hyperglycémie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Pharmacologie : somatostatine et analogues",
+  "note": "Pharmacologie (Horsmans).",
+  "groupe": "SOMATOSTATINE",
+  "answer": "B. Hyperglycémie",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "acromegalie",
+   "lessons": [
+    "hyph-acromegalie"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q35",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 7,
+  "num": 35,
+  "line": 202,
+  "stem": [
+   "Monsieur, connu pour macroadénome, arrive aux urgences pour céphalées,"
+  ],
+  "lines": [
+   "vomissements, raideur de nuque mais pas de fièvre, diagnostic :",
+   "Méningite bactérienne",
+   "Apoplexie hypophysaire",
+   "Syndrôme de Sheehan",
+   "Lymphome hypophysaire",
+   "Métastases carcinome hypophysaire"
+  ],
+  "marked": [
+   "Apoplexie hypophysaire"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Apoplexie hypophysaire",
+  "note": "",
+  "groupe": "APOPLEXIE",
+  "answer": "Apoplexie hypophysaire",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q37",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 7,
+  "num": 37,
+  "line": 215,
+  "stem": [
+   "2 propositions fausses"
+  ],
+  "lines": [
+   "A. lors d’une insuffisance hypophysaire, il faut doser les hormones hypophysaires et",
+   "peripheriques",
+   "B. Un syndrome de Cushing est toujours associé à Acth élevé",
+   "C. Craniopharyngiome=tumeur benigne kystique et ou calcifié issu de la poche de",
+   "rathke",
+   "D. Le dosage d’une GH élevée est un bon critère diag pour diagnostiquer",
+   "l’acromegalie chez l’adulte",
+   "E. Un effet secondaire du traitement à la cabergoline pendant une longue periode",
+   "est la fibrose valvulaire cardiaque"
+  ],
+  "marked": [
+   "B. Un syndrome de Cushing est toujours associé à Acth élevé",
+   "D. Le dosage d’une GH élevée est un bon critère diag pour diagnostiquer",
+   "l’acromegalie chez l’adulte"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Questions mixtes sur l'hypophyse",
+  "note": "",
+  "groupe": "HYPOPH-MIXTE",
+  "answer": "B. Un syndrome de Cushing est toujours associé à Acth élevé | D. Le dosage d’une GH élevée est un bon critère diag pour diagnostiquer | l’acromegalie chez l’adulte",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes",
+    "hyph-cushing",
+    "hyph-acromegalie"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q39",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 7,
+  "num": 39,
+  "line": 226,
+  "stem": [
+   "Dans l’acromégalie, qu’est-ce qu’on ne retrouve pas (1 fausse) :"
+  ],
+  "lines": [
+   "A. - Syndrome d’apnées du sommeil",
+   "B. - Céphalées",
+   "C. - Hypoglycémie",
+   "D. - Hyperprolactinémie"
+  ],
+  "marked": [
+   "C. - Hypoglycémie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Acromégalie : signes et complications",
+  "note": "",
+  "groupe": "ACRO-SIGNES",
+  "answer": "C. - Hypoglycémie",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "acromegalie",
+   "lessons": [
+    "hyph-acromegalie"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q45",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 8,
+  "num": 45,
+  "line": 243,
+  "stem": [
+   "Concernant le diabète insipide, quelle réponse est fausse :"
+  ],
+  "lines": [
+   "A) il peut être d’origine centrale ou nephrogenique",
+   "B) un test de restriction hydrique permet de faire la différence entre les différentes",
+   "étiologies",
+   "C) le dosage unique de l’ADH permet le diagnostic",
+   "D) Il peut y avoir des symptômes de polyurie et polydipsie",
+   "E) La desmopressine est le r/ du diabète centrale"
+  ],
+  "marked": [
+   "C) le dosage unique de l’ADH permet le diagnostic"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Diabète insipide",
+  "note": "",
+  "groupe": "DI",
+  "answer": "C) le dosage unique de l’ADH permet le diagnostic",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "posthypophyse",
+   "lessons": [
+    "hyph-posthypophyse"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q90",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 14,
+  "num": 90,
+  "line": 434,
+  "stem": [
+   "Quinagolide"
+  ],
+  "lines": [
+   "A. Agoniste dopaminergique",
+   "B. Hyperprolactinémique",
+   "C. Hyperglycémiant",
+   "D. Anti-mycotique",
+   "E. Anti-thyroidien"
+  ],
+  "marked": [
+   "A. Agoniste dopaminergique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Agonistes dopaminergiques (cabergoline, quinagolide)",
+  "note": "Pharmacologie (Horsmans).",
+  "groupe": "AGONISTES-DA",
+  "answer": "A. Agoniste dopaminergique",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "prolactine",
+   "lessons": [
+    "hyph-prolactine"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q93",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 15,
+  "num": 93,
+  "line": 443,
+  "stem": [
+   "Concernant les effets de la somatostatine, quel effet secondaire est rencontré ?"
+  ],
+  "lines": [
+   "A. Hypoglycémie",
+   "B. Hyperglycémie",
+   "C. Hypercalcémie",
+   "D. Augmentation des Ph Alcalines",
+   "E. Diarrhées"
+  ],
+  "marked": [
+   "B. Hyperglycémie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Pharmacologie : somatostatine et analogues",
+  "note": "Deux effets proposés sont réels : l'hyperglycémie (retenue) et les diarrhées, effet indésirable digestif fréquent des analogues de la somatostatine.",
+  "groupe": "SOMATOSTATINE",
+  "answer": "B. Hyperglycémie",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "acromegalie",
+   "lessons": [
+    "hyph-acromegalie"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-p17-l499",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 17,
+  "num": null,
+  "line": 499,
+  "stem": [
+   "Quel est le type d’adenome le plus fréquent"
+  ],
+  "lines": [
+   "A. Thyréotrope",
+   "B. Microprolactinome chez la femme",
+   "C. Corticotrope",
+   "D. Somatotrope"
+  ],
+  "marked": [
+   "B. Microprolactinome chez la femme"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Adénomes : fréquence et types",
+  "note": "",
+  "groupe": "ADENOME-EPIDEMIO",
+  "answer": "B. Microprolactinome chez la femme",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-p18-l557",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 18,
+  "num": null,
+  "line": 557,
+  "stem": [
+   "Une question sur le diabète insipide (proposition fausse)"
+  ],
+  "lines": [
+   "• Il peut être nephro génique ou central",
+   "• Test à la soif permet de le différencier",
+   "• Polyurie et polydipsie",
+   "• Osmolalité urinaire < osmolalité plasmatique",
+   "• Un test de dosage d’ADH permet de faire la différence"
+  ],
+  "marked": [
+   "• Test à la soif permet de le différencier",
+   "• Un test de dosage d’ADH permet de faire la différence"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Diabète insipide",
+  "note": "Deux propositions en rouge pour une seule fausse. Le test de restriction hydrique permet bien de différencier les causes ; d'après la question Q45 de la même session, seule « dosage d'ADH » est fausse.",
+  "groupe": "DI",
+  "answer": "• Test à la soif permet de le différencier | • Un test de dosage d’ADH permet de faire la différence",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "posthypophyse",
+   "lessons": [
+    "hyph-posthypophyse"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-p5-l192",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Alexopoulou (+ vrac adulte)",
+  "disc": "ADULTE",
+  "teacher": "Alexopoulou",
+  "page": 5,
+  "num": null,
+  "line": 192,
+  "stem": [
+   "évidence un adénome hypophysaire de 6 mm.Quelle proposition est fausse ?"
+  ],
+  "lines": [
+   "● Un traitement par agonistes dopaminergiques doit être initié afin de restaurer la",
+   "fertilité",
+   "● Le traitement par agonistes dopaminergiques doit être interrompu dès que la",
+   "grossesse est confirmée",
+   "● L’allaitement est possible",
+   "● Une chirurgie trans-sphénoïdale prophylactique doit être réalisée avant la conception",
+   "● La grossesse n’entraîne qu’une faible augmentation de la taille de l’adénome (< 3–5",
+   "%)"
+  ],
+  "marked": [
+   "● Une chirurgie trans-sphénoïdale prophylactique doit être réalisée avant la conception"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Prolactinome et grossesse",
+  "note": "Début de l'énoncé non retranscrit (« …évidence un adénome hypophysaire de 6 mm »).",
+  "groupe": "PRL-GROSSESSE",
+  "answer": "● Une chirurgie trans-sphénoïdale prophylactique doit être réalisée avant la conception",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "prolactine",
+   "lessons": [
+    "hyph-prolactine"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q19",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Alexopoulou (+ vrac adulte)",
+  "disc": "ADULTE",
+  "teacher": "Alexopoulou",
+  "page": 5,
+  "num": 19,
+  "line": 201,
+  "stem": [
+   "Concernant le traitement par agoniste dopaminergique du prolactinome, lequel de",
+   "ces effets secondaire n’est PAS rencontré ?"
+  ],
+  "lines": [
+   "A. Nausées et vomissement",
+   "B. Hypotension orthostatique",
+   "C. Comportement compulsif (jeu, etc)",
+   "D. Fibrose valvulaire cardiaque (à haute dose)",
+   "E. Insuffisance rénale aiguë"
+  ],
+  "marked": [
+   "E. Insuffisance rénale aiguë"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Agonistes dopaminergiques (cabergoline, quinagolide)",
+  "note": "Alexopoulou.",
+  "groupe": "AGONISTES-DA",
+  "answer": "E. Insuffisance rénale aiguë",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "prolactine",
+   "lessons": [
+    "hyph-prolactine"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q20",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Alexopoulou (+ vrac adulte)",
+  "disc": "ADULTE",
+  "teacher": "Alexopoulou",
+  "page": 5,
+  "num": 20,
+  "line": 208,
+  "stem": [
+   "Concernant l’apoplexie hypophysaire :"
+  ],
+  "lines": [
+   "a. Processus lent",
+   "b. Souvent sur hypophyse saine",
+   "c. Provoque problème de vue brutal",
+   "d. Ne peut jamais être provoquée par un test à TRH",
+   "e. Est caractérisé par des symptômes : symptômes méningés, céphalées,"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse absente",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Apoplexie hypophysaire",
+  "note": "Alexopoulou ; aucune réponse marquée.",
+  "groupe": "APOPLEXIE",
+  "answer": "",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q21",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Alexopoulou (+ vrac adulte)",
+  "disc": "ADULTE",
+  "teacher": "Alexopoulou",
+  "page": 5,
+  "num": 21,
+  "line": 214,
+  "stem": [
+   "Panhypopituitarisme quel traitement débuter en premier"
+  ],
+  "lines": [
+   "a. GH pour éviter …",
+   "b. L-thyroxine avant hydrocortisone pour éviter coma myxoedémateux",
+   "c. Hydrocortisone avant ou en même temps que L-thyroxine",
+   "d. Desmopressine pour éviter diabète insipide",
+   "e. Oestrogènes pour éviter ostéoporose"
+  ],
+  "marked": [
+   "c. Hydrocortisone avant ou en même temps que L-thyroxine"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Insuffisance antéhypophysaire : traitement",
+  "note": "Alexopoulou.",
+  "groupe": "INSUF-TRT",
+  "answer": "c. Hydrocortisone avant ou en même temps que L-thyroxine",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "insuffisance",
+   "lessons": [
+    "hyph-insuffisance"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-p7-l300",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Alexopoulou (+ vrac adulte)",
+  "disc": "ADULTE",
+  "teacher": "Alexopoulou",
+  "page": 7,
+  "num": null,
+  "line": 300,
+  "stem": [
+   "Lequel n’est pas un effet secondaire du traitement par analogues de la somatostatine ? (pas",
+   "sûr)"
+  ],
+  "lines": [
+   "A."
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Pharmacologie : somatostatine et analogues",
+  "note": "Aucune proposition retranscrite.",
+  "groupe": "SOMATOSTATINE",
+  "answer": "",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "acromegalie",
+   "lessons": [
+    "hyph-acromegalie"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q42",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Radiologie",
+  "disc": "RADIO",
+  "teacher": "non précisé",
+  "page": 10,
+  "num": 42,
+  "line": 397,
+  "stem": [
+   "Concernant l’adénome hypophysaire, toutes les propositions suivant sont",
+   "bonnes sauf une, laquelle ? (Tuyau)"
+  ],
+  "lines": [
+   "a. Un macroadenome est >1cm",
+   "b. Ils peuvent être sécrétant ou alors ne rien sécréter et donner des symptômes",
+   "dus a leurs tailles",
+   "c. L’hypophyse est situés à proximité des sinus caverneux et chiasma optique, il",
+   "est intéressant de vérifier ces structures sur une imagerie",
+   "d. Pour bien visualiser l’hypophyse, IRM en pondération T1 avec du produit de",
+   "contraste est bien",
+   "e. Sur un une imagerie irm t1, l’adénome va prendre plus de contraste que le",
+   "reste de la glande car l’adénome est mieux vascularisée."
+  ],
+  "marked": [
+   "e. Sur un une imagerie irm t1, l’adénome va prendre plus de contraste que le",
+   "reste de la glande car l’adénome est mieux vascularisée."
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "IRM : rehaussement de l'adénome, séquences",
+  "note": "Radiologie ; « tuyau » (même question en janvier 2024).",
+  "groupe": "IRM-ADENOME",
+  "answer": "e. Sur un une imagerie irm t1, l’adénome va prendre plus de contraste que le | reste de la glande car l’adénome est mieux vascularisée.",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "imagerie",
+   "lessons": [
+    "hyph-anatomie",
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q46",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Pharmacologie",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 11,
+  "num": 46,
+  "line": 436,
+  "stem": [
+   "Quel est l’effet de la somatostatine ? (Tuyau)"
+  ],
+  "lines": [
+   "-",
+   "Hypercalcémie",
+   "-",
+   "Hypoglycémie",
+   "-",
+   "Hyperglycémie",
+   "-",
+   "Augmentation des Phosphatase Alcaline",
+   "-",
+   "Diarrhée ?"
+  ],
+  "marked": [
+   "Hyperglycémie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Pharmacologie : somatostatine et analogues",
+  "note": "« Diarrhée ? » est aussi un effet indésirable fréquent des analogues de la somatostatine ; la réponse retenue est l'hyperglycémie.",
+  "groupe": "SOMATOSTATINE",
+  "answer": "Hyperglycémie",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "acromegalie",
+   "lessons": [
+    "hyph-acromegalie"
+   ]
+  }
+ }
+]

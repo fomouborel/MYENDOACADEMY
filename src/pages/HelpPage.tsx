@@ -7,7 +7,7 @@ export function HelpPage() {
       <h1>Mode d’emploi</h1>
       <h2>Par où commencer ?</h2>
       <ol>
-        <li>Ouvre <Link to="/cours">Mes cours</Link> et choisis un cours de thyroïde.</li>
+        <li>Ouvre <Link to="/cours">Mes cours</Link> et choisis un cours.</li>
         <li>Lis les leçons dans l’ordre, puis clique sur « J’ai terminé cette leçon ».</li>
         <li>Fais ensuite les étapes du cours : vérifier, s’entraîner, niveau examen, évaluation finale.</li>
         <li>Reviens chaque jour dans <Link to="/revisions">Mes révisions</Link> : l’application te propose les questions à revoir au bon moment.</li>

@@ -1,0 +1,1100 @@
+{
+  "source": "import-hypophyse-nd-duprez",
+  "questions": [
+    {
+      "id": "ENDO-ND-RADIO-QCM-001",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quelle anomalie de la vision retrouvera-t-on le plus souvent en cas d’extension supra-sellaire d’un adénome de l’hypophyse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hémianopsie bitemporale",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Hémianopsie binasale",
+          "explanation": "Non : exceptionnelle."
+        },
+        {
+          "id": "C",
+          "text": "Diplopie",
+          "explanation": "Non : extension latérale (sinus caverneux)."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 83,
+        "originalNumber": 1,
+        "auditRef": "ND-duprez-coche-imagerie-Q1"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes",
+        "hyph-anatomie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "VISION",
+      "answerNote": "Radiologie ; 3 propositions.",
+      "hints": [
+        "L’extension supra-sellaire se fait vers le haut.",
+        "Quelle structure visuelle se trouve juste au-dessus de l’hypophyse ?",
+        "Au chiasma, ce sont les fibres venant des rétines nasales qui se croisent."
+      ],
+      "explanation": {
+        "text": "En s’étendant vers le haut, l’adénome comprime le chiasma optique par en dessous. Il atteint d’abord les fibres qui croisent, venant des rétines nasales et qui portent les champs visuels temporaux : c’est l’hémianopsie bitemporale. La diplopie traduit plutôt une extension latérale vers les sinus caverneux (nerfs III, IV, VI).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-004",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Un microadénome, la différence avec le reste du tissu glandulaire:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Aura un rehaussement tardif après une parenchymographie avec pdc ??"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 83,
+        "originalNumber": 4,
+        "auditRef": "ND-duprez-coche-imagerie-Q4"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "imagerie",
+      "lessonLinks": [
+        "hyph-anatomie",
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "IRM-ADENOME",
+      "answerNote": "Une seule proposition."
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-005",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Symptômes visuels :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "T hypophyse allant jusqu’au sinus caverneux donne une diplopie"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 83,
+        "originalNumber": 5,
+        "auditRef": "ND-duprez-coche-imagerie-Q5"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes",
+        "hyph-anatomie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "VISION",
+      "answerNote": "Une seule proposition."
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-006",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Craniopharyngiome",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "T+ bénigne kystique hypophysaire avec un aspect d’huile de moteur",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Métastase systématique par les méninges",
+          "explanation": "Faux : tumeur bénigne, pas de métastases."
+        },
+        {
+          "id": "C",
+          "text": "Cancer < cellules germinales ectopique à la base du cerveau",
+          "explanation": "Faux : c’est la définition d’un germinome."
+        },
+        {
+          "id": "D",
+          "text": "Localisation préférentielle dans l’épiphyse",
+          "explanation": "Faux : région sellaire et suprasellaire."
+        },
+        {
+          "id": "E",
+          "text": "Entraîne systématiquement un diabète insipide central",
+          "explanation": "Faux : fréquent, pas systématique."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 83,
+        "originalNumber": 6,
+        "auditRef": "ND-duprez-coche-imagerie-Q6"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CRANIO",
+      "answerNote": "Radiologie.",
+      "hints": [
+        "Le craniopharyngiome naît de restes embryonnaires.",
+        "Il dérive de la poche de Rathke, à l’origine de l’antéhypophyse.",
+        "Son contenu kystique a un aspect très particulier, comparé à un liquide de moteur."
+      ],
+      "explanation": {
+        "text": "Le craniopharyngiome est une tumeur bénigne, kystique et souvent calcifiée, issue des restes de la poche de Rathke ; son contenu évoque de l’« huile de moteur ». Il ne métastase pas, ce n’est pas une tumeur germinale, il siège dans la région sellaire et suprasellaire (pas dans l’épiphyse), et il donne souvent, mais pas systématiquement, un diabète insipide.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-007",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "IRM + PDC dynamique pour hypophyse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Démasquer les microadénomes non vus en T1 et T2 standards"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 84,
+        "originalNumber": 7,
+        "auditRef": "ND-duprez-coche-imagerie-Q7"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "imagerie",
+      "lessonLinks": [
+        "hyph-anatomie",
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "IRM-ADENOME",
+      "answerNote": "Une seule proposition."
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-009",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Question avec une masse qui n’est pas graisseuse, qqch dans le genre : On retrouve une masse non graisseuse au niveau de l’hypophyse:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "C’est très probablement un processus bénin",
+          "explanation": "Non : le scanner ne permet pas de conclure."
+        },
+        {
+          "id": "B",
+          "text": "C’est très probablement un processus malin",
+          "explanation": "Non : le scanner ne permet pas de conclure."
+        },
+        {
+          "id": "C",
+          "text": "Il peut encore s’agir d’un adénome : confirmation par irm",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Cela explique sa non-hypodensité au CTscan",
+          "explanation": "Non : proposition sans logique diagnostique."
+        },
+        {
+          "id": "E",
+          "text": "il faut le faire analyser par un anatomopathologiste.",
+          "explanation": "Non : l’imagerie d’abord ; l’analyse se fera éventuellement après une chirurgie."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 84,
+        "originalNumber": 9,
+        "auditRef": "ND-duprez-coche-imagerie-Q9"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "imagerie",
+      "lessonLinks": [
+        "hyph-anatomie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "IMAGERIE-MASSE",
+      "answerNote": "Énoncé reconstitué de mémoire (« qqch dans le genre »).",
+      "hints": [
+        "Une seule image de scanner ne permet pas de caractériser une masse sellaire.",
+        "Quel examen est la référence pour étudier l’hypophyse ?",
+        "La lésion la plus fréquente de la région sellaire reste possible."
+      ],
+      "explanation": {
+        "text": "Énoncé reconstitué de mémoire. Une masse de la région sellaire qui n’est pas graisseuse au scanner peut encore être un adénome, la lésion la plus fréquente de cette région : c’est l’IRM qui la caractérisera. Le scanner seul ne permet pas d’affirmer qu’elle est bénigne ou maligne, et on ne commence pas par l’anatomie pathologique.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCMM-011",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-correct",
+      "stem": "Quels sont les bords de l’hypophyse qui ne sont pas bordés par une structure osseuse (2 réponses)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "le plafond de l’hypophyse",
+          "explanation": "Vrai (réponse attendue) : diaphragme sellaire."
+        },
+        {
+          "id": "B",
+          "text": "la face antérieur",
+          "explanation": "Faux : osseuse (tubercule de la selle)."
+        },
+        {
+          "id": "C",
+          "text": "le dos",
+          "explanation": "Faux : osseux (dos de la selle)."
+        },
+        {
+          "id": "D",
+          "text": "la face inférieure",
+          "explanation": "Faux : osseuse (plancher, sinus sphénoïdal)."
+        },
+        {
+          "id": "E",
+          "text": "les faces latérales",
+          "explanation": "Vrai (réponse attendue) : sinus caverneux."
+        }
+      ],
+      "expected": [
+        "A",
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 84,
+        "originalNumber": 11,
+        "auditRef": "ND-duprez-coche-imagerie-Q11"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "imagerie",
+      "lessonLinks": [
+        "hyph-anatomie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ANAT-SELLE",
+      "answerNote": "Radiologie.",
+      "hints": [
+        "La selle turcique est creusée dans l’os sphénoïde.",
+        "Par où un adénome peut-il s’étendre sans rencontrer d’os ?",
+        "Pense au chiasma au-dessus et aux sinus caverneux de chaque côté."
+      ],
+      "explanation": {
+        "text": "La loge hypophysaire est osseuse en avant (tubercule de la selle), en arrière (dos de la selle) et en bas (plancher, au-dessus du sinus sphénoïdal). Elle n’est pas osseuse en haut, où le diaphragme sellaire (dure-mère) la sépare du chiasma, ni sur les côtés, où se trouvent les sinus caverneux. C’est pourquoi un adénome s’étend vers le haut (troubles visuels) ou sur les côtés (diplopie).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-013",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Question sur métastase dans l’hypophyse:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "le plus souvent en adénohypophyse",
+          "explanation": "Faux : plus souvent la posthypophyse."
+        },
+        {
+          "id": "B",
+          "text": "Peuvent provoquer une diabète insipide central",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Toujours dans le cadre d’une carcinomatose méningée",
+          "explanation": "Faux : « toujours » est excessif."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 84,
+        "originalNumber": 13,
+        "auditRef": "ND-duprez-coche-imagerie-Q13"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes",
+        "hyph-posthypophyse"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "METASTASE",
+      "answerNote": "Radiologie ; 3 propositions.",
+      "hints": [
+        "Les métastases arrivent par le sang.",
+        "Quelle partie de l’hypophyse est irriguée directement par les artères ?",
+        "La posthypophyse stocke une hormone qui concentre les urines."
+      ],
+      "explanation": {
+        "text": "Les métastases hypophysaires (sein, poumon surtout) touchent préférentiellement la posthypophyse, irriguée directement par les artères. Elles révèlent donc souvent un diabète insipide central. Elles ne surviennent pas toujours dans le cadre d’une carcinomatose méningée.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-017",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Qu’est-ce qui provoque une amputation des champs visuels",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Nécrose",
+          "explanation": "Non : sauf compression secondaire du chiasma."
+        },
+        {
+          "id": "B",
+          "text": "Hémorragie",
+          "explanation": "Non : sauf compression secondaire du chiasma."
+        },
+        {
+          "id": "C",
+          "text": "Compression chiasma optique",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Envahissement du dorsum sellae",
+          "explanation": "Non : en arrière, pas de voie optique."
+        },
+        {
+          "id": "E",
+          "text": "Envahissement du sinus caverneux",
+          "explanation": "Non : donne une diplopie."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 85,
+        "originalNumber": 17,
+        "auditRef": "ND-duprez-coche-imagerie-Q17"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes",
+        "hyph-anatomie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "VISION",
+      "answerNote": "Radiologie.",
+      "hints": [
+        "L’amputation du champ visuel vient d’une atteinte des voies optiques.",
+        "Quelle structure des voies visuelles se trouve au-dessus de la selle ?",
+        "Le sinus caverneux contient les nerfs oculomoteurs, pas les voies optiques."
+      ],
+      "explanation": {
+        "text": "L’amputation du champ visuel est due à la compression du chiasma optique par une extension supra-sellaire. L’envahissement du sinus caverneux donne une diplopie (nerfs III, IV, VI) ; celui du dos de la selle ne touche pas les voies optiques. Une nécrose ou une hémorragie (apoplexie) n’amputent le champ visuel que si elles compriment le chiasma.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-112",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Un adénome de l’hypophyse en IRM T1 avec injection de PC en temps précoce",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "ne rehausse pas",
+          "explanation": "Faux : il se rehausse, mais moins."
+        },
+        {
+          "id": "B",
+          "text": "rehausse plus que le parenchyme",
+          "explanation": "Faux : c’est l’inverse."
+        },
+        {
+          "id": "C",
+          "text": "rehausse mais moins que le parenchyme",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Réhausse de la même façon que le parenchyme",
+          "explanation": "Faux : sinon on ne le verrait pas."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 86,
+        "originalNumber": 112,
+        "auditRef": "ND-duprez-coche-imagerie-Q112"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "imagerie",
+      "lessonLinks": [
+        "hyph-anatomie",
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "IRM-ADENOME",
+      "answerNote": "Radiologie.",
+      "hints": [
+        "La glande normale n’a pas de barrière hémato-encéphalique et reçoit le sang du système porte.",
+        "Comment se rehausse un tissu très richement vascularisé dans les premières secondes ?",
+        "L’adénome est-il plus ou moins vascularisé que la glande normale ?"
+      ],
+      "explanation": {
+        "text": "En phase précoce après injection de gadolinium, l’hypophyse normale se rehausse vite et fort (système porte, pas de barrière hémato-encéphalique). L’adénome, moins vascularisé, se rehausse aussi, mais moins et plus tard : il apparaît comme une zone relativement sombre dans une glande brillante. C’est le principe de la séquence dynamique.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-113",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Entre un adénome de l’hypophyse sécrétant et non sécrétant",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "aucune caractéristique ne permet de les différentier"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 86,
+        "originalNumber": 113,
+        "auditRef": "ND-duprez-coche-imagerie-Q113"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "imagerie",
+      "lessonLinks": [
+        "hyph-anatomie",
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "IRM-ADENOME",
+      "answerNote": "Une seule proposition."
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-117",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quelle imagerie pour détecter un adénome hypophysaire",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "T2 contraste phase précoce",
+          "explanation": "Non : séquence T1."
+        },
+        {
+          "id": "B",
+          "text": "T1 contraste phase précoce",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "T1 contraste phase tardive",
+          "explanation": "Moins utile : les intensités s’égalisent."
+        },
+        {
+          "id": "D",
+          "text": "Scan injecté",
+          "explanation": "Non : moins sensible."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 86,
+        "originalNumber": 117,
+        "auditRef": "ND-duprez-coche-imagerie-Q117"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "imagerie",
+      "lessonLinks": [
+        "hyph-anatomie",
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "IRM-ADENOME",
+      "answerNote": "Radiologie.",
+      "hints": [
+        "La séquence de référence est celle où l’on injecte le gadolinium.",
+        "Ce n’est pas une séquence pondérée en T2.",
+        "Le moment de l’acquisition compte : l’adénome se distingue mieux tôt après l’injection."
+      ],
+      "explanation": {
+        "text": "L’adénome se détecte le mieux en IRM T1 après gadolinium, en phase précoce (séquence dynamique) : la glande normale se rehausse vite, l’adénome moins et plus tard. En phase tardive, les intensités s’égalisent et l’adénome peut passer inaperçu. Le scanner injecté est moins sensible.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-121",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Examen le plus sensible pour détecter un micro-adénome hypophysaire",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "CT avec produit de contraste",
+          "explanation": "Non : moins sensible."
+        },
+        {
+          "id": "B",
+          "text": "CT sans produit de contraste",
+          "explanation": "Non."
+        },
+        {
+          "id": "C",
+          "text": "IRM avec produit de contraste",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "IRM sans produit de contraste",
+          "explanation": "Moins sensible : le contraste est utile."
+        },
+        {
+          "id": "E",
+          "text": "PET",
+          "explanation": "Non."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 86,
+        "originalNumber": 121,
+        "auditRef": "ND-duprez-coche-imagerie-Q121"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "imagerie",
+      "lessonLinks": [
+        "hyph-anatomie",
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "IRM-ADENOME",
+      "answerNote": "Radiologie.",
+      "hints": [
+        "Un microadénome mesure moins de 10 mm.",
+        "Quel examen a la meilleure résolution pour les tissus mous ?",
+        "Le produit de contraste fait ressortir l’adénome par rapport à la glande normale."
+      ],
+      "explanation": {
+        "text": "L’IRM avec gadolinium (T1, séquence dynamique) est l’examen le plus sensible pour un microadénome. Le scanner est moins sensible, même injecté. Le PET-scan n’est pas un examen de première intention.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCMM-125",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-correct",
+      "stem": "Un adénome hypophysaire EXPANSIF provoque typiquement (2 réponses exactes):",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Une amputation des champs visuels",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Un trouble de l’acuité visuelle",
+          "explanation": "Possible, mais plus tardif."
+        },
+        {
+          "id": "C",
+          "text": "Un trouble de la vision des couleurs",
+          "explanation": "Possible, mais plus tardif."
+        },
+        {
+          "id": "D",
+          "text": "Une diplopie",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "Une alopécie bitemporale",
+          "explanation": "Non : sans rapport."
+        }
+      ],
+      "expected": [
+        "A",
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 86,
+        "originalNumber": 125,
+        "auditRef": "ND-duprez-coche-imagerie-Q125"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes",
+        "hyph-anatomie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "VISION",
+      "answerNote": "Radiologie.",
+      "hints": [
+        "Un adénome expansif s’étend vers le haut et sur les côtés.",
+        "Vers le haut, il touche le chiasma ; sur le côté, les nerfs oculomoteurs.",
+        "Une proposition parle de cheveux : elle n’a aucun rapport avec l’hypophyse."
+      ],
+      "explanation": {
+        "text": "Un adénome expansif donne typiquement une amputation des champs visuels (chiasma, extension vers le haut) et une diplopie (sinus caverneux, extension latérale). La baisse d’acuité et les troubles de la vision des couleurs surviennent plus tard, quand la compression du nerf ou du chiasma est avancée. L’alopécie bitemporale n’a aucun rapport.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCMM-126",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-correct",
+      "stem": "Concernant les atteintes dans le nanisme hypophysaire, trouvez les 2 intrus (c’était pas 1 intru ? :( non 2 par contre les propositions sont mal retranscrites je pense, ou bien c'était \"trouver les 2 justes\") : pour moi c’était trouver les deux justes…. Et la tige pituitaire n’est pas “visible” mais elle est bien présente! Donc pour moi C et D sont bons",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hamartome du 3e ventricule (c'était pas un nom bizarre genre uncinae truc ?)"
+        },
+        {
+          "id": "B",
+          "text": "Selle turcique vide"
+        },
+        {
+          "id": "C",
+          "text": "Petite anté-hypophyse"
+        },
+        {
+          "id": "D",
+          "text": "Pas de tige pituitaire"
+        },
+        {
+          "id": "E",
+          "text": "Néoplasie ectopie à la base du 3ème ventricule."
+        }
+      ],
+      "expected": [
+        "C",
+        "D"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 86,
+        "originalNumber": 126,
+        "auditRef": "ND-duprez-coche-imagerie-Q126"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "imagerie",
+      "lessonLinks": [
+        "hyph-anatomie",
+        "hyph-insuffisance"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "NANISME",
+      "answerNote": "Consigne incertaine (« 2 intrus » ou « 2 justes ») et propositions mal retranscrites selon les étudiants : consultable, non notée."
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-127",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "Par rapport à un adénome adénohypophysaire, une vraie:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Parenchymatographie dynamique est précoce par rapport au reste de la glande",
+          "explanation": "Faux : c’est la glande normale qui se rehausse précocement."
+        },
+        {
+          "id": "B",
+          "text": "Parenchymatographie dynamique est retardée/ralentie par rapport au reste de la glande",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Hyperrehaussement de l’adénome est retardé, après injection de PDC.",
+          "explanation": "Formulation ambiguë : ce n’est pas le critère retenu."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 86,
+        "originalNumber": 127,
+        "auditRef": "ND-duprez-coche-imagerie-Q127"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "imagerie",
+      "lessonLinks": [
+        "hyph-anatomie",
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "IRM-ADENOME",
+      "answerNote": "Radiologie ; 3 propositions.",
+      "hints": [
+        "La glande normale n’a pas de barrière hémato-encéphalique et reçoit le sang du système porte.",
+        "Comment se rehausse un tissu très richement vascularisé dans les premières secondes ?",
+        "L’adénome est-il plus ou moins vascularisé que la glande normale ?"
+      ],
+      "explanation": {
+        "text": "En phase précoce après injection de gadolinium, l’hypophyse normale se rehausse vite et fort (système porte, pas de barrière hémato-encéphalique). L’adénome, moins vascularisé, se rehausse aussi, mais moins et plus tard : il apparaît comme une zone relativement sombre dans une glande brillante. C’est le principe de la séquence dynamique. La troisième proposition est ambiguë : sur des images tardives, l’adénome peut paraître plus rehaussé que la glande, qui s’est déjà « lavée » du contraste, mais ce n’est pas ce qui le caractérise.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCMM-129",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-correct",
+      "stem": "Question sur les parois de la selle turcique (je sais plus), lesquelles ne sont pas osseuses (2 réponses) :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Latérales",
+          "explanation": "Vrai (réponse attendue) : sinus caverneux."
+        },
+        {
+          "id": "B",
+          "text": "Postérieure",
+          "explanation": "Faux : osseuse (dos de la selle)."
+        },
+        {
+          "id": "C",
+          "text": "Antérieur",
+          "explanation": "Faux : osseuse (tubercule de la selle)."
+        },
+        {
+          "id": "D",
+          "text": "Plancher",
+          "explanation": "Faux : osseux (sinus sphénoïdal)."
+        },
+        {
+          "id": "E",
+          "text": "Toit",
+          "explanation": "Vrai (réponse attendue) : diaphragme sellaire."
+        }
+      ],
+      "expected": [
+        "A",
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 87,
+        "originalNumber": 129,
+        "auditRef": "ND-duprez-coche-imagerie-Q129"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "imagerie",
+      "lessonLinks": [
+        "hyph-anatomie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ANAT-SELLE",
+      "answerNote": "Énoncé retranscrit de mémoire (« je sais plus ») ; réponse identique à la question Q11 de la même section.",
+      "hints": [
+        "La selle turcique est creusée dans l’os sphénoïde.",
+        "Par où un adénome peut-il s’étendre sans rencontrer d’os ?",
+        "Pense au chiasma au-dessus et aux sinus caverneux de chaque côté."
+      ],
+      "explanation": {
+        "text": "La loge hypophysaire est osseuse en avant (tubercule de la selle), en arrière (dos de la selle) et en bas (plancher, au-dessus du sinus sphénoïdal). Elle n’est pas osseuse en haut, où le diaphragme sellaire (dure-mère) la sépare du chiasma, ni sur les côtés, où se trouvent les sinus caverneux. C’est pourquoi un adénome s’étend vers le haut (troubles visuels) ou sur les côtés (diplopie). Énoncé retranscrit de mémoire, mais réponse identique à la question Q11 de la même section.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-130",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "question avec tumeur hypoph, à propos du rehaussement par rapport au tissu sain en phase précoce?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "moins rehaussant",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "plus rehaussant",
+          "explanation": "Faux : c’est l’inverse."
+        },
+        {
+          "id": "C",
+          "text": "iso-rehaussant",
+          "explanation": "Faux : sinon on ne le verrait pas."
+        },
+        {
+          "id": "D",
+          "text": "…",
+          "explanation": "Proposition non retranscrite."
+        },
+        {
+          "id": "E",
+          "text": "ne rehausse pas",
+          "explanation": "Faux : il se rehausse, mais moins."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 87,
+        "originalNumber": 130,
+        "auditRef": "ND-duprez-coche-imagerie-Q130"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "imagerie",
+      "lessonLinks": [
+        "hyph-anatomie",
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "IRM-ADENOME",
+      "answerNote": "Radiologie ; proposition D non retranscrite (« … »).",
+      "hints": [
+        "La glande normale n’a pas de barrière hémato-encéphalique et reçoit le sang du système porte.",
+        "Comment se rehausse un tissu très richement vascularisé dans les premières secondes ?",
+        "L’adénome est-il plus ou moins vascularisé que la glande normale ?"
+      ],
+      "explanation": {
+        "text": "En phase précoce après injection de gadolinium, l’hypophyse normale se rehausse vite et fort (système porte, pas de barrière hémato-encéphalique). L’adénome, moins vascularisé, se rehausse aussi, mais moins et plus tard : il apparaît comme une zone relativement sombre dans une glande brillante. C’est le principe de la séquence dynamique.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

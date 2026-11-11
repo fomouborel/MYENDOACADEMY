@@ -1,0 +1,285 @@
+{
+  "source": "import-hypophyse-nd-horsmans",
+  "questions": [
+    {
+      "id": "ENDO-ND-PHARMA-QCM-001",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "La cabergoline a les propriétés suivantes sauf une. Laquelle ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "C’est un dérivé de l’ergot de seigle",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "C’est un agoniste des récepteurs dopaminergiques",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Elle a une courte durée d’action",
+          "explanation": "Faux (réponse attendue) : longue durée d’action."
+        },
+        {
+          "id": "D",
+          "text": "Elle est utilisée dans le traitement des hyperprolactinémies",
+          "explanation": "Vrai : premier choix."
+        },
+        {
+          "id": "E",
+          "text": "Elle a une action sérotoninergique partielle associée",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 87,
+        "originalNumber": 1,
+        "auditRef": "ND-horsmans-hormones-Q1"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "prolactine",
+      "lessonLinks": [
+        "hyph-prolactine"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "AGONISTES-DA",
+      "answerNote": "Pharmacologie (Horsmans).",
+      "hints": [
+        "La cabergoline se prend une ou deux fois par semaine.",
+        "Qu’est-ce que cela dit de sa durée d’action ?",
+        "Elle dérive d’un champignon et agit aussi sur des récepteurs sérotoninergiques."
+      ],
+      "explanation": {
+        "text": "La cabergoline est un dérivé de l’ergot de seigle, agoniste des récepteurs dopaminergiques D2, utilisé en première intention dans les hyperprolactinémies. Elle a une action sérotoninergique associée (récepteur 5-HT2B), responsable du risque de fibrose valvulaire à forte dose. Elle a au contraire une longue durée d’action : une à deux prises par semaine.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-PHARMA-QCM-002",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quinagolide",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Agoniste dopaminergique",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Hyperprolactinémique",
+          "explanation": "Non : il fait baisser la prolactine."
+        },
+        {
+          "id": "C",
+          "text": "Hyperglycémiant",
+          "explanation": "Non."
+        },
+        {
+          "id": "D",
+          "text": "Anti-mycotique",
+          "explanation": "Non."
+        },
+        {
+          "id": "E",
+          "text": "Anti-thyroidien",
+          "explanation": "Non : c’est un traitement de l’hyperprolactinémie."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 87,
+        "originalNumber": 2,
+        "auditRef": "ND-horsmans-hormones-Q2"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "prolactine",
+      "lessonLinks": [
+        "hyph-prolactine"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "AGONISTES-DA",
+      "answerNote": "Pharmacologie (Horsmans).",
+      "hints": [
+        "Le quinagolide est utilisé dans le traitement de l’hyperprolactinémie.",
+        "Quel neurotransmetteur freine naturellement la prolactine ?",
+        "Le médicament imite ce neurotransmetteur."
+      ],
+      "explanation": {
+        "text": "Le quinagolide est un agoniste dopaminergique non dérivé de l’ergot de seigle. Comme la dopamine, il freine la sécrétion de prolactine : il traite les hyperprolactinémies et les prolactinomes. Il n’est ni antithyroïdien, ni antifongique, ni hypo- ou hyperglycémiant, et il fait baisser la prolactine.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-PHARMA-QCM-003",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant les effets de la somatostatine, quel effet secondaire n’est pas rencontré ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hypoglycémie",
+          "explanation": "Réponse retenue, discutable : des hypoglycémies sont possibles."
+        },
+        {
+          "id": "B",
+          "text": "Hyperglycémie",
+          "explanation": "Rencontrée : effet principal."
+        },
+        {
+          "id": "C",
+          "text": "Hypercalcémie",
+          "explanation": "Pas un effet classique."
+        },
+        {
+          "id": "D",
+          "text": "Augmentation des Ph Alcalines",
+          "explanation": "Pas un effet classique."
+        },
+        {
+          "id": "E",
+          "text": "Diarrhées",
+          "explanation": "Rencontrées : effet digestif fréquent."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 87,
+        "originalNumber": 3,
+        "auditRef": "ND-horsmans-hormones-Q3"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "acromegalie",
+      "lessonLinks": [
+        "hyph-acromegalie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SOMATOSTATINE",
+      "answerNote": "Les analogues de la somatostatine peuvent donner des hypo- et des hyperglycémies (ils freinent l'insuline et le glucagon) : « hypoglycémie » comme effet non rencontré est discutable. Les autres questions de la série retiennent l'hyperglycémie comme effet principal.",
+      "hints": [
+        "La somatostatine freine de nombreuses hormones, dont deux hormones du pancréas.",
+        "Laquelle de ces deux hormones pancréatiques fait baisser la glycémie ?",
+        "Si on freine l’hormone qui abaisse la glycémie, que devient la glycémie ?"
+      ],
+      "explanation": {
+        "text": "La somatostatine et ses analogues (octréotide, lanréotide) freinent la GH, la TSH et les sécrétions digestives, mais aussi l’insuline et le glucagon. L’effet métabolique retenu dans les archives est l’hyperglycémie, par inhibition de l’insuline. Les effets indésirables digestifs (diarrhées, douleurs abdominales) et la lithiase biliaire sont fréquents. Hypercalcémie, hypocalcémie et élévation des phosphatases alcalines ne sont pas des effets classiques. Correction discutée : la réponse retenue est que l’hypoglycémie n’est « pas rencontrée ». Or les analogues freinent aussi le glucagon et peuvent donner des hypoglycémies. Il faut surtout retenir que l’effet principal est l’hyperglycémie. Hypercalcémie et phosphatases alcalines ne sont pas des effets classiques non plus.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-PHARMA-QCM-004",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quel effet a la somatostatine ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hypoglycémie",
+          "explanation": "Possible mais rare (inhibition du glucagon) ; ce n’est pas l’effet retenu."
+        },
+        {
+          "id": "B",
+          "text": "Hyperglycémie",
+          "explanation": "Oui (réponse attendue) : inhibition de l’insuline."
+        },
+        {
+          "id": "C",
+          "text": "Hypocalcémie",
+          "explanation": "Non."
+        },
+        {
+          "id": "D",
+          "text": "Hypercalcémie",
+          "explanation": "Non."
+        },
+        {
+          "id": "E",
+          "text": "Augmentation des phosphatases alcalines",
+          "explanation": "Non."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 88,
+        "originalNumber": 4,
+        "auditRef": "ND-horsmans-hormones-Q4"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "acromegalie",
+      "lessonLinks": [
+        "hyph-acromegalie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SOMATOSTATINE",
+      "answerNote": "Pharmacologie (Horsmans).",
+      "hints": [
+        "La somatostatine freine de nombreuses hormones, dont deux hormones du pancréas.",
+        "Laquelle de ces deux hormones pancréatiques fait baisser la glycémie ?",
+        "Si on freine l’hormone qui abaisse la glycémie, que devient la glycémie ?"
+      ],
+      "explanation": {
+        "text": "La somatostatine et ses analogues (octréotide, lanréotide) freinent la GH, la TSH et les sécrétions digestives, mais aussi l’insuline et le glucagon. L’effet métabolique retenu dans les archives est l’hyperglycémie, par inhibition de l’insuline. Les effets indésirables digestifs (diarrhées, douleurs abdominales) et la lithiase biliaire sont fréquents. Hypercalcémie, hypocalcémie et élévation des phosphatases alcalines ne sont pas des effets classiques.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

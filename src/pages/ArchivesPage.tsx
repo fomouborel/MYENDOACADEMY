@@ -1,6 +1,6 @@
 import { useMemo } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
-import { DISCIPLINE_LABEL, SESSION_LABEL, chapterById, examSessions, openChapters, questions } from '@/data/content';
+import { DISCIPLINE_LABEL, SESSION_LABEL, chapterById, examSessions, integratedDomainsLabel, openChapters, questions } from '@/data/content';
 import { useProgress } from '@/state/ProgressContext';
 import { archiveQuestions, filterArchives, sortArchives, type ArchiveFilter } from '@/features/exams/archiveFilters';
 import { isPlayable } from '@/services/scoring/score';
@@ -45,7 +45,7 @@ export function ArchivesPage() {
   return (
     <section>
       <h1>Anciens examens</h1>
-      <p className="lead">Toutes les questions de thyroïde retrouvées dans les retranscriptions (2016 à 2026), avec leur provenance et la fiabilité de leur correction. Les autres domaines seront ajoutés ensuite.</p>
+      <p className="lead">Toutes les questions retrouvées dans les retranscriptions (2016 à 2026) pour les domaines déjà intégrés ({integratedDomainsLabel}), avec leur provenance et la fiabilité de leur correction. Les autres domaines seront ajoutés ensuite.</p>
 
       <div className="filters grid">
         <label>Année / session
@@ -121,7 +121,7 @@ export function ArchivesPage() {
             <> · composition non indiquée dans la source.</>
           )}
           {session.notTranscribedCount > 0 && <> {session.notTranscribedCount} question(s) de cette session n’ont pas été retranscrites.</>}
-          <br /><small>Seules les questions de thyroïde sont intégrées pour l’instant : la session n’est pas complète.</small>
+          <br /><small>Seules les questions de {integratedDomainsLabel} sont intégrées pour l’instant : la session n’est pas complète.</small>
         </div>
       )}
 

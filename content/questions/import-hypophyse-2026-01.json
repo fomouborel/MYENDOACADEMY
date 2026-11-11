@@ -1,0 +1,441 @@
+{
+  "source": "import-hypophyse-2026-01",
+  "questions": [
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-902",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "évidence un adénome hypophysaire de 6 mm.Quelle proposition est fausse ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Un traitement par agonistes dopaminergiques doit être initié afin de restaurer la fertilité",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "Le traitement par agonistes dopaminergiques doit être interrompu dès que la grossesse est confirmée",
+          "explanation": "Vrai (microprolactinome)."
+        },
+        {
+          "id": "C",
+          "text": "L’allaitement est possible",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "Une chirurgie trans-sphénoïdale prophylactique doit être réalisée avant la conception",
+          "explanation": "Faux (réponse attendue) : pas de chirurgie prophylactique."
+        },
+        {
+          "id": "E",
+          "text": "La grossesse n’entraîne qu’une faible augmentation de la taille de l’adénome (< 3–5 %)",
+          "explanation": "Vrai : risque faible pour un microadénome."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Alexopoulou",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 5,
+        "originalNumber": null,
+        "auditRef": "2026-01-p5-l192"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "prolactine",
+      "lessonLinks": [
+        "hyph-prolactine"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PRL-GROSSESSE",
+      "answerNote": "Début de l'énoncé non retranscrit (« …évidence un adénome hypophysaire de 6 mm »).",
+      "hints": [
+        "L’adénome mesure 6 mm : c’est un microadénome.",
+        "Le prolactinome se traite d’abord par les médicaments.",
+        "Une opération est-elle utile chez une femme qui va bien et veut un enfant ?"
+      ],
+      "explanation": {
+        "text": "Début de l’énoncé non retranscrit. Pour un microprolactinome chez une femme qui désire une grossesse : un agoniste dopaminergique restaure l’ovulation ; on l’arrête dès que la grossesse est confirmée ; l’allaitement est possible ; le risque de croissance symptomatique d’un microadénome pendant la grossesse est faible. Une chirurgie transsphénoïdale « prophylactique » avant la conception n’est pas indiquée.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-019",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant le traitement par agoniste dopaminergique du prolactinome, lequel de ces effets secondaire n’est PAS rencontré ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Nausées et vomissement",
+          "explanation": "Rencontrés : fréquents au début."
+        },
+        {
+          "id": "B",
+          "text": "Hypotension orthostatique",
+          "explanation": "Rencontrée."
+        },
+        {
+          "id": "C",
+          "text": "Comportement compulsif (jeu, etc)",
+          "explanation": "Rencontré : à rechercher activement."
+        },
+        {
+          "id": "D",
+          "text": "Fibrose valvulaire cardiaque (à haute dose)",
+          "explanation": "Rencontrée : surtout aux fortes doses."
+        },
+        {
+          "id": "E",
+          "text": "Insuffisance rénale aiguë",
+          "explanation": "Pas rencontrée (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Alexopoulou",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 5,
+        "originalNumber": 19,
+        "auditRef": "2026-01-Q19"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "prolactine",
+      "lessonLinks": [
+        "hyph-prolactine"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "AGONISTES-DA",
+      "answerNote": "Alexopoulou.",
+      "hints": [
+        "Les agonistes dopaminergiques agissent aussi sur le cerveau et les vaisseaux.",
+        "La cabergoline a aussi une action sérotoninergique.",
+        "Une proposition concerne un organe sans lien avec ces mécanismes."
+      ],
+      "explanation": {
+        "text": "Les agonistes dopaminergiques donnent des nausées et vomissements, une hypotension orthostatique, des troubles du contrôle des impulsions (jeu, achats compulsifs) et, à forte dose, une fibrose valvulaire cardiaque (action sérotoninergique de la cabergoline). L’insuffisance rénale aiguë n’en fait pas partie.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-020",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Concernant l’apoplexie hypophysaire :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Processus lent"
+        },
+        {
+          "id": "B",
+          "text": "Souvent sur hypophyse saine"
+        },
+        {
+          "id": "C",
+          "text": "Provoque problème de vue brutal"
+        },
+        {
+          "id": "D",
+          "text": "Ne peut jamais être provoquée par un test à TRH"
+        },
+        {
+          "id": "E",
+          "text": "Est caractérisé par des symptômes : symptômes méningés, céphalées,"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "absent",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Alexopoulou",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 5,
+        "originalNumber": 20,
+        "auditRef": "2026-01-Q20"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "APOPLEXIE",
+      "answerNote": "Alexopoulou ; aucune réponse marquée."
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-021",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Panhypopituitarisme quel traitement débuter en premier",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "GH pour éviter …",
+          "explanation": "Non : pas prioritaire."
+        },
+        {
+          "id": "B",
+          "text": "L-thyroxine avant hydrocortisone pour éviter coma myxoedémateux",
+          "explanation": "Faux : risque d’insuffisance surrénale aiguë."
+        },
+        {
+          "id": "C",
+          "text": "Hydrocortisone avant ou en même temps que L-thyroxine",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Desmopressine pour éviter diabète insipide",
+          "explanation": "Seulement si diabète insipide associé."
+        },
+        {
+          "id": "E",
+          "text": "Oestrogènes pour éviter ostéoporose",
+          "explanation": "Non : pas prioritaire."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Alexopoulou",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 5,
+        "originalNumber": 21,
+        "auditRef": "2026-01-Q21"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "hyph-insuffisance"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "INSUF-TRT",
+      "answerNote": "Alexopoulou.",
+      "hints": [
+        "Un traitement accélère la dégradation d’une autre hormone.",
+        "La L-thyroxine augmente les besoins en cortisol.",
+        "Que risque un patient sans réserve de cortisol si on augmente ses besoins ?"
+      ],
+      "explanation": {
+        "text": "Dans un panhypopituitarisme, on commence l’hydrocortisone avant ou en même temps que la L-thyroxine : la L-thyroxine accélère le métabolisme du cortisol, et donnée seule, elle peut déclencher une insuffisance surrénale aiguë. La GH, les œstrogènes et la desmopressine (seulement si diabète insipide) ne sont pas des urgences.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-903",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Lequel n’est pas un effet secondaire du traitement par analogues de la somatostatine ? (pas sûr)",
+      "labs": [],
+      "options": [],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Alexopoulou",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 7,
+        "originalNumber": null,
+        "auditRef": "2026-01-p7-l300"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "acromegalie",
+      "lessonLinks": [
+        "hyph-acromegalie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SOMATOSTATINE",
+      "answerNote": "Aucune proposition retranscrite."
+    },
+    {
+      "id": "ENDO-2026-01-RADIO-QCM-042",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant l’adénome hypophysaire, toutes les propositions suivant sont bonnes sauf une, laquelle ? (Tuyau)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Un macroadenome est >1cm",
+          "explanation": "Vrai : 10 mm ou plus."
+        },
+        {
+          "id": "B",
+          "text": "Ils peuvent être sécrétant ou alors ne rien sécréter et donner des symptômes dus a leurs tailles",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "L’hypophyse est situés à proximité des sinus caverneux et chiasma optique, il est intéressant de vérifier ces structures sur une imagerie",
+          "explanation": "Vrai : risque de diplopie et de troubles visuels."
+        },
+        {
+          "id": "D",
+          "text": "Pour bien visualiser l’hypophyse, IRM en pondération T1 avec du produit de contraste est bien",
+          "explanation": "Vrai : examen de référence, avec une séquence dynamique."
+        },
+        {
+          "id": "E",
+          "text": "Sur un une imagerie irm t1, l’adénome va prendre plus de contraste que le reste de la glande car l’adénome est mieux vascularisée.",
+          "explanation": "Faux (réponse attendue) : il se rehausse moins et plus tard."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "RADIO",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 10,
+        "originalNumber": 42,
+        "auditRef": "2026-01-Q42"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "imagerie",
+      "lessonLinks": [
+        "hyph-anatomie",
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "IRM-ADENOME",
+      "answerNote": "Radiologie ; « tuyau » (même question en janvier 2024).",
+      "hints": [
+        "Une proposition se trompe sur le rehaussement de l’adénome.",
+        "Comment se rehausse l’hypophyse normale en phase précoce ?",
+        "L’adénome se rehausse-t-il plus ou moins que la glande normale ?"
+      ],
+      "explanation": {
+        "text": "Les quatre premières propositions sont exactes : un macroadénome mesure 10 mm ou plus ; un adénome peut sécréter ou non, et donner alors des signes de masse ; les rapports avec les sinus caverneux et le chiasma doivent être vérifiés ; l’IRM en T1 avec gadolinium est l’examen de référence. La fausse : l’adénome ne prend pas plus de contraste que la glande normale. En phase précoce, il se rehausse moins et plus tard, car il est moins vascularisé que la glande, irriguée par le système porte.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2026-01-PHARMA-QCM-046",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quel est l’effet de la somatostatine ? (Tuyau)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hypercalcémie",
+          "explanation": "Non."
+        },
+        {
+          "id": "B",
+          "text": "Hypoglycémie",
+          "explanation": "Possible mais rare ; ce n’est pas l’effet retenu."
+        },
+        {
+          "id": "C",
+          "text": "Hyperglycémie",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Augmentation des Phosphatase Alcaline",
+          "explanation": "Non."
+        },
+        {
+          "id": "E",
+          "text": "Diarrhée ?",
+          "explanation": "Effet indésirable réel, fréquent : d’où le statut « discutée »."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 11,
+        "originalNumber": 46,
+        "auditRef": "2026-01-Q46"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "acromegalie",
+      "lessonLinks": [
+        "hyph-acromegalie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SOMATOSTATINE",
+      "answerNote": "« Diarrhée ? » est aussi un effet indésirable fréquent des analogues de la somatostatine ; la réponse retenue est l'hyperglycémie.",
+      "hints": [
+        "La somatostatine freine de nombreuses hormones, dont deux hormones du pancréas.",
+        "Laquelle de ces deux hormones pancréatiques fait baisser la glycémie ?",
+        "Si on freine l’hormone qui abaisse la glycémie, que devient la glycémie ?"
+      ],
+      "explanation": {
+        "text": "La somatostatine et ses analogues (octréotide, lanréotide) freinent la GH, la TSH et les sécrétions digestives, mais aussi l’insuline et le glucagon. L’effet métabolique retenu dans les archives est l’hyperglycémie, par inhibition de l’insuline. Les effets indésirables digestifs (diarrhées, douleurs abdominales) et la lithiase biliaire sont fréquents. Hypercalcémie, hypocalcémie et élévation des phosphatases alcalines ne sont pas des effets classiques. Correction discutée : la diarrhée est aussi un effet indésirable réel. La réponse retenue (« tuyau ») reste l’hyperglycémie.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

@@ -31,6 +31,13 @@ export const openChapters = chapters.filter(isOpen);
 export const chapterById = new Map(chapters.map((c) => [c.id, c]));
 export const thyroidChapters = chapters.filter((c) => c.domain === 'thyroide');
 
+const DOMAIN_LABEL: Record<string, string> = { thyroide: 'thyroïde', hypophyse: 'hypophyse' };
+/** Domaines réellement intégrés (au moins un cours ouvert), en toutes lettres : « thyroïde et hypophyse ». */
+export const integratedDomainsLabel = (() => {
+  const names = [...new Set(openChapters.map((c) => c.domain))].map((d) => DOMAIN_LABEL[d] ?? d);
+  return names.length <= 1 ? (names[0] ?? '') : `${names.slice(0, -1).join(', ')} et ${names[names.length - 1]}`;
+})();
+
 export const SESSION_LABEL: Record<string, string> = Object.fromEntries(examSessions.map((s) => [s.id, s.label]));
 export const DISCIPLINE_LABEL: Record<string, string> = {
   ADULTE: 'Endocrinologie adulte',
