@@ -9,6 +9,12 @@ import { QuizPage } from '@/pages/QuizPage';
 import { TrainingPage } from '@/pages/TrainingPage';
 import { ArchivesPage } from '@/pages/ArchivesPage';
 import { ArchiveQuestionPage } from '@/pages/ArchiveQuestionPage';
+import { ClinicalCasesPage } from '@/pages/ClinicalCasesPage';
+import { CasePage } from '@/pages/CasePage';
+import { MockExamsPage } from '@/pages/MockExamsPage';
+import { SessionPage } from '@/pages/SessionPage';
+import { ErrorsPage } from '@/pages/ErrorsPage';
+import { RevisionPage } from '@/pages/RevisionPage';
 import { ProgressProvider } from '@/state/ProgressContext';
 
 /**
@@ -29,6 +35,12 @@ export function App() {
             <Route path="entrainement" element={<TrainingPage />} />
             <Route path="examens" element={<ArchivesPage />} />
             <Route path="examens/:questionId" element={<ArchiveQuestionPage />} />
+            <Route path="cas-cliniques" element={<ClinicalCasesPage />} />
+            <Route path="cas-cliniques/:caseId" element={<CasePage />} />
+            <Route path="examens-blancs" element={<MockExamsPage />} />
+            <Route path="session/:sessionId" element={<SessionPage />} />
+            <Route path="erreurs" element={<ErrorsPage />} />
+            <Route path="revisions" element={<RevisionPage />} />
             <Route path="progression" element={<ProgressPage />} />
             <Route path="*" element={<p>Page introuvable. Utilise le menu pour revenir à l’accueil.</p>} />
           </Route>

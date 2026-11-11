@@ -1,0 +1,727 @@
+{
+  "source": "cas-cliniques",
+  "questions": [
+    {
+      "id": "ENDO-EX-hyper-CAS-001",
+      "kind": "exercise",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Mme L., 29 ans, fumeuse, consulte pour des palpitations, une perte de 5 kg en deux mois malgré un bon appétit et un tremblement fin. Vous notez une rétraction des paupières supérieures. Biologie ci-dessous. Quelle est votre interprétation ?",
+      "labs": [
+        {
+          "analyte": "TSH",
+          "value": "< 0,01",
+          "unit": "µU/mL",
+          "reference": "0,30-3,5",
+          "referenceOrigin": "normes reprises d’un énoncé d’examen UCL (compilation 2016-2021) — valeurs propres au laboratoire de l’exercice"
+        },
+        {
+          "analyte": "T4 libre",
+          "value": "38",
+          "unit": "pmol/L",
+          "reference": "12-22",
+          "referenceOrigin": "normes reprises d’un énoncé d’examen UCL (compilation 2016-2021) — valeurs propres au laboratoire de l’exercice"
+        },
+        {
+          "analyte": "T3 libre",
+          "value": "11",
+          "unit": "pmol/L",
+          "reference": "2,0-6,0",
+          "referenceOrigin": "normes reprises d’un énoncé d’examen UCL (compilation 2016-2021) — valeurs propres au laboratoire de l’exercice"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hyperthyroïdie patente d’origine thyroïdienne",
+          "explanation": "Oui : TSH freinée, hormones libres élevées."
+        },
+        {
+          "id": "B",
+          "text": "Hyperthyroïdie infraclinique",
+          "explanation": "Non : les hormones libres sont élevées."
+        },
+        {
+          "id": "C",
+          "text": "Hypothyroïdie centrale",
+          "explanation": "Non : les hormones sont élevées."
+        },
+        {
+          "id": "D",
+          "text": "Adénome hypophysaire thyréotrope",
+          "explanation": "Non : la TSH serait normale ou élevée."
+        },
+        {
+          "id": "E",
+          "text": "Bilan normal",
+          "explanation": "Non."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hyper",
+      "subchapter": "basedow",
+      "lessonLinks": [
+        "hyper-diagnostic"
+      ],
+      "tags": [
+        "cas clinique"
+      ],
+      "difficulty": 3,
+      "clinical": true,
+      "caseId": "cas-hyper-basedow",
+      "caseStep": 1,
+      "hints": [
+        "Compare chaque valeur à sa norme.",
+        "La TSH est effondrée et les hormones libres sont élevées.",
+        "Quand la TSH est freinée, l’excès vient-il de l’hypophyse ou de la thyroïde ?"
+      ],
+      "explanation": {
+        "text": "TSH effondrée avec T4L et T3L élevées : hyperthyroïdie patente. La TSH freinée montre que l’excès d’hormones ne vient pas de l’hypophyse.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hyper-CAS-002",
+      "kind": "exercise",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Devant cette hyperthyroïdie avec atteinte oculaire, quel examen confirme le plus simplement la cause ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Anticorps anti-récepteur de la TSH (TRAK)",
+          "explanation": "Oui : marqueur de Basedow."
+        },
+        {
+          "id": "B",
+          "text": "Anticorps anti-TPO",
+          "explanation": "Peu spécifiques (fréquents dans Hashimoto)."
+        },
+        {
+          "id": "C",
+          "text": "Thyroglobuline",
+          "explanation": "Utile surtout si on suspecte une prise exogène."
+        },
+        {
+          "id": "D",
+          "text": "Calcitonine",
+          "explanation": "Marqueur du cancer médullaire."
+        },
+        {
+          "id": "E",
+          "text": "TSH à recontrôler dans 6 mois",
+          "explanation": "Non : il faut traiter."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hyper",
+      "subchapter": "basedow",
+      "lessonLinks": [
+        "hyper-diagnostic",
+        "hyper-basedow"
+      ],
+      "tags": [
+        "cas clinique"
+      ],
+      "difficulty": 3,
+      "clinical": true,
+      "caseId": "cas-hyper-basedow",
+      "caseStep": 2,
+      "hints": [
+        "L’atteinte oculaire oriente fortement vers une cause précise.",
+        "Cette maladie est auto-immune et stimule un récepteur.",
+        "Quel anticorps cible ce récepteur ?"
+      ],
+      "explanation": {
+        "text": "Hyperthyroïdie + orbitopathie : maladie de Basedow. Les anticorps anti-récepteur de la TSH (TRAK) la confirment. Les anti-TPO sont peu spécifiques.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hyper-CAS-003",
+      "kind": "exercise",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Les TRAK sont positifs ; l’échographie montre un goitre diffus hypoéchogène et très vascularisé. Quel traitement initial proposez-vous ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Thiamazole et bêtabloquant",
+          "explanation": "Oui."
+        },
+        {
+          "id": "B",
+          "text": "Iode radioactif d’emblée",
+          "explanation": "Non : risque d’aggraver l’orbitopathie, surtout chez la fumeuse."
+        },
+        {
+          "id": "C",
+          "text": "Propylthiouracile (PTU) au long cours",
+          "explanation": "Non : hépatotoxique, réservé au 1er trimestre de grossesse."
+        },
+        {
+          "id": "D",
+          "text": "L-thyroxine",
+          "explanation": "Non : elle est hyperthyroïdienne."
+        },
+        {
+          "id": "E",
+          "text": "Corticoïdes seuls",
+          "explanation": "Non : ils ne traitent pas l’hyperthyroïdie de Basedow."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hyper",
+      "subchapter": "basedow",
+      "lessonLinks": [
+        "hyper-basedow",
+        "hyper-traitements"
+      ],
+      "tags": [
+        "cas clinique"
+      ],
+      "difficulty": 3,
+      "clinical": true,
+      "caseId": "cas-hyper-basedow",
+      "caseStep": 3,
+      "hints": [
+        "Pense au traitement de première intention de Basedow.",
+        "Elle fume et a une atteinte oculaire : quel traitement risque d’aggraver les yeux ?",
+        "Le PTU est réservé à une situation particulière."
+      ],
+      "explanation": {
+        "text": "Première intention : thiamazole (12 à 18 mois) et bêtabloquant pour les symptômes. L’iode radioactif d’emblée est à éviter chez une fumeuse avec orbitopathie (risque d’aggravation). Le PTU est réservé au 1er trimestre de grossesse.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hyper-CAS-004",
+      "kind": "exercise",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Trois semaines après le début du thiamazole, Mme L. vous appelle : fièvre à 39 °C et mal de gorge. Que faites-vous ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Arrêt du thiamazole et numération sanguine en urgence",
+          "explanation": "Oui."
+        },
+        {
+          "id": "B",
+          "text": "Augmenter la dose de thiamazole",
+          "explanation": "Non : dangereux."
+        },
+        {
+          "id": "C",
+          "text": "Antibiotique sans bilan sanguin",
+          "explanation": "Non : il faut d’abord la numération."
+        },
+        {
+          "id": "D",
+          "text": "Poursuivre et revoir dans un mois",
+          "explanation": "Non : urgence."
+        },
+        {
+          "id": "E",
+          "text": "Ajouter du PTU",
+          "explanation": "Non : les ATS sont contre-indiqués en cas d’agranulocytose."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hyper",
+      "subchapter": "basedow",
+      "lessonLinks": [
+        "hyper-traitements"
+      ],
+      "tags": [
+        "cas clinique"
+      ],
+      "difficulty": 3,
+      "clinical": true,
+      "caseId": "cas-hyper-basedow",
+      "caseStep": 4,
+      "hints": [
+        "Pense à la complication grave des ATS.",
+        "Elle touche les globules blancs.",
+        "Il faut la rechercher sans attendre."
+      ],
+      "explanation": {
+        "text": "Fièvre ou angine sous ATS : suspicion d’agranulocytose. On arrête le traitement et on fait une numération en urgence. Une agranulocytose confirmée contre-indique définitivement les ATS.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hypo-CAS-001",
+      "kind": "exercise",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "M. D., 58 ans, a été opéré il y a un an d’un macroadénome hypophysaire. Il se plaint de fatigue et de frilosité. Quelle est votre interprétation ?",
+      "labs": [
+        {
+          "analyte": "TSH",
+          "value": "1,2",
+          "unit": "µU/mL",
+          "reference": "0,30-3,5",
+          "referenceOrigin": "normes reprises d’un énoncé d’examen UCL (compilation 2016-2021) — valeurs propres au laboratoire de l’exercice"
+        },
+        {
+          "analyte": "T4 libre",
+          "value": "7",
+          "unit": "pmol/L",
+          "reference": "12-22",
+          "referenceOrigin": "normes reprises d’un énoncé d’examen UCL (compilation 2016-2021) — valeurs propres au laboratoire de l’exercice"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hypothyroïdie centrale",
+          "explanation": "Oui."
+        },
+        {
+          "id": "B",
+          "text": "Euthyroïdie",
+          "explanation": "Non : la T4L est basse."
+        },
+        {
+          "id": "C",
+          "text": "Hypothyroïdie primaire infraclinique",
+          "explanation": "Non : la TSH serait élevée et la T4L normale."
+        },
+        {
+          "id": "D",
+          "text": "Hyperthyroïdie",
+          "explanation": "Non."
+        },
+        {
+          "id": "E",
+          "text": "Résultat ininterprétable",
+          "explanation": "Non : le tableau est typique."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypo",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "hypo-diagnostic"
+      ],
+      "tags": [
+        "cas clinique"
+      ],
+      "difficulty": 3,
+      "clinical": true,
+      "caseId": "cas-hypo-centrale",
+      "caseStep": 1,
+      "hints": [
+        "Regarde la T4 libre en premier.",
+        "La TSH devrait-elle être normale si la T4L est basse et l’hypophyse saine ?",
+        "Quel est son antécédent ?"
+      ],
+      "explanation": {
+        "text": "T4L basse avec une TSH normale (donc inappropriée) chez un patient opéré de l’hypophyse : hypothyroïdie centrale. Une hypothyroïdie primaire donnerait une TSH élevée.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hypo-CAS-002",
+      "kind": "exercise",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Avant de prescrire la L-thyroxine, que devez-vous vérifier en priorité ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "L’axe corticotrope (cortisol)",
+          "explanation": "Oui."
+        },
+        {
+          "id": "B",
+          "text": "Les anticorps anti-TPO",
+          "explanation": "Non : inutile pour une cause centrale."
+        },
+        {
+          "id": "C",
+          "text": "Une échographie thyroïdienne",
+          "explanation": "Non : la thyroïde n’est pas en cause."
+        },
+        {
+          "id": "D",
+          "text": "Une scintigraphie",
+          "explanation": "Non."
+        },
+        {
+          "id": "E",
+          "text": "La calcitonine",
+          "explanation": "Non."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypo",
+      "subchapter": "traitement",
+      "lessonLinks": [
+        "hypo-diagnostic",
+        "hypo-traitement"
+      ],
+      "tags": [
+        "cas clinique"
+      ],
+      "difficulty": 3,
+      "clinical": true,
+      "caseId": "cas-hypo-centrale",
+      "caseStep": 2,
+      "hints": [
+        "L’hypophyse commande plusieurs glandes.",
+        "Un déficit d’une autre hormone hypophysaire peut devenir dangereux si on donne la L-thyroxine seule.",
+        "Laquelle est vitale ?"
+      ],
+      "explanation": {
+        "text": "Une insuffisance corticotrope associée est possible. La L-thyroxine seule accélère le métabolisme du cortisol et peut déclencher une insuffisance surrénalienne aiguë : on vérifie le cortisol et on donne l’hydrocortisone avant ou avec la L-thyroxine si besoin.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hypo-CAS-003",
+      "kind": "exercise",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "M. D. est maintenant traité par L-thyroxine. Quel dosage utilisez-vous pour adapter la dose ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "T4 libre",
+          "explanation": "Oui."
+        },
+        {
+          "id": "B",
+          "text": "TSH",
+          "explanation": "Non : inutilisable ici."
+        },
+        {
+          "id": "C",
+          "text": "T3 libre",
+          "explanation": "Non : moins fiable."
+        },
+        {
+          "id": "D",
+          "text": "Thyroglobuline",
+          "explanation": "Non."
+        },
+        {
+          "id": "E",
+          "text": "TRH",
+          "explanation": "Non : non dosée en pratique."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypo",
+      "subchapter": "traitement",
+      "lessonLinks": [
+        "hypo-traitement"
+      ],
+      "tags": [
+        "cas clinique"
+      ],
+      "difficulty": 3,
+      "clinical": true,
+      "caseId": "cas-hypo-centrale",
+      "caseStep": 3,
+      "hints": [
+        "La TSH est produite par quel organe ?",
+        "Cet organe est malade chez M. D.",
+        "On suit donc directement l’hormone thyroïdienne."
+      ],
+      "explanation": {
+        "text": "Dans une hypothyroïdie centrale, la TSH n’est plus interprétable : on adapte la dose sur la T4 libre.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-thyroide-CAS-001",
+      "kind": "exercise",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Mme R., 45 ans, découvre une petite masse à la base du cou en se regardant dans le miroir. L’examen retrouve un nodule thyroïdien isolé, sans adénopathie. Quel est le premier examen biologique ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "TSH",
+          "explanation": "Oui."
+        },
+        {
+          "id": "B",
+          "text": "Anticorps anti-récepteur de la TSH",
+          "explanation": "Non : marqueur de Basedow."
+        },
+        {
+          "id": "C",
+          "text": "Thyroglobuline",
+          "explanation": "Non : non discriminante avant chirurgie."
+        },
+        {
+          "id": "D",
+          "text": "Anticorps anti-TPO",
+          "explanation": "Non : pas pour un nodule isolé."
+        },
+        {
+          "id": "E",
+          "text": "T3 libre seule",
+          "explanation": "Non."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [
+        "cas clinique"
+      ],
+      "difficulty": 3,
+      "clinical": true,
+      "caseId": "cas-thyroide-nodule",
+      "caseStep": 1,
+      "hints": [
+        "Il faut d’abord savoir si le nodule fonctionne.",
+        "Un seul dosage oriente toute la suite.",
+        "Si ce dosage est bas, on pense à un nodule chaud."
+      ],
+      "explanation": {
+        "text": "La TSH oriente la démarche : basse, elle fait rechercher un nodule chaud (scintigraphie) ; normale, on passe à l’échographie EU-TIRADS.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-thyroide-CAS-002",
+      "kind": "exercise",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "La TSH est normale. L’échographie montre un nodule de 12 mm, très hypoéchogène, plus haut que large, avec des microcalcifications. Quelle est sa catégorie EU-TIRADS ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "EU-TIRADS 5",
+          "explanation": "Oui."
+        },
+        {
+          "id": "B",
+          "text": "EU-TIRADS 2",
+          "explanation": "Non : catégorie bénigne."
+        },
+        {
+          "id": "C",
+          "text": "EU-TIRADS 3",
+          "explanation": "Non : nodule iso- ou hyperéchogène sans signe suspect."
+        },
+        {
+          "id": "D",
+          "text": "EU-TIRADS 4",
+          "explanation": "Non : modérément hypoéchogène sans signe suspect."
+        },
+        {
+          "id": "E",
+          "text": "Impossible sans Doppler",
+          "explanation": "Non : le Doppler n’entre pas dans EU-TIRADS."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [
+        "cas clinique"
+      ],
+      "difficulty": 3,
+      "clinical": true,
+      "caseId": "cas-thyroide-nodule",
+      "caseStep": 2,
+      "hints": [
+        "Compte les signes de forte suspicion.",
+        "Forme, contours, microcalcifications, hypoéchogénicité marquée.",
+        "Un seul de ces signes suffit pour la catégorie la plus haute."
+      ],
+      "explanation": {
+        "text": "Au moins un signe de forte suspicion (ici trois) : EU-TIRADS 5. Le Doppler ne fait pas partie de la classification.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-thyroide-CAS-003",
+      "kind": "exercise",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quelle conduite proposez-vous pour ce nodule EU-TIRADS 5 de 12 mm ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Cytoponction à l’aiguille fine",
+          "explanation": "Oui."
+        },
+        {
+          "id": "B",
+          "text": "Surveillance échographique dans un an",
+          "explanation": "Non : risque élevé."
+        },
+        {
+          "id": "C",
+          "text": "Scintigraphie",
+          "explanation": "Non : la TSH est normale."
+        },
+        {
+          "id": "D",
+          "text": "Lobectomie d’emblée sans cytologie",
+          "explanation": "Non : on obtient d’abord la cytologie."
+        },
+        {
+          "id": "E",
+          "text": "Aucun suivi",
+          "explanation": "Non."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [
+        "cas clinique"
+      ],
+      "difficulty": 3,
+      "clinical": true,
+      "caseId": "cas-thyroide-nodule",
+      "caseStep": 3,
+      "hints": [
+        "Rappelle le seuil de ponction de la catégorie 5.",
+        "Il est de 10 mm.",
+        "Le nodule le dépasse-t-il ?"
+      ],
+      "explanation": {
+        "text": "EU-TIRADS 5 de plus de 10 mm : cytoponction indiquée. La scintigraphie n’est utile que si la TSH est basse.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-thyroide-CAS-004",
+      "kind": "exercise",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "La cytologie conclut à un carcinome papillaire (Bethesda VI). Quelle est sa voie de dissémination principale ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Lymphatique (ganglions cervicaux)",
+          "explanation": "Oui."
+        },
+        {
+          "id": "B",
+          "text": "Hématogène (os, poumon)",
+          "explanation": "Non : typique du folliculaire."
+        },
+        {
+          "id": "C",
+          "text": "Par contiguïté uniquement",
+          "explanation": "Non."
+        },
+        {
+          "id": "D",
+          "text": "Péritonéale",
+          "explanation": "Non."
+        },
+        {
+          "id": "E",
+          "text": "Il ne dissémine jamais",
+          "explanation": "Non."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "thyroide",
+      "subchapter": "cancers",
+      "lessonLinks": [
+        "thyr-cancers"
+      ],
+      "tags": [
+        "cas clinique"
+      ],
+      "difficulty": 3,
+      "clinical": true,
+      "caseId": "cas-thyroide-nodule",
+      "caseStep": 4,
+      "hints": [
+        "Compare papillaire et folliculaire.",
+        "L’un voyage par le sang, l’autre par un autre réseau.",
+        "Pense aux adénopathies cervicales."
+      ],
+      "explanation": {
+        "text": "Le carcinome papillaire dissémine surtout par voie lymphatique (ganglions du cou) ; le folliculaire par voie hématogène.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

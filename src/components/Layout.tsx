@@ -2,15 +2,17 @@ import { useEffect, useState } from 'react';
 import { NavLink, Outlet, useLocation } from 'react-router-dom';
 
 /**
- * Navigation principale (prompt § 14). Seules les rubriques réellement disponibles sont affichées :
- * les autres (Cas cliniques, Examens blancs, Mes erreurs, Mes révisions) apparaîtront
- * au fur et à mesure de leur mise en service — aucun bouton factice.
+ * Navigation principale (prompt § 14) : les 9 rubriques, toutes fonctionnelles.
  */
 export const NAV = [
   { to: '/', label: 'Accueil', icon: '🏠', end: true },
   { to: '/cours', label: 'Mes cours', icon: '📘' },
   { to: '/entrainement', label: 'Entraînement', icon: '🎯' },
   { to: '/examens', label: 'Anciens examens', icon: '🗂️' },
+  { to: '/cas-cliniques', label: 'Cas cliniques', icon: '🩺' },
+  { to: '/examens-blancs', label: 'Examens blancs', icon: '⏱️' },
+  { to: '/erreurs', label: 'Mes erreurs', icon: '❗' },
+  { to: '/revisions', label: 'Mes révisions', icon: '🔁' },
   { to: '/progression', label: 'Ma progression', icon: '📈' },
 ];
 
@@ -38,7 +40,6 @@ export function Layout() {
             {n.label}
           </NavLink>
         ))}
-        <p className="side-note">Autres rubriques (cas cliniques, examens blancs, erreurs, révisions) : en préparation.</p>
       </nav>
       {open && <div className="backdrop" onClick={() => setOpen(false)} aria-hidden />}
       <main className="main">

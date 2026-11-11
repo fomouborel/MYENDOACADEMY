@@ -1,20 +1,38 @@
-import { Link, useParams } from 'react-router-dom';
+import { Link, useNavigate, useParams } from 'react-router-dom';
 import { chapterById, questions } from '@/data/content';
 import { useProgress } from '@/state/ProgressContext';
 import { selectQuestions } from '@/features/quizzes/select';
 import { chapterMastery, MASTERY_LABEL } from '@/services/progress/chapterMastery';
 import { isPlayable } from '@/services/scoring/score';
+import { buildFinalEval } from '@/features/exams/mockExam';
+import { errorNotebook } from '@/features/revision/notebook';
+import { isMastered } from '@/services/progress/questionState';
+import { lessonById } from '@/data/content';
+import { newId } from '@/services/storage/db';
 
 export function ChapterPage() {
   const { chapterId = '' } = useParams();
   const c = chapterById.get(chapterId);
-  const { states, lessons, sessions } = useProgress();
+  const { states, lessons, sessions, attempts, saveSession, setDraft } = useProgress();
+  const nav = useNavigate();
   if (!c || c.lessons.length === 0) return <p>Ce cours n’est pas encore disponible. <Link to="/cours">Retour à Mes cours</Link></p>;
 
   const now = new Date();
   const count = (mode: 'check' | 'training' | 'exam-level') => selectQuestions(questions, { mode, chapters: [c.id] }, states, now).length;
   const m = chapterMastery(c.id, questions, states, sessions);
   const chapterQs = questions.filter((q) => q.chapter === c.id && isPlayable(q));
+
+  async function startEval() {
+    const qs = buildFinalEval(questions, c!.id, Date.now() % 100000);
+    const rec = { id: newId(), mode: 'final-eval' as const, chapterId: c!.id, questionIds: qs.map((q) => q.id), answers: {}, startedAt: new Date().toISOString(), finishedAt: null, timeLimitMinutes: null, score: null };
+    await saveSession(rec);
+    await setDraft(rec.questionIds, true);
+    nav(`/session/${rec.id}`);
+  }
+  const evals = sessions.filter((s) => s.mode === 'final-eval' && s.chapterId === c.id && s.finishedAt).sort((a, b) => (b.finishedAt ?? '').localeCompare(a.finishedAt ?? ''));
+  const errors = errorNotebook(chapterQs, attempts, states, now).filter((e) => !e.resolved);
+  const examNotMastered = chapterQs.filter((q) => q.kind === 'archive' && (states.get(q.id)?.attempts ?? 0) > 0 && !isMastered(states.get(q.id)!));
+  const lessonsToReview = [...new Set(errors.flatMap((e) => e.question.lessonLinks.slice(0, 1)))].map((l) => lessonById.get(l)).filter(Boolean);
 
   const bySub = c.subchapters.map((s) => {
     const qs = chapterQs.filter((q) => q.subchapter === s.id);
@@ -64,18 +82,32 @@ export function ChapterPage() {
           <Link className="btn" to={`/quiz?mode=exam-level&chapter=${c.id}`}>Commencer ({count('exam-level')} questions)</Link>
         </li>
         <li className="step">
-          <h2>Bilan</h2>
+          <h2>5. Évaluation finale</h2>
+          <p className="muted">15 questions mélangées (anciens examens et exercices), sans indice, corrigées à la fin.</p>
+          <button className="btn" onClick={startEval}>Commencer l’évaluation</button>
+          {evals.length > 0 && <p className="muted">Dernières évaluations : {evals.slice(0, 3).map((e) => `${Math.round((e.score ?? 0) * 100)} % le ${new Date(e.finishedAt!).toLocaleDateString('fr-BE')}`).join(' · ')}</p>}
+        </li>
+        <li className="step">
+          <h2>6. Bilan</h2>
+          <p><strong>Niveau de maîtrise :</strong> {MASTERY_LABEL[m.level]} · {Math.round(m.workedRatio * 100)} % des questions travaillées · réussite {m.successRate === null ? '—' : `${Math.round(m.successRate * 100)} %`} · {m.finalEvalsPassed} évaluation(s) réussie(s) à des jours différents</p>
           <div className="table-wrap">
             <table>
-              <thead><tr><th>Sous-chapitre</th><th>Travaillées</th><th>Réussies</th></tr></thead>
+              <thead><tr><th>Sous-chapitre</th><th>Travaillées</th><th>Réussite</th><th>Appréciation</th></tr></thead>
               <tbody>
-                {bySub.map((s) => (
-                  <tr key={s.id}><td>{s.title}</td><td>{s.tried} / {s.total}</td><td>{s.tried ? `${Math.round((s.ok / s.tried) * 100)} %` : '—'}</td></tr>
-                ))}
+                {bySub.map((s) => {
+                  const rate = s.tried ? s.ok / s.tried : null;
+                  return <tr key={s.id}><td>{s.title}</td><td>{s.tried} / {s.total}</td><td>{rate === null ? '—' : `${Math.round(rate * 100)} %`}</td><td>{rate === null ? 'à commencer' : rate >= 0.75 ? '💪 point fort' : rate < 0.5 ? '⚠️ lacune' : 'en progrès'}</td></tr>;
+                })}
               </tbody>
             </table>
           </div>
-          <p className="muted">L’évaluation finale et le bilan détaillé (erreurs, notions à revoir) arrivent avec les rubriques « Mes erreurs » et « Mes révisions ».</p>
+          {lessonsToReview.length > 0 && <p><strong>Notions à revoir :</strong> {lessonsToReview.map((l) => <Link key={l!.id} to={`/cours/${c.id}/lecon/${l!.id}`}>{l!.title}</Link>).reduce<React.ReactNode[]>((a, x, i) => (i ? [...a, ' · ', x] : [x]), [])}</p>}
+          <p><strong>Erreurs en cours :</strong> {errors.length} · <strong>Questions d’examen non encore maîtrisées :</strong> {examNotMastered.length}</p>
+          <div className="qactions">
+            {errors.length > 0 && <Link className="btn ghost" to={`/quiz?mode=free&ids=${errors.map((e) => e.question.id).slice(0, 50).join(',')}`}>Retravailler mes erreurs</Link>}
+            {examNotMastered.length > 0 && <Link className="btn ghost" to={`/quiz?mode=free&ids=${examNotMastered.map((q) => q.id).slice(0, 50).join(',')}`}>Questions d’examen non maîtrisées</Link>}
+          </div>
+          <p className="muted">Un cours n’est « maîtrisé » qu’avec 80 % de questions maîtrisées dans la durée et deux évaluations finales réussies à des jours différents.</p>
         </li>
       </ol>
     </section>

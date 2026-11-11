@@ -32,7 +32,8 @@ export function shuffle<T>(items: T[], seed: number): T[] {
 }
 
 export function selectQuestions(all: Question[], f: QuizFilters, states: Map<string, QuestionState>, now: Date): Question[] {
-  let qs = all.filter(isPlayable);
+  // Les étapes de cas cliniques ne se jouent que dans leur cas (elles dépendent de l'étape précédente).
+  let qs = all.filter((q) => isPlayable(q) && !q.caseId);
   if (f.ids?.length) qs = f.ids.map((id) => qs.find((q) => q.id === id)).filter((q): q is Question => Boolean(q));
   if (f.chapters?.length) qs = qs.filter((q) => f.chapters!.includes(q.chapter));
   if (f.lesson) qs = qs.filter((q) => q.lessonLinks.includes(f.lesson!));

@@ -21,7 +21,7 @@ test('menu : seules les rubriques disponibles sont proposées', async ({ page })
   await navTo(page, 'Mes cours');
   await expect(page.getByRole('heading', { name: 'Mes cours' })).toBeVisible();
   const nav = page.getByRole('navigation', { name: 'Navigation principale' });
-  await expect(nav.getByRole('link')).toHaveCount(5);
+  await expect(nav.getByRole('link')).toHaveCount(9);
 });
 
 test('sauvegarde et restauration de la progression', async ({ page }, info) => {
@@ -45,7 +45,7 @@ test('rechargement direct d’une adresse (GitHub Pages)', async ({ page }) => {
 });
 
 test('pas de défilement horizontal (responsive)', async ({ page }) => {
-  for (const url of ['./', './#/cours/thyroide/lecon/thyr-explo', './#/quiz?mode=exam-level&chapter=thyroide']) {
+  for (const url of ['./', './#/cours/thyroide/lecon/thyr-explo', './#/quiz?mode=exam-level&chapter=thyroide', './#/cours/hyper', './#/examens', './#/cas-cliniques', './#/examens-blancs', './#/erreurs', './#/revisions']) {
     await page.goto(url);
     await page.waitForTimeout(200);
     const overflow = await page.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth);

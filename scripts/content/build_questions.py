@@ -446,6 +446,95 @@ VF("exercices-hypo", 5, "hypo", "congenitale", ["hypo-congenitale"], "Devant un 
    "On convoque l’enfant en urgence, on prélève pour confirmer, puis on traite immédiatement ; l’imagerie précise la cause ensuite.",
    H("Chaque jour compte pour le développement cérébral.", "L’imagerie change-t-elle la décision de traiter ?", "Elle précise seulement la cause."), ["dépistage néonatal", "pédiatrie"])
 
+
+# ============================ CAS CLINIQUES PROGRESSIFS (créés, hors archives) ============================
+NORMES = "normes reprises d’un énoncé d’examen UCL (compilation 2016-2021) — valeurs propres au laboratoire de l’exercice"
+def LAB(a, v, u, r): return {"analyte": a, "value": v, "unit": u, "reference": r, "referenceOrigin": NORMES}
+def CASE(file, chapter, sub, lessons, case, step, n, stem, options, expected, hints, expl, per, labs=()):
+    files.setdefault(file, []).append({
+        "id": f"ENDO-EX-{chapter}-CAS-{n:03d}", "kind": "exercise", "format": "mcq", "instruction": "one-correct", "stem": stem,
+        "labs": list(labs), "options": [{"id": L[i], "text": t, "explanation": per[i]} for i, t in enumerate(options)],
+        "expected": expected, "answerStatus": "authored", "sourceComments": [], "chapter": chapter, "subchapter": sub,
+        "lessonLinks": lessons, "tags": ["cas clinique"], "difficulty": 3, "clinical": True, "caseId": case, "caseStep": step,
+        "hints": hints, "explanation": {"text": expl, "status": COMP, "sources": []}})
+
+# Cas A — Hyperthyroïdie (Basedow)
+C = "cas-hyper-basedow"
+CASE("cas-cliniques", "hyper", "basedow", ["hyper-diagnostic"], C, 1, 1,
+  "Mme L., 29 ans, fumeuse, consulte pour des palpitations, une perte de 5 kg en deux mois malgré un bon appétit et un tremblement fin. Vous notez une rétraction des paupières supérieures. Biologie ci-dessous. Quelle est votre interprétation ?",
+  ["Hyperthyroïdie patente d’origine thyroïdienne", "Hyperthyroïdie infraclinique", "Hypothyroïdie centrale", "Adénome hypophysaire thyréotrope", "Bilan normal"], ["A"],
+  ["Compare chaque valeur à sa norme.", "La TSH est effondrée et les hormones libres sont élevées.", "Quand la TSH est freinée, l’excès vient-il de l’hypophyse ou de la thyroïde ?"],
+  "TSH effondrée avec T4L et T3L élevées : hyperthyroïdie patente. La TSH freinée montre que l’excès d’hormones ne vient pas de l’hypophyse.",
+  ["Oui : TSH freinée, hormones libres élevées.", "Non : les hormones libres sont élevées.", "Non : les hormones sont élevées.", "Non : la TSH serait normale ou élevée.", "Non."],
+  [LAB("TSH", "< 0,01", "µU/mL", "0,30-3,5"), LAB("T4 libre", "38", "pmol/L", "12-22"), LAB("T3 libre", "11", "pmol/L", "2,0-6,0")])
+CASE("cas-cliniques", "hyper", "basedow", ["hyper-diagnostic", "hyper-basedow"], C, 2, 2,
+  "Devant cette hyperthyroïdie avec atteinte oculaire, quel examen confirme le plus simplement la cause ?",
+  ["Anticorps anti-récepteur de la TSH (TRAK)", "Anticorps anti-TPO", "Thyroglobuline", "Calcitonine", "TSH à recontrôler dans 6 mois"], ["A"],
+  ["L’atteinte oculaire oriente fortement vers une cause précise.", "Cette maladie est auto-immune et stimule un récepteur.", "Quel anticorps cible ce récepteur ?"],
+  "Hyperthyroïdie + orbitopathie : maladie de Basedow. Les anticorps anti-récepteur de la TSH (TRAK) la confirment. Les anti-TPO sont peu spécifiques.",
+  ["Oui : marqueur de Basedow.", "Peu spécifiques (fréquents dans Hashimoto).", "Utile surtout si on suspecte une prise exogène.", "Marqueur du cancer médullaire.", "Non : il faut traiter."])
+CASE("cas-cliniques", "hyper", "basedow", ["hyper-basedow", "hyper-traitements"], C, 3, 3,
+  "Les TRAK sont positifs ; l’échographie montre un goitre diffus hypoéchogène et très vascularisé. Quel traitement initial proposez-vous ?",
+  ["Thiamazole et bêtabloquant", "Iode radioactif d’emblée", "Propylthiouracile (PTU) au long cours", "L-thyroxine", "Corticoïdes seuls"], ["A"],
+  ["Pense au traitement de première intention de Basedow.", "Elle fume et a une atteinte oculaire : quel traitement risque d’aggraver les yeux ?", "Le PTU est réservé à une situation particulière."],
+  "Première intention : thiamazole (12 à 18 mois) et bêtabloquant pour les symptômes. L’iode radioactif d’emblée est à éviter chez une fumeuse avec orbitopathie (risque d’aggravation). Le PTU est réservé au 1er trimestre de grossesse.",
+  ["Oui.", "Non : risque d’aggraver l’orbitopathie, surtout chez la fumeuse.", "Non : hépatotoxique, réservé au 1er trimestre de grossesse.", "Non : elle est hyperthyroïdienne.", "Non : ils ne traitent pas l’hyperthyroïdie de Basedow."])
+CASE("cas-cliniques", "hyper", "basedow", ["hyper-traitements"], C, 4, 4,
+  "Trois semaines après le début du thiamazole, Mme L. vous appelle : fièvre à 39 °C et mal de gorge. Que faites-vous ?",
+  ["Arrêt du thiamazole et numération sanguine en urgence", "Augmenter la dose de thiamazole", "Antibiotique sans bilan sanguin", "Poursuivre et revoir dans un mois", "Ajouter du PTU"], ["A"],
+  ["Pense à la complication grave des ATS.", "Elle touche les globules blancs.", "Il faut la rechercher sans attendre."],
+  "Fièvre ou angine sous ATS : suspicion d’agranulocytose. On arrête le traitement et on fait une numération en urgence. Une agranulocytose confirmée contre-indique définitivement les ATS.",
+  ["Oui.", "Non : dangereux.", "Non : il faut d’abord la numération.", "Non : urgence.", "Non : les ATS sont contre-indiqués en cas d’agranulocytose."])
+
+# Cas B — Hypothyroïdie centrale
+C = "cas-hypo-centrale"
+CASE("cas-cliniques", "hypo", "diagnostic", ["hypo-diagnostic"], C, 1, 1,
+  "M. D., 58 ans, a été opéré il y a un an d’un macroadénome hypophysaire. Il se plaint de fatigue et de frilosité. Quelle est votre interprétation ?",
+  ["Hypothyroïdie centrale", "Euthyroïdie", "Hypothyroïdie primaire infraclinique", "Hyperthyroïdie", "Résultat ininterprétable"], ["A"],
+  ["Regarde la T4 libre en premier.", "La TSH devrait-elle être normale si la T4L est basse et l’hypophyse saine ?", "Quel est son antécédent ?"],
+  "T4L basse avec une TSH normale (donc inappropriée) chez un patient opéré de l’hypophyse : hypothyroïdie centrale. Une hypothyroïdie primaire donnerait une TSH élevée.",
+  ["Oui.", "Non : la T4L est basse.", "Non : la TSH serait élevée et la T4L normale.", "Non.", "Non : le tableau est typique."],
+  [LAB("TSH", "1,2", "µU/mL", "0,30-3,5"), LAB("T4 libre", "7", "pmol/L", "12-22")])
+CASE("cas-cliniques", "hypo", "traitement", ["hypo-diagnostic", "hypo-traitement"], C, 2, 2,
+  "Avant de prescrire la L-thyroxine, que devez-vous vérifier en priorité ?",
+  ["L’axe corticotrope (cortisol)", "Les anticorps anti-TPO", "Une échographie thyroïdienne", "Une scintigraphie", "La calcitonine"], ["A"],
+  ["L’hypophyse commande plusieurs glandes.", "Un déficit d’une autre hormone hypophysaire peut devenir dangereux si on donne la L-thyroxine seule.", "Laquelle est vitale ?"],
+  "Une insuffisance corticotrope associée est possible. La L-thyroxine seule accélère le métabolisme du cortisol et peut déclencher une insuffisance surrénalienne aiguë : on vérifie le cortisol et on donne l’hydrocortisone avant ou avec la L-thyroxine si besoin.",
+  ["Oui.", "Non : inutile pour une cause centrale.", "Non : la thyroïde n’est pas en cause.", "Non.", "Non."])
+CASE("cas-cliniques", "hypo", "traitement", ["hypo-traitement"], C, 3, 3,
+  "M. D. est maintenant traité par L-thyroxine. Quel dosage utilisez-vous pour adapter la dose ?",
+  ["T4 libre", "TSH", "T3 libre", "Thyroglobuline", "TRH"], ["A"],
+  ["La TSH est produite par quel organe ?", "Cet organe est malade chez M. D.", "On suit donc directement l’hormone thyroïdienne."],
+  "Dans une hypothyroïdie centrale, la TSH n’est plus interprétable : on adapte la dose sur la T4 libre.",
+  ["Oui.", "Non : inutilisable ici.", "Non : moins fiable.", "Non.", "Non : non dosée en pratique."])
+
+# Cas C — Nodule thyroïdien
+C = "cas-thyroide-nodule"
+CASE("cas-cliniques", "thyroide", "nodules", ["thyr-nodules"], C, 1, 1,
+  "Mme R., 45 ans, découvre une petite masse à la base du cou en se regardant dans le miroir. L’examen retrouve un nodule thyroïdien isolé, sans adénopathie. Quel est le premier examen biologique ?",
+  ["TSH", "Anticorps anti-récepteur de la TSH", "Thyroglobuline", "Anticorps anti-TPO", "T3 libre seule"], ["A"],
+  ["Il faut d’abord savoir si le nodule fonctionne.", "Un seul dosage oriente toute la suite.", "Si ce dosage est bas, on pense à un nodule chaud."],
+  "La TSH oriente la démarche : basse, elle fait rechercher un nodule chaud (scintigraphie) ; normale, on passe à l’échographie EU-TIRADS.",
+  ["Oui.", "Non : marqueur de Basedow.", "Non : non discriminante avant chirurgie.", "Non : pas pour un nodule isolé.", "Non."])
+CASE("cas-cliniques", "thyroide", "nodules", ["thyr-nodules"], C, 2, 2,
+  "La TSH est normale. L’échographie montre un nodule de 12 mm, très hypoéchogène, plus haut que large, avec des microcalcifications. Quelle est sa catégorie EU-TIRADS ?",
+  ["EU-TIRADS 5", "EU-TIRADS 2", "EU-TIRADS 3", "EU-TIRADS 4", "Impossible sans Doppler"], ["A"],
+  ["Compte les signes de forte suspicion.", "Forme, contours, microcalcifications, hypoéchogénicité marquée.", "Un seul de ces signes suffit pour la catégorie la plus haute."],
+  "Au moins un signe de forte suspicion (ici trois) : EU-TIRADS 5. Le Doppler ne fait pas partie de la classification.",
+  ["Oui.", "Non : catégorie bénigne.", "Non : nodule iso- ou hyperéchogène sans signe suspect.", "Non : modérément hypoéchogène sans signe suspect.", "Non : le Doppler n’entre pas dans EU-TIRADS."])
+CASE("cas-cliniques", "thyroide", "nodules", ["thyr-nodules"], C, 3, 3,
+  "Quelle conduite proposez-vous pour ce nodule EU-TIRADS 5 de 12 mm ?",
+  ["Cytoponction à l’aiguille fine", "Surveillance échographique dans un an", "Scintigraphie", "Lobectomie d’emblée sans cytologie", "Aucun suivi"], ["A"],
+  ["Rappelle le seuil de ponction de la catégorie 5.", "Il est de 10 mm.", "Le nodule le dépasse-t-il ?"],
+  "EU-TIRADS 5 de plus de 10 mm : cytoponction indiquée. La scintigraphie n’est utile que si la TSH est basse.",
+  ["Oui.", "Non : risque élevé.", "Non : la TSH est normale.", "Non : on obtient d’abord la cytologie.", "Non."])
+CASE("cas-cliniques", "thyroide", "cancers", ["thyr-cancers"], C, 4, 4,
+  "La cytologie conclut à un carcinome papillaire (Bethesda VI). Quelle est sa voie de dissémination principale ?",
+  ["Lymphatique (ganglions cervicaux)", "Hématogène (os, poumon)", "Par contiguïté uniquement", "Péritonéale", "Il ne dissémine jamais"], ["A"],
+  ["Compare papillaire et folliculaire.", "L’un voyage par le sang, l’autre par un autre réseau.", "Pense aux adénopathies cervicales."],
+  "Le carcinome papillaire dissémine surtout par voie lymphatique (ganglions du cou) ; le folliculaire par voie hématogène.",
+  ["Oui.", "Non : typique du folliculaire.", "Non.", "Non.", "Non."])
+
 for name, qs in files.items():
     with open(os.path.join(ROOT, f"{name}.json"), "w", encoding="utf-8") as f:
         json.dump({"source": name, "questions": qs}, f, ensure_ascii=False, indent=2)
