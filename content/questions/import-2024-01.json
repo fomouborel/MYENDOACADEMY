@@ -11,23 +11,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Le cancer folliculaire est le plus fréquent"
+          "text": "Le cancer folliculaire est le plus fréquent",
+          "explanation": "Faux : c’est le papillaire."
         },
         {
           "id": "B",
-          "text": "Le cancer à cellules de Hurthle touche les enfants/jeunes"
+          "text": "Le cancer à cellules de Hurthle touche les enfants/jeunes",
+          "explanation": "Faux : plutôt l’adulte plus âgé."
         },
         {
           "id": "C",
-          "text": "La dissémination du cancer papillaire se fait par voie hématogène"
+          "text": "La dissémination du cancer papillaire se fait par voie hématogène",
+          "explanation": "Faux : voie lymphatique (c’est le folliculaire qui est hématogène)."
         },
         {
           "id": "D",
-          "text": "Des taux élevés de calcitonine et de CEA dans le CMT"
+          "text": "Des taux élevés de calcitonine et de CEA dans le CMT",
+          "explanation": "Vrai (réponse attendue)."
         },
         {
           "id": "E",
-          "text": "Le cancer thyroïdien anaplasique répond bien à l’iode à fortes doses"
+          "text": "Le cancer thyroïdien anaplasique répond bien à l’iode à fortes doses",
+          "explanation": "Faux : il ne capte pas l’iode ; pronostic très sombre."
         }
       ],
       "expected": [
@@ -53,7 +58,17 @@
       "tags": [],
       "difficulty": 2,
       "clinical": false,
-      "duplicateGroup": "CANCERS"
+      "duplicateGroup": "CANCERS",
+      "hints": [
+        "Une seule proposition concerne le cancer issu des cellules C.",
+        "Les cellules C fabriquent une hormone qui sert de marqueur tumoral.",
+        "Ce cancer produit aussi un marqueur connu en cancérologie digestive."
+      ],
+      "explanation": {
+        "text": "Le cancer médullaire (CMT) naît des cellules C : il sécrète la calcitonine et l’ACE (CEA), utilisés pour le diagnostic et le suivi. Le papillaire est le plus fréquent et dissémine par voie lymphatique ; le carcinome oncocytaire (ex-Hürthle) touche plutôt l’adulte plus âgé ; l’anaplasique ne répond pas à l’iode radioactif.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-2024-01-RADIO-QCM-075",
@@ -65,19 +80,23 @@
       "options": [
         {
           "id": "A",
-          "text": "Nodule chaud"
+          "text": "Nodule chaud",
+          "explanation": "Faux (réponse attendue) : nodule chaud, presque toujours bénin."
         },
         {
           "id": "B",
-          "text": "Nodule contenant des microcaclcifications"
+          "text": "Nodule contenant des microcaclcifications",
+          "explanation": "Vrai : signe de forte suspicion."
         },
         {
           "id": "C",
-          "text": "Hypoéchogène et mesurant 16mm"
+          "text": "Hypoéchogène et mesurant 16mm",
+          "explanation": "Vrai : au-delà du seuil de 15 mm."
         },
         {
           "id": "D",
-          "text": "Nodule chez jeune de 16ans"
+          "text": "Nodule chez jeune de 16ans",
+          "explanation": "Vrai : terrain plus à risque."
         }
       ],
       "expected": [
@@ -103,7 +122,17 @@
       "tags": [],
       "difficulty": 3,
       "clinical": true,
-      "duplicateGroup": "CYTOPONCTION"
+      "duplicateGroup": "CYTOPONCTION",
+      "hints": [
+        "Une proposition concerne le résultat de la scintigraphie.",
+        "Un nodule qui fabrique des hormones de façon autonome est presque toujours bénin.",
+        "Pour un nodule hypoéchogène, le seuil de ponction EU-TIRADS 4 est de 15 mm."
+      ],
+      "explanation": {
+        "text": "Un nodule chaud (autonome, hyperfixant) est presque toujours bénin : on ne le ponctionne pas. Les microcalcifications sont un signe de forte suspicion ; un nodule hypoéchogène de 16 mm dépasse le seuil de 15 mm (EU-TIRADS 4) ; chez l’enfant et l’adolescent, un nodule est plus souvent malin que chez l’adulte.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-2024-01-ADULTE-QCM-030",

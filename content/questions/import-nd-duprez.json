@@ -11,23 +11,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Eurtirads 2"
+          "text": "Eurtirads 2",
+          "explanation": "Non : bénin, pas de ponction."
         },
         {
           "id": "B",
-          "text": "Macrocalcifications"
+          "text": "Macrocalcifications",
+          "explanation": "Non : pas un critère de forte suspicion EU-TIRADS."
         },
         {
           "id": "C",
-          "text": "Nodule chaud"
+          "text": "Nodule chaud",
+          "explanation": "Non : presque toujours bénin."
         },
         {
           "id": "D",
-          "text": "Contour lobulé et plus large que long"
+          "text": "Contour lobulé et plus large que long",
+          "explanation": "Oui (réponse attendue), pour les contours lobulés ; la forme « plus large que long » n’est pas suspecte."
         },
         {
           "id": "E",
-          "text": "Positif au pet-scan"
+          "text": "Positif au pet-scan",
+          "explanation": "Oui (réponse attendue)."
         }
       ],
       "expected": [
@@ -54,7 +59,17 @@
       "tags": [],
       "difficulty": 2,
       "clinical": false,
-      "duplicateGroup": "CYTOPONCTION"
+      "duplicateGroup": "CYTOPONCTION",
+      "hints": [
+        "EU-TIRADS 2 regroupe les nodules bénins.",
+        "Les macrocalcifications et le nodule chaud ne sont pas des arguments de ponction.",
+        "Une fixation focale en imagerie métabolique doit être explorée."
+      ],
+      "explanation": {
+        "text": "Deux situations justifient la ponction : des contours lobulés ou irréguliers (signe de forte suspicion, EU-TIRADS 5) et une fixation focale au PET-scan. EU-TIRADS 2 est bénin ; les macrocalcifications seules ne sont pas un critère de forte suspicion EU-TIRADS ; un nodule chaud est presque toujours bénin. Attention à la formulation retranscrite de la proposition D : c’est la forme « plus haute que large » qui est suspecte, « plus large que long » est l’aspect habituel. L’argument de ponction repose ici sur les contours.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-ND-RADIO-QCM-010",
@@ -66,23 +81,28 @@
       "options": [
         {
           "id": "A",
-          "text": "microcalcifications"
+          "text": "microcalcifications",
+          "explanation": "Signe de malignité."
         },
         {
           "id": "B",
-          "text": "bord irrégulier"
+          "text": "bord irrégulier",
+          "explanation": "Signe de malignité."
         },
         {
           "id": "C",
-          "text": "nodule hypoéchogène avec signe de la comète"
+          "text": "nodule hypoéchogène avec signe de la comète",
+          "explanation": "Pas un signe de malignité (réponse attendue) : la queue de comète évoque la colloïde."
         },
         {
           "id": "D",
-          "text": "plus haut que large (ou plus large que haut, je ne sais plus)"
+          "text": "plus haut que large (ou plus large que haut, je ne sais plus)",
+          "explanation": "Signe de malignité si « plus haut que large »."
         },
         {
           "id": "E",
-          "text": "vascularisation centrale et périphérique"
+          "text": "vascularisation centrale et périphérique",
+          "explanation": "Ancien critère de suspicion (vascularisation centrale), absent d’EU-TIRADS."
         }
       ],
       "expected": [
@@ -109,7 +129,17 @@
       "difficulty": 2,
       "clinical": false,
       "duplicateGroup": "CYTOPONCTION",
-      "answerNote": "Doute sur la formulation de D (« plus haut que large ou l'inverse »), pas sur la réponse."
+      "answerNote": "Doute sur la formulation de D (« plus haut que large ou l'inverse »), pas sur la réponse.",
+      "hints": [
+        "Une seule proposition décrit un signe rassurant.",
+        "Les microcalcifications et un artefact lié à la colloïde se ressemblent à l’écran, mais n’ont pas la même signification.",
+        "L’artefact lié à la colloïde laisse une traînée brillante derrière un petit point."
+      ],
+      "explanation": {
+        "text": "Le signe de la queue de comète est un artefact lié à la colloïde épaisse : il oriente vers un nodule colloïde bénin, même si le nodule est hypoéchogène. Les microcalcifications, les bords irréguliers et une forme plus haute que large sont des signes de forte suspicion. La vascularisation centrale était un ancien argument de suspicion ; elle n’entre pas dans EU-TIRADS. Doute de retranscription sur la proposition D : c’est la forme plus haute que large qui est suspecte.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-ND-RADIO-QCM-014",
@@ -121,23 +151,28 @@
       "options": [
         {
           "id": "A",
-          "text": "PET-CT positif"
+          "text": "PET-CT positif",
+          "explanation": "Oui (réponse attendue)."
         },
         {
           "id": "B",
-          "text": "Nodule chaud"
+          "text": "Nodule chaud",
+          "explanation": "Non : presque toujours bénin."
         },
         {
           "id": "C",
-          "text": "Vascularisation périphérique"
+          "text": "Vascularisation périphérique",
+          "explanation": "Non : aspect non suspect."
         },
         {
           "id": "D",
-          "text": "Macrocalcifications"
+          "text": "Macrocalcifications",
+          "explanation": "Non : pas un critère de forte suspicion EU-TIRADS."
         },
         {
           "id": "E",
-          "text": "Signe de la queue de comète"
+          "text": "Signe de la queue de comète",
+          "explanation": "Non : signe bénin (colloïde)."
         }
       ],
       "expected": [
@@ -163,7 +198,17 @@
       "tags": [],
       "difficulty": 2,
       "clinical": false,
-      "duplicateGroup": "CYTOPONCTION"
+      "duplicateGroup": "CYTOPONCTION",
+      "hints": [
+        "Quatre propositions décrivent des aspects rassurants ou non spécifiques.",
+        "Un nodule chaud et un signe lié à la colloïde sont des arguments de bénignité.",
+        "Une imagerie demandée pour une autre raison peut révéler un nodule suspect."
+      ],
+      "explanation": {
+        "text": "Un nodule thyroïdien qui fixe focalement au PET-CT a un risque de cancer non négligeable : on l’explore par échographie et, le plus souvent, par cytoponction. Le nodule chaud et la queue de comète sont des signes bénins ; la vascularisation périphérique et les macrocalcifications ne sont pas des critères de forte suspicion EU-TIRADS.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-ND-RADIO-QCM-124",
@@ -175,23 +220,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Macro-calcification toujours bénin"
+          "text": "Macro-calcification toujours bénin",
+          "explanation": "Faux : le plus souvent bénignes, mais pas toujours."
         },
         {
           "id": "B",
-          "text": "Micro-calcification toujours malin"
+          "text": "Micro-calcification toujours malin",
+          "explanation": "Faux : signe suspect, pas une certitude."
         },
         {
           "id": "C",
-          "text": "Il faut faire une ponction quand microcalcification"
+          "text": "Il faut faire une ponction quand microcalcification",
+          "explanation": "Vrai (réponse attendue)."
         },
         {
           "id": "D",
-          "text": "Elles impliquent de faire un bilan complémentaire au CT scan"
+          "text": "Elles impliquent de faire un bilan complémentaire au CT scan",
+          "explanation": "Faux : le bilan repose sur l’échographie et la cytoponction."
         },
         {
           "id": "E",
-          "text": "Elles indiquent que le contenu du nodule est colloïde"
+          "text": "Elles indiquent que le contenu du nodule est colloïde",
+          "explanation": "Faux : la colloïde donne plutôt l’artefact en queue de comète."
         }
       ],
       "expected": [
@@ -217,7 +267,17 @@
       "tags": [],
       "difficulty": 2,
       "clinical": false,
-      "duplicateGroup": "CYTOPONCTION"
+      "duplicateGroup": "CYTOPONCTION",
+      "hints": [
+        "Méfie-toi du mot « toujours ».",
+        "Les microcalcifications correspondent souvent aux corps psammomateux d’un cancer.",
+        "Que fait-on devant un signe échographique de forte suspicion ?"
+      ],
+      "explanation": {
+        "text": "Les microcalcifications sont un signe de forte suspicion (elles correspondent souvent aux corps psammomateux du cancer papillaire) : elles justifient une cytoponction, à partir de 10 mm (EU-TIRADS 5). Mais « toujours » est faux dans les deux sens : des macrocalcifications peuvent accompagner un cancer, et des microcalcifications existent dans des nodules bénins. Le scanner n’est pas l’examen du nodule, et un contenu colloïde se signale plutôt par la queue de comète.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-ND-RADIO-QCM-128",
@@ -280,23 +340,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Aspect tigré"
+          "text": "Aspect tigré",
+          "explanation": "Vrai : glande hétérogène."
         },
         {
           "id": "B",
-          "text": "Micronodules"
+          "text": "Micronodules",
+          "explanation": "Vrai : micronodules hypoéchogènes."
         },
         {
           "id": "C",
-          "text": "Normo-/Hypervascularisation"
+          "text": "Normo-/Hypervascularisation",
+          "explanation": "Vrai."
         },
         {
           "id": "D",
-          "text": "Glandes polykystiques"
+          "text": "Glandes polykystiques",
+          "explanation": "Faux (réponse attendue)."
         },
         {
           "id": "E",
-          "text": "Augmentation de volume localisée/diffuse"
+          "text": "Augmentation de volume localisée/diffuse",
+          "explanation": "Vrai."
         }
       ],
       "expected": [
@@ -323,7 +388,17 @@
       "difficulty": 2,
       "clinical": false,
       "duplicateGroup": "ECHO-THYROIDITE",
-      "answerNote": "Type de question incertain (« Une fausse?? »)."
+      "answerNote": "Type de question incertain (« Une fausse?? »).",
+      "hints": [
+        "La thyroïdite auto-immune infiltre la glande de lymphocytes.",
+        "L’infiltration rend la glande sombre et irrégulière à l’échographie.",
+        "Une proposition décrit des cavités liquidiennes, qui ne font pas partie de ce tableau."
+      ],
+      "explanation": {
+        "text": "Dans la thyroïdite chronique auto-immune (Hashimoto), l’échographie montre une glande hypoéchogène et hétérogène, souvent pseudo-nodulaire ou micronodulaire, un volume augmenté de façon diffuse ou localisée (puis parfois une atrophie), et une vascularisation normale ou augmentée. Des « glandes polykystiques » ne font pas partie de ce tableau. Le type de question (« une fausse ?? ») a été retranscrit avec doute, mais la réponse retenue reste la plus cohérente.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-ND-RADIO-QCM-008",
@@ -335,23 +410,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Taille"
+          "text": "Taille",
+          "explanation": "Non prise en compte dans la catégorie (réponse attendue) : elle fixe le seuil de ponction."
         },
         {
           "id": "B",
-          "text": "Forme"
+          "text": "Forme",
+          "explanation": "Prise en compte : plus haute que large = suspect."
         },
         {
           "id": "C",
-          "text": "Aspect des contours"
+          "text": "Aspect des contours",
+          "explanation": "Pris en compte : contours irréguliers = suspect."
         },
         {
           "id": "D",
-          "text": "Échogénicité"
+          "text": "Échogénicité",
+          "explanation": "Prise en compte."
         },
         {
           "id": "E",
-          "text": "Calcifications"
+          "text": "Calcifications",
+          "explanation": "Prises en compte : microcalcifications = suspect."
         }
       ],
       "expected": [
@@ -377,7 +457,17 @@
       "tags": [],
       "difficulty": 2,
       "clinical": false,
-      "duplicateGroup": "EUTIRADS"
+      "duplicateGroup": "EUTIRADS",
+      "hints": [
+        "EU-TIRADS classe le nodule selon son aspect en mode B (noir et blanc).",
+        "Une fois la catégorie établie, un autre critère sert à décider de la ponction.",
+        "Ce critère se mesure en millimètres."
+      ],
+      "explanation": {
+        "text": "La catégorie EU-TIRADS (2 à 5) dépend de l’aspect du nodule : échogénicité, forme, contours, calcifications, structure. La taille n’entre pas dans la classification : elle sert ensuite à décider de la cytoponction (seuils de 20, 15 et 10 mm selon la catégorie).",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-ND-RADIO-QCM-118",

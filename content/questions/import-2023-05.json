@@ -11,23 +11,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Aspect spongiforme"
+          "text": "Aspect spongiforme",
+          "explanation": "Non : signe bénin."
         },
         {
           "id": "B",
-          "text": "Queue de comète"
+          "text": "Queue de comète",
+          "explanation": "Non : signe bénin (colloïde)."
         },
         {
           "id": "C",
-          "text": "Macrocalcification"
+          "text": "Macrocalcification",
+          "explanation": "Non : pas un critère de forte suspicion EU-TIRADS."
         },
         {
           "id": "D",
-          "text": "... (Nodule dur et fixé (pas sure))"
+          "text": "... (Nodule dur et fixé (pas sure))",
+          "explanation": "Proposition retranscrite avec doute : un nodule « dur et fixé » serait suspect."
         },
         {
           "id": "E",
-          "text": "20 mm et PET-scan hyper métabolique"
+          "text": "20 mm et PET-scan hyper métabolique",
+          "explanation": "Oui (réponse attendue)."
         }
       ],
       "expected": [
@@ -54,7 +59,17 @@
       "difficulty": 2,
       "clinical": false,
       "duplicateGroup": "CYTOPONCTION",
-      "answerNote": "Une proposition retranscrite avec doute (« nodule dur et fixé (pas sûre) »)."
+      "answerNote": "Une proposition retranscrite avec doute (« nodule dur et fixé (pas sûre) »).",
+      "hints": [
+        "Plusieurs propositions décrivent des aspects bénins ou non suspects à l’échographie.",
+        "Les macrocalcifications ne sont pas un critère de forte suspicion dans EU-TIRADS.",
+        "Un examen d’imagerie métabolique peut révéler un nodule suspect."
+      ],
+      "explanation": {
+        "text": "Un nodule de 20 mm qui fixe au PET-scan doit être ponctionné : une fixation focale est associée à un risque de cancer non négligeable. L’aspect spongiforme et la queue de comète sont des signes bénins ; les macrocalcifications ne sont pas un critère de forte suspicion dans EU-TIRADS. La proposition D a été retranscrite avec doute : un nodule réellement « dur et fixé » serait un argument clinique de suspicion.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-2023-05-ANAPATH-QCM-082",
@@ -66,19 +81,23 @@
       "options": [
         {
           "id": "A",
-          "text": "est le plus fréquent"
+          "text": "est le plus fréquent",
+          "explanation": "Faux : le papillaire est le plus fréquent."
         },
         {
           "id": "B",
-          "text": "métastase par voie lympathique"
+          "text": "métastase par voie lympathique",
+          "explanation": "Faux : voie surtout hématogène (os, poumon)."
         },
         {
           "id": "C",
-          "text": "peut se diagnostiquer par cytologie"
+          "text": "peut se diagnostiquer par cytologie",
+          "explanation": "Faux : la cytologie ne distingue pas adénome et carcinome folliculaires."
         },
         {
           "id": "D",
-          "text": "peut être diagnostiqué en cas d’envahissement de la capsule (cf. Anciens exams)"
+          "text": "peut être diagnostiqué en cas d’envahissement de la capsule (cf. Anciens exams)",
+          "explanation": "Vrai (réponse attendue) : effraction capsulaire ou invasion vasculaire, à l’histologie."
         }
       ],
       "expected": [
@@ -106,7 +125,18 @@
       "tags": [],
       "difficulty": 2,
       "clinical": false,
-      "duplicateGroup": "FOLLICULAIRE"
+      "duplicateGroup": "FOLLICULAIRE",
+      "hints": [
+        "Le carcinome folliculaire se distingue de l’adénome par un critère précis.",
+        "Au microscope, les cellules d’un adénome et d’un carcinome folliculaires se ressemblent.",
+        "Seule la pièce opératoire montre si la tumeur franchit sa capsule ou envahit les vaisseaux."
+      ],
+      "explanation": {
+        "text": "Le carcinome folliculaire encapsulé ressemble à un adénome : la malignité est définie par l’effraction de la capsule ou l’invasion vasculaire, visibles seulement à l’histologie de la pièce opératoire. Ce n’est pas le cancer le plus fréquent (c’est le papillaire), il métastase surtout par voie hématogène, et la cytologie ne permet pas de le distinguer d’un adénome.",
+        "status": "complement",
+        "sources": []
+      },
+      "pitfall": "Folliculaire : diagnostic histologique, pas cytologique."
     },
     {
       "id": "ENDO-2023-05-ANAPATH-QCM-083",
@@ -198,23 +228,28 @@
       "options": [
         {
           "id": "A",
-          "text": "goitre multinudulaire toxique"
+          "text": "goitre multinudulaire toxique",
+          "explanation": "Possible : excès d’hormones, TSH freinée."
         },
         {
           "id": "B",
-          "text": "premier trimestre de grossesse"
+          "text": "premier trimestre de grossesse",
+          "explanation": "Possible : l’hCG stimule le récepteur de la TSH."
         },
         {
           "id": "C",
-          "text": "Hormone thyroidienne pour hypothyroide"
+          "text": "Hormone thyroidienne pour hypothyroide",
+          "explanation": "Possible : surtout en cas de surdosage."
         },
         {
           "id": "D",
-          "text": "prise d’amiodarone"
+          "text": "prise d’amiodarone",
+          "explanation": "Possible : hyperthyroïdie induite (type 1 ou 2)."
         },
         {
           "id": "E",
-          "text": "pillule oestro-progestative"
+          "text": "pillule oestro-progestative",
+          "explanation": "Impossible (réponse attendue) : la pilule augmente la TBG, pas les hormones libres."
         }
       ],
       "expected": [
@@ -245,7 +280,17 @@
       "difficulty": 2,
       "clinical": false,
       "duplicateGroup": "TSH-BASSE",
-      "answerNote": "Deux propositions portent des « +1 » (1er trimestre de grossesse et pilule) ; seule la pilule est en rouge."
+      "answerNote": "Deux propositions portent des « +1 » (1er trimestre de grossesse et pilule) ; seule la pilule est en rouge.",
+      "hints": [
+        "Pour chaque situation, demande-toi si elle apporte trop d’hormones thyroïdiennes ou une substance qui stimule le récepteur de la TSH.",
+        "Au 1er trimestre, une hormone de grossesse ressemble à la TSH.",
+        "Une situation modifie les protéines de transport, mais pas les hormones libres."
+      ],
+      "explanation": {
+        "text": "La pilule œstroprogestative augmente la TBG (protéine de transport) : les hormones totales montent, mais les hormones libres et la TSH restent normales. Elle n’abaisse donc pas la TSH. Les autres situations peuvent le faire : goitre multinodulaire toxique (excès d’hormones), 1er trimestre de grossesse (hCG), traitement par hormones thyroïdiennes (surtout en cas de surdosage) et amiodarone (hyperthyroïdie de type 1 ou 2). Correction discutée : des étudiants ont aussi voté pour le 1er trimestre, mais une TSH basse y est classique. Aucune correction officielle n’existe.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-2023-05-ADULTE-QCM-043",

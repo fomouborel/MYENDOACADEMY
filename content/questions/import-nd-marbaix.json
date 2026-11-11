@@ -11,23 +11,28 @@
       "options": [
         {
           "id": "A",
-          "text": "infiltration macrophage"
+          "text": "infiltration macrophage",
+          "explanation": "Faux."
         },
         {
           "id": "B",
-          "text": "infiltration Ly T cytotoxique"
+          "text": "infiltration Ly T cytotoxique",
+          "explanation": "Faux comme lésion caractéristique : un infiltrat lymphocytaire en foyers est possible."
         },
         {
           "id": "C",
-          "text": "thyréocytes atrophiés par inhibition du récepteur TSH"
+          "text": "thyréocytes atrophiés par inhibition du récepteur TSH",
+          "explanation": "Faux : le récepteur est stimulé, pas inhibé ; les cellules sont hautes."
         },
         {
           "id": "D",
-          "text": "excès de production de colloïde par stimulation récepteur TSH thyréocytes"
+          "text": "excès de production de colloïde par stimulation récepteur TSH thyréocytes",
+          "explanation": "Faux : la colloïde diminue."
         },
         {
           "id": "E",
-          "text": "diminution production colloïdes par stimulation récepteur TSH des thyréocytes"
+          "text": "diminution production colloïdes par stimulation récepteur TSH des thyréocytes",
+          "explanation": "Vrai (réponse attendue) : colloïde diminuée, consommée par des cellules stimulées."
         }
       ],
       "expected": [
@@ -54,7 +59,17 @@
       "tags": [],
       "difficulty": 2,
       "clinical": false,
-      "duplicateGroup": "BASEDOW-ANAPATH"
+      "duplicateGroup": "BASEDOW-ANAPATH",
+      "hints": [
+        "Dans la maladie de Basedow, des anticorps stimulent le récepteur de la TSH.",
+        "Des thyréocytes stimulés sont hauts, actifs, et puisent dans leurs réserves.",
+        "Que devient la réserve de colloïde quand la glande sécrète en permanence ?"
+      ],
+      "explanation": {
+        "text": "Dans la maladie de Basedow, les anticorps anti-récepteur de la TSH stimulent les thyréocytes : ils deviennent hauts (hyperplasie) et réabsorbent activement la colloïde, qui diminue et devient pâle, festonnée (lacunes de résorption). Il n’y a ni infiltrat macrophagique, ni atrophie, ni accumulation de colloïde. Un infiltrat lymphocytaire en foyers est possible, mais ce n’est pas la lésion caractéristique. La formulation « diminution de production » est approximative : la colloïde diminue surtout parce qu’elle est consommée plus vite.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-ND-ANAPATH-QCM-103",
@@ -203,23 +218,28 @@
       "options": [
         {
           "id": "A",
-          "text": "le diagnostic peut se faire de manière aisée par ponction à l’aiguille fine"
+          "text": "le diagnostic peut se faire de manière aisée par ponction à l’aiguille fine",
+          "explanation": "Faux : la cytologie ne distingue pas adénome et carcinome."
         },
         {
           "id": "B",
-          "text": "c’est le cancer le plus fréquent de la thyroïde"
+          "text": "c’est le cancer le plus fréquent de la thyroïde",
+          "explanation": "Faux : c’est le papillaire."
         },
         {
           "id": "C",
-          "text": "il métastase souvent dans les ganglions cervicaux"
+          "text": "il métastase souvent dans les ganglions cervicaux",
+          "explanation": "Faux : voie surtout hématogène ; l’atteinte ganglionnaire est typique du papillaire."
         },
         {
           "id": "D",
-          "text": "s’il est encapsulé, il ne peut être diagnostiqué que par une démonstration histologique d’effraction capsulaire ou une perméation vasculaire"
+          "text": "s’il est encapsulé, il ne peut être diagnostiqué que par une démonstration histologique d’effraction capsulaire ou une perméation vasculaire",
+          "explanation": "Vrai (réponse attendue)."
         },
         {
           "id": "E",
-          "text": "hypercaptation d’iode à la scinti"
+          "text": "hypercaptation d’iode à la scinti",
+          "explanation": "Faux : un cancer est habituellement froid (hypofixant)."
         }
       ],
       "expected": [
@@ -245,7 +265,17 @@
       "tags": [],
       "difficulty": 2,
       "clinical": false,
-      "duplicateGroup": "FOLLICULAIRE"
+      "duplicateGroup": "FOLLICULAIRE",
+      "hints": [
+        "Lis chaque proposition en pensant à ce qui distingue un carcinome folliculaire d’un adénome.",
+        "Sur une ponction, les cellules des deux tumeurs se ressemblent.",
+        "Le diagnostic demande l’examen de la pièce opératoire entière."
+      ],
+      "explanation": {
+        "text": "Un carcinome folliculaire encapsulé ne se distingue d’un adénome que par l’effraction de la capsule ou l’invasion des vaisseaux, visibles à l’histologie : la cytoponction ne suffit pas. Ce n’est pas le cancer le plus fréquent (c’est le papillaire), il métastase surtout par voie hématogène et, comme la plupart des cancers, il apparaît froid (hypofixant) à la scintigraphie.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-ND-ANAPATH-QCM-101",
@@ -297,23 +327,28 @@
       "options": [
         {
           "id": "A",
-          "text": "se caractérise histologiquement par des lymphocytes B et T qui attaquent la glande"
+          "text": "se caractérise histologiquement par des lymphocytes B et T qui attaquent la glande",
+          "explanation": "Vrai (réponse attendue)."
         },
         {
           "id": "B",
-          "text": "se caractérise histologiquement par des granulomes (peut-être le prof a-t-il précisé “dirigés contre la thyroglobuline” mais je ne suis plus sûre...) qui attaquent la glande"
+          "text": "se caractérise histologiquement par des granulomes (peut-être le prof a-t-il précisé “dirigés contre la thyroglobuline” mais je ne suis plus sûre...) qui attaquent la glande",
+          "explanation": "Faux : granulomes = De Quervain."
         },
         {
           "id": "C",
-          "text": "seule maladie auto-immune qui atteint la thyroïde"
+          "text": "seule maladie auto-immune qui atteint la thyroïde",
+          "explanation": "Faux : Basedow est aussi auto-immun."
         },
         {
           "id": "D",
-          "text": "se caractérise histologiquement par de la fibrose, l’aspect évoque un cancer"
+          "text": "se caractérise histologiquement par de la fibrose, l’aspect évoque un cancer",
+          "explanation": "Faux : fibrose pseudo-tumorale = Riedel."
         },
         {
           "id": "E",
-          "text": "“qu’est ce qu’il fout ce maudit pancake, tabernacle ?"
+          "text": "“qu’est ce qu’il fout ce maudit pancake, tabernacle ?",
+          "explanation": "Proposition non exploitable (plaisanterie du transcripteur)."
         }
       ],
       "expected": [
@@ -343,7 +378,17 @@
       "difficulty": 2,
       "clinical": false,
       "duplicateGroup": "HASHI-ANAPATH",
-      "answerNote": "Doute du transcripteur sur la formulation de B, pas sur la réponse."
+      "answerNote": "Doute du transcripteur sur la formulation de B, pas sur la réponse.",
+      "hints": [
+        "Hashimoto est une maladie auto-immune : quelles cellules infiltrent la glande ?",
+        "Les granulomes caractérisent une autre thyroïdite.",
+        "L’infiltrat est lymphoplasmocytaire, avec des follicules lymphoïdes."
+      ],
+      "explanation": {
+        "text": "Hashimoto : infiltrat lymphocytaire B et T (avec follicules lymphoïdes à centre germinatif et cellules oncocytaires) qui détruit le parenchyme. Les granulomes caractérisent De Quervain ; la fibrose pseudo-tumorale évoque la thyroïdite de Riedel ; Basedow est une autre maladie auto-immune de la thyroïde. La proposition E n’est pas une vraie proposition d’examen.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-ND-ANAPATH-QCM-107",
@@ -355,23 +400,28 @@
       "options": [
         {
           "id": "A",
-          "text": "seule maladie auto-immune de la thyroïde"
+          "text": "seule maladie auto-immune de la thyroïde",
+          "explanation": "Faux : Basedow est aussi auto-immun."
         },
         {
           "id": "B",
-          "text": "lyt B et T qui détruisent le parenchyme"
+          "text": "lyt B et T qui détruisent le parenchyme",
+          "explanation": "Vrai (réponse attendue)."
         },
         {
           "id": "C",
-          "text": "fibrose qui remplace le parenchyme et peut apparaître comme un cancer"
+          "text": "fibrose qui remplace le parenchyme et peut apparaître comme un cancer",
+          "explanation": "Faux : thyroïdite de Riedel."
         },
         {
           "id": "D",
-          "text": "granulome géants qui détruit la thyroïde"
+          "text": "granulome géants qui détruit la thyroïde",
+          "explanation": "Faux : De Quervain."
         },
         {
           "id": "E",
-          "text": "donne principalement des exophtalmies"
+          "text": "donne principalement des exophtalmies",
+          "explanation": "Faux : orbitopathie de Basedow."
         }
       ],
       "expected": [
@@ -398,7 +448,17 @@
       "tags": [],
       "difficulty": 2,
       "clinical": false,
-      "duplicateGroup": "HASHI-ANAPATH"
+      "duplicateGroup": "HASHI-ANAPATH",
+      "hints": [
+        "Hashimoto est une thyroïdite auto-immune chronique : quelles cellules sont en cause ?",
+        "Une proposition concerne les yeux : elle appartient à une autre maladie.",
+        "Granulomes et fibrose pseudo-tumorale caractérisent deux autres thyroïdites."
+      ],
+      "explanation": {
+        "text": "Hashimoto : infiltrat de lymphocytes B et T qui détruit progressivement le parenchyme et mène à l’hypothyroïdie. Ce n’est pas la seule maladie auto-immune de la thyroïde (Basedow en est une autre) ; la fibrose pseudo-tumorale caractérise la thyroïdite de Riedel, les granulomes géants De Quervain ; l’exophtalmie est typique de Basedow.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-ND-ANAPATH-QCM-112",
@@ -410,23 +470,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Hyperplasie des cellules C (et plein d’info en plus)"
+          "text": "Hyperplasie des cellules C (et plein d’info en plus)",
+          "explanation": "Faux : précurseur du cancer médullaire héréditaire, sans lien avec Hashimoto."
         },
         {
           "id": "B",
-          "text": "seule maladie autoimmune de la thyroïde"
+          "text": "seule maladie autoimmune de la thyroïde",
+          "explanation": "Faux : Basedow est aussi auto-immun."
         },
         {
           "id": "C",
-          "text": "lyt B et T qui détruisent le parenchyme FAUX les follicules non ?"
+          "text": "lyt B et T qui détruisent le parenchyme FAUX les follicules non ?",
+          "explanation": "Vrai (réponse attendue ; commentaire étudiant discuté)."
         },
         {
           "id": "D",
-          "text": "fibrose"
+          "text": "fibrose",
+          "explanation": "Possible (fibrose variable), mais pas la lésion caractéristique."
         },
         {
           "id": "E",
-          "text": "granulomes géants dans la thyroïde , aspect granulomateux par formation de cellules dirigées contre les follicules thyroïdiens"
+          "text": "granulomes géants dans la thyroïde , aspect granulomateux par formation de cellules dirigées contre les follicules thyroïdiens",
+          "explanation": "Faux : De Quervain."
         }
       ],
       "expected": [
@@ -454,7 +519,17 @@
       "difficulty": 2,
       "clinical": false,
       "duplicateGroup": "HASHI-ANAPATH",
-      "answerNote": "Commentaire sur la réponse rouge : « FAUX les follicules non ? »."
+      "answerNote": "Commentaire sur la réponse rouge : « FAUX les follicules non ? ».",
+      "hints": [
+        "Une proposition concerne les cellules C : sont-elles en cause dans une thyroïdite auto-immune ?",
+        "Les granulomes caractérisent une autre thyroïdite.",
+        "Pense aux cellules de l’immunité adaptative."
+      ],
+      "explanation": {
+        "text": "Hashimoto se caractérise par un infiltrat lymphocytaire B et T qui détruit le parenchyme, avec follicules lymphoïdes et cellules oncocytaires. Le commentaire « FAUX, les follicules non ? » porte sur un détail de vocabulaire : le parenchyme thyroïdien est justement fait de follicules, et les autres occurrences de cette question retiennent cette proposition comme vraie. Une fibrose existe parfois (variante fibreuse), mais elle ne caractérise pas à elle seule Hashimoto ; les granulomes géants sont typiques de De Quervain ; l’hyperplasie des cellules C est un précurseur du cancer médullaire héréditaire.",
+        "status": "complement",
+        "sources": []
+      }
     }
   ]
 }

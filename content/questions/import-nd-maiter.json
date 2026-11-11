@@ -11,23 +11,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Cancer folliculaire le plus fréquent"
+          "text": "Cancer folliculaire le plus fréquent",
+          "explanation": "Faux : c’est le papillaire."
         },
         {
           "id": "B",
-          "text": "Cancer de hurtle indifférencié thyroïdien"
+          "text": "Cancer de hurtle indifférencié thyroïdien",
+          "explanation": "Faux : carcinome différencié (oncocytaire), qui capte peu l’iode."
         },
         {
           "id": "C",
-          "text": "Cancer papillaire métastase par voie hématogène"
+          "text": "Cancer papillaire métastase par voie hématogène",
+          "explanation": "Faux : voie lymphatique."
         },
         {
           "id": "D",
-          "text": "Cancer anaplasique répond bien à radio iode à très forte dose"
+          "text": "Cancer anaplasique répond bien à radio iode à très forte dose",
+          "explanation": "Faux : il ne capte pas l’iode."
         },
         {
           "id": "E",
-          "text": "Cancer médullaire associé à phéochromocytome"
+          "text": "Cancer médullaire associé à phéochromocytome",
+          "explanation": "Vrai (réponse attendue) : NEM 2."
         }
       ],
       "expected": [
@@ -53,7 +58,17 @@
       "tags": [],
       "difficulty": 2,
       "clinical": false,
-      "duplicateGroup": "CANCERS"
+      "duplicateGroup": "CANCERS",
+      "hints": [
+        "Une proposition associe un cancer thyroïdien à une tumeur d’une autre glande.",
+        "Pense aux néoplasies endocriniennes multiples (NEM).",
+        "La NEM 2 associe une tumeur des cellules C et une tumeur de la médullosurrénale."
+      ],
+      "explanation": {
+        "text": "Le cancer médullaire peut s’intégrer dans une NEM 2 (mutation RET), avec le phéochromocytome. Le papillaire est le plus fréquent et dissémine par voie lymphatique ; le carcinome oncocytaire (ex-Hürthle) est un carcinome différencié, pas indifférencié ; l’anaplasique ne répond pas à l’iode radioactif.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-ND-ADULTE-QCM-206",
@@ -65,23 +80,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Variant rare du carcinome papillaire de la thyroïde"
+          "text": "Variant rare du carcinome papillaire de la thyroïde",
+          "explanation": "Faux (réponse attendue) : entité distincte du papillaire."
         },
         {
           "id": "B",
-          "text": "+ agressif que les autres carcinomes"
+          "text": "+ agressif que les autres carcinomes",
+          "explanation": "Vrai par rapport aux autres cancers différenciés (pas par rapport à l’anaplasique)."
         },
         {
           "id": "C",
-          "text": "Se dissémine par voie hématogène"
+          "text": "Se dissémine par voie hématogène",
+          "explanation": "Vrai."
         },
         {
           "id": "D",
-          "text": "Composé de cellules oxyphiles"
+          "text": "Composé de cellules oxyphiles",
+          "explanation": "Vrai : cellules oncocytaires, riches en mitochondries."
         },
         {
           "id": "E",
-          "text": "Métastases captent moins l’iode radioactif"
+          "text": "Métastases captent moins l’iode radioactif",
+          "explanation": "Vrai."
         }
       ],
       "expected": [
@@ -107,7 +127,17 @@
       "tags": [],
       "difficulty": 2,
       "clinical": false,
-      "duplicateGroup": "CANCERS"
+      "duplicateGroup": "CANCERS",
+      "hints": [
+        "La classification OMS de 2022 a précisé le statut de ce cancer.",
+        "Le cancer de Hürthle s’appelle aujourd’hui carcinome oncocytaire.",
+        "Est-ce un sous-type d’un autre cancer, ou une entité à part ?"
+      ],
+      "explanation": {
+        "text": "Le carcinome oncocytaire (ex-Hürthle) est une entité distincte, et non un variant du papillaire (OMS 2022). Il est composé de cellules oncocytaires (oxyphiles, riches en mitochondries), dissémine surtout par voie hématogène, capte moins l’iode radioactif et est considéré comme plus agressif que les autres carcinomes différenciés.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-ND-ADULTE-QCM-236",
@@ -119,23 +149,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Une ponction à l’aiguille fine permet toujours le diagnostic de cancer"
+          "text": "Une ponction à l’aiguille fine permet toujours le diagnostic de cancer",
+          "explanation": "Faux : « toujours » est faux, par exemple pour le folliculaire."
         },
         {
           "id": "B",
-          "text": "Si on traite correctement le cancer, la Tg sera à 0 dans le suivi"
+          "text": "Si on traite correctement le cancer, la Tg sera à 0 dans le suivi",
+          "explanation": "Vrai (réponse attendue)."
         },
         {
           "id": "C",
-          "text": "Le Hurthle est un cancer thyroïdien indifférencié"
+          "text": "Le Hurthle est un cancer thyroïdien indifférencié",
+          "explanation": "Faux : carcinome différencié (oncocytaire)."
         },
         {
           "id": "D",
-          "text": "le cancer folliculaire est le plus fréquent"
+          "text": "le cancer folliculaire est le plus fréquent",
+          "explanation": "Faux : c’est le papillaire."
         },
         {
           "id": "E",
-          "text": "Le cancer anaplasique répond bien au traitement par radioiode"
+          "text": "Le cancer anaplasique répond bien au traitement par radioiode",
+          "explanation": "Faux."
         }
       ],
       "expected": [
@@ -161,7 +196,18 @@
       "tags": [],
       "difficulty": 2,
       "clinical": false,
-      "duplicateGroup": "CANCERS"
+      "duplicateGroup": "CANCERS",
+      "hints": [
+        "Une proposition concerne le suivi après le traitement d’un cancer différencié.",
+        "Quel marqueur n’est produit que par du tissu thyroïdien ?",
+        "Après thyroïdectomie totale et iode radioactif, il ne reste plus de tissu pour le produire."
+      ],
+      "explanation": {
+        "text": "Après le traitement complet d’un cancer différencié (thyroïdectomie totale et iode radioactif), il ne reste plus de tissu thyroïdien : la thyroglobuline devient indétectable, et sa remontée fait suspecter une récidive. La cytoponction ne permet pas toujours le diagnostic (le folliculaire en est l’exemple), le Hürthle est un carcinome différencié, le papillaire est le plus fréquent, et l’anaplasique ne répond pas à l’iode.",
+        "status": "complement",
+        "sources": []
+      },
+      "pitfall": "La Tg ne s’interprète qu’avec le dosage des anticorps anti-Tg, qui peuvent la fausser."
     },
     {
       "id": "ENDO-ND-ADULTE-QCM-212",
@@ -173,23 +219,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Analogue somatostatine 🡺 traitement dans les adénome somatotrope (GH)"
+          "text": "Analogue somatostatine 🡺 traitement dans les adénome somatotrope (GH)",
+          "explanation": "Ne donne pas de goitre (réponse attendue)."
         },
         {
           "id": "B",
-          "text": "Maladie d'Hashimoto"
+          "text": "Maladie d'Hashimoto",
+          "explanation": "Donne un goitre (ferme)."
         },
         {
           "id": "C",
-          "text": "Carence en iode"
+          "text": "Carence en iode",
+          "explanation": "Cause classique de goitre."
         },
         {
           "id": "D",
-          "text": "Basedow"
+          "text": "Basedow",
+          "explanation": "Goitre diffus."
         },
         {
           "id": "E",
-          "text": "Perturbation d'hormonogenèse thyroïdienne"
+          "text": "Perturbation d'hormonogenèse thyroïdienne",
+          "explanation": "Goitre par stimulation de la TSH."
         }
       ],
       "expected": [
@@ -215,7 +266,17 @@
       "tags": [],
       "difficulty": 2,
       "clinical": false,
-      "duplicateGroup": "GOITRE"
+      "duplicateGroup": "GOITRE",
+      "hints": [
+        "Quatre propositions sont des maladies ; une est un médicament.",
+        "Ce médicament traite une maladie hypophysaire qui, elle, peut donner un goitre.",
+        "Corriger l’excès d’hormone de croissance ne fait pas grossir la thyroïde."
+      ],
+      "explanation": {
+        "text": "Les analogues de la somatostatine traitent l’acromégalie (adénome somatotrope). C’est l’excès de GH et d’IGF-1 qui peut donner un goitre, pas son traitement. Hashimoto (infiltration), carence en iode, troubles de l’hormonogenèse (TSH élevée) et Basedow (anticorps stimulants) donnent un goitre.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-ND-ADULTE-QCM-220",
@@ -227,23 +288,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Thyroïdite d’Hashimoto"
+          "text": "Thyroïdite d’Hashimoto",
+          "explanation": "Donne un goitre (ferme)."
         },
         {
           "id": "B",
-          "text": "Maladie de Basedow"
+          "text": "Maladie de Basedow",
+          "explanation": "Goitre diffus."
         },
         {
           "id": "C",
-          "text": "Prise chronique de Lithium"
+          "text": "Prise chronique de Lithium",
+          "explanation": "Donne un goitre (et parfois une hypothyroïdie)."
         },
         {
           "id": "D",
-          "text": "Carence en iode"
+          "text": "Carence en iode",
+          "explanation": "Cause classique de goitre."
         },
         {
           "id": "E",
-          "text": "Surdosage d’un traitement en hormone thyroïdienne"
+          "text": "Surdosage d’un traitement en hormone thyroïdienne",
+          "explanation": "Ne donne pas de goitre (réponse attendue) : TSH freinée."
         }
       ],
       "expected": [
@@ -269,7 +335,17 @@
       "tags": [],
       "difficulty": 2,
       "clinical": false,
-      "duplicateGroup": "GOITRE"
+      "duplicateGroup": "GOITRE",
+      "hints": [
+        "Un goitre apparaît quand la glande est stimulée ou infiltrée.",
+        "Le lithium freine la libération des hormones : la TSH monte.",
+        "Une proposition freine au contraire la TSH."
+      ],
+      "explanation": {
+        "text": "Un surdosage en hormones thyroïdiennes freine la TSH : la glande n’est plus stimulée et diminue de volume. Hashimoto (infiltration), Basedow (anticorps stimulants), lithium (il bloque la libération des hormones, la TSH monte) et carence en iode donnent un goitre.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-ND-ADULTE-QCM-230",
@@ -281,23 +357,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Dosage sanguin de la TSH"
+          "text": "Dosage sanguin de la TSH",
+          "explanation": "Utile : toujours en premier."
         },
         {
           "id": "B",
-          "text": "Dosage sanguin des anticorps stimulants anti-récepteurs de la TSH (TSI)"
+          "text": "Dosage sanguin des anticorps stimulants anti-récepteurs de la TSH (TSI)",
+          "explanation": "Inutile (réponse attendue) : marqueur de Basedow."
         },
         {
           "id": "C",
-          "text": "Dosage sanguin de la calcitonine"
+          "text": "Dosage sanguin de la calcitonine",
+          "explanation": "Utile : dépistage du cancer médullaire."
         },
         {
           "id": "D",
-          "text": "Échographie de la région thyroïdienne"
+          "text": "Échographie de la région thyroïdienne",
+          "explanation": "Utile : examen clé du nodule."
         },
         {
           "id": "E",
-          "text": "Scinti à Iode 132"
+          "text": "Scinti à Iode 132",
+          "explanation": "Utile si la TSH est basse (iode 123, probablement)."
         }
       ],
       "expected": [
@@ -324,7 +405,17 @@
       "difficulty": 2,
       "clinical": false,
       "duplicateGroup": "NOD-BILAN",
-      "answerNote": "« Scinti à Iode 132 » : probablement iode 123 (faute de frappe)."
+      "answerNote": "« Scinti à Iode 132 » : probablement iode 123 (faute de frappe).",
+      "hints": [
+        "Quels examens évaluent un nodule, et lesquels diagnostiquent une maladie de toute la glande ?",
+        "Un des dosages proposés est le marqueur d’une maladie auto-immune diffuse.",
+        "Ces anticorps sont ceux de la maladie de Basedow."
+      ],
+      "explanation": {
+        "text": "Devant un nodule isolé : TSH en premier (fonction), échographie (classification EU-TIRADS), calcitonine (dépistage du cancer médullaire, selon les pratiques) et scintigraphie si la TSH est basse (nodule chaud ?). Les TSI sont le marqueur de la maladie de Basedow, pas de l’évaluation d’un nodule. « Iode 132 » est probablement une faute de frappe pour l’iode 123.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-ND-ADULTE-QCM-203",
@@ -336,23 +427,28 @@
       "options": [
         {
           "id": "A",
-          "text": ">70 ans"
+          "text": ">70 ans",
+          "explanation": "Vrai : les âges extrêmes augmentent le risque."
         },
         {
           "id": "B",
-          "text": "Etre un homme"
+          "text": "Etre un homme",
+          "explanation": "Vrai : un nodule chez l’homme est plus suspect."
         },
         {
           "id": "C",
-          "text": "Antécédents d’irradiation cervicale"
+          "text": "Antécédents d’irradiation cervicale",
+          "explanation": "Vrai : facteur de risque majeur."
         },
         {
           "id": "D",
-          "text": "TSH diminuée"
+          "text": "TSH diminuée",
+          "explanation": "Faux (réponse attendue) : TSH basse = nodule probablement chaud, bénin."
         },
         {
           "id": "E",
-          "text": "Calcifications visibles à l’écho"
+          "text": "Calcifications visibles à l’écho",
+          "explanation": "Vrai : surtout les microcalcifications."
         }
       ],
       "expected": [
@@ -378,7 +474,17 @@
       "tags": [],
       "difficulty": 3,
       "clinical": true,
-      "duplicateGroup": "NOD-SUSP"
+      "duplicateGroup": "NOD-SUSP",
+      "hints": [
+        "Pense à ce que signifie un nodule qui freine la TSH.",
+        "Un nodule autonome fabrique des hormones et apparaît chaud à la scintigraphie.",
+        "Les nodules chauds sont-ils souvent malins ?"
+      ],
+      "explanation": {
+        "text": "Une TSH basse oriente vers un nodule autonome (chaud), presque toujours bénin. Un âge avancé (plus de 70 ans), le sexe masculin, l’irradiation cervicale et les calcifications (surtout les microcalcifications) augmentent la suspicion.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-ND-ADULTE-QCM-207",
@@ -445,23 +551,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Thyroglobuline augmentée"
+          "text": "Thyroglobuline augmentée",
+          "explanation": "Ne renforce pas (réponse attendue) : marqueur non spécifique."
         },
         {
           "id": "B",
-          "text": "Antécédent d'irradiation cervicale"
+          "text": "Antécédent d'irradiation cervicale",
+          "explanation": "Renforce : facteur de risque majeur."
         },
         {
           "id": "C",
-          "text": "Antécédent familial de cancer thyroïdien"
+          "text": "Antécédent familial de cancer thyroïdien",
+          "explanation": "Renforce : formes familiales (dont la NEM 2 pour le médullaire)."
         },
         {
           "id": "D",
-          "text": "Consistance très ferme du nodule"
+          "text": "Consistance très ferme du nodule",
+          "explanation": "Renforce : signe clinique de suspicion."
         },
         {
           "id": "E",
-          "text": "Classification eutirads 5 à l’échographie"
+          "text": "Classification eutirads 5 à l’échographie",
+          "explanation": "Renforce : forte suspicion échographique."
         }
       ],
       "expected": [
@@ -487,7 +598,17 @@
       "tags": [],
       "difficulty": 2,
       "clinical": false,
-      "duplicateGroup": "NOD-SUSP"
+      "duplicateGroup": "NOD-SUSP",
+      "hints": [
+        "Un dosage proposé n’est pas spécifique d’un cancer.",
+        "Ce marqueur est produit par tout tissu thyroïdien, bénin ou malin.",
+        "Il sert au suivi après traitement, pas au diagnostic d’un nodule."
+      ],
+      "explanation": {
+        "text": "La thyroglobuline est produite par tout tissu thyroïdien : elle est élevée dans les goitres et de nombreux nodules bénins. Elle ne sert pas au diagnostic d’un nodule, mais au suivi d’un cancer différencié après thyroïdectomie totale. L’irradiation cervicale, les antécédents familiaux, un nodule très ferme et un classement EU-TIRADS 5 augmentent la suspicion.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-ND-ADULTE-QCM-233",
@@ -499,23 +620,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Un jeune âge, inférieur à 15 ans"
+          "text": "Un jeune âge, inférieur à 15 ans",
+          "explanation": "Vrai : les âges extrêmes augmentent le risque."
         },
         {
           "id": "B",
-          "text": "Le sexe féminin"
+          "text": "Le sexe féminin",
+          "explanation": "Faux (réponse attendue) : c’est le sexe masculin qui augmente la suspicion."
         },
         {
           "id": "C",
-          "text": "Un ATCD d’irradiation cervicale"
+          "text": "Un ATCD d’irradiation cervicale",
+          "explanation": "Vrai : facteur de risque majeur."
         },
         {
           "id": "D",
-          "text": "Un nodule dur et fixé"
+          "text": "Un nodule dur et fixé",
+          "explanation": "Vrai : signe clinique d’infiltration."
         },
         {
           "id": "E",
-          "text": "Des microcalcifications présentes à l’échographie"
+          "text": "Des microcalcifications présentes à l’échographie",
+          "explanation": "Vrai : évoque un cancer papillaire."
         }
       ],
       "expected": [
@@ -541,7 +667,18 @@
       "tags": [],
       "difficulty": 3,
       "clinical": true,
-      "duplicateGroup": "NOD-SUSP"
+      "duplicateGroup": "NOD-SUSP",
+      "hints": [
+        "Un seul élément concerne le terrain sans augmenter le risque relatif.",
+        "Les nodules sont plus fréquents dans un sexe, mais plus suspects dans l’autre.",
+        "Dans lequel des deux sexes un nodule est-il le plus suspect ?"
+      ],
+      "explanation": {
+        "text": "Les nodules sont plus fréquents chez la femme, mais un nodule est plus suspect chez l’homme. Un jeune âge (moins de 15 ans), une irradiation cervicale, un nodule dur et fixé et des microcalcifications augmentent la suspicion.",
+        "status": "complement",
+        "sources": []
+      },
+      "pitfall": "Ne pas confondre fréquence (plus de nodules chez la femme) et suspicion (plus suspect chez l’homme)."
     },
     {
       "id": "ENDO-ND-ADULTE-QCM-225",

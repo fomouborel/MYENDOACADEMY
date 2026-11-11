@@ -11,29 +11,34 @@
       "options": [
         {
           "id": "A",
-          "text": "Infiltration lymphocytaire"
+          "text": "Infiltration lymphocytaire",
+          "explanation": "Réponse retenue, discutable : un infiltrat en foyers est possible dans Basedow ; il est massif dans Hashimoto."
         },
         {
           "id": "B",
-          "text": "Cellules folliculaires plus hautes que larges (ou l’inverse)"
+          "text": "Cellules folliculaires plus hautes que larges (ou l’inverse)",
+          "explanation": "Vrai : cellules hautes (cylindriques), plus hautes que larges."
         },
         {
           "id": "C",
-          "text": "Diminution du colloide"
+          "text": "Diminution du colloide",
+          "explanation": "Vrai : colloïde consommée."
         },
         {
           "id": "D",
-          "text": "Pas d’atypie particulière"
+          "text": "Pas d’atypie particulière",
+          "explanation": "Vrai."
         },
         {
           "id": "E",
-          "text": "Lacunes de résorption observées"
+          "text": "Lacunes de résorption observées",
+          "explanation": "Vrai : signe de résorption active de la colloïde."
         }
       ],
       "expected": [
         "A"
       ],
-      "answerStatus": "proposed",
+      "answerStatus": "disputed",
       "sourceComments": [],
       "provenance": {
         "session": "2025-01",
@@ -55,7 +60,17 @@
       "difficulty": 2,
       "clinical": false,
       "duplicateGroup": "BASEDOW-ANAPATH",
-      "answerNote": "Anapath, hors numérotation (fin de document). Doute du transcripteur sur la formulation de B (« ou l'inverse »), pas sur la réponse."
+      "answerNote": "Anapath, hors numérotation (fin de document). Doute du transcripteur sur la formulation de B (« ou l’inverse »), pas sur la réponse. Réponse discutable sur le fond : un infiltrat lymphocytaire en foyers est décrit dans la maladie de Basedow (voir la leçon Thyroïdites).",
+      "hints": [
+        "Dans la maladie de Basedow, des anticorps stimulent en permanence les thyréocytes.",
+        "Des cellules stimulées grandissent et consomment la colloïde.",
+        "Une proposition décrit surtout la lésion typique d’une autre maladie auto-immune de la thyroïde."
+      ],
+      "explanation": {
+        "text": "Dans la maladie de Basedow, les anticorps stimulent le récepteur de la TSH : hyperplasie diffuse, cellules folliculaires hautes (cylindriques), colloïde diminuée et pâle avec lacunes de résorption, sans atypie. La réponse retenue (« infiltration lymphocytaire » fausse) se comprend si l’on oppose Basedow à Hashimoto, où l’infiltrat lymphocytaire est la lésion principale. Mais un infiltrat lymphocytaire en foyers est décrit dans Basedow : cette correction est discutable (voir la leçon Thyroïdites). Aucune correction officielle n’existe.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-2025-01-RADIO-QCM-900",
@@ -114,19 +129,23 @@
       "options": [
         {
           "id": "A",
-          "text": "Aspect spongiforme"
+          "text": "Aspect spongiforme",
+          "explanation": "Non : signe bénin."
         },
         {
           "id": "B",
-          "text": "Queue de comète"
+          "text": "Queue de comète",
+          "explanation": "Non : signe bénin (colloïde)."
         },
         {
           "id": "C",
-          "text": "Macrocalcification"
+          "text": "Macrocalcification",
+          "explanation": "Non : pas un critère de forte suspicion EU-TIRADS."
         },
         {
           "id": "D",
-          "text": "10 mm et PET-scan hyper métabolique"
+          "text": "10 mm et PET-scan hyper métabolique",
+          "explanation": "Oui (réponse attendue)."
         }
       ],
       "expected": [
@@ -153,7 +172,17 @@
       "difficulty": 2,
       "clinical": false,
       "duplicateGroup": "CYTOPONCTION",
-      "answerNote": "4 propositions ; variante avec 10 mm (20 mm en mai 2023)."
+      "answerNote": "4 propositions ; variante avec 10 mm (20 mm en mai 2023).",
+      "hints": [
+        "Trois propositions décrivent des aspects bénins ou non suspects à l’échographie.",
+        "Les macrocalcifications ne sont pas un critère de forte suspicion dans EU-TIRADS.",
+        "Un examen d’imagerie métabolique peut révéler un nodule suspect."
+      ],
+      "explanation": {
+        "text": "Un nodule qui fixe focalement au PET-scan doit être exploré, et une cytoponction est indiquée à partir d’environ 1 cm (valeur à valider, voir la leçon Nodules). L’aspect spongiforme et la queue de comète sont des signes bénins ; les macrocalcifications ne sont pas un critère de forte suspicion dans EU-TIRADS.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-2025-01-ADULTE-QCM-026",
@@ -165,23 +194,28 @@
       "options": [
         {
           "id": "A",
-          "text": "calcitonine abaissée"
+          "text": "calcitonine abaissée",
+          "explanation": "Faux (réponse attendue) : c’est une calcitonine élevée qui est suspecte."
         },
         {
           "id": "B",
-          "text": "sexe masculin"
+          "text": "sexe masculin",
+          "explanation": "Vrai : un nodule est plus suspect chez l’homme."
         },
         {
           "id": "C",
-          "text": "antécédents d’irradiation cervicale"
+          "text": "antécédents d’irradiation cervicale",
+          "explanation": "Vrai : facteur de risque majeur."
         },
         {
           "id": "D",
-          "text": "adénopathie associée"
+          "text": "adénopathie associée",
+          "explanation": "Vrai : possible métastase ganglionnaire."
         },
         {
           "id": "E",
-          "text": "microcalcifications"
+          "text": "microcalcifications",
+          "explanation": "Vrai : évoque un cancer papillaire."
         }
       ],
       "expected": [
@@ -207,7 +241,17 @@
       "tags": [],
       "difficulty": 2,
       "clinical": false,
-      "duplicateGroup": "NOD-SUSP"
+      "duplicateGroup": "NOD-SUSP",
+      "hints": [
+        "Quatre propositions sont des facteurs de risque ou des signes de malignité reconnus.",
+        "Un dosage sanguin sert à dépister un type particulier de cancer thyroïdien.",
+        "Pour ce dosage, quelle anomalie serait inquiétante : une valeur haute ou basse ?"
+      ],
+      "explanation": {
+        "text": "La calcitonine est le marqueur du cancer médullaire : c’est son élévation qui inquiète ; une valeur basse ne suggère pas de cancer. Le sexe masculin, l’irradiation cervicale, une adénopathie associée et les microcalcifications augmentent la suspicion.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-2025-01-ADULTE-QCM-028",
@@ -219,23 +263,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Infection bactérienne"
+          "text": "Infection bactérienne",
+          "explanation": "Non : c’est la thyroïdite aiguë suppurée, rare."
         },
         {
           "id": "B",
-          "text": "Traumatisme cervical"
+          "text": "Traumatisme cervical",
+          "explanation": "Non."
         },
         {
           "id": "C",
-          "text": "Infection virale"
+          "text": "Infection virale",
+          "explanation": "Oui (réponse attendue)."
         },
         {
           "id": "D",
-          "text": "Carence en iode"
+          "text": "Carence en iode",
+          "explanation": "Non : cause de goitre."
         },
         {
           "id": "E",
-          "text": "Irradiation (?)"
+          "text": "Irradiation (?)",
+          "explanation": "Non (proposition retranscrite avec doute)."
         }
       ],
       "expected": [
@@ -263,7 +312,17 @@
       "difficulty": 2,
       "clinical": false,
       "duplicateGroup": "QUERVAIN",
-      "answerNote": "Proposition E retranscrite avec doute (« Irradiation (?) »)."
+      "answerNote": "Proposition E retranscrite avec doute (« Irradiation (?) »).",
+      "hints": [
+        "La maladie survient souvent quelques semaines après un épisode infectieux banal.",
+        "Pense à une infection des voies aériennes supérieures.",
+        "Le microbe en cause n’est pas une bactérie."
+      ],
+      "explanation": {
+        "text": "La thyroïdite subaiguë de De Quervain est d’origine virale présumée : elle suit souvent une infection des voies aériennes supérieures, avec douleur cervicale, fébricule et syndrome inflammatoire. Une infection bactérienne donne une thyroïdite aiguë suppurée, rare et différente ; traumatisme, carence iodée et irradiation ne sont pas des causes de De Quervain.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-2025-01-ADULTE-QCMM-029",
@@ -332,23 +391,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Hyperthyroïdie"
+          "text": "Hyperthyroïdie",
+          "explanation": "Possible : rétrocontrôle."
         },
         {
           "id": "B",
-          "text": "Thyroïdite"
+          "text": "Thyroïdite",
+          "explanation": "Possible : phase de relargage d’hormones."
         },
         {
           "id": "C",
-          "text": "Insuffisance hypophysaire axe thyroïdien"
+          "text": "Insuffisance hypophysaire axe thyroïdien",
+          "explanation": "Possible : l’hypophyse ne produit pas assez de TSH."
         },
         {
           "id": "D",
-          "text": "Grossesse 1er trimestre"
+          "text": "Grossesse 1er trimestre",
+          "explanation": "Possible : effet de l’hCG."
         },
         {
           "id": "E",
-          "text": "Au diagnostic d’un coma myxoedemateux"
+          "text": "Au diagnostic d’un coma myxoedemateux",
+          "explanation": "Impossible dans la forme habituelle (réponse attendue) : TSH très élevée."
         }
       ],
       "expected": [
@@ -375,7 +439,17 @@
       "tags": [],
       "difficulty": 2,
       "clinical": false,
-      "duplicateGroup": "TSH-BASSE"
+      "duplicateGroup": "TSH-BASSE",
+      "hints": [
+        "La TSH baisse quand il y a trop d’hormones, sous l’effet de l’hCG, ou quand l’hypophyse est malade.",
+        "Une seule situation correspond à un manque profond d’hormones d’origine thyroïdienne.",
+        "Dans une hypothyroïdie primaire sévère, comment réagit l’hypophyse ?"
+      ],
+      "explanation": {
+        "text": "Le coma myxœdémateux est la forme extrême de l’hypothyroïdie, le plus souvent primaire : l’hypophyse réagit au manque d’hormones et la TSH est très élevée. Les autres situations peuvent abaisser la TSH : hyperthyroïdie (rétrocontrôle), phase initiale d’une thyroïdite (relargage), insuffisance hypophysaire (production de TSH insuffisante) et 1er trimestre de grossesse (hCG). Nuance : un coma myxœdémateux d’origine centrale, rare, s’accompagne d’une TSH basse ou normale ; la question vise la forme habituelle.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-2025-01-ADULTE-QCM-032",

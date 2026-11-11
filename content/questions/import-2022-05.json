@@ -11,23 +11,28 @@
       "options": [
         {
           "id": "A",
-          "text": "calcifications en forme de comète"
+          "text": "calcifications en forme de comète",
+          "explanation": "Non : signe bénin (colloïde)."
         },
         {
           "id": "B",
-          "text": "aspect spongiforme"
+          "text": "aspect spongiforme",
+          "explanation": "Non : signe bénin (EU-TIRADS 2)."
         },
         {
           "id": "C",
-          "text": "hypoéchogène et 10mm"
+          "text": "hypoéchogène et 10mm",
+          "explanation": "Non : EU-TIRADS 4, seuil de 15 mm."
         },
         {
           "id": "D",
-          "text": "hypoéchogène avec contours irréguliers"
+          "text": "hypoéchogène avec contours irréguliers",
+          "explanation": "Oui (réponse attendue) : signes de forte suspicion."
         },
         {
           "id": "E",
-          "text": "20 mm et PET-scan hyper métabolique"
+          "text": "20 mm et PET-scan hyper métabolique",
+          "explanation": "Oui (réponse attendue) : fixation focale au PET-scan."
         }
       ],
       "expected": [
@@ -54,7 +59,17 @@
       "tags": [],
       "difficulty": 2,
       "clinical": false,
-      "duplicateGroup": "CYTOPONCTION"
+      "duplicateGroup": "CYTOPONCTION",
+      "hints": [
+        "Dans EU-TIRADS, chaque catégorie a un seuil de taille pour ponctionner.",
+        "Deux propositions décrivent des signes bénins ; une décrit un nodule trop petit pour sa catégorie.",
+        "Un nodule qui fixe au PET-scan doit être exploré."
+      ],
+      "explanation": {
+        "text": "On ponctionne un nodule de forte suspicion (EU-TIRADS 5 : hypoéchogène avec contours irréguliers, microcalcifications ou forme plus haute que large) à partir de 10 mm, ainsi qu’un nodule focalement hypermétabolique au PET-scan, a fortiori s’il mesure 20 mm. Les calcifications en queue de comète et l’aspect spongiforme sont des signes bénins. Un nodule hypoéchogène sans signe de forte suspicion (EU-TIRADS 4) se ponctionne à partir de 15 mm : 10 mm ne suffit pas.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-2022-05-ADULTE-QCM-034",
@@ -66,23 +81,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Hypothyroïde"
+          "text": "Hypothyroïde",
+          "explanation": "Donne souvent un goitre (Hashimoto, hormonogenèse)."
         },
         {
           "id": "B",
-          "text": "Hyperthyroïdie"
+          "text": "Hyperthyroïdie",
+          "explanation": "Réponse retenue, discutable : Basedow et goitre multinodulaire toxique donnent un goitre."
         },
         {
           "id": "C",
-          "text": "Acromégalie"
+          "text": "Acromégalie",
+          "explanation": "Donne un goitre (effet de l’IGF-1)."
         },
         {
           "id": "D",
-          "text": "Carence en iode"
+          "text": "Carence en iode",
+          "explanation": "Cause classique de goitre."
         },
         {
           "id": "E",
-          "text": "?"
+          "text": "?",
+          "explanation": "Proposition non retranscrite."
         }
       ],
       "expected": [
@@ -109,7 +129,17 @@
       "difficulty": 2,
       "clinical": false,
       "duplicateGroup": "GOITRE",
-      "answerNote": "Réponse rouge « Hyperthyroïdie » discutable (Basedow et GMN toxique donnent un goitre) ; dans les questions apparentées 2016-2021 (Q20, Q35) la réponse est la prise d'hormones thyroïdiennes. Retranscription probablement inexacte ; 5e proposition manquante."
+      "answerNote": "Réponse rouge « Hyperthyroïdie » discutable (Basedow et GMN toxique donnent un goitre) ; dans les questions apparentées 2016-2021 (Q20, Q35) la réponse est la prise d'hormones thyroïdiennes. Retranscription probablement inexacte ; 5e proposition manquante.",
+      "hints": [
+        "Un goitre apparaît quand la glande est stimulée (TSH, anticorps, facteurs de croissance) ou infiltrée.",
+        "Cherche la proposition qui regroupe des situations très différentes.",
+        "Certaines de ces situations s’accompagnent d’un goitre, d’autres non."
+      ],
+      "explanation": {
+        "text": "Correction discutée. La compilation retient « hyperthyroïdie », ce qui se défend seulement parce que toutes les hyperthyroïdies ne donnent pas de goitre (prise d’hormones exogènes, par exemple). Mais la maladie de Basedow et le goitre multinodulaire toxique en donnent un. Les autres propositions donnent aussi un goitre : hypothyroïdie (Hashimoto, troubles de l’hormonogenèse), acromégalie (l’IGF-1 fait grossir la thyroïde), carence en iode. Dans les questions apparentées (2016-2021), l’intrus attendu est la prise d’hormones thyroïdiennes, qui freine la TSH. La 5e proposition est perdue. Aucune correction officielle n’existe.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-2022-05-ADULTE-QCM-033",

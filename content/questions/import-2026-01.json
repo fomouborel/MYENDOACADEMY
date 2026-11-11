@@ -66,23 +66,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Coticoides"
+          "text": "Coticoides",
+          "explanation": "Vrai : si la douleur est intense ou si les AINS échouent."
         },
         {
           "id": "B",
-          "text": "AINS à forte dose"
+          "text": "AINS à forte dose",
+          "explanation": "Vrai : traitement de première intention."
         },
         {
           "id": "C",
-          "text": "ATS si épisodes hyperthyroïdie"
+          "text": "ATS si épisodes hyperthyroïdie",
+          "explanation": "Faux (réponse attendue) : la glande ne fabrique pas d’hormones en excès."
         },
         {
           "id": "D",
-          "text": "Bêta bloquant peuvent être prescrit"
+          "text": "Bêta bloquant peuvent être prescrit",
+          "explanation": "Vrai : contre les palpitations et le tremblement."
         },
         {
           "id": "E",
-          "text": "En cas d'hypothyroïdie transitoire on peut donner de la L- Thyroxine"
+          "text": "En cas d'hypothyroïdie transitoire on peut donner de la L- Thyroxine",
+          "explanation": "Vrai."
         }
       ],
       "expected": [
@@ -110,7 +115,17 @@
       "difficulty": 3,
       "clinical": true,
       "duplicateGroup": "QUERVAIN",
-      "answerNote": "Alexopoulou."
+      "answerNote": "Alexopoulou.",
+      "hints": [
+        "Demande-toi d’où viennent les hormones en excès dans une thyroïdite destructrice.",
+        "Un des médicaments proposés agit en bloquant la fabrication des hormones.",
+        "Dans cette maladie, la glande fabrique-t-elle davantage d’hormones ?"
+      ],
+      "explanation": {
+        "text": "Dans De Quervain, l’hyperthyroïdie vient du relargage d’hormones par des follicules détruits ; la glande ne fabrique pas davantage. Les ATS, qui bloquent la synthèse, sont donc inutiles. Le traitement repose sur les AINS (à dose anti-inflammatoire) ou les corticoïdes, les bêtabloquants contre les symptômes et, si une hypothyroïdie transitoire est symptomatique, la L-thyroxine.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-2026-01-ADULTE-QCM-901",
