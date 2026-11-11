@@ -1,0 +1,150 @@
+{
+  "source": "2025-01",
+  "questions": [
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-030",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Ce qui ne cause pas une hyperthyroïdie (1 bonne réponse)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "basedow",
+          "explanation": "Cause d’hyperthyroïdie."
+        },
+        {
+          "id": "B",
+          "text": "goitre multinodulaire toxique",
+          "explanation": "Cause d’hyperthyroïdie."
+        },
+        {
+          "id": "C",
+          "text": "carence en iode",
+          "explanation": "Ne cause pas d’hyperthyroïdie (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "adénome hypophysaire à TSH",
+          "explanation": "Cause rare (TSH non freinée)."
+        },
+        {
+          "id": "E",
+          "text": "adénome folliculaire toxique",
+          "explanation": "Cause d’hyperthyroïdie."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 6,
+        "originalNumber": 30,
+        "auditRef": "2025-01-Q30"
+      },
+      "chapter": "hyper",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "hyper-diagnostic"
+      ],
+      "tags": [
+        "iode"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Quatre propositions font produire trop d’hormones.",
+        "Une proposition prive la thyroïde de sa matière première.",
+        "Sans iode, peut-on fabriquer trop d’hormones ?"
+      ],
+      "explanation": {
+        "text": "La carence en iode diminue la synthèse d’hormones (goitre, voire hypothyroïdie) ; elle ne cause pas directement d’hyperthyroïdie. Basedow, goitre multinodulaire toxique, adénome thyréotrope et adénome toxique sont des causes d’hyperthyroïdie.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "ETIO-HYPER"
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-027",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant la maladie de Basedow/Graves, 1 réponse fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Présence d’anticorps anti récepteurs à TSH",
+          "explanation": "Vrai : TRAK."
+        },
+        {
+          "id": "B",
+          "text": "Peut causer une exophtalmie",
+          "explanation": "Vrai : orbitopathie."
+        },
+        {
+          "id": "C",
+          "text": "Peut causer une perturbation des tests hépatiques",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "Strumazole est plus indiqué que le propylthiouracile (PTU) comme traitement pendant le premier trimestre de grossesse",
+          "explanation": "Faux (réponse attendue) : c’est le PTU au 1er trimestre."
+        },
+        {
+          "id": "E",
+          "text": "Après traitement, on observe une rechute dans 50% des cas",
+          "explanation": "Vrai : environ la moitié des patients."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 5,
+        "originalNumber": 27,
+        "auditRef": "2025-01-Q27"
+      },
+      "chapter": "hyper",
+      "subchapter": "basedow",
+      "lessonLinks": [
+        "hyper-basedow",
+        "hyper-traitements"
+      ],
+      "tags": [
+        "Basedow",
+        "grossesse",
+        "ATS"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Une proposition concerne un choix de médicament pendant la grossesse.",
+        "Un des deux ATS est associé à un risque de malformations pendant l’organogenèse.",
+        "Lequel préfère-t-on au 1er trimestre ?"
+      ],
+      "explanation": {
+        "text": "Au 1er trimestre de grossesse (et en projet de grossesse), on préfère le PTU, car le thiamazole (Strumazol) est associé à un risque de malformations ; on revient au thiamazole ensuite. Les autres propositions sont exactes.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "BASEDOW-ATS"
+    }
+  ]
+}

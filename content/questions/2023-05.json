@@ -1,0 +1,294 @@
+{
+  "source": "2023-05",
+  "questions": [
+    {
+      "id": "ENDO-2023-05-ADULTE-QCM-044",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Face un nodule thyroïdien, les éléments suivants augmentent la suspicion d’une pathologie cancéreuse, sauf UN, Lequel ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Adénopathie cervicale",
+          "explanation": "Vrai : possible métastase ganglionnaire."
+        },
+        {
+          "id": "B",
+          "text": "Le sexe féminin",
+          "explanation": "Faux (réponse attendue) : c’est le sexe masculin qui augmente la suspicion."
+        },
+        {
+          "id": "C",
+          "text": "Un ATCD d’irradiation cervicale",
+          "explanation": "Vrai : facteur de risque majeur."
+        },
+        {
+          "id": "D",
+          "text": "Un nodule dur et fixé",
+          "explanation": "Vrai : signe clinique d’infiltration."
+        },
+        {
+          "id": "E",
+          "text": "Des microcalcifications présentes à l’échographie",
+          "explanation": "Vrai : évoque un cancer papillaire."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 20,
+        "originalNumber": 44,
+        "auditRef": "2023-05-Q44"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [
+        "nodule"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Un seul élément concerne le terrain sans augmenter le risque relatif.",
+        "Les nodules sont plus FRÉQUENTS dans un sexe mais plus SUSPECTS dans l’autre.",
+        "Lequel des deux sexes rend un nodule plus suspect ?"
+      ],
+      "explanation": {
+        "text": "Le sexe féminin rend les nodules plus fréquents, mais c’est chez l’homme qu’un nodule est plus suspect. Adénopathie, irradiation, nodule dur et fixé et microcalcifications sont des arguments de malignité.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "NOD-SUSP"
+    },
+    {
+      "id": "ENDO-2023-05-ADULTE-QCM-039",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Palpation nodule thyroidien unique 4 examens complémentaires à faire, un à NE PAS faire",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "dosage TSH",
+          "explanation": "Utile : toujours en premier."
+        },
+        {
+          "id": "B",
+          "text": "dosage plasmatique anticorps thyréostimulant (TSI)",
+          "explanation": "Inutile (réponse attendue) : marqueur de Basedow."
+        },
+        {
+          "id": "C",
+          "text": "dosage plasmatique calcitonine",
+          "explanation": "Utile : dépistage du cancer médullaire."
+        },
+        {
+          "id": "D",
+          "text": "echographie de la zone thyroidienne",
+          "explanation": "Utile : examen clé du nodule."
+        },
+        {
+          "id": "E",
+          "text": "scintigraphie de thyroide à l’iode 123",
+          "explanation": "Utile si la TSH est basse (nodule chaud ?)."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 19,
+        "originalNumber": 39,
+        "auditRef": "2023-05-Q39"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [
+        "nodule",
+        "anticorps"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Quels examens servent à évaluer un NODULE, et lesquels servent à diagnostiquer une MALADIE diffuse ?",
+        "Un des anticorps proposés signe une maladie auto-immune précise de toute la glande.",
+        "Les TSI (anticorps stimulant le récepteur de la TSH) sont le marqueur de la maladie de Basedow."
+      ],
+      "explanation": {
+        "text": "Devant un nodule isolé : TSH (fonction), échographie (risque EU-TIRADS), calcitonine (cancer médullaire) et scintigraphie si la TSH est basse. Les TSI servent au diagnostic de Basedow, pas à l’évaluation d’un nodule.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "NOD-BILAN"
+    },
+    {
+      "id": "ENDO-2023-05-PHARMA-QCM-087",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Effet secondaire principal du traitement par hormones thyroïdiennes",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Leucopénie",
+          "explanation": "Non : effet des ATS."
+        },
+        {
+          "id": "B",
+          "text": "Hépatite",
+          "explanation": "Non : effet des ATS (PTU)."
+        },
+        {
+          "id": "C",
+          "text": "Hyperthyroïdie",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Dysgueusie",
+          "explanation": "Non : effet des ATS."
+        },
+        {
+          "id": "E",
+          "text": "Nausée",
+          "explanation": "Non."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 25,
+        "originalNumber": 87,
+        "auditRef": "2023-05-Q87"
+      },
+      "chapter": "hypo",
+      "subchapter": "traitement",
+      "lessonLinks": [
+        "hypo-traitement"
+      ],
+      "tags": [
+        "pharmacologie",
+        "L-thyroxine"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Le médicament est l’hormone elle-même.",
+        "Que se passe-t-il si on en donne trop ?",
+        "L’effet indésirable reproduit une maladie thyroïdienne."
+      ],
+      "explanation": {
+        "text": "La L-thyroxine est l’hormone naturelle : son effet indésirable principal est le surdosage, c’est-à-dire une hyperthyroïdie iatrogène. Leucopénie, hépatite et dysgueusie sont des effets des ATS.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "ES-HT"
+    },
+    {
+      "id": "ENDO-2023-05-PEDIA-QCM-075",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Vous obtenez enfin un stage à la maternité tant attendu, mais votre joie disparait quand le centre de depistage vous appelle pour un enfant dont la TSH est à 720 mU/l. Le bébé en question est sorti il y a 7 jours (il en a 12 jours de vie). Quelle est l'attitude recommandée ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Prévoir une consultation pour évaluer l'évolution clinique",
+          "explanation": "Non : trop lent."
+        },
+        {
+          "id": "B",
+          "text": "Prévoir des examens complémentaires pour évaluer l'enfant.",
+          "explanation": "Non : trop lent."
+        },
+        {
+          "id": "C",
+          "text": "On amène l'enfant en urgence et on lance des examens complémentaires",
+          "explanation": "Insuffisant : le traitement doit commencer tout de suite."
+        },
+        {
+          "id": "D",
+          "text": "On amène l'enfant en urgence, on fait des prélèvements biologiques et on commence le traitement par LThyroxine sans attendre les résultats de l imagerie",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "On amène l'enfant en urgence et on fait un bilan complet (biologie+imagerie) pour évaluer la condition clinique et ensuite donner de la LThyroxine",
+          "explanation": "Non : l’imagerie ne doit pas retarder le traitement."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [
+        "Dans la retranscription, les propositions sont lettrées f) à j) ; elles sont renumérotées A à E ici."
+      ],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "PEDIA",
+        "teacher": "Lysy",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 24,
+        "originalNumber": 75,
+        "auditRef": "2023-05-Q75"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [
+        "dépistage néonatal",
+        "pédiatrie"
+      ],
+      "difficulty": 2,
+      "clinical": true,
+      "hints": [
+        "Chaque jour sans hormones compte pour le cerveau du nourrisson.",
+        "Faut-il connaître la cause exacte (imagerie) avant de traiter ?",
+        "On confirme par une prise de sang, puis on agit sans délai."
+      ],
+      "explanation": {
+        "text": "Une TSH très élevée au dépistage est une urgence : on convoque l’enfant, on prélève pour confirmer, puis on commence la L-thyroxine immédiatement, sans attendre l’imagerie (qui précisera la cause plus tard).",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "NN-TSH"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "source": "exercices-thyroide",
+  "questions": [
+    {
+      "id": "ENDO-EX-thyroide-VF-001",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Une forte dose d’iode stimule l’organification et la synthèse des hormones thyroïdiennes (effet Wolff-Chaikoff).",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "thyroide",
+      "subchapter": "explo",
+      "lessonLinks": [
+        "thyr-explo"
+      ],
+      "tags": [
+        "iode"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Pense à ce que fait l’organisme quand il reçoit trop d’iode d’un coup.",
+        "C’est un mécanisme de protection.",
+        "Le mot « stimule » est-il le bon ?"
+      ],
+      "explanation": {
+        "text": "L’effet Wolff-Chaikoff est un BLOCAGE transitoire de l’organification par un excès d’iode. La glande normale s’en échappe en quelques jours.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-thyroide-VF-002",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "La pilule œstroprogestative augmente les hormones thyroïdiennes totales, sans modifier la fraction libre ni la TSH.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "thyroide",
+      "subchapter": "explo",
+      "lessonLinks": [
+        "thyr-explo"
+      ],
+      "tags": [
+        "TSH"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Distingue hormones totales et hormones libres.",
+        "Les œstrogènes agissent sur une protéine de transport.",
+        "La TSH dépend de la fraction libre."
+      ],
+      "explanation": {
+        "text": "Les œstrogènes augmentent la TBG (protéine de transport) : les hormones totales montent, la fraction libre et la TSH restent normales.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-thyroide-VF-003",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Un nodule « chaud » à la scintigraphie doit être ponctionné en priorité.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [
+        "nodule"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Que signifie « chaud » ?",
+        "Ces nodules freinent la TSH.",
+        "Leur risque est l’hyperthyroïdie, pas le cancer."
+      ],
+      "explanation": {
+        "text": "Un nodule chaud (autonome, TSH basse) est presque toujours bénin : il ne se ponctionne pas.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-thyroide-VF-004",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Le cancer médullaire de la thyroïde dérive des cellules C et se surveille par la calcitonine et l’ACE.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "thyroide",
+      "subchapter": "cancers",
+      "lessonLinks": [
+        "thyr-cancers"
+      ],
+      "tags": [
+        "cancer"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Quelles cellules produisent la calcitonine ?",
+        "Elles sont situées entre les follicules.",
+        "Le marqueur suit la cellule d’origine."
+      ],
+      "explanation": {
+        "text": "Les cellules C (parafolliculaires) produisent la calcitonine ; le cancer médullaire se surveille par la calcitonine et l’ACE. Il ne capte pas l’iode.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-thyroide-VF-005",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "La thyroïdite de De Quervain se traite par antithyroïdiens de synthèse.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "thyroide",
+      "subchapter": "thyroidites",
+      "lessonLinks": [
+        "thyr-thyroidites"
+      ],
+      "tags": [
+        "De Quervain"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "D’où viennent les hormones en excès ?",
+        "Les ATS bloquent la fabrication.",
+        "La glande fabrique-t-elle davantage ici ?"
+      ],
+      "explanation": {
+        "text": "Dans une thyroïdite destructrice, la glande ne fabrique pas plus : les ATS sont inutiles. On traite par AINS ou corticoïdes, et bêtabloquants si besoin.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "source": "nd-horsmans",
+  "questions": [
+    {
+      "id": "ENDO-ND-PHARMA-QCM-006",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant les complications des anti-thyroïdiens de synthèse, quelle est la fausse ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Œsophagite",
+          "explanation": "Faux (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Dysgueusie",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Leucopénie",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "Hépatotoxicité",
+          "explanation": "Vrai (surtout le PTU)."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 88,
+        "originalNumber": 6,
+        "auditRef": "ND-horsmans-hormones-Q6"
+      },
+      "chapter": "hyper",
+      "subchapter": "basedow",
+      "lessonLinks": [
+        "hyper-traitements",
+        "hyper-basedow"
+      ],
+      "tags": [
+        "ATS",
+        "pharmacologie"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Pense aux effets hématologiques, hépatiques et sensoriels des ATS.",
+        "Les ATS sont pris par voie orale mais ne sont pas connus pour léser la muqueuse œsophagienne.",
+        "Trois propositions sont des effets indésirables classiques des ATS."
+      ],
+      "explanation": {
+        "text": "Les ATS peuvent donner une leucopénie (et une agranulocytose), une hépatotoxicité et une dysgueusie. L’œsophagite n’est pas une complication des ATS.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "ATS-PHARMA"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "source": "nd-duprez-coche",
+  "questions": [
+    {
+      "id": "ENDO-ND-RADIO-QCM-114",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Lequel de ces nodules de la thyroïde il ne faut pas ponctionner",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "jeune homme",
+          "explanation": "À ponctionner : terrain plus suspect."
+        },
+        {
+          "id": "B",
+          "text": "calcification",
+          "explanation": "Plutôt suspect (surtout les microcalcifications)."
+        },
+        {
+          "id": "C",
+          "text": "signe de la comète",
+          "explanation": "Ne pas ponctionner (réponse attendue) : signe bénin."
+        },
+        {
+          "id": "D",
+          "text": "vascularisation anarchique intranodulaire",
+          "explanation": "Suspect."
+        },
+        {
+          "id": "E",
+          "text": "nodule froid",
+          "explanation": "Un nodule froid n’est pas autonome : il ne bénéficie pas de l’argument « chaud = bénin »."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 85,
+        "originalNumber": 114,
+        "auditRef": "ND-duprez-coche-imagerie-Q114"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [
+        "échographie",
+        "cytoponction"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Cherche le signe échographique RASSURANT.",
+        "Certains artefacts brillants sont liés à la colloïde épaisse.",
+        "Ce signe porte le nom d’un objet céleste à queue lumineuse."
+      ],
+      "explanation": {
+        "text": "Le signe de la comète (artefact en « queue de comète ») est lié à la colloïde : il est typique d’un nodule colloïde bénin et n’impose pas de ponction. Les autres éléments sont des arguments de suspicion.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "CYTOPONCTION"
+    }
+  ]
+}

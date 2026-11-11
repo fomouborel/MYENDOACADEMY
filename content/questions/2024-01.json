@@ -1,0 +1,225 @@
+{
+  "source": "2024-01",
+  "questions": [
+    {
+      "id": "ENDO-2024-01-ADULTE-QCM-031",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Une TSH abaissée peut être observée dans toutes ces situations, sauf une:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Une hyperthyroïdite débutante",
+          "explanation": "Vrai : l’excès d’hormones freine la TSH."
+        },
+        {
+          "id": "B",
+          "text": "Au diagnostic d’une thyroïdite silencieuse",
+          "explanation": "Vrai : phase de relargage d’hormones, TSH freinée."
+        },
+        {
+          "id": "C",
+          "text": "Au premier trimestre d’une grossesse",
+          "explanation": "Vrai : l’hCG stimule le récepteur de la TSH, la TSH baisse."
+        },
+        {
+          "id": "D",
+          "text": "Dans une insuffisance antéhypophysaire traitée par L-thyroxyne",
+          "explanation": "Vrai : l’hypophyse déficitaire ne produit pas de TSH (et la L-thyroxine la freine)."
+        },
+        {
+          "id": "E",
+          "text": "Lors d’une carence sévère en iode",
+          "explanation": "Faux (réponse attendue) : la carence iodée fait plutôt monter la TSH."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 5,
+        "originalNumber": 31,
+        "auditRef": "2024-01-Q31"
+      },
+      "chapter": "thyroide",
+      "subchapter": "explo",
+      "lessonLinks": [
+        "thyr-explo",
+        "hyper-diagnostic"
+      ],
+      "tags": [
+        "TSH"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Pour chaque situation, demande-toi si l’hypophyse « reçoit » trop d’hormones, ou si elle est incapable de produire de la TSH.",
+        "La TSH baisse quand il y a trop d’hormones thyroïdiennes (rétrocontrôle), au 1er trimestre (hCG) ou quand l’hypophyse est malade.",
+        "Une situation fait fabriquer MOINS d’hormones par la thyroïde : que fait alors la TSH ?"
+      ],
+      "explanation": {
+        "text": "La carence sévère en iode diminue la production d’hormones thyroïdiennes : la TSH a tendance à monter (et un goitre apparaît). Toutes les autres situations peuvent donner une TSH basse.",
+        "status": "complement",
+        "sources": []
+      },
+      "pitfall": "Retenir que la TSH ne baisse jamais à cause d’un MANQUE d’hormones d’origine thyroïdienne.",
+      "duplicateGroup": "TSH-BASSE"
+    },
+    {
+      "id": "ENDO-2024-01-ADULTE-QCM-026",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Face à un nodule thyroïdien, un de ces éléments n’est pas en faveur d’un caractère cancéreux ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Âge > 70 ans.",
+          "explanation": "Vrai : les âges extrêmes augmentent le risque."
+        },
+        {
+          "id": "B",
+          "text": "Sexe masculin.",
+          "explanation": "Vrai : un nodule chez l’homme est plus suspect."
+        },
+        {
+          "id": "C",
+          "text": "Antécédents d’irradiation du cou.",
+          "explanation": "Vrai : facteur de risque majeur."
+        },
+        {
+          "id": "D",
+          "text": "TSH abaissée.",
+          "explanation": "Faux (réponse attendue) : TSH basse = nodule probablement chaud, bénin."
+        },
+        {
+          "id": "E",
+          "text": "Présence de calcifications à l’écho du cou.",
+          "explanation": "Vrai : surtout les microcalcifications."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 4,
+        "originalNumber": 26,
+        "auditRef": "2024-01-Q26"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [
+        "nodule"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Pense à ce que signifie un nodule qui « freine » la TSH.",
+        "Un nodule autonome produit des hormones et apparaît « chaud » à la scintigraphie.",
+        "Les nodules chauds sont presque toujours bénins."
+      ],
+      "explanation": {
+        "text": "Une TSH basse oriente vers un nodule autonome (chaud), presque toujours bénin. L’âge avancé, le sexe masculin, l’irradiation cervicale et les (micro)calcifications sont des arguments de suspicion.",
+        "status": "complement",
+        "sources": []
+      },
+      "pitfall": "Ne pas confondre « fréquence » (plus de nodules chez la femme) et « suspicion » (plus suspect chez l’homme).",
+      "duplicateGroup": "NOD-SUSP"
+    },
+    {
+      "id": "ENDO-2024-01-ADULTE-QCM-032",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Une dame de 76 ans avec une hypothyroïdie connue depuis thyroïdectomie totale, et traitée par Levothryroxine 75µg par jour, vient en consultation pour palpitations nocturnes. Sa prise de sang indique (j’ai plus les chiffres mais osef): TSH abaissée, T4 limite normale haute, T3 normale. Que faites-vous :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Maintenir le traitement en insistant bien sur la prise le matin à jeun.",
+          "explanation": "Non."
+        },
+        {
+          "id": "B",
+          "text": "Maintenir le traitement en ajoutant des bétabloquants",
+          "explanation": "Non : masque le surdosage."
+        },
+        {
+          "id": "C",
+          "text": "Augmenter le traitement à 100µg par jour",
+          "explanation": "Non : aggrave."
+        },
+        {
+          "id": "D",
+          "text": "Diminuer le traitement à 50µg par jour",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "Arrêter le traitement",
+          "explanation": "Non : plus de thyroïde."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [
+        "Valeurs biologiques non retranscrites (« j’ai plus les chiffres »)."
+      ],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 5,
+        "originalNumber": 32,
+        "auditRef": "2024-01-Q32"
+      },
+      "chapter": "hypo",
+      "subchapter": "traitement",
+      "lessonLinks": [
+        "hypo-traitement"
+      ],
+      "tags": [
+        "L-thyroxine",
+        "sujet âgé",
+        "cas clinique"
+      ],
+      "difficulty": 2,
+      "clinical": true,
+      "hints": [
+        "Même raisonnement qu’avec des valeurs : que signifie une TSH abaissée sous traitement ?",
+        "Chez une personne âgée, un surdosage expose à la fibrillation auriculaire.",
+        "Elle n’a plus de thyroïde : arrêter n’est pas une option."
+      ],
+      "explanation": {
+        "text": "TSH abaissée et palpitations sous L-thyroxine : léger surdosage. On diminue d’un palier (75 → 50 µg). L’arrêt est dangereux après une thyroïdectomie totale.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "LT4-AGEE"
+    }
+  ]
+}

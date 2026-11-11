@@ -1,0 +1,768 @@
+{
+  "source": "nd-maiter",
+  "questions": [
+    {
+      "id": "ENDO-ND-ADULTE-QCM-219",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Tout ce qui suit entraîne une diminution de TSH sauf :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Thyroïdite De quervain",
+          "explanation": "Vrai : phase d’hyperthyroïdie transitoire."
+        },
+        {
+          "id": "B",
+          "text": "R/ hormone thyroïdienne",
+          "explanation": "Vrai : rétrocontrôle par l’hormone donnée."
+        },
+        {
+          "id": "C",
+          "text": "1 er trimestre de grossesse",
+          "explanation": "Vrai : effet de l’hCG."
+        },
+        {
+          "id": "D",
+          "text": "Hyperprolactinémie sévère",
+          "explanation": "Faux (réponse attendue) : la prolactine n’abaisse pas la TSH."
+        },
+        {
+          "id": "E",
+          "text": "Insuffisance antéhypophysaire complète",
+          "explanation": "Vrai : pas de production de TSH."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 55,
+        "originalNumber": 19,
+        "auditRef": "ND-maiter-thyroide-Q19"
+      },
+      "chapter": "thyroide",
+      "subchapter": "explo",
+      "lessonLinks": [
+        "thyr-explo"
+      ],
+      "tags": [
+        "TSH"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Classe les propositions : excès d’hormones, hCG, atteinte de l’hypophyse… et l’intrus.",
+        "Une insuffisance antéhypophysaire empêche la production de TSH ; une thyroïdite en phase initiale libère des hormones.",
+        "L’intrus concerne une autre hormone hypophysaire, sans lien direct avec la baisse de la TSH."
+      ],
+      "explanation": {
+        "text": "Une hyperprolactinémie n’abaisse pas la TSH. Les autres situations la diminuent : relargage d’hormones (De Quervain), traitement par hormones thyroïdiennes, hCG du 1er trimestre, insuffisance hypophysaire.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "TSH-BASSE"
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-227",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "Concernant les K de la thyroïde (1 vraie)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "K Papillaire est le plus fréquent",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "K anaplasique répond à une Radiothérapie poussée",
+          "explanation": "Faux : très mauvais pronostic, réponse médiocre."
+        },
+        {
+          "id": "C",
+          "text": "K à cellules de Hurthle est indifférencié",
+          "explanation": "Faux : carcinome différencié (oncocytaire)."
+        },
+        {
+          "id": "D",
+          "text": "Tous les cancers de la thyroïde se traite par thyroïdectomie et radiothérapie",
+          "explanation": "Faux : le traitement dépend du type et du risque."
+        },
+        {
+          "id": "E",
+          "text": "Le cancer folliculaire métastase surtout par voie lymphatique",
+          "explanation": "Faux : voie hématogène."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [
+        "Artefact de retranscription « l,; » supprimé en fin de proposition A."
+      ],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 56,
+        "originalNumber": 27,
+        "auditRef": "ND-maiter-thyroide-Q27"
+      },
+      "chapter": "thyroide",
+      "subchapter": "cancers",
+      "lessonLinks": [
+        "thyr-cancers"
+      ],
+      "tags": [
+        "cancer"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Cherche l’affirmation épidémiologique simple.",
+        "L’anaplasique est le plus agressif ; le folliculaire voyage par le sang.",
+        "Un des cancers représente la grande majorité des cas."
+      ],
+      "explanation": {
+        "text": "Le cancer papillaire est de loin le plus fréquent. L’anaplasique répond mal aux traitements ; le Hürthle (oncocytaire) est un carcinome différencié ; les traitements dépendent du type ; le folliculaire métastase surtout par voie hématogène.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "CANCERS"
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-231",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Femme avec douleur cervicale, subfébrile, syndrome inflammatoire à la biologie, TSH effondrée, T4l élevée: quel diagnostic envisager en premier lieu?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Cancer thyroïdien",
+          "explanation": "Non : ni fièvre ni hyperthyroïdie attendues."
+        },
+        {
+          "id": "B",
+          "text": "Basedow",
+          "explanation": "Non : indolore, pas de syndrome inflammatoire."
+        },
+        {
+          "id": "C",
+          "text": "Thyroïdite subaiguë de De Quervain",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Crise sur fond chronique de maladie d’Hashimoto",
+          "explanation": "Non : Hashimoto est indolore et évolue vers l’hypothyroïdie."
+        },
+        {
+          "id": "E",
+          "text": "Hématome de la thyroïde",
+          "explanation": "Non : contexte traumatique ou nodule hémorragique."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 57,
+        "originalNumber": 31,
+        "auditRef": "ND-maiter-thyroide-Q31"
+      },
+      "chapter": "thyroide",
+      "subchapter": "thyroidites",
+      "lessonLinks": [
+        "thyr-thyroidites",
+        "hyper-diagnostic"
+      ],
+      "tags": [
+        "De Quervain",
+        "cas clinique"
+      ],
+      "difficulty": 2,
+      "clinical": true,
+      "hints": [
+        "Relève les trois éléments clés : douleur, fièvre, inflammation.",
+        "Une seule cause d’hyperthyroïdie est à la fois douloureuse et fébrile.",
+        "Elle survient souvent après une infection virale."
+      ],
+      "explanation": {
+        "text": "Douleur cervicale + fébricule + syndrome inflammatoire + hyperthyroïdie = thyroïdite subaiguë de De Quervain. Basedow et Hashimoto sont indolores ; un cancer ou un hématome ne donnent pas ce tableau.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "QUERVAIN"
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-228",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "A propos de la thyroïdite silencieuse, quelles sont les 2 fausses propositions?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Douleur cervicale",
+          "explanation": "Faux (attendue) : indolore."
+        },
+        {
+          "id": "B",
+          "text": "Hyperthyroïdie biologique",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Thyroglobuline indosable",
+          "explanation": "Faux (attendue) : Tg élevée ; une Tg indosable évoque une prise exogène."
+        },
+        {
+          "id": "D",
+          "text": "Scintigraphie blanche",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "Présence d’anticorps anti-thyroïdien",
+          "explanation": "Vrai : anti-TPO fréquents."
+        }
+      ],
+      "expected": [
+        "A",
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 56,
+        "originalNumber": 28,
+        "auditRef": "ND-maiter-thyroide-Q28"
+      },
+      "chapter": "thyroide",
+      "subchapter": "thyroidites",
+      "lessonLinks": [
+        "thyr-thyroidites",
+        "hyper-diagnostic"
+      ],
+      "tags": [
+        "thyroïdite silencieuse"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Le nom de la maladie donne déjà une réponse.",
+        "Thyroïdite destructrice = relargage du contenu des follicules.",
+        "Que devient la thyroglobuline quand des follicules sont détruits ?"
+      ],
+      "explanation": {
+        "text": "La thyroïdite silencieuse est INDOLORE (d’où son nom) et destructrice : la thyroglobuline est ÉLEVÉE. Elle donne une hyperthyroïdie biologique transitoire, une scintigraphie blanche et des anticorps (anti-TPO) souvent positifs.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "SILENCIEUSE"
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-235",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Toutes ces maladies donnent un goitre sauf une :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "M+ d’Hashimoto",
+          "explanation": "Donne un goitre (ferme)."
+        },
+        {
+          "id": "B",
+          "text": "M+ de Graves/Basedow",
+          "explanation": "Donne un goitre diffus."
+        },
+        {
+          "id": "C",
+          "text": "Carence en iode",
+          "explanation": "Donne un goitre."
+        },
+        {
+          "id": "D",
+          "text": "Troubles de la dyshormonogenèse",
+          "explanation": "Donne un goitre (TSH élevée)."
+        },
+        {
+          "id": "E",
+          "text": "Prise d’hormones thyroïdiennes",
+          "explanation": "Ne donne pas de goitre (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 57,
+        "originalNumber": 35,
+        "auditRef": "ND-maiter-thyroide-Q35"
+      },
+      "chapter": "thyroide",
+      "subchapter": "goitre",
+      "lessonLinks": [
+        "thyr-goitre"
+      ],
+      "tags": [
+        "goitre"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Un goitre apparaît quand la glande est stimulée ou infiltrée.",
+        "Quatre propositions stimulent ou infiltrent la glande.",
+        "Une proposition freine la TSH."
+      ],
+      "explanation": {
+        "text": "La prise d’hormones thyroïdiennes freine la TSH : la glande diminue de volume. Hashimoto (infiltration), Basedow (anticorps stimulants), carence iodée et troubles de l’hormonogenèse (TSH élevée) donnent un goitre.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "GOITRE"
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-232",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Femme de 52 ans avec symptômes avec TSH=0, T4 augmentée (=4ng), Ac anti-TG négatifs, Tg augmentée (60; Nle = 40), que peut-on exclure (une bonne réponse)",
+      "labs": [
+        {
+          "analyte": "TSH",
+          "value": "0",
+          "unit": "",
+          "referenceOrigin": "énoncé"
+        },
+        {
+          "analyte": "T4",
+          "value": "4",
+          "unit": "ng",
+          "referenceOrigin": "énoncé (« augmentée (=4ng) »)"
+        },
+        {
+          "analyte": "Thyroglobuline",
+          "value": "60",
+          "unit": "",
+          "reference": "40",
+          "referenceOrigin": "énoncé (« Nle = 40 »)"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hyperthyroïdie factice",
+          "explanation": "À exclure (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Goître multinodulaire",
+          "explanation": "Possible."
+        },
+        {
+          "id": "C",
+          "text": "Maladie de Basedow",
+          "explanation": "Possible."
+        },
+        {
+          "id": "D",
+          "text": "Nodule toxique",
+          "explanation": "Possible."
+        },
+        {
+          "id": "E",
+          "text": "Thyroïdite silencieuse",
+          "explanation": "Possible (Tg élevée par relargage)."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 57,
+        "originalNumber": 32,
+        "auditRef": "ND-maiter-thyroide-Q32"
+      },
+      "chapter": "hyper",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "hyper-diagnostic",
+        "hyper-autres"
+      ],
+      "tags": [
+        "thyroglobuline",
+        "cas clinique"
+      ],
+      "difficulty": 3,
+      "clinical": true,
+      "hints": [
+        "La question demande ce qu’on peut EXCLURE.",
+        "Regarde la thyroglobuline et les anticorps anti-Tg.",
+        "Quelle cause d’hyperthyroïdie s’accompagne d’une Tg effondrée ?"
+      ],
+      "explanation": {
+        "text": "La Tg est augmentée, et les anti-Tg sont négatifs (le dosage est fiable) : la glande libère de la Tg. On peut donc exclure une hyperthyroïdie factice (prise exogène), qui l’effondre. Les autres causes s’accompagnent d’une Tg élevée.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "EXOGENE"
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-222",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant le traitement de la maladie de Basedow, laquelle est fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Le strumazol est le premier traitement dans un Basedow",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "Une agranulocytose est une contre-indication stricte à l’utilisation des ATS",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Le PTU est le traitement de choix durant le 3ème trimestre de la grossesse",
+          "explanation": "Faux (réponse attendue) : PTU au 1er trimestre."
+        },
+        {
+          "id": "D",
+          "text": "Les fumeurs sont plus à risque d'exophtalmie basedowienne",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 56,
+        "originalNumber": 22,
+        "auditRef": "ND-maiter-thyroide-Q22"
+      },
+      "chapter": "hyper",
+      "subchapter": "basedow",
+      "lessonLinks": [
+        "hyper-basedow",
+        "hyper-traitements"
+      ],
+      "tags": [
+        "Basedow",
+        "ATS",
+        "grossesse"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Une proposition se trompe de trimestre.",
+        "Le PTU est hépatotoxique : on ne le garde pas plus longtemps que nécessaire.",
+        "Le PTU est réservé à une période précise de la grossesse."
+      ],
+      "explanation": {
+        "text": "Le PTU est réservé au projet de grossesse et au 1er trimestre ; au 2e et 3e trimestres, on revient au thiamazole. Le thiamazole est le premier traitement, l’agranulocytose contre-indique les ATS et le tabac favorise l’orbitopathie.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "BASEDOW-ATS"
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-209",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Une patiente de 75 ans, avec hypothyroïdie connue suite à une thyroïdectomie totale, est traitée chroniquement par lévothyroxine sodique 125 microgramme/jour le matin. Elle vous consulte pour des palpitations récentes la nuit. Sa biologie récente montre une TSH à 0,20 microU/mL (nl : 0,30-3,5), une T4 libre à 18 pmol/L (nl : 12-22) et une T3 libre à 2,2 pmol/L (nl : 2,0-6,0). Que lui conseillez-vous ? (Une seule bonne réponse)",
+      "labs": [
+        {
+          "analyte": "TSH",
+          "value": "0,20",
+          "unit": "µU/mL",
+          "reference": "0,30-3,5",
+          "referenceOrigin": "énoncé"
+        },
+        {
+          "analyte": "T4 libre",
+          "value": "18",
+          "unit": "pmol/L",
+          "reference": "12-22",
+          "referenceOrigin": "énoncé"
+        },
+        {
+          "analyte": "T3 libre",
+          "value": "2,2",
+          "unit": "pmol/L",
+          "reference": "2,0-6,0",
+          "referenceOrigin": "énoncé"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Vous poursuivez la même dose de L-Thyroxine mais vous insistez sur la prise au matin à jeun",
+          "explanation": "Non : la prise n’est pas en cause, la dose est trop forte."
+        },
+        {
+          "id": "B",
+          "text": "Vous poursuivez la même dose de L-Thyroxine et lui prescrivez un Beta-Bloquant selectif à faible dose le soir",
+          "explanation": "Non : traiterait le symptôme, pas le surdosage."
+        },
+        {
+          "id": "C",
+          "text": "Vous augmentez la dose de la Thyroxine à 150 microgramme/jour",
+          "explanation": "Non : aggraverait le surdosage."
+        },
+        {
+          "id": "D",
+          "text": "Vous diminuez la dose de la Thyroxine à 100 microgramme/jour",
+          "explanation": "Oui (réponse attendue) : baisse d’un palier."
+        },
+        {
+          "id": "E",
+          "text": "Vous diminuez la dose de la Thyroxine à 50 microgramme/jour",
+          "explanation": "Non : baisse excessive, risque d’hypothyroïdie."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 54,
+        "originalNumber": 9,
+        "auditRef": "ND-maiter-thyroide-Q9"
+      },
+      "chapter": "hypo",
+      "subchapter": "traitement",
+      "lessonLinks": [
+        "hypo-traitement"
+      ],
+      "tags": [
+        "L-thyroxine",
+        "sujet âgé",
+        "cas clinique"
+      ],
+      "difficulty": 3,
+      "clinical": true,
+      "hints": [
+        "Interprète d’abord la TSH par rapport à la norme donnée.",
+        "Une TSH basse sous L-thyroxine signifie un léger surdosage, à risque chez une personne âgée (FA, ostéoporose).",
+        "On corrige par paliers, sans changement brutal."
+      ],
+      "explanation": {
+        "text": "TSH basse (0,20) avec T4L haute-normale chez une patiente âgée et symptomatique : léger surdosage. On diminue la dose d’un palier (125 → 100 µg), puis on recontrôle. Un bêtabloquant masquerait le problème ; 50 µg serait une baisse trop brutale.",
+        "status": "complement",
+        "sources": []
+      },
+      "pitfall": "Le surdosage est l’effet indésirable principal des hormones thyroïdiennes.",
+      "duplicateGroup": "LT4-AGEE"
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-205",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Quel signe à la biologie ne retrouve-t-on pas en cas d’hypothyroïdie sévère (1 réponse):",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hypernatrémie",
+          "explanation": "Non retrouvée (réponse attendue) : c’est une hyponatrémie."
+        },
+        {
+          "id": "B",
+          "text": "Hyperprolactinémie",
+          "explanation": "Retrouvée : la TRH stimule la prolactine."
+        },
+        {
+          "id": "C",
+          "text": "Anémie normochrome normocytaire",
+          "explanation": "Retrouvée."
+        },
+        {
+          "id": "D",
+          "text": "Hypercholestérolémie",
+          "explanation": "Retrouvée."
+        },
+        {
+          "id": "E",
+          "text": "Augmentation des CPK musculaires",
+          "explanation": "Retrouvée : myopathie."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 54,
+        "originalNumber": 5,
+        "auditRef": "ND-maiter-thyroide-Q5"
+      },
+      "chapter": "hypo",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "hypo-diagnostic"
+      ],
+      "tags": [
+        "biologie"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Une seule anomalie va dans le « mauvais sens ».",
+        "L’hypothyroïdie sévère gêne l’élimination de l’eau libre.",
+        "Le sodium est-il alors trop haut ou trop bas ?"
+      ],
+      "explanation": {
+        "text": "L’hypothyroïdie sévère donne une HYPOnatrémie (moindre élimination de l’eau). Elle peut donner une hyperprolactinémie (TRH élevée), une anémie, une hypercholestérolémie et des CPK élevées.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "HYPO-BIO"
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-214",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant la thyroïde, la fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hypothyroïdie chez les adultes en BE sont le plus souvent d’origine auto-immune.",
+          "explanation": "Vrai : Hashimoto."
+        },
+        {
+          "id": "B",
+          "text": "Une cause auto-immune peut aussi bien donner une hyperthyroïdie qu'une hypothyroïdie",
+          "explanation": "Vrai : Basedow ou Hashimoto."
+        },
+        {
+          "id": "C",
+          "text": "TSH est le meilleur marqueur de fonction thyroïdienne",
+          "explanation": "Vrai (si l’hypophyse est normale)."
+        },
+        {
+          "id": "D",
+          "text": "Scintigraphie n'est pas utile en cas d'hypothyroïdie chez l’adulte",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "Il faut doubler les doses hormones thyroïdiennes le premier trimestre de grossesse",
+          "explanation": "Faux (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 55,
+        "originalNumber": 14,
+        "auditRef": "ND-maiter-thyroide-Q14"
+      },
+      "chapter": "hypo",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "hypo-diagnostic",
+        "hypo-grossesse"
+      ],
+      "tags": [
+        "grossesse",
+        "Hashimoto"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Une proposition contient un chiffre trop fort.",
+        "Pendant la grossesse, les besoins augmentent, mais de combien au début ?",
+        "Les recommandations parlent d’environ 20 à 30 % (2 comprimés de plus par semaine)."
+      ],
+      "explanation": {
+        "text": "On augmente la L-thyroxine dès la grossesse confirmée, d’environ 20 à 30 % (deux comprimés de plus par semaine), et non en doublant la dose. Les autres propositions sont exactes.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "HYPO-ADULTE"
+    }
+  ]
+}

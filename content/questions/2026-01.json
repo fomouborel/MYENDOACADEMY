@@ -1,0 +1,365 @@
+{
+  "source": "2026-01",
+  "questions": [
+    {
+      "id": "ENDO-2026-01-RADIO-QCM-040",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Pour classification de EU-TIRADS, parmi ces éléments il y en a 1 faux : (tuyau)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "L'échogénicité",
+          "explanation": "Pris en compte."
+        },
+        {
+          "id": "B",
+          "text": "Spongiforme ou kystique",
+          "explanation": "Pris en compte : spongiforme ou kystique pur = bénin."
+        },
+        {
+          "id": "C",
+          "text": "Vascularisation",
+          "explanation": "Non pris en compte (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "La forme des contours",
+          "explanation": "Pris en compte."
+        },
+        {
+          "id": "E",
+          "text": "Microcalcifications",
+          "explanation": "Pris en compte."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "RADIO",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 9,
+        "originalNumber": 40,
+        "auditRef": "2026-01-Q40"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [
+        "EU-TIRADS",
+        "échographie"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "EU-TIRADS repose sur l’aspect du nodule en mode B (noir et blanc).",
+        "Les signes de forte suspicion : forme, contours, microcalcifications, hypoéchogénicité marquée.",
+        "Un élément proposé nécessite le Doppler couleur."
+      ],
+      "explanation": {
+        "text": "EU-TIRADS classe le nodule selon son échogénicité, sa structure (spongiforme, kystique), sa forme, ses contours et la présence de microcalcifications. La vascularisation (Doppler) n’entre pas dans la classification.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "EUTIRADS"
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-017",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant le cancer papillaire de la thyroïde, quelle réponse est fausse ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Multifocal",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "Dissémination hémathogène des métastases",
+          "explanation": "Faux (réponse attendue) : voie lymphatique."
+        },
+        {
+          "id": "C",
+          "text": "Plus fréquent chez la femme",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "Bon pronostic",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "Provoqué par irradiation cervicale",
+          "explanation": "Vrai : facteur de risque reconnu."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Alexopoulou",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 4,
+        "originalNumber": 17,
+        "auditRef": "2026-01-Q17"
+      },
+      "chapter": "thyroide",
+      "subchapter": "cancers",
+      "lessonLinks": [
+        "thyr-cancers"
+      ],
+      "tags": [
+        "cancer"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Compare les deux cancers différenciés : papillaire et folliculaire.",
+        "Ils ne se propagent pas de la même façon.",
+        "Le papillaire atteint d’abord les ganglions du cou."
+      ],
+      "explanation": {
+        "text": "Le cancer papillaire dissémine surtout par voie lymphatique (ganglions cervicaux). La dissémination hématogène est typique du cancer folliculaire. Le papillaire est souvent multifocal, plus fréquent chez la femme, favorisé par l’irradiation et de bon pronostic.",
+        "status": "complement",
+        "sources": []
+      },
+      "pitfall": "Papillaire = lymphatique ; folliculaire = hématogène.",
+      "duplicateGroup": "CANCERS"
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-014",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "A propos de l’hyperthyroidie sur amiodarone la FAUSSE:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "type 1 due a une patho preexistante",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "type 2 due a thyroidite destructive",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Scinti type 2 montre une hyperfixation",
+          "explanation": "Faux (réponse attendue) : scintigraphie blanche."
+        },
+        {
+          "id": "D",
+          "text": "type 1 se traite par ATS",
+          "explanation": "Vrai (± perchlorate)."
+        },
+        {
+          "id": "E",
+          "text": "type 2 se traite par corticoides",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Alexopoulou",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 4,
+        "originalNumber": 14,
+        "auditRef": "2026-01-Q14"
+      },
+      "chapter": "hyper",
+      "subchapter": "iatrogene",
+      "lessonLinks": [
+        "hyper-autres"
+      ],
+      "tags": [
+        "amiodarone",
+        "scintigraphie"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Le type 2 est une thyroïdite.",
+        "Que montre la scintigraphie dans toutes les thyroïdites destructrices ?",
+        "Une glande détruite ne capte pas le traceur."
+      ],
+      "explanation": {
+        "text": "Le type 2 est une thyroïdite destructrice : la scintigraphie est blanche (pas d’hyperfixation) et le traitement repose sur les corticoïdes. Le type 1 (surcharge iodée sur glande préalablement malade) se traite par ATS.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "AMIODARONE"
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-022",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Que doser pour un bon suivi d'une hypothyroïdie centrale ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "TSH",
+          "explanation": "Non : inutilisable."
+        },
+        {
+          "id": "B",
+          "text": "T4 libre",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "T3 libre",
+          "explanation": "Non : peu fiable pour le suivi."
+        },
+        {
+          "id": "D",
+          "text": "TRH",
+          "explanation": "Non : non dosée en pratique."
+        },
+        {
+          "id": "E",
+          "text": "Thyroglobuline",
+          "explanation": "Non : marqueur des cancers différenciés."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Alexopoulou",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 5,
+        "originalNumber": 22,
+        "auditRef": "2026-01-Q22"
+      },
+      "chapter": "hypo",
+      "subchapter": "traitement",
+      "lessonLinks": [
+        "hypo-traitement",
+        "hypo-diagnostic"
+      ],
+      "tags": [
+        "hypothyroïdie centrale"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Où se situe la maladie dans une hypothyroïdie centrale ?",
+        "Si l’hypophyse est malade, la TSH reflète-t-elle encore l’équilibre ?",
+        "On suit alors directement l’hormone produite par la thyroïde."
+      ],
+      "explanation": {
+        "text": "Dans l’hypothyroïdie centrale, la TSH (produite par l’hypophyse malade) n’est plus interprétable : le suivi du traitement se fait sur la T4 libre.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "HYPO-CENTRALE"
+    },
+    {
+      "id": "ENDO-2026-01-PEDIA-QCM-030",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quel est l’inconvénient principal du test Guthrie ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Ne peut être effectué que chez les prématurés",
+          "explanation": "Faux : réalisé chez tous les nouveau-nés."
+        },
+        {
+          "id": "B",
+          "text": "Difficile de faire une PDS à un bébé",
+          "explanation": "Faux : simple piqûre au talon."
+        },
+        {
+          "id": "C",
+          "text": "Ne détecte pas une hypothyroïdie centrale",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Trop de FP d’hypothyroïdie",
+          "explanation": "Faux."
+        },
+        {
+          "id": "E",
+          "text": "Doit être effectué toutes les semaines après la naissance",
+          "explanation": "Faux : un seul prélèvement."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "PEDIA",
+        "teacher": "Lysy",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 8,
+        "originalNumber": 30,
+        "auditRef": "2026-01-Q30"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [
+        "dépistage néonatal",
+        "pédiatrie"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Qu’est-ce qui est dosé sur le papier buvard ?",
+        "Le test cherche une TSH élevée.",
+        "Dans quelle forme d’hypothyroïdie la TSH n’est-elle pas élevée ?"
+      ],
+      "explanation": {
+        "text": "Le Guthrie dose la TSH : il dépiste les hypothyroïdies primaires, mais pas l’hypothyroïdie centrale, où la TSH n’est pas élevée.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "GUTHRIE"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "source": "exercices-hypo",
+  "questions": [
+    {
+      "id": "ENDO-EX-hypo-VF-001",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Dans une hypothyroïdie centrale, la TSH est toujours diminuée.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypo",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "hypo-diagnostic"
+      ],
+      "tags": [
+        "hypothyroïdie centrale"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Le mot « toujours » est souvent suspect.",
+        "L’hypophyse malade peut encore sécréter un peu de TSH.",
+        "Que vaut la TSH par rapport à une T4L basse ?"
+      ],
+      "explanation": {
+        "text": "La TSH peut être basse, normale, voire un peu élevée (TSH peu active) : c’est l’association T4L basse + TSH non élevée de façon appropriée qui oriente.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hypo-VF-002",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "En Belgique, la première cause d’hypothyroïdie de l’adulte est la thyroïdite d’Hashimoto.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypo",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "hypo-diagnostic"
+      ],
+      "tags": [
+        "Hashimoto"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Pense à la cause la plus fréquente dans un pays bien iodé.",
+        "Elle est auto-immune.",
+        "On la reconnaît aux anticorps anti-TPO."
+      ],
+      "explanation": {
+        "text": "La cause auto-immune (Hashimoto) est la plus fréquente dans les pays sans carence iodée sévère ; la carence iodée reste la 1re cause dans le monde.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hypo-VF-003",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "La L-thyroxine se prend le matin à jeun, à distance du calcium et du fer.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypo",
+      "subchapter": "traitement",
+      "lessonLinks": [
+        "hypo-traitement"
+      ],
+      "tags": [
+        "L-thyroxine"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Pense à ce qui gêne l’absorption intestinale.",
+        "Certains minéraux se lient à la L-thyroxine.",
+        "Le moment de la prise compte."
+      ],
+      "explanation": {
+        "text": "L’absorption est meilleure à jeun et diminuée par le calcium, le fer, certains antiacides et résines : on espace les prises.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hypo-VF-004",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Une femme traitée par L-thyroxine doit augmenter sa dose seulement à la fin du premier trimestre de grossesse.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypo",
+      "subchapter": "traitement",
+      "lessonLinks": [
+        "hypo-grossesse"
+      ],
+      "tags": [
+        "grossesse"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Quand le cerveau du fœtus dépend-il le plus de la mère ?",
+        "Sa propre thyroïde ne fonctionne pas encore au début.",
+        "Faut-il attendre ?"
+      ],
+      "explanation": {
+        "text": "L’augmentation (environ 20 à 30 %, soit deux comprimés de plus par semaine) se fait dès le test de grossesse positif, car le fœtus dépend de la T4 maternelle au 1er trimestre.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hypo-VF-005",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Devant un dépistage néonatal positif, on attend l’échographie avant de commencer la L-thyroxine.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [
+        "dépistage néonatal",
+        "pédiatrie"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Chaque jour compte pour le développement cérébral.",
+        "L’imagerie change-t-elle la décision de traiter ?",
+        "Elle précise seulement la cause."
+      ],
+      "explanation": {
+        "text": "On convoque l’enfant en urgence, on prélève pour confirmer, puis on traite immédiatement ; l’imagerie précise la cause ensuite.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

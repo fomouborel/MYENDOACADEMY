@@ -1,0 +1,171 @@
+{
+  "source": "exercices-hyper",
+  "questions": [
+    {
+      "id": "ENDO-EX-hyper-VF-001",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Une scintigraphie « blanche » chez un patient hyperthyroïdien oriente vers une thyroïdite ou une prise d’hormones exogènes.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hyper",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "hyper-diagnostic"
+      ],
+      "tags": [
+        "scintigraphie"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Que signifie l’absence de fixation ?",
+        "La glande ne fabrique pas activement.",
+        "Deux grandes situations sont possibles."
+      ],
+      "explanation": {
+        "text": "Fixation nulle = la glande ne produit pas les hormones en excès : thyroïdite destructrice (Tg élevée) ou prise exogène (Tg effondrée).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hyper-VF-002",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Pour confirmer une maladie de Basedow, on dose les anticorps anti-TPO.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hyper",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "hyper-diagnostic"
+      ],
+      "tags": [
+        "Basedow",
+        "anticorps"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Quel est le mécanisme de Basedow ?",
+        "Des anticorps stimulent un récepteur.",
+        "Lequel ?"
+      ],
+      "explanation": {
+        "text": "Le marqueur de Basedow est l’anticorps anti-récepteur de la TSH (TRAK/TSI). Les anti-TPO, peu spécifiques, sont surtout ceux d’Hashimoto.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hyper-VF-003",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Le tabac est un facteur de risque d’orbitopathie basedowienne.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hyper",
+      "subchapter": "basedow",
+      "lessonLinks": [
+        "hyper-basedow"
+      ],
+      "tags": [
+        "orbitopathie"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Pense aux facteurs modifiables.",
+        "L’iode radioactif aggrave l’orbitopathie surtout chez certains patients.",
+        "Lesquels ?"
+      ],
+      "explanation": {
+        "text": "Le tabac est le principal facteur de risque modifiable de l’orbitopathie ; l’arrêt du tabac est indispensable.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hyper-VF-004",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "L’hyperthyroïdie à l’amiodarone de type 2 se traite principalement par corticoïdes.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hyper",
+      "subchapter": "iatrogene",
+      "lessonLinks": [
+        "hyper-autres"
+      ],
+      "tags": [
+        "amiodarone"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Quel type est une thyroïdite ?",
+        "On traite une thyroïdite par anti-inflammatoires.",
+        "Lesquels ?"
+      ],
+      "explanation": {
+        "text": "Le type 2 est une thyroïdite destructrice : corticoïdes. Le type 1 (surcharge iodée sur glande malade) se traite par ATS.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-hyper-VF-005",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "En cas de fièvre ou de mal de gorge sous ATS, il faut faire une numération sanguine en urgence.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "hyper",
+      "subchapter": "basedow",
+      "lessonLinks": [
+        "hyper-traitements"
+      ],
+      "tags": [
+        "ATS"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Pense à la complication la plus grave des ATS.",
+        "Elle touche les globules blancs.",
+        "Elle expose à des infections sévères."
+      ],
+      "explanation": {
+        "text": "C’est la recherche d’une agranulocytose, complication rare mais grave des ATS, qui impose l’arrêt définitif du traitement.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

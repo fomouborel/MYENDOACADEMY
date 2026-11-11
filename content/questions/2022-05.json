@@ -1,0 +1,152 @@
+{
+  "source": "2022-05",
+  "questions": [
+    {
+      "id": "ENDO-2022-05-ADULTE-QCM-030",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "A propos de la thyroïdite de Quervain quelle proposition est fausse?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Il y a un syndrome inflammatoire biologique important",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "Le patient peut se plaindre de douleur cervicale parfois intense",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "A la scintigraphie il a y a une captation intense du traceur",
+          "explanation": "Faux (réponse attendue) : scintigraphie blanche."
+        },
+        {
+          "id": "D",
+          "text": "Traitement le plus souvent par glucocorticoïdes",
+          "explanation": "Vrai (AINS ou corticoïdes)."
+        },
+        {
+          "id": "E",
+          "text": "C’est une thyroïdite granulomateuse d’étiologie virale",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2022-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 31,
+        "originalNumber": 30,
+        "auditRef": "2022-05-Q30"
+      },
+      "chapter": "thyroide",
+      "subchapter": "thyroidites",
+      "lessonLinks": [
+        "thyr-thyroidites",
+        "hyper-diagnostic"
+      ],
+      "tags": [
+        "De Quervain",
+        "scintigraphie"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Rappelle-toi d’où viennent les hormones en excès dans une thyroïdite.",
+        "Dans une thyroïdite destructrice, la glande ne fabrique pas davantage.",
+        "Que montre la scintigraphie quand les cellules thyroïdiennes ne captent plus ?"
+      ],
+      "explanation": {
+        "text": "Dans la thyroïdite de De Quervain, les follicules sont détruits : les hormones s’échappent, mais la glande ne capte plus le traceur. La scintigraphie est « blanche ». Syndrome inflammatoire, douleur, traitement anti-inflammatoire (AINS ou corticoïdes) et origine virale granulomateuse sont exacts.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "QUERVAIN"
+    },
+    {
+      "id": "ENDO-2022-05-ADULTE-QCM-032",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "jeune de 20 ans mannequin vient avec des symptômes de l'hyperthyroïdie. T4 est un peu au dessus de la normale, T3 fortement élevée, thyroglobuline indétectable, anticorps négatifs :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Basedow",
+          "explanation": "Non : TRAK positifs, Tg élevée."
+        },
+        {
+          "id": "B",
+          "text": "Prise exogène des hormones thyroïdiennes",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Thyroïdite de De Quervain",
+          "explanation": "Non : douleur, Tg élevée."
+        },
+        {
+          "id": "D",
+          "text": "Hashimoto",
+          "explanation": "Non : évolue vers l’hypothyroïdie."
+        },
+        {
+          "id": "E",
+          "text": "Nodule chaud",
+          "explanation": "Non : Tg élevée."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2022-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 31,
+        "originalNumber": 32,
+        "auditRef": "2022-05-Q32"
+      },
+      "chapter": "hyper",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "hyper-diagnostic",
+        "hyper-autres"
+      ],
+      "tags": [
+        "thyroglobuline",
+        "cas clinique"
+      ],
+      "difficulty": 3,
+      "clinical": true,
+      "hints": [
+        "Le contexte (mannequin) et un dosage sont décisifs.",
+        "La thyroglobuline est produite par la glande : que signifie qu’elle soit indétectable ?",
+        "Si la glande ne libère rien, d’où viennent les hormones en excès ?"
+      ],
+      "explanation": {
+        "text": "Hormones élevées (surtout T3) avec une thyroglobuline indétectable : la glande est freinée et les hormones viennent de l’extérieur. Il s’agit d’une prise exogène (ici probablement de T3). Basedow, De Quervain et nodule chaud s’accompagnent d’une Tg élevée.",
+        "status": "complement",
+        "sources": []
+      },
+      "pitfall": "Toujours vérifier l’absence d’anticorps anti-Tg avant d’interpréter une Tg basse.",
+      "duplicateGroup": "EXOGENE"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "source": "nd-marbaix",
+  "questions": [
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-117",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "Dans la maladie d’Hashimoto (1 vraie)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "On voit des infiltrats B et T qui attaquent la glande",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "On y trouve des granulomes dirigés contre colloïde",
+          "explanation": "Faux : granulomes = De Quervain."
+        },
+        {
+          "id": "C",
+          "text": "Se caractérise par une hyperplasie de cellules médullaires (plus trop sûre de la formulation)",
+          "explanation": "Faux : sans rapport (formulation incertaine)."
+        },
+        {
+          "id": "D",
+          "text": "Elle se caractérise histologiquement par de la fibrose, l’aspect évoque un cancer",
+          "explanation": "Faux : thyroïdite de Riedel."
+        },
+        {
+          "id": "E",
+          "text": "C’est la seule maladie auto-immune de la thyroïde",
+          "explanation": "Faux : Basedow est aussi auto-immun."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [
+        "Proposition C : « plus trop sûre de la formulation » (transcripteur)."
+      ],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 83,
+        "originalNumber": 17,
+        "auditRef": "ND-marbaix-thyroide-parathyroides-Q17"
+      },
+      "chapter": "thyroide",
+      "subchapter": "thyroidites",
+      "lessonLinks": [
+        "thyr-thyroidites",
+        "hypo-diagnostic"
+      ],
+      "tags": [
+        "Hashimoto",
+        "anatomie pathologique"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Hashimoto est une maladie auto-immune : quelles cellules infiltrent la glande ?",
+        "Les granulomes caractérisent une autre thyroïdite.",
+        "L’infiltrat est lymphoplasmocytaire, avec des follicules lymphoïdes."
+      ],
+      "explanation": {
+        "text": "Hashimoto : infiltrat lymphocytaire B et T (avec follicules lymphoïdes et cellules oncocytaires) qui détruit le parenchyme. Les granulomes caractérisent De Quervain ; la fibrose pseudo-tumorale évoque Riedel ; Basedow est une autre maladie auto-immune.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "HASHI-ANAPATH"
+    }
+  ]
+}

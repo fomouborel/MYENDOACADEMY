@@ -1,0 +1,77 @@
+{
+  "source": "nd-beauloye",
+  "questions": [
+    {
+      "id": "ENDO-ND-PEDIA-QCM-218",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Le test de Guthrie permet de dépister toutes les maladies suivantes sauf une:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Syndrome de Pendred",
+          "explanation": "Dépisté (dyshormonogenèse avec surdité)."
+        },
+        {
+          "id": "B",
+          "text": "Athyréose",
+          "explanation": "Dépisté."
+        },
+        {
+          "id": "C",
+          "text": "Dyshormonogenèse",
+          "explanation": "Dépisté."
+        },
+        {
+          "id": "D",
+          "text": "Hypothyroïdie centrale",
+          "explanation": "Non dépisté (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "Thyroïde ectopique",
+          "explanation": "Dépisté (cause la plus fréquente)."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PEDIA",
+        "teacher": "Beauloye",
+        "formerTeacher": true,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 72,
+        "originalNumber": null,
+        "auditRef": "ND-beauloye-pediatrie-p72-l3178"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [
+        "dépistage néonatal",
+        "pédiatrie"
+      ],
+      "difficulty": 2,
+      "clinical": false,
+      "hints": [
+        "Quatre propositions sont des atteintes de la thyroïde elle-même.",
+        "Une proposition concerne l’hypophyse ou l’hypothalamus.",
+        "Le dépistage repose sur une TSH élevée."
+      ],
+      "explanation": {
+        "text": "Le dépistage par la TSH repère les hypothyroïdies primaires (athyréose, ectopie, dyshormonogenèse, syndrome de Pendred). L’hypothyroïdie centrale, avec une TSH non élevée, lui échappe.",
+        "status": "complement",
+        "sources": []
+      },
+      "duplicateGroup": "GUTHRIE"
+    }
+  ]
+}
