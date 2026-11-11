@@ -10,7 +10,7 @@ const realLessons = Object.fromEntries(
   chapters.chapters.flatMap((c) => c.lessons.map((l) => [l.file, readFileSync(`content/lessons/${l.file}`, 'utf8')])),
 );
 // Pour tester les règles des questions isolément : chapitres sans leçons.
-const bare = { chapters: chapters.chapters.map((c) => ({ ...c, lessons: [] })) };
+const bare = { chapters: chapters.chapters.map((c) => ({ ...c, status: 'pending', lessons: [] })) };
 
 const run = (questions: unknown[], lessons: Record<string, string> = {}, ch: unknown = bare) =>
   validateContent({ chapters: ch, exams, questionFiles: { 'questions/test.json': { source: 'test', questions } }, lessons });
