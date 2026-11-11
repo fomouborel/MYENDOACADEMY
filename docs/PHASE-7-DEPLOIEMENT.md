@@ -27,7 +27,7 @@
 | Build, chemins GitHub Pages (`/MYENDOACADEMY/`) | `npm run build`, test « rechargement direct d'une adresse » | ✅ |
 | Déploiement automatique | GitHub Actions : vérifications, puis publication sur `main` | ✅ |
 
-**Bilan chiffré** : 49 tests unitaires et 30 tests de bout en bout (15 scénarios × 2 appareils).
+**Bilan chiffré** : 49 tests unitaires et 32 tests de bout en bout (16 scénarios × 2 appareils).
 
 **Défauts corrigés grâce à ces tests (phases 4 à 7)** :
 - une réponse pouvait être perdue si l'on quittait la page juste après avoir validé ;

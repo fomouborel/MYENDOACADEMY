@@ -21,7 +21,9 @@ test('menu : seules les rubriques disponibles sont proposées', async ({ page })
   await navTo(page, 'Mes cours');
   await expect(page.getByRole('heading', { name: 'Mes cours' })).toBeVisible();
   const nav = page.getByRole('navigation', { name: 'Navigation principale' });
-  await expect(nav.getByRole('link')).toHaveCount(9);
+  // 9 rubriques + le lien « Mode d’emploi » en bas du menu
+  await expect(nav.getByRole('link')).toHaveCount(10);
+  await expect(nav.getByRole('link', { name: /Mode d’emploi/ })).toHaveCount(1);
 });
 
 test('sauvegarde et restauration de la progression', async ({ page }, info) => {
