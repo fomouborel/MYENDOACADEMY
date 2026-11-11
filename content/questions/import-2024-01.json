@@ -1,0 +1,405 @@
+{
+  "source": "import-2024-01",
+  "questions": [
+    {
+      "id": "ENDO-2024-01-ADULTE-QCM-033",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "vraie sur la thyroïde",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Le cancer folliculaire est le plus fréquent"
+        },
+        {
+          "id": "B",
+          "text": "Le cancer à cellules de Hurthle touche les enfants/jeunes"
+        },
+        {
+          "id": "C",
+          "text": "La dissémination du cancer papillaire se fait par voie hématogène"
+        },
+        {
+          "id": "D",
+          "text": "Des taux élevés de calcitonine et de CEA dans le CMT"
+        },
+        {
+          "id": "E",
+          "text": "Le cancer thyroïdien anaplasique répond bien à l’iode à fortes doses"
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 5,
+        "originalNumber": 33,
+        "auditRef": "2024-01-Q33"
+      },
+      "chapter": "thyroide",
+      "subchapter": "cancers",
+      "lessonLinks": [
+        "thyr-cancers"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CANCERS"
+    },
+    {
+      "id": "ENDO-2024-01-RADIO-QCM-075",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Critère pour cytoponction : Donnez une fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Nodule chaud"
+        },
+        {
+          "id": "B",
+          "text": "Nodule contenant des microcaclcifications"
+        },
+        {
+          "id": "C",
+          "text": "Hypoéchogène et mesurant 16mm"
+        },
+        {
+          "id": "D",
+          "text": "Nodule chez jeune de 16ans"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "RADIO",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 10,
+        "originalNumber": 75,
+        "auditRef": "2024-01-Q75"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "CYTOPONCTION"
+    },
+    {
+      "id": "ENDO-2024-01-ADULTE-QCM-030",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Qu’est ce qui donne plus de chance de penser que ...est malin (jsplus si c’était adénome ou thyroide)? La fausse:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "être un homme"
+        },
+        {
+          "id": "B",
+          "text": "avoir reçu des irradiations précédemment"
+        },
+        {
+          "id": "C",
+          "text": "adénopathie"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 5,
+        "originalNumber": 30,
+        "auditRef": "2024-01-Q30"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "NOD-SUSP",
+      "answerNote": "Énoncé incertain (« jsplus si c'était adénome ou thyroïde »), 3 propositions, aucune réponse marquée."
+    },
+    {
+      "id": "ENDO-2024-01-ADULTE-QCM-028",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Thyroidite de Quievrain copié collé des années passées, trouver les fausses ( D cervicales, chez jeune femme, cause virale, se traite par ATS, femme post-partum",
+      "labs": [],
+      "options": [],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 5,
+        "originalNumber": 28,
+        "auditRef": "2024-01-Q28"
+      },
+      "chapter": "thyroide",
+      "subchapter": "thyroidites",
+      "lessonLinks": [
+        "thyr-thyroidites",
+        "hyper-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "QUERVAIN",
+      "answerNote": "Propositions résumées dans l'énoncé (« copié collé des années passées »). Réponses en rouge : « se traite par ATS », « femme post-partum »."
+    },
+    {
+      "id": "ENDO-2024-01-ADULTE-QCMM-036",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Les deux fausses sur la thyroidite de quervain",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Donne douleurs cervicales irradiant dans la machoire (elle est juste)"
+        },
+        {
+          "id": "B",
+          "text": "Est plus souvent d’origine virale (elle est juste)"
+        },
+        {
+          "id": "C",
+          "text": "Se traite par ATS"
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 6,
+        "originalNumber": 36,
+        "auditRef": "2024-01-Q36"
+      },
+      "chapter": "thyroide",
+      "subchapter": "thyroidites",
+      "lessonLinks": [
+        "thyr-thyroidites",
+        "hyper-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "QUERVAIN",
+      "answerNote": "3 propositions ; une seule des deux fausses retrouvée."
+    },
+    {
+      "id": "ENDO-2024-01-ADULTE-QCM-027",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Observables dans basedow : la fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "goitre muldinodulaire a la palpation"
+        },
+        {
+          "id": "B",
+          "text": "modification test hepatiques"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 5,
+        "originalNumber": 27,
+        "auditRef": "2024-01-Q27"
+      },
+      "chapter": "hyper",
+      "subchapter": "basedow",
+      "lessonLinks": [
+        "hyper-basedow"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "BASEDOW",
+      "answerNote": "Deux propositions seulement."
+    },
+    {
+      "id": "ENDO-2024-01-PHARMA-QCM-089",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Effet secondaire principal du traitement par hormones thyroïdiennes",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Leucopénie"
+        },
+        {
+          "id": "B",
+          "text": "Hépatite"
+        },
+        {
+          "id": "C",
+          "text": "Hyperthyroïdie"
+        },
+        {
+          "id": "D",
+          "text": "Dysgeusie"
+        },
+        {
+          "id": "E",
+          "text": "Nausée"
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 11,
+        "originalNumber": 89,
+        "auditRef": "2024-01-Q89"
+      },
+      "chapter": "hypo",
+      "subchapter": "traitement",
+      "lessonLinks": [
+        "hypo-traitement"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ES-HT",
+      "answerNote": "Pharmacologie (Horsmans)."
+    },
+    {
+      "id": "ENDO-2024-01-PHARMA-QCM-100",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "question tuyau sur l’effet secondaire d’un R/ H thyroïdienne => hyperthyroïdie",
+      "labs": [],
+      "options": [],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 12,
+        "originalNumber": 100,
+        "auditRef": "2024-01-Q100"
+      },
+      "chapter": "hypo",
+      "subchapter": "traitement",
+      "lessonLinks": [
+        "hypo-traitement"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ES-HT",
+      "answerNote": "Seulement mentionnée (« question tuyau ») avec la réponse dans le texte (=> hyperthyroïdie). Possible doublon de la Q89 de la même retranscription."
+    },
+    {
+      "id": "ENDO-2024-01-ADULTE-QCM-025",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Diagnostic de l’hypothyroidie:Donnez la fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "T4 libre est un bon marqueur de suivi de la maladie ( un truc comme ça)"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 4,
+        "originalNumber": 25,
+        "auditRef": "2024-01-Q25"
+      },
+      "chapter": "hypo",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "hypo-diagnostic",
+        "hypo-traitement"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SUIVI-HYPO",
+      "answerNote": "Une seule proposition retranscrite (« un truc comme ça »). Non marquée dans la couche surlignée de la compilation 2016-2025."
+    }
+  ]
+}

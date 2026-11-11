@@ -1,0 +1,495 @@
+{
+  "source": "import-2025-01",
+  "questions": [
+    {
+      "id": "ENDO-2025-01-ANAPATH-QCM-900",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Question d’anapath sur l’hyperthyroidie (basedow), 1 réponse fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Infiltration lymphocytaire"
+        },
+        {
+          "id": "B",
+          "text": "Cellules folliculaires plus hautes que larges (ou l’inverse)"
+        },
+        {
+          "id": "C",
+          "text": "Diminution du colloide"
+        },
+        {
+          "id": "D",
+          "text": "Pas d’atypie particulière"
+        },
+        {
+          "id": "E",
+          "text": "Lacunes de résorption observées"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 16,
+        "originalNumber": null,
+        "auditRef": "2025-01-p16-l482"
+      },
+      "chapter": "thyroide",
+      "subchapter": "thyroidites",
+      "lessonLinks": [
+        "thyr-thyroidites",
+        "hyper-basedow"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "BASEDOW-ANAPATH",
+      "answerNote": "Anapath, hors numérotation (fin de document). Doute du transcripteur sur la formulation de B (« ou l'inverse »), pas sur la réponse."
+    },
+    {
+      "id": "ENDO-2025-01-RADIO-QCM-900",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Qu’est-ce qui est une indication de ponction",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Adénome spongiforme de 30mm"
+        },
+        {
+          "id": "B",
+          "text": "Macrocalcification"
+        },
+        {
+          "id": "C",
+          "text": "Adénome de 10 mm positif au PET-CT"
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "RADIO",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 19,
+        "originalNumber": null,
+        "auditRef": "2025-01-p19-l564"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CYTOPONCTION",
+      "answerNote": "3 propositions."
+    },
+    {
+      "id": "ENDO-2025-01-RADIO-QCM-901",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "Quelle est l’argument pour faire une cytoponction ? (1 vraie)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Aspect spongiforme"
+        },
+        {
+          "id": "B",
+          "text": "Queue de comète"
+        },
+        {
+          "id": "C",
+          "text": "Macrocalcification"
+        },
+        {
+          "id": "D",
+          "text": "10 mm et PET-scan hyper métabolique"
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "RADIO",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 19,
+        "originalNumber": null,
+        "auditRef": "2025-01-p19-l568"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CYTOPONCTION",
+      "answerNote": "4 propositions ; variante avec 10 mm (20 mm en mai 2023)."
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-026",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "nodule thyroïdien, suspicions de lésion cancéreuse, donner la fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "calcitonine abaissée"
+        },
+        {
+          "id": "B",
+          "text": "sexe masculin"
+        },
+        {
+          "id": "C",
+          "text": "antécédents d’irradiation cervicale"
+        },
+        {
+          "id": "D",
+          "text": "adénopathie associée"
+        },
+        {
+          "id": "E",
+          "text": "microcalcifications"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 5,
+        "originalNumber": 26,
+        "auditRef": "2025-01-Q26"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "NOD-SUSP"
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-028",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Donner la cause d’une thyroïdite subfébrile de Quervain:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Infection bactérienne"
+        },
+        {
+          "id": "B",
+          "text": "Traumatisme cervical"
+        },
+        {
+          "id": "C",
+          "text": "Infection virale"
+        },
+        {
+          "id": "D",
+          "text": "Carence en iode"
+        },
+        {
+          "id": "E",
+          "text": "Irradiation (?)"
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 5,
+        "originalNumber": 28,
+        "auditRef": "2025-01-Q28"
+      },
+      "chapter": "thyroide",
+      "subchapter": "thyroidites",
+      "lessonLinks": [
+        "thyr-thyroidites",
+        "hyper-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "QUERVAIN",
+      "answerNote": "Proposition E retranscrite avec doute (« Irradiation (?) »)."
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCMM-029",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "question tuyau sur la thyroïdite de De Quervain (la fausse) :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Se traite par des ATS"
+        },
+        {
+          "id": "B",
+          "text": "Principalement en post-partum"
+        },
+        {
+          "id": "C",
+          "text": "Le premier choix de traitement sont les AINS forte dose et les GC"
+        },
+        {
+          "id": "D",
+          "text": "Il y a un syndrome inflammatoire"
+        },
+        {
+          "id": "E",
+          "text": "Douleur cervicale irradiant vers la mâchoire"
+        }
+      ],
+      "expected": [
+        "A",
+        "B"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 6,
+        "originalNumber": 29,
+        "auditRef": "2025-01-Q29"
+      },
+      "chapter": "thyroide",
+      "subchapter": "thyroidites",
+      "lessonLinks": [
+        "thyr-thyroidites",
+        "hyper-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "QUERVAIN",
+      "answerNote": "La consigne retranscrite demande 1 réponse(s), mais 2 proposition(s) sont marquées dans la compilation."
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-031",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Dans quel cas ne peut-on pas avoir une diminution de la TSH ? :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hyperthyroïdie"
+        },
+        {
+          "id": "B",
+          "text": "Thyroïdite"
+        },
+        {
+          "id": "C",
+          "text": "Insuffisance hypophysaire axe thyroïdien"
+        },
+        {
+          "id": "D",
+          "text": "Grossesse 1er trimestre"
+        },
+        {
+          "id": "E",
+          "text": "Au diagnostic d’un coma myxoedemateux"
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 6,
+        "originalNumber": 31,
+        "auditRef": "2025-01-Q31"
+      },
+      "chapter": "thyroide",
+      "subchapter": "explo",
+      "lessonLinks": [
+        "thyr-explo",
+        "hyper-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "TSH-BASSE"
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-032",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Une patiente de 83 ans, avec hypothyroïdie connue suite à une thyroïdectomie totale, est traitée chroniquement par lévothyroxine sodique 100 microgramme/jour le matin. Elle vous consulte pour fatigue et amaigrissement. Sa biologie récente montre une TSH à 0,30 microU/mL (nl : 0,30-3,5), une T4 libre à 21 pmol/L (nl : 12-22) et une T3 libre à 5,2 pmol/L (nl : 2,0-6,0). Que lui conseillez-vous ? (Une seule bonne réponse)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Vous poursuivez la même dose de L-Thyroxine mais vous insistez sur la prise au matin à jeun"
+        },
+        {
+          "id": "B",
+          "text": "Vous poursuivez la même dose de L-Thyroxine et lui prescrivez un Beta-Bloquant selectif à faible dose le soir"
+        },
+        {
+          "id": "C",
+          "text": "Vous augmentez la dose de la Thyroxine à 125 microgramme/jour"
+        },
+        {
+          "id": "D",
+          "text": "Vous diminuez la dose de la Thyroxine à 75 microgramme/jour (soit ça, soit la A)"
+        },
+        {
+          "id": "E",
+          "text": "Vous arrêtez la LThyroxine"
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 6,
+        "originalNumber": 32,
+        "auditRef": "2025-01-Q32"
+      },
+      "chapter": "hypo",
+      "subchapter": "traitement",
+      "lessonLinks": [
+        "hypo-traitement"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "LT4-AGEE",
+      "answerNote": "« soit ça, soit la A » : hésitation entre diminuer la dose et insister sur la prise à jeun."
+    },
+    {
+      "id": "ENDO-2025-01-PEDIA-QCM-900",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "question est sorti il y a 7 jours (il en a 12 jours de vie). Quelle est l'attitude recommandée ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Prévoir une consultation pour évaluer l'évolution clinique"
+        },
+        {
+          "id": "B",
+          "text": "Prévoir des examens complémentaires pour évaluer l'enfant."
+        },
+        {
+          "id": "C",
+          "text": "On amène l'enfant en urgence et on lance des examens complémentaires"
+        },
+        {
+          "id": "D",
+          "text": "On amène l'enfant en urgence, on fait des prélèvements biologiques et on commence le traitement par LThyroxine sans attendre les résultats de l imagerie"
+        },
+        {
+          "id": "E",
+          "text": "On amène l'enfant en urgence et on fait un bilan complet (biologie+imagerie) pour évaluer la condition clinique et ensuite donner de la LThyroxine"
+        },
+        {
+          "id": "F",
+          "text": "C’était oas exactement ça mais c’était l’idée"
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "PEDIA",
+        "teacher": "Lysy",
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 18,
+        "originalNumber": null,
+        "auditRef": "2025-01-p18-l544"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "NN-TSH",
+      "answerNote": "Pédiatrie, hors numérotation. « C'était pas exactement ça mais c'était l'idée »."
+    }
+  ]
+}

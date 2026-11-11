@@ -7,6 +7,8 @@ import { ChapterPage } from '@/pages/ChapterPage';
 import { LessonPage } from '@/pages/LessonPage';
 import { QuizPage } from '@/pages/QuizPage';
 import { TrainingPage } from '@/pages/TrainingPage';
+import { ArchivesPage } from '@/pages/ArchivesPage';
+import { ArchiveQuestionPage } from '@/pages/ArchiveQuestionPage';
 import { ProgressProvider } from '@/state/ProgressContext';
 
 /**
@@ -25,6 +27,8 @@ export function App() {
             <Route path="cours/:chapterId/lecon/:lessonId" element={<LessonPage />} />
             <Route path="quiz" element={<QuizPage />} />
             <Route path="entrainement" element={<TrainingPage />} />
+            <Route path="examens" element={<ArchivesPage />} />
+            <Route path="examens/:questionId" element={<ArchiveQuestionPage />} />
             <Route path="progression" element={<ProgressPage />} />
             <Route path="*" element={<p>Page introuvable. Utilise le menu pour revenir à l’accueil.</p>} />
           </Route>

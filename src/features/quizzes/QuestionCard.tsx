@@ -181,6 +181,9 @@ export function QuestionCard({ question: q, mode, hintsEnabled, sessionId, onAns
               <p>{q.explanation.text}</p>
             </div>
           )}
+          {!q.explanation && (
+            <p className="muted">📝 L’explication détaillée de cette question est en cours de rédaction. En attendant, la leçon liée ci-dessous contient la notion.</p>
+          )}
           {q.pitfall && <p className="pitfall">🪤 <strong>Piège à éviter :</strong> {q.pitfall}</p>}
           {q.sourceComments.length > 0 && <p className="muted">Note de la compilation : {q.sourceComments.join(' · ')}</p>}
           {q.kind === 'archive' && <p className="muted">Source : {q.provenance.sourceFile}, page {q.provenance.page}.</p>}

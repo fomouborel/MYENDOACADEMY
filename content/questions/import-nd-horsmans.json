@@ -1,0 +1,59 @@
+{
+  "source": "import-nd-horsmans",
+  "questions": [
+    {
+      "id": "ENDO-ND-PHARMA-QCM-005",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Effet secondaire principal du traitement par hormones thyroïdiennes",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Leucopénie"
+        },
+        {
+          "id": "B",
+          "text": "Hépatite"
+        },
+        {
+          "id": "C",
+          "text": "Hyperthyroïdie"
+        },
+        {
+          "id": "D",
+          "text": "Dysgueusie"
+        },
+        {
+          "id": "E",
+          "text": "Nausée"
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 88,
+        "originalNumber": 5,
+        "auditRef": "ND-horsmans-hormones-Q5"
+      },
+      "chapter": "hypo",
+      "subchapter": "traitement",
+      "lessonLinks": [
+        "hypo-traitement"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ES-HT"
+    }
+  ]
+}

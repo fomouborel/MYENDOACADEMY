@@ -1,0 +1,752 @@
+{
+  "source": "import-nd-beauloye",
+  "questions": [
+    {
+      "id": "ENDO-ND-PEDIA-QCM-203",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Courbe de croissance C avec lenteur à l’école -> thyroïdite +1 c’éttait pas déficit en GH (à cause d’une",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "hypothyroïdie?) Elle avait 12 ans…."
+        }
+      ],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [
+        "« +1 » ×1 sur la proposition : hypothyroïdie?) Elle avait 12 ans…."
+      ],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PEDIA",
+        "teacher": "Beauloye",
+        "formerTeacher": true,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 74,
+        "originalNumber": null,
+        "auditRef": "ND-beauloye-pediatrie-p74-l3252"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "CROISSANCE-THYR",
+      "answerNote": "« thyroïdite +1, c'était pas déficit en GH ? +1 » : réponse débattue. Réponse marquée non rattachable à une proposition retranscrite."
+    },
+    {
+      "id": "ENDO-ND-PEDIA-QCM-209",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "5 : Courbe taille décroche en horizontal, pas de céphalée + hypothyroïdie à la bio: hypothyroïdie ⇒ thyroïde",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "ectopique (cause d’hypothyroïdie) une cassure aussi net on avait vu soit une thyroïdite soit un craniopharyngiome : ici thyroïdite"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PEDIA",
+        "teacher": "Beauloye",
+        "formerTeacher": true,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 75,
+        "originalNumber": null,
+        "auditRef": "ND-beauloye-pediatrie-p75-l3321"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CROISSANCE-THYR",
+      "answerNote": "Réponse débattue (thyroïde ectopique / thyroïdite)."
+    },
+    {
+      "id": "ENDO-ND-PEDIA-QCM-210",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "TSH à 100, T4 à 2, IGF1 à 80, A1P1M1, décroche sa taille brutalement à l’âge de 9 ans, décroche son poids vers 11,5 ans. C’est celle qui avait des céphalés ? c’était la même que dans les 3 courbes?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Cushing"
+        },
+        {
+          "id": "B",
+          "text": "Thyroïdite"
+        },
+        {
+          "id": "C",
+          "text": "Crâniopharyngiome"
+        },
+        {
+          "id": "D",
+          "text": "Hypothyroïdie centrale?"
+        },
+        {
+          "id": "E",
+          "text": "?? une longue proposition qu’il y avait aussi dans la 61 je pense"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "absent",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PEDIA",
+        "teacher": "Beauloye",
+        "formerTeacher": true,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 75,
+        "originalNumber": null,
+        "auditRef": "ND-beauloye-pediatrie-p75-l3326"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "CROISSANCE-THYR",
+      "answerNote": "Propositions incomplètes et doute du transcripteur."
+    },
+    {
+      "id": "ENDO-ND-PEDIA-QCMM-216",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-correct",
+      "stem": "A quels diagnostics correspondent la courbe D ? (2 réponses justes)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "La courbe D = Cassure rapide vers 5 ans (sur 1-2 ans) de la courbe de taille suivi d’une cassure de poids vers le haut Hypothyroïdie"
+        },
+        {
+          "id": "B",
+          "text": "Craniopharyngiome"
+        }
+      ],
+      "expected": [
+        "A",
+        "B"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PEDIA",
+        "teacher": "Beauloye",
+        "formerTeacher": true,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 78,
+        "originalNumber": null,
+        "auditRef": "ND-beauloye-pediatrie-p78-l3477"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "CROISSANCE-THYR",
+      "answerNote": "Question de croissance dont une des deux réponses est l'hypothyroïdie."
+    },
+    {
+      "id": "ENDO-ND-PEDIA-QCM-201",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Qu'est-ce qu’on dose sur le papier buvard du Guthrie ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "TSH"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PEDIA",
+        "teacher": "Beauloye",
+        "formerTeacher": true,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 71,
+        "originalNumber": null,
+        "auditRef": "ND-beauloye-pediatrie-p71-l3119"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "GUTHRIE",
+      "answerNote": "Seule la réponse « TSH » est notée."
+    },
+    {
+      "id": "ENDO-ND-PEDIA-QCM-206",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Sarah a besoin d’une supplémentation en L-Thyroxine. Elle pesait à la naissance 3 kg, maintenant elle pèse 3,5 kg :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "25 microg en comprimé"
+        },
+        {
+          "id": "B",
+          "text": "50 microg en préparation magistrale par le pharmacien : sirop"
+        },
+        {
+          "id": "C",
+          "text": "50 microg en comprimé"
+        },
+        {
+          "id": "D",
+          "text": "..."
+        }
+      ],
+      "expected": [],
+      "answerStatus": "absent",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PEDIA",
+        "teacher": "Beauloye",
+        "formerTeacher": true,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 74,
+        "originalNumber": null,
+        "auditRef": "ND-beauloye-pediatrie-p74-l3265"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "NN-DOSE",
+      "answerNote": "Aucune réponse n'est indiquée dans la compilation."
+    },
+    {
+      "id": "ENDO-ND-PEDIA-QCM-211",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Dosage de L-Thyroxine à donner à un enfant AGE?? de 3,5kg avec un poids de naissance = 3kg.",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "50µg sous forme comprimé"
+        },
+        {
+          "id": "B",
+          "text": "50µg sous forme de préparation faite par le Pharmacien"
+        },
+        {
+          "id": "C",
+          "text": "37,5µg sous forme préparation faite par le Pharmacien"
+        },
+        {
+          "id": "D",
+          "text": "10"
+        },
+        {
+          "id": "E",
+          "text": "15"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "absent",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PEDIA",
+        "teacher": "Beauloye",
+        "formerTeacher": true,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 77,
+        "originalNumber": null,
+        "auditRef": "ND-beauloye-pediatrie-p77-l3388"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "NN-DOSE",
+      "answerNote": "Aucune réponse n'est indiquée dans la compilation."
+    },
+    {
+      "id": "ENDO-ND-PEDIA-QCM-204",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Sarah, 10 jours, test de Guthrie positif : TSH 650, T4L très basse. Le labo indique que la Tg est indosable. Quel diagnostic ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Athyréose"
+        },
+        {
+          "id": "B",
+          "text": "Dyshormonogénèse"
+        },
+        {
+          "id": "C",
+          "text": "Thyroïde ectopique"
+        },
+        {
+          "id": "D",
+          "text": "Thyroïdite"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "absent",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PEDIA",
+        "teacher": "Beauloye",
+        "formerTeacher": true,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 74,
+        "originalNumber": null,
+        "auditRef": "ND-beauloye-pediatrie-p74-l3254"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "NN-ETIO",
+      "answerNote": "Ancien titulaire (Beauloye)."
+    },
+    {
+      "id": "ENDO-ND-PEDIA-QCM-205",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Imaginons que la Tg de Sarah soit élevée. Un truc du genre. Quel diagnostic?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Athyréose"
+        },
+        {
+          "id": "B",
+          "text": "Dyshormonogénèse"
+        },
+        {
+          "id": "C",
+          "text": "Thyroïde ectopique"
+        },
+        {
+          "id": "D",
+          "text": "Thyroïdite"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PEDIA",
+        "teacher": "Beauloye",
+        "formerTeacher": true,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 74,
+        "originalNumber": null,
+        "auditRef": "ND-beauloye-pediatrie-p74-l3260"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "NN-ETIO",
+      "answerNote": "« Un truc du genre » : énoncé approximatif, pas de réponse."
+    },
+    {
+      "id": "ENDO-ND-PEDIA-QCM-212",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Test revenu positif au ghutrie. Au J10 : patient avec un tableau d’hypothyroïdie, Ac négatif, T4 0,2 et TSH ++++(il me semble que c’était un piege, elle était normale 638 microU/L or l’unité donnée dans la norme était en mU/L), Tg indosable",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Athyréose"
+        },
+        {
+          "id": "B",
+          "text": "Ectopie thyroïdienne"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [
+        "Question signalée « possiblement annulée » par les étudiants."
+      ],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PEDIA",
+        "teacher": "Beauloye",
+        "formerTeacher": true,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 77,
+        "originalNumber": null,
+        "auditRef": "ND-beauloye-pediatrie-p77-l3394"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "NN-ETIO",
+      "answerNote": "« Q possiblement annulée » ; piège d'unités signalé ; réponse notée => athyréose."
+    },
+    {
+      "id": "ENDO-ND-PEDIA-QCM-213",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quid si ce même patient a un goître et un Tg élevée",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Dyshormonogenèse"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [
+        "Question signalée « possiblement annulée » par les étudiants."
+      ],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PEDIA",
+        "teacher": "Beauloye",
+        "formerTeacher": true,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 77,
+        "originalNumber": null,
+        "auditRef": "ND-beauloye-pediatrie-p77-l3399"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "NN-ETIO",
+      "answerNote": "« Q possiblement annulée » ; réponse notée => dyshormonogenèse."
+    },
+    {
+      "id": "ENDO-ND-PEDIA-QCMM-200",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-correct",
+      "stem": "Comment peut se manifester l'hypothyroïdie congénitale chez un NN ? (2V)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Retard du développement psychomoteur"
+        },
+        {
+          "id": "B",
+          "text": "L’enfant boit mal"
+        },
+        {
+          "id": "C",
+          "text": "Ictère prolongé"
+        },
+        {
+          "id": "D",
+          "text": "Fontanelle post large"
+        },
+        {
+          "id": "E",
+          "text": "DH sévère"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "absent",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PEDIA",
+        "teacher": "Beauloye",
+        "formerTeacher": true,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 71,
+        "originalNumber": null,
+        "auditRef": "ND-beauloye-pediatrie-p71-l3092"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "NN-SIGNES",
+      "answerNote": "Ancien titulaire (Beauloye)."
+    },
+    {
+      "id": "ENDO-ND-PEDIA-QCM-214",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "A propos des caractéristiques de l'hypothyroïdie chez le nouveau-né toutes sont vraies sauf une :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Macroglossie"
+        },
+        {
+          "id": "B",
+          "text": "Fontanelles se referment très tôt"
+        },
+        {
+          "id": "C",
+          "text": "Subictère"
+        },
+        {
+          "id": "D",
+          "text": "Détresse respi"
+        },
+        {
+          "id": "E",
+          "text": "Hernie ombilicale"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "absent",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PEDIA",
+        "teacher": "Beauloye",
+        "formerTeacher": true,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 77,
+        "originalNumber": null,
+        "auditRef": "ND-beauloye-pediatrie-p77-l3404"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "NN-SIGNES",
+      "answerNote": "Aucune réponse n'est indiquée dans la compilation."
+    },
+    {
+      "id": "ENDO-ND-PEDIA-QCM-207",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Vu que ses parents ont des ATCD de thyroide, on fait un check up (question retombée de l’an passée)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Euthyroidienne"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PEDIA",
+        "teacher": "Beauloye",
+        "formerTeacher": true,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 75,
+        "originalNumber": null,
+        "auditRef": "ND-beauloye-pediatrie-p75-l3294"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PEDIA-THYR",
+      "answerNote": "Une seule proposition."
+    },
+    {
+      "id": "ENDO-ND-PEDIA-QCM-208",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Aline, 3ans, vient à la consultation parce que sa mère trouve pâle et fatiguée, on fait un bilan thyroïdien et on voit une T4 nle et une TSH d’environ 6.5 (les normes adultes de labo sont données). Un peu en surpoids, pas de goître palpé, examen entièrement normal.",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Elle est euthyroïdienne"
+        },
+        {
+          "id": "B",
+          "text": "Elle est obèse"
+        },
+        {
+          "id": "C",
+          "text": "Elle a une hypothyroïdie subclinique"
+        },
+        {
+          "id": "D",
+          "text": "Elle a une hypothyroïdie secondaire"
+        },
+        {
+          "id": "E",
+          "text": "Elle a une carence en iode"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "absent",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PEDIA",
+        "teacher": "Beauloye",
+        "formerTeacher": true,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 75,
+        "originalNumber": null,
+        "auditRef": "ND-beauloye-pediatrie-p75-l3304"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "SUBCLIN-PEDIA",
+      "answerNote": "Normes adultes données."
+    },
+    {
+      "id": "ENDO-ND-PEDIA-QCM-215",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Histoire d’une fille de 13 ans, surpoids mais croissance normale, les parents viennent pour checker si hypothyroïdie… Elle avait 5,6 de TSH, sa T4L était dans les normes (elle donnait les valeurs du labo mais donc adultes : mais au final ca revient plus ou moins au même vu qu’elle a 13 ans et que ca varie surtout en début de vie)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Euthyroïdie"
+        },
+        {
+          "id": "B",
+          "text": "Hypothyroidie subclinique"
+        },
+        {
+          "id": "C",
+          "text": "On sait pas dire, besoin d’autres tests complémentaires"
+        },
+        {
+          "id": "D",
+          "text": "Carence en iode"
+        },
+        {
+          "id": "E",
+          "text": "Hypothyroidie secondaire"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "absent",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PEDIA",
+        "teacher": "Beauloye",
+        "formerTeacher": true,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 77,
+        "originalNumber": null,
+        "auditRef": "ND-beauloye-pediatrie-p77-l3410"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "SUBCLIN-PEDIA",
+      "answerNote": "Normes adultes données."
+    }
+  ]
+}

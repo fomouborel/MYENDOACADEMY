@@ -45,14 +45,7 @@ test('parcours complet : leçon, vérification, niveau examen, progression', asy
 });
 
 test('QCM « deux fausses » : deux propositions exigées', async ({ page }) => {
-  await page.goto('./#/quiz?mode=lesson&lesson=thyr-thyroidites');
-  // avancer jusqu'à la question « thyroïdite silencieuse »
-  for (let i = 0; i < 10; i++) {
-    if (await page.getByText('Cochez les deux propositions FAUSSES.').isVisible()) break;
-    await page.locator('.choice').first().click();
-    await page.getByRole('button', { name: 'Valider ma réponse' }).click();
-    await page.getByRole('button', { name: /Question suivante|Voir le bilan/ }).click();
-  }
+  await page.goto('./#/examens/ENDO-ND-ADULTE-QCMM-228');
   await expect(page.getByText('Cochez les deux propositions FAUSSES.')).toBeVisible();
   const validate = page.getByRole('button', { name: 'Valider ma réponse' });
   await page.getByRole('button', { name: /Douleur cervicale/ }).click();

@@ -104,7 +104,9 @@ export function validateContent(raw: RawContent): string[] {
       if (new Set(optIds).size !== optIds.length) err(w, 'propositions en double');
       for (const e of q.expected) if (!optIds.includes(e)) err(w, `réponse attendue « ${e} » absente des propositions`);
       const n = expectedSelectionCount(q.instruction);
-      if (n !== null && q.answerStatus !== 'incomplete' && q.expected.length > 0 && q.expected.length !== n) {
+      // Une réponse « discutée » peut ne pas respecter la consigne (deux réponses marquées pour « la fausse ») :
+      // elle reste consultable mais n'est jamais notée (isPlayable).
+      if (n !== null && q.answerStatus !== 'incomplete' && q.answerStatus !== 'disputed' && q.expected.length > 0 && q.expected.length !== n) {
         err(w, `la consigne demande ${n} réponse(s), ${q.expected.length} attendue(s)`);
       }
       if (q.options.length < 3 && q.answerStatus !== 'incomplete') err(w, 'moins de 3 propositions : statut « incomplete » requis');

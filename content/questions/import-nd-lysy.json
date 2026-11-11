@@ -1,0 +1,106 @@
+{
+  "source": "import-nd-lysy",
+  "questions": [
+    {
+      "id": "ENDO-ND-PEDIA-QCM-162",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Bébé de 12 jours de vie dont la TSH crève le plafond. Vous êtes stagiaire à la maternité et le centre de dépistage vous en informe. Quelle est l'attitude recommandée ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Prévoir une consultation pour évaluer l'évolution clinique"
+        },
+        {
+          "id": "B",
+          "text": "Prévoir des examens complémentaires pour évaluer l'enfant."
+        },
+        {
+          "id": "C",
+          "text": "On amène l'enfant en urgence et on lance des examens complémentaires"
+        },
+        {
+          "id": "D",
+          "text": "On amène l'enfant en urgence, on fait des prélèvements biologiques et on commence le traitement par LThyroxine sans attendre les résultats de l'imagerie"
+        },
+        {
+          "id": "E",
+          "text": "On amène l'enfant en urgence et on fait un bilan complet (biologie+imagerie) pour évaluer la condition clinique et ensuite donner de la LThyroxine"
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PEDIA",
+        "teacher": "Lysy",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 70,
+        "originalNumber": 2,
+        "auditRef": "ND-lysy-thyroide-Q2"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "NN-TSH"
+    },
+    {
+      "id": "ENDO-ND-PEDIA-QCM-161",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "Thyroïde: la vraie?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Enfant avec TSH élevée mais T4 normale peut avoir difficultés scolaires"
+        },
+        {
+          "id": "B",
+          "text": "Enfant avec hypoT décompensée avec tsh élevée et T4 basse aura toujours un pb de croissance Lors d’une prise de poids importante chez l’enfant il faut toujours check si hypothyroïdie"
+        },
+        {
+          "id": "C",
+          "text": "La présence d’un goitre permet d’exclure une hyperthyroïdie"
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PEDIA",
+        "teacher": "Lysy",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 70,
+        "originalNumber": 1,
+        "auditRef": "ND-lysy-thyroide-Q1"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PEDIA-THYR",
+      "answerNote": "Rouge = C ; mai 2023 = B (voir groupe)."
+    }
+  ]
+}

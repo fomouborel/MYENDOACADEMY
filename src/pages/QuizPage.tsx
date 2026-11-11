@@ -23,6 +23,7 @@ export function QuizPage() {
     mode,
     chapters: p.get('chapter')?.split(',').filter(Boolean),
     lesson: p.get('lesson') ?? undefined,
+    ids: p.get('ids')?.split(',').filter(Boolean),
     audience: (p.get('audience') as QuizFilters['audience']) ?? 'all',
     status: (p.get('status') as QuizFilters['status']) ?? 'all',
     kind: (p.get('kind') as QuizFilters['kind']) ?? 'all',
@@ -39,7 +40,9 @@ export function QuizPage() {
     ? { to: `/cours/${lesson.chapterId}/lecon/${lesson.id}`, label: 'Retour à la leçon' }
     : chapter
       ? { to: `/cours/${chapter.id}`, label: `Retour au cours « ${chapter.title} »` }
-      : { to: '/entrainement', label: 'Retour à l’entraînement' };
+      : filters.ids
+        ? { to: '/examens', label: 'Retour aux anciens examens' }
+        : { to: '/entrainement', label: 'Retour à l’entraînement' };
 
   if (!ready) return <p>Chargement de ta progression…</p>;
   return (

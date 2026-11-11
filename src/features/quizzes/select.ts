@@ -11,6 +11,7 @@ export interface QuizFilters {
   mode: QuizMode;
   chapters?: string[];
   lesson?: string;
+  ids?: string[];
   audience?: 'all' | 'adulte' | 'pediatrie';
   status?: 'all' | 'not-started' | 'failed' | 'to-review';
   kind?: 'all' | 'archive' | 'exercise';
@@ -32,6 +33,7 @@ export function shuffle<T>(items: T[], seed: number): T[] {
 
 export function selectQuestions(all: Question[], f: QuizFilters, states: Map<string, QuestionState>, now: Date): Question[] {
   let qs = all.filter(isPlayable);
+  if (f.ids?.length) qs = f.ids.map((id) => qs.find((q) => q.id === id)).filter((q): q is Question => Boolean(q));
   if (f.chapters?.length) qs = qs.filter((q) => f.chapters!.includes(q.chapter));
   if (f.lesson) qs = qs.filter((q) => q.lessonLinks.includes(f.lesson!));
   if (f.audience && f.audience !== 'all') qs = qs.filter((q) => audienceOf(q) === f.audience);

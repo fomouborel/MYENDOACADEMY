@@ -1,0 +1,280 @@
+{
+  "source": "import-2026-01",
+  "questions": [
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-900",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "A propos de l’évolution d’un goitre : 1 fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Peut devenir plongeant"
+        },
+        {
+          "id": "B",
+          "text": "Peut devenir compressif"
+        },
+        {
+          "id": "C",
+          "text": "Peut devenir multinodulaire"
+        },
+        {
+          "id": "D",
+          "text": "Peut être dû à une carence en iode"
+        },
+        {
+          "id": "E",
+          "text": "et là fausse ??"
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Alexopoulou",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 7,
+        "originalNumber": null,
+        "auditRef": "2026-01-p7-l281"
+      },
+      "chapter": "thyroide",
+      "subchapter": "goitre",
+      "lessonLinks": [
+        "thyr-goitre"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "GOITRE",
+      "answerNote": "La proposition fausse n'est pas retranscrite (« et là fausse ?? »)."
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-018",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Thyroïdite de quervain (1 fausse)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Coticoides"
+        },
+        {
+          "id": "B",
+          "text": "AINS à forte dose"
+        },
+        {
+          "id": "C",
+          "text": "ATS si épisodes hyperthyroïdie"
+        },
+        {
+          "id": "D",
+          "text": "Bêta bloquant peuvent être prescrit"
+        },
+        {
+          "id": "E",
+          "text": "En cas d'hypothyroïdie transitoire on peut donner de la L- Thyroxine"
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Alexopoulou",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 5,
+        "originalNumber": 18,
+        "auditRef": "2026-01-Q18"
+      },
+      "chapter": "thyroide",
+      "subchapter": "thyroidites",
+      "lessonLinks": [
+        "thyr-thyroidites",
+        "hyper-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "QUERVAIN",
+      "answerNote": "Alexopoulou."
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-901",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "QUESTIONS EN VRAC :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "propos de l’ophtalmopathie de Basedow (une fausse) :"
+        },
+        {
+          "id": "B",
+          "text": "Un traitement par ATS permet de guérir à 100% dans 100% des cas"
+        },
+        {
+          "id": "C",
+          "text": "L’ophtalmopathie peut arriver avant l’hyperthyroïdie"
+        },
+        {
+          "id": "D",
+          "text": "Un traitement par iode radioactif peut aggraver l’OB"
+        },
+        {
+          "id": "E",
+          "text": "Le tabac est un FR"
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Alexopoulou",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 7,
+        "originalNumber": null,
+        "auditRef": "2026-01-p7-l274"
+      },
+      "chapter": "hyper",
+      "subchapter": "basedow",
+      "lessonLinks": [
+        "hyper-basedow"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ORBITOPATHIE",
+      "answerNote": "4 propositions retranscrites."
+    },
+    {
+      "id": "ENDO-2026-01-PHARMA-QCM-053",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Effet secondaire principal du traitement par hormones thyroïdiennes (tuyau)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Leucopénie"
+        },
+        {
+          "id": "B",
+          "text": "Hépatite"
+        },
+        {
+          "id": "C",
+          "text": "Hyperthyroïdie"
+        },
+        {
+          "id": "D",
+          "text": "Dysgeusie"
+        },
+        {
+          "id": "E",
+          "text": "Nausée"
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 12,
+        "originalNumber": 53,
+        "auditRef": "2026-01-Q53"
+      },
+      "chapter": "hypo",
+      "subchapter": "traitement",
+      "lessonLinks": [
+        "hypo-traitement"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ES-HT",
+      "answerNote": "Horsmans."
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-016",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant l’hypothyroïdie primaire; une est fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "traitement par L-thyroxine"
+        },
+        {
+          "id": "B",
+          "text": "Taux de TSH élevé"
+        },
+        {
+          "id": "C",
+          "text": "1er cause en Europe est la thyroïdite d’hashimoto"
+        },
+        {
+          "id": "D",
+          "text": "Le traitement est toujours commencé à forte dose chez les personnes âgés"
+        },
+        {
+          "id": "E",
+          "text": "Je sais plus sorry mais pas la bonne"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "absent",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Alexopoulou",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 4,
+        "originalNumber": 16,
+        "auditRef": "2026-01-Q16"
+      },
+      "chapter": "hypo",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "hypo-diagnostic",
+        "hypo-grossesse"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HYPO-ADULTE",
+      "answerNote": "5e proposition oubliée (« je sais plus sorry mais pas la bonne ») ; aucune réponse marquée."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { chapters, lessons as allLessons } from '@/data/content';
+import { chapters, lessons as allLessons, questions } from '@/data/content';
 import { ChapterCard } from '@/components/ChapterCard';
 import { CoverageStats } from '@/components/Stats';
 import { useProgress } from '@/state/ProgressContext';
@@ -21,7 +21,10 @@ export function HomePage() {
       <ul className="cards">{chapters.filter((c) => c.domain === 'thyroide').map((c) => <ChapterCard key={c.id} c={c} />)}</ul>
       <h2>Ta progression</h2>
       <CoverageStats />
-      <p className="muted">Version prototype : 30 questions d’anciens examens et 15 exercices sont déjà intégrés ; la banque complète de thyroïde arrive à la prochaine étape.</p>
+      <p className="muted">
+        Banque actuelle : {questions.filter((q) => q.kind === 'archive').length} questions d’anciens examens de thyroïde (2016-2026) et {questions.filter((q) => q.kind === 'exercise').length} exercices.{' '}
+        <Link to="/examens">Parcourir les anciens examens</Link>
+      </p>
     </section>
   );
 }

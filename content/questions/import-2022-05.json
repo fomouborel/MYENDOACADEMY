@@ -1,0 +1,336 @@
+{
+  "source": "import-2022-05",
+  "questions": [
+    {
+      "id": "ENDO-2022-05-RADIO-QCMM-900",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-correct",
+      "stem": "- Quels sont les arguments pour faire une cytoponction du nodule? (2)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "calcifications en forme de comète"
+        },
+        {
+          "id": "B",
+          "text": "aspect spongiforme"
+        },
+        {
+          "id": "C",
+          "text": "hypoéchogène et 10mm"
+        },
+        {
+          "id": "D",
+          "text": "hypoéchogène avec contours irréguliers"
+        },
+        {
+          "id": "E",
+          "text": "20 mm et PET-scan hyper métabolique"
+        }
+      ],
+      "expected": [
+        "D",
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2022-05",
+        "discipline": "RADIO",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 36,
+        "originalNumber": null,
+        "auditRef": "2022-05-p36-l1375"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CYTOPONCTION"
+    },
+    {
+      "id": "ENDO-2022-05-ADULTE-QCM-034",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "On retrouve un goitre nodulaire ou diffus dans tous ces cas sauf un",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hypothyroïde"
+        },
+        {
+          "id": "B",
+          "text": "Hyperthyroïdie"
+        },
+        {
+          "id": "C",
+          "text": "Acromégalie"
+        },
+        {
+          "id": "D",
+          "text": "Carence en iode"
+        },
+        {
+          "id": "E",
+          "text": "?"
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2022-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 32,
+        "originalNumber": 34,
+        "auditRef": "2022-05-Q34"
+      },
+      "chapter": "thyroide",
+      "subchapter": "goitre",
+      "lessonLinks": [
+        "thyr-goitre"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "GOITRE",
+      "answerNote": "Réponse rouge « Hyperthyroïdie » discutable (Basedow et GMN toxique donnent un goitre) ; dans les questions apparentées 2016-2021 (Q20, Q35) la réponse est la prise d'hormones thyroïdiennes. Retranscription probablement inexacte ; 5e proposition manquante."
+    },
+    {
+      "id": "ENDO-2022-05-ADULTE-QCM-033",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Dans les cas suivants, la TSH diminue pour tous, sauf UN (et pas deux) :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Déficit sévère en iode"
+        },
+        {
+          "id": "B",
+          "text": "Premier trimestre de grossesse"
+        },
+        {
+          "id": "C",
+          "text": "Thyroïdite silencieuse"
+        },
+        {
+          "id": "D",
+          "text": "Etc"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2022-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 32,
+        "originalNumber": 33,
+        "auditRef": "2022-05-Q33"
+      },
+      "chapter": "thyroide",
+      "subchapter": "explo",
+      "lessonLinks": [
+        "thyr-explo",
+        "hyper-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "TSH-BASSE",
+      "answerNote": "Propositions partielles (« Etc »)."
+    },
+    {
+      "id": "ENDO-2022-05-ADULTE-QCM-037",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant l’hypothyroidie chez l'adulte en Belgique une fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "La première cause est Autoimmune"
+        },
+        {
+          "id": "B",
+          "text": "Autoimmune peut débuter par une phase d'hyperthyroïdie"
+        },
+        {
+          "id": "C",
+          "text": "Dans des cas sévères peut engendrer une hyponatrémie"
+        },
+        {
+          "id": "D",
+          "text": "Traitement par L thyroxine avec taux de TSH à 12 augmenter la dose de 25 (pas sûre)"
+        },
+        {
+          "id": "E",
+          "text": "Durant la grossesse on augmente le taux d'hormone thyroïdienne à la fin du premier trimestre"
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2022-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 32,
+        "originalNumber": 37,
+        "auditRef": "2022-05-Q37"
+      },
+      "chapter": "hypo",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "hypo-diagnostic",
+        "hypo-grossesse"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HYPO-ADULTE",
+      "answerNote": "Désaccord entre compilations : rouge (2016-2024) = « TSH à 12 → augmenter de 25 » (pas sûre) ; surligné (2016-2025) = « augmenter à la fin du 1er trimestre »."
+    },
+    {
+      "id": "ENDO-2022-05-PEDIA-QCM-900",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Bébé de 12 jours de vie dont la TSH crève le plafond. Vous êtes stagiaire à la maternité et le centre de",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "dépistage vous en informe. Quelle est l'attitude recommandée ?"
+        },
+        {
+          "id": "B",
+          "text": "Prévoir une consultation pour évaluer l'évolution clinique"
+        },
+        {
+          "id": "C",
+          "text": "Prévoir des examens complémentaires pour évaluer l'enfant."
+        },
+        {
+          "id": "D",
+          "text": "On amène l'enfant en urgence et on lance des examens complémentaires"
+        },
+        {
+          "id": "E",
+          "text": "On amène l'enfant en urgence, on fait des prélèvements biologiques et on commence le traitement par LThyroxine sans attendre les résultats de l'imagerie"
+        },
+        {
+          "id": "F",
+          "text": "On amène l'enfant en urgence et on fait un bilan complet (biologie+imagerie) pour évaluer la condition clinique et ensuite donner de la LThyroxine"
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2022-05",
+        "discipline": "PEDIA",
+        "teacher": "Lysy",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 33,
+        "originalNumber": null,
+        "auditRef": "2022-05-p33-l1265"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "NN-TSH"
+    },
+    {
+      "id": "ENDO-2022-05-PEDIA-QCM-901",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "Thyroïde: la vraie?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Enfant avec hypothyroïdie compensée (TSH élevée mais T4 normale) peut avoir difficultés scolaires"
+        },
+        {
+          "id": "B",
+          "text": "Enfant avec hypoT décompensée (tsh élevée et T4 basse) aura toujours un pb de croissance"
+        },
+        {
+          "id": "C",
+          "text": "Lors d’une prise de poids importante chez l’enfant il faut toujours check si hypothyroïdie"
+        },
+        {
+          "id": "D",
+          "text": "La présence d’un goitre permet d’exclure une hyperthyroïdie"
+        },
+        {
+          "id": "E",
+          "text": "??"
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2022-05",
+        "discipline": "PEDIA",
+        "teacher": "Lysy",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 33,
+        "originalNumber": null,
+        "auditRef": "2022-05-p33-l1257"
+      },
+      "chapter": "hypo",
+      "subchapter": "congenitale",
+      "lessonLinks": [
+        "hypo-congenitale"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PEDIA-THYR",
+      "answerNote": "Rouge = C ; surligné (compilation 2016-2025) = B ; mai 2023 = B."
+    }
+  ]
+}

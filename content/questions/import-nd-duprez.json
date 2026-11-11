@@ -1,0 +1,426 @@
+{
+  "source": "import-nd-duprez",
+  "questions": [
+    {
+      "id": "ENDO-ND-RADIO-QCMM-002",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-correct",
+      "stem": "A propos de la ponction d’un nodule thyroïdien, dans quelles situations, faut-il le ponctionner (2 réponses)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Eurtirads 2"
+        },
+        {
+          "id": "B",
+          "text": "Macrocalcifications"
+        },
+        {
+          "id": "C",
+          "text": "Nodule chaud"
+        },
+        {
+          "id": "D",
+          "text": "Contour lobulé et plus large que long"
+        },
+        {
+          "id": "E",
+          "text": "Positif au pet-scan"
+        }
+      ],
+      "expected": [
+        "D",
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 83,
+        "originalNumber": 2,
+        "auditRef": "ND-duprez-coche-imagerie-Q2"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CYTOPONCTION"
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-010",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Qu’est-ce qui n’est pas signe de malignité dans un nodule thyroïdien?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "microcalcifications"
+        },
+        {
+          "id": "B",
+          "text": "bord irrégulier"
+        },
+        {
+          "id": "C",
+          "text": "nodule hypoéchogène avec signe de la comète"
+        },
+        {
+          "id": "D",
+          "text": "plus haut que large (ou plus large que haut, je ne sais plus)"
+        },
+        {
+          "id": "E",
+          "text": "vascularisation centrale et périphérique"
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 84,
+        "originalNumber": 10,
+        "auditRef": "ND-duprez-coche-imagerie-Q10"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CYTOPONCTION",
+      "answerNote": "Doute sur la formulation de D (« plus haut que large ou l'inverse »), pas sur la réponse."
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-014",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Nodule thyroïdien : dans quel cas faudra-t-il le ponctionner ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "PET-CT positif"
+        },
+        {
+          "id": "B",
+          "text": "Nodule chaud"
+        },
+        {
+          "id": "C",
+          "text": "Vascularisation périphérique"
+        },
+        {
+          "id": "D",
+          "text": "Macrocalcifications"
+        },
+        {
+          "id": "E",
+          "text": "Signe de la queue de comète"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 84,
+        "originalNumber": 14,
+        "auditRef": "ND-duprez-coche-imagerie-Q14"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CYTOPONCTION"
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-124",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "En ce qui concerne des micro-calcifications au niveau de la thyroïde:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Macro-calcification toujours bénin"
+        },
+        {
+          "id": "B",
+          "text": "Micro-calcification toujours malin"
+        },
+        {
+          "id": "C",
+          "text": "Il faut faire une ponction quand microcalcification"
+        },
+        {
+          "id": "D",
+          "text": "Elles impliquent de faire un bilan complémentaire au CT scan"
+        },
+        {
+          "id": "E",
+          "text": "Elles indiquent que le contenu du nodule est colloïde"
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 85,
+        "originalNumber": 124,
+        "auditRef": "ND-duprez-coche-imagerie-Q124"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CYTOPONCTION"
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-128",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Quel nodule faut-il ne pas ponctionner?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Nodule chaud"
+        },
+        {
+          "id": "B",
+          "text": "Nodule avec microcalcifications"
+        },
+        {
+          "id": "C",
+          "text": "Nodules avec vascularisation centrale et encore qqc"
+        },
+        {
+          "id": "D",
+          "text": "Chez une homme jeune"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 86,
+        "originalNumber": 128,
+        "auditRef": "ND-duprez-coche-imagerie-Q128"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CYTOPONCTION",
+      "answerNote": "4 propositions."
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-012",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Apport de l’échographie concernant les thyroïdites chroniques auto-immunes: (Une fausse??)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Aspect tigré"
+        },
+        {
+          "id": "B",
+          "text": "Micronodules"
+        },
+        {
+          "id": "C",
+          "text": "Normo-/Hypervascularisation"
+        },
+        {
+          "id": "D",
+          "text": "Glandes polykystiques"
+        },
+        {
+          "id": "E",
+          "text": "Augmentation de volume localisée/diffuse"
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 84,
+        "originalNumber": 12,
+        "auditRef": "ND-duprez-coche-imagerie-Q12"
+      },
+      "chapter": "thyroide",
+      "subchapter": "thyroidites",
+      "lessonLinks": [
+        "thyr-thyroidites"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ECHO-THYROIDITE",
+      "answerNote": "Type de question incertain (« Une fausse?? »)."
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-008",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Qu'est-ce qu’on ne prend pas en compte dans le EU-TIRADS:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Taille"
+        },
+        {
+          "id": "B",
+          "text": "Forme"
+        },
+        {
+          "id": "C",
+          "text": "Aspect des contours"
+        },
+        {
+          "id": "D",
+          "text": "Échogénicité"
+        },
+        {
+          "id": "E",
+          "text": "Calcifications"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 84,
+        "originalNumber": 8,
+        "auditRef": "ND-duprez-coche-imagerie-Q8"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "EUTIRADS"
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-118",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Caractéristique écho de Basedow",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hypoéchogène et hypervascularisé en doppler"
+        },
+        {
+          "id": "B",
+          "text": "Vascularisation en tigre"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 85,
+        "originalNumber": 118,
+        "auditRef": "ND-duprez-coche-imagerie-Q118"
+      },
+      "chapter": "hyper",
+      "subchapter": "basedow",
+      "lessonLinks": [
+        "hyper-basedow"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ECHO-BASEDOW",
+      "answerNote": "Deux propositions."
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "source": "import-nd-marbaix",
+  "questions": [
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-106",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Maladie basedow",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "infiltration macrophage"
+        },
+        {
+          "id": "B",
+          "text": "infiltration Ly T cytotoxique"
+        },
+        {
+          "id": "C",
+          "text": "thyréocytes atrophiés par inhibition du récepteur TSH"
+        },
+        {
+          "id": "D",
+          "text": "excès de production de colloïde par stimulation récepteur TSH thyréocytes"
+        },
+        {
+          "id": "E",
+          "text": "diminution production colloïdes par stimulation récepteur TSH des thyréocytes"
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 82,
+        "originalNumber": 6,
+        "auditRef": "ND-marbaix-thyroide-parathyroides-Q6"
+      },
+      "chapter": "thyroide",
+      "subchapter": "thyroidites",
+      "lessonLinks": [
+        "thyr-thyroidites",
+        "hyper-basedow"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "BASEDOW-ANAPATH"
+    },
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-103",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Dans le carcinome médullaire thyroïdien :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Dépôt substances amyloïdes"
+        },
+        {
+          "id": "B",
+          "text": "Psammomes dans le CMT"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 81,
+        "originalNumber": 3,
+        "auditRef": "ND-marbaix-thyroide-parathyroides-Q3"
+      },
+      "chapter": "thyroide",
+      "subchapter": "cancers",
+      "lessonLinks": [
+        "thyr-cancers"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CMT-ANAPATH",
+      "answerNote": "Deux propositions."
+    },
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-108",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "En ce qui concerne le carcinome médullaire de la thyroïde, quelle est la proposition correcte?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "est caractérisé par une prolifération +++ de lymphocytes"
+        },
+        {
+          "id": "B",
+          "text": "est un sous-type de carcinome folliculaire de la thyroïde"
+        },
+        {
+          "id": "C",
+          "text": "caractérisé par la présence +++ de psammomes"
+        },
+        {
+          "id": "D",
+          "text": "Contient de la substance amyloïde"
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 82,
+        "originalNumber": 8,
+        "auditRef": "ND-marbaix-thyroide-parathyroides-Q8"
+      },
+      "chapter": "thyroide",
+      "subchapter": "cancers",
+      "lessonLinks": [
+        "thyr-cancers"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CMT-ANAPATH",
+      "answerNote": "4 propositions."
+    },
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-115",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Dans le cancer médullaire :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "On peut retrouver des dépôts amyloïdes"
+        },
+        {
+          "id": "B",
+          "text": "Invasion par des cellules inflammatoires, ly B et T"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 83,
+        "originalNumber": 15,
+        "auditRef": "ND-marbaix-thyroide-parathyroides-Q15"
+      },
+      "chapter": "thyroide",
+      "subchapter": "cancers",
+      "lessonLinks": [
+        "thyr-cancers"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CMT-ANAPATH",
+      "answerNote": "Deux propositions."
+    },
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-105",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Concernant le carcinome folliculaire de la thyroïde",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "le diagnostic peut se faire de manière aisée par ponction à l’aiguille fine"
+        },
+        {
+          "id": "B",
+          "text": "c’est le cancer le plus fréquent de la thyroïde"
+        },
+        {
+          "id": "C",
+          "text": "il métastase souvent dans les ganglions cervicaux"
+        },
+        {
+          "id": "D",
+          "text": "s’il est encapsulé, il ne peut être diagnostiqué que par une démonstration histologique d’effraction capsulaire ou une perméation vasculaire"
+        },
+        {
+          "id": "E",
+          "text": "hypercaptation d’iode à la scinti"
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 81,
+        "originalNumber": 5,
+        "auditRef": "ND-marbaix-thyroide-parathyroides-Q5"
+      },
+      "chapter": "thyroide",
+      "subchapter": "cancers",
+      "lessonLinks": [
+        "thyr-cancers"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "FOLLICULAIRE"
+    },
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-101",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Hashimoto :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Lymphocytes remplacent la glande thyroïdienne"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 81,
+        "originalNumber": 1,
+        "auditRef": "ND-marbaix-thyroide-parathyroides-Q1"
+      },
+      "chapter": "thyroide",
+      "subchapter": "thyroidites",
+      "lessonLinks": [
+        "thyr-thyroidites",
+        "hypo-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HASHI-ANAPATH",
+      "answerNote": "Une seule proposition."
+    },
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-102",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Hashimoto",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "se caractérise histologiquement par des lymphocytes B et T qui attaquent la glande"
+        },
+        {
+          "id": "B",
+          "text": "se caractérise histologiquement par des granulomes (peut-être le prof a-t-il précisé “dirigés contre la thyroglobuline” mais je ne suis plus sûre...) qui attaquent la glande"
+        },
+        {
+          "id": "C",
+          "text": "seule maladie auto-immune qui atteint la thyroïde"
+        },
+        {
+          "id": "D",
+          "text": "se caractérise histologiquement par de la fibrose, l’aspect évoque un cancer"
+        },
+        {
+          "id": "E",
+          "text": "“qu’est ce qu’il fout ce maudit pancake, tabernacle ?"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [
+        "La proposition E est vraisemblablement une plaisanterie du transcripteur (proposition originale inconnue)."
+      ],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 81,
+        "originalNumber": 2,
+        "auditRef": "ND-marbaix-thyroide-parathyroides-Q2"
+      },
+      "chapter": "thyroide",
+      "subchapter": "thyroidites",
+      "lessonLinks": [
+        "thyr-thyroidites",
+        "hypo-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HASHI-ANAPATH",
+      "answerNote": "Doute du transcripteur sur la formulation de B, pas sur la réponse."
+    },
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-107",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Dans Hashimoto:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "seule maladie auto-immune de la thyroïde"
+        },
+        {
+          "id": "B",
+          "text": "lyt B et T qui détruisent le parenchyme"
+        },
+        {
+          "id": "C",
+          "text": "fibrose qui remplace le parenchyme et peut apparaître comme un cancer"
+        },
+        {
+          "id": "D",
+          "text": "granulome géants qui détruit la thyroïde"
+        },
+        {
+          "id": "E",
+          "text": "donne principalement des exophtalmies"
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 82,
+        "originalNumber": 7,
+        "auditRef": "ND-marbaix-thyroide-parathyroides-Q7"
+      },
+      "chapter": "thyroide",
+      "subchapter": "thyroidites",
+      "lessonLinks": [
+        "thyr-thyroidites",
+        "hypo-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HASHI-ANAPATH"
+    },
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-112",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Dans Hashimoto:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hyperplasie des cellules C (et plein d’info en plus)"
+        },
+        {
+          "id": "B",
+          "text": "seule maladie autoimmune de la thyroïde"
+        },
+        {
+          "id": "C",
+          "text": "lyt B et T qui détruisent le parenchyme FAUX les follicules non ?"
+        },
+        {
+          "id": "D",
+          "text": "fibrose"
+        },
+        {
+          "id": "E",
+          "text": "granulomes géants dans la thyroïde , aspect granulomateux par formation de cellules dirigées contre les follicules thyroïdiens"
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 82,
+        "originalNumber": 12,
+        "auditRef": "ND-marbaix-thyroide-parathyroides-Q12"
+      },
+      "chapter": "thyroide",
+      "subchapter": "thyroidites",
+      "lessonLinks": [
+        "thyr-thyroidites",
+        "hypo-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HASHI-ANAPATH",
+      "answerNote": "Commentaire sur la réponse rouge : « FAUX les follicules non ? »."
+    }
+  ]
+}

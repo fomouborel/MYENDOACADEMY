@@ -1,0 +1,5219 @@
+[
+ {
+  "ref": "2025-01-p16-l482",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 16,
+  "num": null,
+  "line": 482,
+  "stem": [
+   "Question d’anapath sur l’hyperthyroidie (basedow), 1 réponse fausse"
+  ],
+  "lines": [
+   "A. Infiltration lymphocytaire",
+   "B. Cellules folliculaires plus hautes que larges (ou l’inverse)",
+   "C. Diminution du colloide",
+   "D. Pas d’atypie particulière",
+   "E. Lacunes de résorption observées",
+   "Question sur les critères de remboursement des médicaments dans les traitements"
+  ],
+  "marked": [
+   "A. Infiltration lymphocytaire"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hyperthyroïdie",
+  "sous_theme": "Anatomie pathologique – Basedow",
+  "note": "Anapath, hors numérotation (fin de document). Doute du transcripteur sur la formulation de B (« ou l'inverse »), pas sur la réponse.",
+  "groupe": "BASEDOW-ANAPATH",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "thyroidites",
+   "lessons": [
+    "thyr-thyroidites",
+    "hyper-basedow"
+   ]
+  }
+ },
+ {
+  "ref": "ND-marbaix-thyroide-parathyroides-Q6",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Marbaix – Anapath thyroïde/parathyroïdes/surrénales",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 82,
+  "num": 6,
+  "line": 3640,
+  "stem": [
+   "Maladie basedow"
+  ],
+  "lines": [
+   "a. infiltration macrophage",
+   "b. infiltration Ly T cytotoxique",
+   "thyréocytes atrophiés par inhibition du récepteur TSH",
+   "d. excès de production de colloïde par stimulation récepteur TSH thyréocytes",
+   "e. diminution production colloïdes par stimulation récepteur TSH des thyréocytes"
+  ],
+  "marked": [
+   "e. diminution production colloïdes par stimulation récepteur TSH des thyréocytes"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hyperthyroïdie",
+  "sous_theme": "Anatomie pathologique – Basedow",
+  "note": "",
+  "groupe": "BASEDOW-ANAPATH",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "thyroidites",
+   "lessons": [
+    "thyr-thyroidites",
+    "hyper-basedow"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q17",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Alexopoulou (+ vrac adulte)",
+  "disc": "ADULTE",
+  "teacher": "Alexopoulou",
+  "page": 4,
+  "num": 17,
+  "line": 172,
+  "stem": [
+   "Concernant le cancer papillaire de la thyroïde, quelle réponse est fausse ?"
+  ],
+  "lines": [
+   "● Multifocal",
+   "● Dissémination hémathogène des métastases",
+   "● Plus fréquent chez la femme",
+   "● Bon pronostic",
+   "● Provoqué par irradiation cervicale"
+  ],
+  "marked": [
+   "● Dissémination hémathogène des métastases"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Cancer papillaire",
+  "note": "Alexopoulou.",
+  "groupe": "CANCERS",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "cancers",
+   "lessons": [
+    "thyr-cancers"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q33",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 5,
+  "num": 33,
+  "line": 181,
+  "stem": [
+   "vraie sur la thyroïde"
+  ],
+  "lines": [
+   "Le cancer folliculaire est le plus fréquent",
+   "Le cancer à cellules de Hurthle touche les enfants/jeunes",
+   "La dissémination du cancer papillaire se fait par voie hématogène",
+   "Des taux élevés de calcitonine et de CEA dans le CMT",
+   "Le cancer thyroïdien anaplasique répond bien à l’iode à fortes doses"
+  ],
+  "marked": [
+   "Des taux élevés de calcitonine et de CEA dans le CMT"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Cancers thyroïdiens",
+  "note": "",
+  "groupe": "CANCERS",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "cancers",
+   "lessons": [
+    "thyr-cancers"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q4",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 53,
+  "num": 4,
+  "line": 2227,
+  "stem": [
+   "Proposition vraie cancer thyroïdien."
+  ],
+  "lines": [
+   "a. Cancer folliculaire le plus fréquent",
+   "b. Cancer de hurtle indifférencié thyroïdien",
+   "Cancer papillaire métastase par voie hématogène",
+   "d. Cancer anaplasique répond bien à radio iode à très forte dose",
+   "e. Cancer médullaire associé à phéochromocytome"
+  ],
+  "marked": [
+   "e. Cancer médullaire associé à phéochromocytome"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Cancers thyroïdiens",
+  "note": "",
+  "groupe": "CANCERS",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "cancers",
+   "lessons": [
+    "thyr-cancers"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q6",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 54,
+  "num": 6,
+  "line": 2252,
+  "stem": [
+   "Cancer de Hürthle, la fausse"
+  ],
+  "lines": [
+   "A. Variant rare du carcinome papillaire de la thyroïde",
+   "B. + agressif que les autres carcinomes",
+   "C. Se dissémine par voie hématogène",
+   "D. Composé de cellules oxyphiles",
+   "E. Métastases captent moins l’iode radioactif"
+  ],
+  "marked": [
+   "A. Variant rare du carcinome papillaire de la thyroïde"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Cancers – carcinome à cellules de Hürthle",
+  "note": "",
+  "groupe": "CANCERS",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "cancers",
+   "lessons": [
+    "thyr-cancers"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q27",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 56,
+  "num": 27,
+  "line": 2369,
+  "stem": [
+   "Concernant les K de la thyroïde (1 vraie)"
+  ],
+  "lines": [
+   "A. K Papillaire est le plus fréquent l,;",
+   "B. K anaplasique répond à une Radiothérapie poussée",
+   "C. K à cellules de Hurthle est indifférencié",
+   "D. Tous les cancers de la thyroïde se traite par thyroïdectomie et radiothérapie",
+   "E. Le cancer folliculaire métastase surtout par voie lymphatique"
+  ],
+  "marked": [
+   "A. K Papillaire est le plus fréquent l,;"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Cancers thyroïdiens",
+  "note": "",
+  "groupe": "CANCERS",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "cancers",
+   "lessons": [
+    "thyr-cancers"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q36",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 57,
+  "num": 36,
+  "line": 2434,
+  "stem": [
+   "A propos du carcinome de la thyroïde (Mix de questions c’était en anapath les propositions), trouver la bonne",
+   "réponse"
+  ],
+  "lines": [
+   "A. Une ponction à l’aiguille fine permet toujours le diagnostic de cancer",
+   "B. Si on traite correctement le cancer, la Tg sera à 0 dans le suivi",
+   "C. Le Hurthle est un cancer thyroïdien indifférencié",
+   "D. le cancer folliculaire est le plus fréquent",
+   "E. Le cancer anaplasique répond bien au traitement par radioiode"
+  ],
+  "marked": [
+   "B. Si on traite correctement le cancer, la Tg sera à 0 dans le suivi"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Cancers thyroïdiens (cytologie, suivi par Tg)",
+  "note": "",
+  "groupe": "CANCERS",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "cancers",
+   "lessons": [
+    "thyr-cancers"
+   ]
+  }
+ },
+ {
+  "ref": "ND-marbaix-thyroide-parathyroides-Q3",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Marbaix – Anapath thyroïde/parathyroïdes/surrénales",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 81,
+  "num": 3,
+  "line": 3623,
+  "stem": [
+   "Dans le carcinome médullaire thyroïdien :"
+  ],
+  "lines": [
+   "a. Dépôt substances amyloïdes",
+   "b. Psammomes dans le CMT"
+  ],
+  "marked": [
+   "a. Dépôt substances amyloïdes"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Anatomie pathologique – carcinome médullaire",
+  "note": "Deux propositions.",
+  "groupe": "CMT-ANAPATH",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "cancers",
+   "lessons": [
+    "thyr-cancers"
+   ]
+  }
+ },
+ {
+  "ref": "ND-marbaix-thyroide-parathyroides-Q8",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Marbaix – Anapath thyroïde/parathyroïdes/surrénales",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 82,
+  "num": 8,
+  "line": 3652,
+  "stem": [
+   "En ce qui concerne le carcinome médullaire de la thyroïde, quelle est la proposition correcte?"
+  ],
+  "lines": [
+   "a. est caractérisé par une prolifération +++ de lymphocytes",
+   "b. est un sous-type de carcinome folliculaire de la thyroïde",
+   "c. caractérisé par la présence +++ de psammomes",
+   "d. Contient de la substance amyloïde"
+  ],
+  "marked": [
+   "d. Contient de la substance amyloïde"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Anatomie pathologique – carcinome médullaire",
+  "note": "4 propositions.",
+  "groupe": "CMT-ANAPATH",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "cancers",
+   "lessons": [
+    "thyr-cancers"
+   ]
+  }
+ },
+ {
+  "ref": "ND-marbaix-thyroide-parathyroides-Q15",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Marbaix – Anapath thyroïde/parathyroïdes/surrénales",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 83,
+  "num": 15,
+  "line": 3690,
+  "stem": [
+   "Dans le cancer médullaire :"
+  ],
+  "lines": [
+   "A. On peut retrouver des dépôts amyloïdes",
+   "B. Invasion par des cellules inflammatoires, ly B et T"
+  ],
+  "marked": [
+   "A. On peut retrouver des dépôts amyloïdes"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Anatomie pathologique – carcinome médullaire",
+  "note": "Deux propositions.",
+  "groupe": "CMT-ANAPATH",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "cancers",
+   "lessons": [
+    "thyr-cancers"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-p19-l564",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "RADIO",
+  "teacher": "non précisé",
+  "page": 19,
+  "num": null,
+  "line": 564,
+  "stem": [
+   "Qu’est-ce qui est une indication de ponction"
+  ],
+  "lines": [
+   "• Adénome spongiforme de 30mm",
+   "• Macrocalcification",
+   "• Adénome de 10 mm positif au PET-CT"
+  ],
+  "marked": [
+   "• Adénome de 10 mm positif au PET-CT"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Nodule – indications de cytoponction (radiologie)",
+  "note": "3 propositions.",
+  "groupe": "CYTOPONCTION",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-p19-l568",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "RADIO",
+  "teacher": "non précisé",
+  "page": 19,
+  "num": null,
+  "line": 568,
+  "stem": [
+   "Quelle est l’argument pour faire une cytoponction ? (1 vraie)"
+  ],
+  "lines": [
+   "Aspect spongiforme",
+   "Queue de comète",
+   "Macrocalcification",
+   "10 mm et PET-scan hyper métabolique"
+  ],
+  "marked": [
+   "10 mm et PET-scan hyper métabolique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Nodule – indications de cytoponction (radiologie)",
+  "note": "4 propositions ; variante avec 10 mm (20 mm en mai 2023).",
+  "groupe": "CYTOPONCTION",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q75",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "RADIO",
+  "teacher": "non précisé",
+  "page": 10,
+  "num": 75,
+  "line": 324,
+  "stem": [
+   "Critère pour cytoponction : Donnez une fausse"
+  ],
+  "lines": [
+   "Nodule chaud",
+   "Nodule contenant des microcaclcifications",
+   "Hypoéchogène et mesurant 16mm",
+   "Nodule chez jeune de 16ans"
+  ],
+  "marked": [
+   "Nodule chaud"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Nodule – indications de cytoponction",
+  "note": "",
+  "groupe": "CYTOPONCTION",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q84",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "RADIO",
+  "teacher": "Coche / Duprez",
+  "page": 25,
+  "num": 84,
+  "line": 921,
+  "stem": [
+   "Quelle est l’argument pour faire une cytoponction ? (1 vraie)"
+  ],
+  "lines": [
+   "Aspect spongiforme",
+   "Queue de comète",
+   "Macrocalcification",
+   "... (Nodule dur et fixé (pas sure))",
+   "20 mm et PET-scan hyper métabolique"
+  ],
+  "marked": [
+   "20 mm et PET-scan hyper métabolique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Nodule – indications de cytoponction",
+  "note": "Une proposition retranscrite avec doute (« nodule dur et fixé (pas sûre) »).",
+  "groupe": "CYTOPONCTION",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-p36-l1375",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Radiologie",
+  "disc": "RADIO",
+  "teacher": "non précisé",
+  "page": 36,
+  "num": null,
+  "line": 1375,
+  "stem": [
+   "- Quels sont les arguments pour faire une cytoponction du nodule? (2)"
+  ],
+  "lines": [
+   "calcifications en forme de comète",
+   "aspect spongiforme",
+   "hypoéchogène et 10mm",
+   "hypoéchogène avec contours irréguliers",
+   "20 mm et PET-scan hyper métabolique"
+  ],
+  "marked": [
+   "hypoéchogène avec contours irréguliers",
+   "20 mm et PET-scan hyper métabolique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Nodule – indications de cytoponction (radiologie)",
+  "note": "",
+  "groupe": "CYTOPONCTION",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q2",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 83,
+  "num": 2,
+  "line": 3719,
+  "stem": [
+   "A propos de la ponction d’un nodule thyroïdien, dans quelles situations, faut-il le ponctionner (2 réponses)"
+  ],
+  "lines": [
+   "a. Eurtirads 2",
+   "b. Macrocalcifications",
+   "Nodule chaud",
+   "d. Contour lobulé et plus large que long",
+   "e. Positif au pet-scan"
+  ],
+  "marked": [
+   "d. Contour lobulé et plus large que long",
+   "e. Positif au pet-scan"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Nodule – indications de cytoponction (radiologie)",
+  "note": "",
+  "groupe": "CYTOPONCTION",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q10",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 84,
+  "num": 10,
+  "line": 3753,
+  "stem": [
+   "Qu’est-ce qui n’est pas signe de malignité dans un nodule thyroïdien?"
+  ],
+  "lines": [
+   "A. microcalcifications",
+   "B. bord irrégulier",
+   "C. nodule hypoéchogène avec signe de la comète",
+   "D. plus haut que large (ou plus large que haut, je ne sais plus)",
+   "E. vascularisation centrale et périphérique"
+  ],
+  "marked": [
+   "C. nodule hypoéchogène avec signe de la comète"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Échographie – signes de malignité",
+  "note": "Doute sur la formulation de D (« plus haut que large ou l'inverse »), pas sur la réponse.",
+  "groupe": "CYTOPONCTION",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q14",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 84,
+  "num": 14,
+  "line": 3775,
+  "stem": [
+   "Nodule thyroïdien : dans quel cas faudra-t-il le ponctionner ?"
+  ],
+  "lines": [
+   "A. PET-CT positif",
+   "B. Nodule chaud",
+   "C. Vascularisation périphérique",
+   "D. Macrocalcifications",
+   "E. Signe de la queue de comète"
+  ],
+  "marked": [
+   "A. PET-CT positif"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Nodule – indications de cytoponction (radiologie)",
+  "note": "",
+  "groupe": "CYTOPONCTION",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q114",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 85,
+  "num": 114,
+  "line": 3809,
+  "stem": [
+   "Lequel de ces nodules de la thyroïde il ne faut pas ponctionner"
+  ],
+  "lines": [
+   "a. jeune homme",
+   "b. calcification",
+   "c.  signe de la comète",
+   "d. vascularisation anarchique intranodulaire",
+   "e. nodule froid"
+  ],
+  "marked": [
+   "c.  signe de la comète"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Nodule – indications de cytoponction (radiologie)",
+  "note": "",
+  "groupe": "CYTOPONCTION",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q124",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 85,
+  "num": 124,
+  "line": 3815,
+  "stem": [
+   "En ce qui concerne des micro-calcifications au niveau de la thyroïde:"
+  ],
+  "lines": [
+   "a. Macro-calcification toujours bénin",
+   "b. Micro-calcification toujours malin",
+   "c. Il faut faire une ponction quand microcalcification",
+   "d. Elles impliquent de faire un bilan complémentaire au CT scan",
+   "e. Elles indiquent que le contenu du nodule est colloïde"
+  ],
+  "marked": [
+   "c. Il faut faire une ponction quand microcalcification"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Échographie – microcalcifications",
+  "note": "",
+  "groupe": "CYTOPONCTION",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q128",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 86,
+  "num": 128,
+  "line": 3881,
+  "stem": [
+   "Quel nodule faut-il ne pas ponctionner?"
+  ],
+  "lines": [
+   "1. Nodule chaud",
+   "2. Nodule avec microcalcifications",
+   "3. Nodules avec vascularisation centrale et encore qqc",
+   "4. Chez une homme jeune"
+  ],
+  "marked": [
+   "1. Nodule chaud"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Nodule – indications de cytoponction (radiologie)",
+  "note": "4 propositions.",
+  "groupe": "CYTOPONCTION",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q12",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 84,
+  "num": 12,
+  "line": 3765,
+  "stem": [
+   "Apport de l’échographie concernant les thyroïdites chroniques auto-immunes: (Une fausse??)"
+  ],
+  "lines": [
+   "A. Aspect tigré",
+   "B. Micronodules",
+   "C. Normo-/Hypervascularisation",
+   "D. Glandes polykystiques",
+   "E. Augmentation de volume localisée/diffuse"
+  ],
+  "marked": [
+   "D. Glandes polykystiques"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hypothyroïdie",
+  "sous_theme": "Échographie – thyroïdite chronique auto-immune",
+  "note": "Type de question incertain (« Une fausse?? »).",
+  "groupe": "ECHO-THYROIDITE",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "thyroidites",
+   "lessons": [
+    "thyr-thyroidites"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q40",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Radiologie",
+  "disc": "RADIO",
+  "teacher": "non précisé",
+  "page": 9,
+  "num": 40,
+  "line": 384,
+  "stem": [
+   "Pour classification de EU-TIRADS, parmi ces éléments il y en a 1 faux : (tuyau)"
+  ],
+  "lines": [
+   "A. L'échogénicité",
+   "B. Spongiforme ou kystique",
+   "C. Vascularisation",
+   "D. La forme des contours",
+   "E. Microcalcifications"
+  ],
+  "marked": [
+   "C. Vascularisation"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Échographie – EU-TIRADS",
+  "note": "Radiologie.",
+  "groupe": "EUTIRADS",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q8",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 84,
+  "num": 8,
+  "line": 3740,
+  "stem": [
+   "Qu'est-ce qu’on ne prend pas en compte dans le EU-TIRADS:"
+  ],
+  "lines": [
+   "a. Taille",
+   "b. Forme",
+   "Aspect des contours",
+   "d. Échogénicité",
+   "e. Calcifications"
+  ],
+  "marked": [
+   "a. Taille"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Échographie – EU-TIRADS",
+  "note": "",
+  "groupe": "EUTIRADS",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q82",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 25,
+  "num": 82,
+  "line": 914,
+  "stem": [
+   "Carcinome folliculaire encapsulé, 1 vraie"
+  ],
+  "lines": [
+   "- est le plus fréquent",
+   "- métastase par voie lympathique",
+   "- peut se diagnostiquer par cytologie",
+   "- peut être diagnostiqué en cas d’envahissement de la capsule +1 (cf. Anciens exams)"
+  ],
+  "marked": [
+   "- peut être diagnostiqué en cas d’envahissement de la capsule +1 (cf. Anciens exams)"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Anatomie pathologique – carcinome folliculaire",
+  "note": "",
+  "groupe": "FOLLICULAIRE",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "cancers",
+   "lessons": [
+    "thyr-cancers"
+   ]
+  }
+ },
+ {
+  "ref": "ND-marbaix-thyroide-parathyroides-Q5",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Marbaix – Anapath thyroïde/parathyroïdes/surrénales",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 81,
+  "num": 5,
+  "line": 3632,
+  "stem": [
+   "Concernant le carcinome folliculaire de la thyroïde"
+  ],
+  "lines": [
+   "A. le diagnostic peut se faire de manière aisée par ponction à l’aiguille fine",
+   "B. c’est le cancer le plus fréquent de la thyroïde",
+   "C. il métastase souvent dans les ganglions cervicaux",
+   "D. s’il est encapsulé, il ne peut être diagnostiqué que par une démonstration histologique d’effraction capsulaire",
+   "ou une perméation vasculaire",
+   "E. hypercaptation d’iode à la scinti"
+  ],
+  "marked": [
+   "D. s’il est encapsulé, il ne peut être diagnostiqué que par une démonstration histologique d’effraction capsulaire",
+   "ou une perméation vasculaire"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Anatomie pathologique – carcinome folliculaire",
+  "note": "",
+  "groupe": "FOLLICULAIRE",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "cancers",
+   "lessons": [
+    "thyr-cancers"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-p7-l281",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Alexopoulou (+ vrac adulte)",
+  "disc": "ADULTE",
+  "teacher": "Alexopoulou",
+  "page": 7,
+  "num": null,
+  "line": 281,
+  "stem": [
+   "A propos de l’évolution d’un goitre : 1 fausse"
+  ],
+  "lines": [
+   "A. Peut devenir plongeant",
+   "B. Peut devenir compressif",
+   "C. Peut devenir multinodulaire",
+   "D. Peut être dû à une carence en iode",
+   "E. et là fausse ??"
+  ],
+  "marked": [
+   "E. et là fausse ??"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Goitre – évolution",
+  "note": "La proposition fausse n'est pas retranscrite (« et là fausse ?? »).",
+  "groupe": "GOITRE",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "goitre",
+   "lessons": [
+    "thyr-goitre"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-Q34",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 32,
+  "num": 34,
+  "line": 1191,
+  "stem": [
+   "On retrouve un goitre nodulaire ou diffus dans tous ces cas sauf un"
+  ],
+  "lines": [
+   "• Hypothyroïde",
+   "• Hyperthyroïdie",
+   "• Acromégalie",
+   "• Carence en iode",
+   "• ?"
+  ],
+  "marked": [
+   "• Hyperthyroïdie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hyperthyroïdie; Hypothyroïdie",
+  "sous_theme": "Goitre – étiologies",
+  "note": "Réponse rouge « Hyperthyroïdie » discutable (Basedow et GMN toxique donnent un goitre) ; dans les questions apparentées 2016-2021 (Q20, Q35) la réponse est la prise d'hormones thyroïdiennes. Retranscription probablement inexacte ; 5e proposition manquante.",
+  "groupe": "GOITRE",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "goitre",
+   "lessons": [
+    "thyr-goitre"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q12",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 55,
+  "num": 12,
+  "line": 2292,
+  "stem": [
+   "Un goitre peut être observé dans les cas suivants sauf UN"
+  ],
+  "lines": [
+   "A. Analogue somatostatine 🡺 traitement dans les adénome somatotrope (GH)",
+   "B. Maladie d'Hashimoto",
+   "C. Carence en iode",
+   "D. Basedow",
+   "E. Perturbation d'hormonogenèse thyroïdienne"
+  ],
+  "marked": [
+   "A. Analogue somatostatine 🡺 traitement dans les adénome somatotrope (GH)"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Goitre – étiologies",
+  "note": "",
+  "groupe": "GOITRE",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "goitre",
+   "lessons": [
+    "thyr-goitre"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q20",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 56,
+  "num": 20,
+  "line": 2337,
+  "stem": [
+   "Qu'est ce qui ne donne pas un goitre?"
+  ],
+  "lines": [
+   "A. Thyroïdite d’Hashimoto",
+   "B. Maladie de Basedow",
+   "C. Prise chronique de Lithium",
+   "D. Carence en iode",
+   "E. Surdosage d’un traitement en hormone thyroïdienne"
+  ],
+  "marked": [
+   "E. Surdosage d’un traitement en hormone thyroïdienne"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Goitre – étiologies",
+  "note": "",
+  "groupe": "GOITRE",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "goitre",
+   "lessons": [
+    "thyr-goitre"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q35",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 57,
+  "num": 35,
+  "line": 2428,
+  "stem": [
+   "Toutes ces maladies donnent un goitre sauf une :"
+  ],
+  "lines": [
+   "A. M+ d’Hashimoto",
+   "B. M+ de Graves/Basedow",
+   "C. Carence en iode",
+   "D. Troubles de la dyshormonogenèse",
+   "E. Prise d’hormones thyroïdiennes"
+  ],
+  "marked": [
+   "E. Prise d’hormones thyroïdiennes"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Goitre – étiologies",
+  "note": "",
+  "groupe": "GOITRE",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "goitre",
+   "lessons": [
+    "thyr-goitre"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q83",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 25,
+  "num": 83,
+  "line": 919,
+  "stem": [
+   "Hashimoto"
+  ],
+  "lines": [
+   "se caractérise histologiquement par des lymphocytes B et T qui attaquent la glande"
+  ],
+  "marked": [
+   "se caractérise histologiquement par des lymphocytes B et T qui attaquent la glande"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hypothyroïdie",
+  "sous_theme": "Anatomie pathologique – Hashimoto",
+  "note": "Une seule proposition.",
+  "groupe": "HASHI-ANAPATH",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "thyroidites",
+   "lessons": [
+    "thyr-thyroidites",
+    "hypo-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-marbaix-thyroide-parathyroides-Q1",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Marbaix – Anapath thyroïde/parathyroïdes/surrénales",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 81,
+  "num": 1,
+  "line": 3614,
+  "stem": [
+   "Hashimoto :"
+  ],
+  "lines": [
+   "a. Lymphocytes remplacent la glande thyroïdienne"
+  ],
+  "marked": [
+   "a. Lymphocytes remplacent la glande thyroïdienne"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hypothyroïdie",
+  "sous_theme": "Anatomie pathologique – Hashimoto",
+  "note": "Une seule proposition.",
+  "groupe": "HASHI-ANAPATH",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "thyroidites",
+   "lessons": [
+    "thyr-thyroidites",
+    "hypo-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-marbaix-thyroide-parathyroides-Q2",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Marbaix – Anapath thyroïde/parathyroïdes/surrénales",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 81,
+  "num": 2,
+  "line": 3616,
+  "stem": [
+   "Hashimoto"
+  ],
+  "lines": [
+   "A. se caractérise histologiquement par des lymphocytes B et T qui attaquent la glande",
+   "B. se caractérise histologiquement par des granulomes (peut-être le prof a-t-il précisé “dirigés contre la",
+   "thyroglobuline” mais je ne suis plus sûre...) qui attaquent la glande",
+   "C. seule maladie auto-immune qui atteint la thyroïde",
+   "D. se caractérise histologiquement par de la fibrose, l’aspect évoque un cancer",
+   "E. “qu’est ce qu’il fout ce maudit pancake, tabernacle ?"
+  ],
+  "marked": [
+   "A. se caractérise histologiquement par des lymphocytes B et T qui attaquent la glande"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hypothyroïdie",
+  "sous_theme": "Anatomie pathologique – Hashimoto",
+  "note": "Doute du transcripteur sur la formulation de B, pas sur la réponse.",
+  "groupe": "HASHI-ANAPATH",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "thyroidites",
+   "lessons": [
+    "thyr-thyroidites",
+    "hypo-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-marbaix-thyroide-parathyroides-Q7",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Marbaix – Anapath thyroïde/parathyroïdes/surrénales",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 82,
+  "num": 7,
+  "line": 3646,
+  "stem": [
+   "Dans Hashimoto:"
+  ],
+  "lines": [
+   "A. seule maladie auto-immune de la thyroïde",
+   "B. lyt B et T qui détruisent le parenchyme",
+   "C. fibrose qui remplace le parenchyme et peut apparaître comme un cancer",
+   "D . granulome géants qui détruit la thyroïde",
+   "E. donne principalement des exophtalmies"
+  ],
+  "marked": [
+   "B. lyt B et T qui détruisent le parenchyme"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hypothyroïdie",
+  "sous_theme": "Anatomie pathologique – Hashimoto",
+  "note": "",
+  "groupe": "HASHI-ANAPATH",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "thyroidites",
+   "lessons": [
+    "thyr-thyroidites",
+    "hypo-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-marbaix-thyroide-parathyroides-Q12",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Marbaix – Anapath thyroïde/parathyroïdes/surrénales",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 82,
+  "num": 12,
+  "line": 3676,
+  "stem": [
+   "Dans Hashimoto:"
+  ],
+  "lines": [
+   "a. Hyperplasie des cellules C (et plein d’info en plus)",
+   "b. seule maladie autoimmune de la thyroïde",
+   "c.  lyt B et T qui détruisent le parenchyme FAUX les follicules non ?",
+   "d. fibrose",
+   "e. granulomes géants dans la thyroïde , aspect granulomateux par formation de cellules dirigées contre les",
+   "follicules thyroïdiens"
+  ],
+  "marked": [
+   "c.  lyt B et T qui détruisent le parenchyme FAUX les follicules non ?"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hypothyroïdie",
+  "sous_theme": "Anatomie pathologique – Hashimoto",
+  "note": "Commentaire sur la réponse rouge : « FAUX les follicules non ? ».",
+  "groupe": "HASHI-ANAPATH",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "thyroidites",
+   "lessons": [
+    "thyr-thyroidites",
+    "hypo-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-marbaix-thyroide-parathyroides-Q17",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Marbaix – Anapath thyroïde/parathyroïdes/surrénales",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 83,
+  "num": 17,
+  "line": 3699,
+  "stem": [
+   "Dans la maladie d’Hashimoto (1 vraie)"
+  ],
+  "lines": [
+   "A) On voit des infiltrats B et T qui attaquent la glande",
+   "B) On y trouve des granulomes dirigés contre colloïde",
+   "C) Se caractérise par une hyperplasie de cellules médullaires (plus trop sûre de la formulation)",
+   "D) Elle se caractérise histologiquement par de la fibrose, l’aspect évoque un cancer",
+   "E) C’est la seule maladie auto-immune de la thyroïde"
+  ],
+  "marked": [
+   "A) On voit des infiltrats B et T qui attaquent la glande"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hypothyroïdie",
+  "sous_theme": "Anatomie pathologique – Hashimoto",
+  "note": "",
+  "groupe": "HASHI-ANAPATH",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "thyroidites",
+   "lessons": [
+    "thyr-thyroidites",
+    "hypo-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q39",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 19,
+  "num": 39,
+  "line": 708,
+  "stem": [
+   "Palpation nodule thyroidien unique 4 examens complémentaires à faire, un à NE PAS faire"
+  ],
+  "lines": [
+   "- dosage TSH",
+   "-dosage plasmatique anticorps thyréostimulant (TSI)",
+   "- dosage plasmatique calcitonine",
+   "-echographie de la zone thyroidienne",
+   "-scintigraphie de thyroide à l’iode 123"
+  ],
+  "marked": [
+   "-dosage plasmatique anticorps thyréostimulant (TSI)"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Nodule – bilan initial",
+  "note": "",
+  "groupe": "NOD-BILAN",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q30",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 57,
+  "num": 30,
+  "line": 2388,
+  "stem": [
+   "Face à un nodule thyroïdien isolé, quel examen complémentaire n’est PAS utile?"
+  ],
+  "lines": [
+   "A. Dosage sanguin de la TSH",
+   "B. Dosage sanguin des anticorps stimulants anti-récepteurs de la TSH (TSI)",
+   "C. Dosage sanguin de la calcitonine",
+   "D. Échographie de la région thyroïdienne",
+   "E. Scinti à Iode 132"
+  ],
+  "marked": [
+   "B. Dosage sanguin des anticorps stimulants anti-récepteurs de la TSH (TSI)"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Nodule – bilan initial",
+  "note": "« Scinti à Iode 132 » : probablement iode 123 (faute de frappe).",
+  "groupe": "NOD-BILAN",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q26",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 5,
+  "num": 26,
+  "line": 149,
+  "stem": [
+   "nodule thyroïdien, suspicions de lésion cancéreuse, donner la fausse"
+  ],
+  "lines": [
+   "calcitonine abaissée",
+   "sexe masculin",
+   "antécédents d’irradiation cervicale",
+   "adénopathie associée",
+   "microcalcifications"
+  ],
+  "marked": [
+   "calcitonine abaissée"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Nodule – arguments de malignité",
+  "note": "",
+  "groupe": "NOD-SUSP",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q26",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 4,
+  "num": 26,
+  "line": 150,
+  "stem": [
+   "Face à un nodule thyroïdien, un de ces éléments n’est pas en faveur d’un caractère cancéreux ?"
+  ],
+  "lines": [
+   "A. Âge > 70 ans.",
+   "B. Sexe masculin.",
+   "C. Antécédents d’irradiation du cou.",
+   "D. TSH abaissée.",
+   "E. Présence de calcifications à l’écho du cou."
+  ],
+  "marked": [
+   "D. TSH abaissée."
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Nodule – arguments de malignité",
+  "note": "",
+  "groupe": "NOD-SUSP",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q30",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 5,
+  "num": 30,
+  "line": 162,
+  "stem": [
+   "Qu’est ce qui donne plus de chance de penser que ...est malin (jsplus si c’était adénome ou thyroide)? La",
+   "fausse:"
+  ],
+  "lines": [
+   "- être un homme",
+   "- avoir reçu des irradiations précédemment",
+   "- adénopathie"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Nodule – arguments de malignité",
+  "note": "Énoncé incertain (« jsplus si c'était adénome ou thyroïde »), 3 propositions, aucune réponse marquée.",
+  "groupe": "NOD-SUSP",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q44",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 20,
+  "num": 44,
+  "line": 728,
+  "stem": [
+   "Face un nodule thyroïdien, les éléments suivants augmentent la suspicion d’une pathologie",
+   "cancéreuse, sauf UN, Lequel ?"
+  ],
+  "lines": [
+   "A. Adénopathie cervicale",
+   "B. Le sexe féminin",
+   "C. Un ATCD d’irradiation cervicale",
+   "D. Un nodule dur et fixé",
+   "E. Des microcalcifications présentes à l’échographie"
+  ],
+  "marked": [
+   "B. Le sexe féminin"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Nodule – arguments de malignité",
+  "note": "",
+  "groupe": "NOD-SUSP",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q3",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 54,
+  "num": 3,
+  "line": 2240,
+  "stem": [
+   "Nodule thyroïdien, quel élément augmente la suspicion que ça soit un cancer (1 fausse):"
+  ],
+  "lines": [
+   "a. >70 ans",
+   "b. Etre un homme",
+   "Antécédents d’irradiation cervicale",
+   "d. TSH diminuée",
+   "e. Calcifications visibles à l’écho"
+  ],
+  "marked": [
+   "d. TSH diminuée"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Nodule – arguments de malignité",
+  "note": "",
+  "groupe": "NOD-SUSP",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q7",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 54,
+  "num": 7,
+  "line": 2258,
+  "stem": [
+   "Qu'est-ce qui est de plus mauvais pronostic pour un nodule thyroïdien"
+  ],
+  "lines": [
+   "a. Calcitonine élevée",
+   "b. Eutirads 3",
+   "Hyperéchogène avec TSH basse",
+   "d. Bethesda lI",
+   "e. ?"
+  ],
+  "marked": [
+   "a. Calcitonine élevée"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Nodule – pronostic",
+  "note": "5e proposition manquante.",
+  "groupe": "NOD-SUSP",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q17",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 55,
+  "num": 17,
+  "line": 2317,
+  "stem": [
+   "Présence d’un nodule thyroïdien. Parmi les éléments ci-dessous qu’est ce qui ne renforce pas la suspicion d’un",
+   "cancer thyroïdien :"
+  ],
+  "lines": [
+   "a. Thyroglobuline augmentée",
+   "b. Antécédent d'irradiation cervicale",
+   "Antécédent familial de cancer thyroïdien",
+   "d. Consistance très ferme du nodule",
+   "e. Classification eutirads 5 à l’échographie"
+  ],
+  "marked": [
+   "a. Thyroglobuline augmentée"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Nodule – arguments de malignité",
+  "note": "",
+  "groupe": "NOD-SUSP",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q33",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 57,
+  "num": 33,
+  "line": 2408,
+  "stem": [
+   "Face un nodule thyroïdien, les éléments suivants augmentent la suspicion d’une pathologie cancéreuse, sauf",
+   "UN, Lequel ?"
+  ],
+  "lines": [
+   "F.",
+   "Un jeune âge, inférieur à 15 ans",
+   "G. Le sexe féminin",
+   "H. Un ATCD d’irradiation cervicale",
+   "I.",
+   "Un nodule dur et fixé",
+   "J.",
+   "Des microcalcifications présentes à l’échographie"
+  ],
+  "marked": [
+   "G. Le sexe féminin"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Nodule – arguments de malignité",
+  "note": "",
+  "groupe": "NOD-SUSP",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "nodules",
+   "lessons": [
+    "thyr-nodules"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q18",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Alexopoulou (+ vrac adulte)",
+  "disc": "ADULTE",
+  "teacher": "Alexopoulou",
+  "page": 5,
+  "num": 18,
+  "line": 179,
+  "stem": [
+   "Thyroïdite de quervain (1 fausse)"
+  ],
+  "lines": [
+   "-",
+   "Coticoides",
+   "-",
+   "AINS à forte dose",
+   "-",
+   "ATS si épisodes hyperthyroïdie",
+   "-",
+   "Bêta bloquant peuvent être prescrit",
+   "-",
+   "En cas d'hypothyroïdie transitoire on peut donner de la L- Thyroxine",
+   "Q28. Femme de 28 ans présentant une aménorrhée secondaire associée à une",
+   "galactorrhée.Le dosage de la prolactine est élevé (> 120 ng/mL).L’IRM hypophysaire met en"
+  ],
+  "marked": [
+   "ATS si épisodes hyperthyroïdie"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hyperthyroïdie",
+  "sous_theme": "Thyroïdite de De Quervain – traitement",
+  "note": "Alexopoulou.",
+  "groupe": "QUERVAIN",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "thyroidites",
+   "lessons": [
+    "thyr-thyroidites",
+    "hyper-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q28",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 5,
+  "num": 28,
+  "line": 162,
+  "stem": [
+   "Donner la cause d’une thyroïdite subfébrile de Quervain:"
+  ],
+  "lines": [
+   "A. Infection bactérienne",
+   "B. Traumatisme cervical",
+   "C. Infection virale",
+   "D. Carence en iode",
+   "E. Irradiation (?)"
+  ],
+  "marked": [
+   "C. Infection virale"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hyperthyroïdie",
+  "sous_theme": "Thyroïdite de De Quervain – étiologie",
+  "note": "Proposition E retranscrite avec doute (« Irradiation (?) »).",
+  "groupe": "QUERVAIN",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "thyroidites",
+   "lessons": [
+    "thyr-thyroidites",
+    "hyper-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q29",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 6,
+  "num": 29,
+  "line": 169,
+  "stem": [
+   "question tuyau sur la thyroïdite de De Quervain (la fausse) :"
+  ],
+  "lines": [
+   "A. Se traite par des ATS",
+   "B. Principalement en post-partum",
+   "C. Le premier choix de traitement sont les AINS forte dose et les GC",
+   "D. Il y a un syndrome inflammatoire",
+   "E. Douleur cervicale irradiant vers la mâchoire"
+  ],
+  "marked": [
+   "A. Se traite par des ATS",
+   "B. Principalement en post-partum"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hyperthyroïdie",
+  "sous_theme": "Thyroïdite de De Quervain",
+  "note": "",
+  "groupe": "QUERVAIN",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "thyroidites",
+   "lessons": [
+    "thyr-thyroidites",
+    "hyper-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q28",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 5,
+  "num": 28,
+  "line": 160,
+  "stem": [
+   "Thyroidite de Quievrain copié collé des années passées, trouver les fausses ( D cervicales, chez jeune",
+   "femme, cause virale, se traite par ATS, femme post-partum"
+  ],
+  "lines": [],
+  "marked": [
+   "femme, cause virale, se traite par ATS, femme post-partum"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hyperthyroïdie",
+  "sous_theme": "Thyroïdite de De Quervain",
+  "note": "Propositions résumées dans l'énoncé (« copié collé des années passées »). Réponses en rouge : « se traite par ATS », « femme post-partum ».",
+  "groupe": "QUERVAIN",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "thyroidites",
+   "lessons": [
+    "thyr-thyroidites",
+    "hyper-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q36",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 6,
+  "num": 36,
+  "line": 194,
+  "stem": [
+   "Les deux fausses sur la thyroidite de quervain"
+  ],
+  "lines": [
+   "Donne douleurs cervicales irradiant dans la machoire (elle est juste)",
+   "Est plus souvent d’origine virale (elle est juste)",
+   "Se traite par ATS"
+  ],
+  "marked": [
+   "Se traite par ATS"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hyperthyroïdie",
+  "sous_theme": "Thyroïdite de De Quervain",
+  "note": "3 propositions ; une seule des deux fausses retrouvée.",
+  "groupe": "QUERVAIN",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "thyroidites",
+   "lessons": [
+    "thyr-thyroidites",
+    "hyper-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q25",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 17,
+  "num": 25,
+  "line": 620,
+  "stem": [
+   "Cas clinique avec douleur cervicale, signes inflammatoires, etc"
+  ],
+  "lines": [
+   "A. Thyroïdite subaiguë de quiverain"
+  ],
+  "marked": [
+   "A. Thyroïdite subaiguë de quiverain"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Question incomplète",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hyperthyroïdie",
+  "sous_theme": "Thyroïdite de De Quervain – cas clinique",
+  "note": "Seule la bonne réponse est retranscrite.",
+  "groupe": "QUERVAIN",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "thyroidites",
+   "lessons": [
+    "thyr-thyroidites",
+    "hyper-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-Q30",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 31,
+  "num": 30,
+  "line": 1171,
+  "stem": [
+   "A propos de la thyroïdite de Quervain quelle proposition est fausse?"
+  ],
+  "lines": [
+   "• Il y a un syndrome inflammatoire biologique important",
+   "• Le patient peut se plaindre de douleur cervicale parfois intense",
+   "• A la scintigraphie il a y a une captation intense du traceur",
+   "• Traitement le plus souvent par glucocorticoïdes",
+   "• C’est une thyroïdite granulomateuse d’étiologie virale"
+  ],
+  "marked": [
+   "• A la scintigraphie il a y a une captation intense du traceur"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hyperthyroïdie",
+  "sous_theme": "Thyroïdite de De Quervain",
+  "note": "",
+  "groupe": "QUERVAIN",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "thyroidites",
+   "lessons": [
+    "thyr-thyroidites",
+    "hyper-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q31",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 57,
+  "num": 31,
+  "line": 2394,
+  "stem": [
+   "Femme avec douleur cervicale, subfébrile, syndrome inflammatoire à la biologie, TSH effondrée, T4l élevée:",
+   "quel diagnostic envisager en premier lieu?"
+  ],
+  "lines": [
+   "A. Cancer thyroïdien",
+   "B. Basedow",
+   "C. Thyroïdite subaiguë de De Quervain",
+   "D. Crise sur fond chronique de maladie d’Hashimoto",
+   "E. Hématome de la thyroïde"
+  ],
+  "marked": [
+   "C. Thyroïdite subaiguë de De Quervain"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hyperthyroïdie",
+  "sous_theme": "Thyroïdite de De Quervain – cas clinique",
+  "note": "",
+  "groupe": "QUERVAIN",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "thyroidites",
+   "lessons": [
+    "thyr-thyroidites",
+    "hyper-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q25",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 56,
+  "num": 25,
+  "line": 2360,
+  "stem": [
+   "Indication pour une scintigraphie thyroïdienne, laquelle est fausse ?"
+  ],
+  "lines": [
+   "A. Diagnostic étiologique d’une hypothyroïdie chez l’adulte"
+  ],
+  "marked": [
+   "A. Diagnostic étiologique d’une hypothyroïdie chez l’adulte"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hypothyroïdie",
+  "sous_theme": "Scintigraphie – indications",
+  "note": "Une seule proposition.",
+  "groupe": "SCINTI",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "explo",
+   "lessons": [
+    "thyr-explo"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q28",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 56,
+  "num": 28,
+  "line": 2375,
+  "stem": [
+   "A propos de la thyroïdite silencieuse, quelles sont les 2 fausses propositions?"
+  ],
+  "lines": [
+   "A. Douleur cervicale",
+   "B. Hyperthyroïdie biologique",
+   "C. Thyroglobuline indosable",
+   "D. Scintigraphie blanche",
+   "E. Présence d’anticorps anti-thyroïdien"
+  ],
+  "marked": [
+   "A. Douleur cervicale",
+   "C. Thyroglobuline indosable"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hyperthyroïdie",
+  "sous_theme": "Thyroïdite silencieuse",
+  "note": "",
+  "groupe": "SILENCIEUSE",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "thyroidites",
+   "lessons": [
+    "thyr-thyroidites",
+    "hyper-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q16",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 55,
+  "num": 16,
+  "line": 2315,
+  "stem": [
+   "Concernant la pathologie thyroïdienne : une fausse"
+  ],
+  "lines": [
+   "a. En cas de malnutrition chronique, on peut avoir une t4 basse isolée"
+  ],
+  "marked": [
+   "a. En cas de malnutrition chronique, on peut avoir une t4 basse isolée"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Maladie non thyroïdienne (T4 basse isolée)",
+  "note": "Une seule proposition.",
+  "groupe": "T3-BASSE",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "explo",
+   "lessons": [
+    "thyr-explo"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q23",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 56,
+  "num": 23,
+  "line": 2352,
+  "stem": [
+   "Concernant le syndrome de la T3 basse, quelle est la fausse"
+  ],
+  "lines": [
+   "A. Peut être diminuée en cas de cachexie, et il ne faut pas traiter",
+   "B. …"
+  ],
+  "marked": [
+   "A. Peut être diminuée en cas de cachexie, et il ne faut pas traiter"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Syndrome de basse T3",
+  "note": "Une seule proposition ; celle marquée « fausse » paraît exacte sur le fond : marquage à vérifier.",
+  "groupe": "T3-BASSE",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "explo",
+   "lessons": [
+    "thyr-explo"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q31",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 6,
+  "num": 31,
+  "line": 181,
+  "stem": [
+   "Dans quel cas ne peut-on pas avoir une diminution de la TSH ? :"
+  ],
+  "lines": [
+   "-Hyperthyroïdie",
+   "-Thyroïdite",
+   "-Insuffisance hypophysaire axe thyroïdien",
+   "-Grossesse 1er trimestre",
+   "-Au diagnostic d’un coma myxoedemateux"
+  ],
+  "marked": [
+   "-Au diagnostic d’un coma myxoedemateux"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hyperthyroïdie; Hypothyroïdie",
+  "sous_theme": "Interprétation d'une TSH basse",
+  "note": "",
+  "groupe": "TSH-BASSE",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "explo",
+   "lessons": [
+    "thyr-explo",
+    "hyper-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q31",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 5,
+  "num": 31,
+  "line": 167,
+  "stem": [
+   "Une TSH abaissée peut être observée dans toutes ces situations, sauf une:"
+  ],
+  "lines": [
+   "A. Une hyperthyroïdite débutante",
+   "B. Au diagnostic d’une thyroïdite silencieuse",
+   "C. Au premier trimestre d’une grossesse",
+   "D. Dans une insuffisance antéhypophysaire traitée par L-thyroxyne",
+   "E. Lors d’une carence sévère en iode"
+  ],
+  "marked": [
+   "E. Lors d’une carence sévère en iode"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hyperthyroïdie; Hypothyroïdie",
+  "sous_theme": "Interprétation d'une TSH basse",
+  "note": "",
+  "groupe": "TSH-BASSE",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "explo",
+   "lessons": [
+    "thyr-explo",
+    "hyper-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q38",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 19,
+  "num": 38,
+  "line": 702,
+  "stem": [
+   "Taux plasmatique abaissé de TSH, une cause impossible"
+  ],
+  "lines": [
+   "- goitre multinudulaire toxique",
+   "- premier trimestre de grossesse +1",
+   "-Hormone thyroidienne pour hypothyroide",
+   "- prise d’amiodarone",
+   "- pillule oestro-progestative +1"
+  ],
+  "marked": [
+   "- pillule oestro-progestative +1"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hyperthyroïdie; Hypothyroïdie",
+  "sous_theme": "Interprétation d'une TSH basse",
+  "note": "Deux propositions portent des « +1 » (1er trimestre de grossesse et pilule) ; seule la pilule est en rouge.",
+  "groupe": "TSH-BASSE",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "explo",
+   "lessons": [
+    "thyr-explo",
+    "hyper-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-Q33",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 32,
+  "num": 33,
+  "line": 1186,
+  "stem": [
+   "Dans les cas suivants, la TSH diminue pour tous, sauf UN (et pas deux) :"
+  ],
+  "lines": [
+   "•  Déficit sévère en iode",
+   "• Premier trimestre de grossesse",
+   "• Thyroïdite silencieuse",
+   "• Etc"
+  ],
+  "marked": [
+   "•  Déficit sévère en iode"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hyperthyroïdie; Hypothyroïdie",
+  "sous_theme": "Interprétation d'une TSH basse",
+  "note": "Propositions partielles (« Etc »).",
+  "groupe": "TSH-BASSE",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "explo",
+   "lessons": [
+    "thyr-explo",
+    "hyper-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q13",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 55,
+  "num": 13,
+  "line": 2298,
+  "stem": [
+   "Tous les facteurs suivants diminuent la TSH sauf un:"
+  ],
+  "lines": [
+   "1. Oestrogène",
+   "2. Glucocorticoïdes",
+   "3. Hyperthyroïdie",
+   "4. Femme enceinte",
+   "5. ?"
+  ],
+  "marked": [
+   "1. Oestrogène",
+   "4. Femme enceinte"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "Hyperthyroïdie; Hypothyroïdie",
+  "sous_theme": "Facteurs modifiant la TSH",
+  "note": "Deux propositions en rouge (œstrogènes et femme enceinte) pour une question « sauf un » ; 5e proposition manquante.",
+  "groupe": "TSH-BASSE",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "explo",
+   "lessons": [
+    "thyr-explo",
+    "hyper-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q19",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 55,
+  "num": 19,
+  "line": 2330,
+  "stem": [
+   "Tout ce qui suit entraîne une diminution de TSH sauf :"
+  ],
+  "lines": [
+   "A. Thyroïdite De quervain",
+   "B. R/ hormone thyroïdienne",
+   "C. 1 er trimestre de grossesse",
+   "D. Hyperprolactinémie sévère",
+   "E. Insuffisance antéhypophysaire complète"
+  ],
+  "marked": [
+   "D. Hyperprolactinémie sévère"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Facteurs modifiant la TSH",
+  "note": "",
+  "groupe": "TSH-BASSE",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "explo",
+   "lessons": [
+    "thyr-explo",
+    "hyper-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q43",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 20,
+  "num": 43,
+  "line": 725,
+  "stem": [
+   "Concernant la thyroide toutes ces propositions sont vraies sauf une (faux)"
+  ],
+  "lines": [
+   "a. injection d’une haute de dose d’iode stimule l’organification et la synthèse des HT (effet",
+   "wolff Chaikoff)"
+  ],
+  "marked": [
+   "a. injection d’une haute de dose d’iode stimule l’organification et la synthèse des HT (effet",
+   "wolff Chaikoff)"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Physiologie – iode et effet Wolff-Chaikoff",
+  "note": "Une seule proposition.",
+  "groupe": "WOLFF",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "explo",
+   "lessons": [
+    "thyr-explo"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q10",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 54,
+  "num": 10,
+  "line": 2280,
+  "stem": [
+   "Au sujet de la thyroide, 2F"
+  ],
+  "lines": [
+   "a. Pilule OE-P augmente hormones thyroïdiennes totales et fraction libre",
+   "b. Wolff Chaikoff : iode a forte dose bénéfique dans l'hyperthyroïdie",
+   "Lithium et perchlorate inhibent l’organification de l’iode",
+   "d. Une carence en iode induit un goitre et une diminution de la T4 libre chez la femme enceinte"
+  ],
+  "marked": [
+   "a. Pilule OE-P augmente hormones thyroïdiennes totales et fraction libre",
+   "Lithium et perchlorate inhibent l’organification de l’iode"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Physiologie – iode, médicaments et hormones thyroïdiennes",
+  "note": "4 propositions.",
+  "groupe": "WOLFF",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "explo",
+   "lessons": [
+    "thyr-explo",
+    "hypo-grossesse"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q21",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 56,
+  "num": 21,
+  "line": 2343,
+  "stem": [
+   "Concernant la thyroide toutes ces propositions sont vraies sauf une (faux)"
+  ],
+  "lines": [
+   "b. injection d’une haute de dose d’iode stimule l’organification et la synthèse des HT (effet wolff Chaikoff)",
+   "On majore de 125-150 µg / j les doses d’iode chez une femme enceinte",
+   "d. …"
+  ],
+  "marked": [
+   "b. injection d’une haute de dose d’iode stimule l’organification et la synthèse des HT (effet wolff Chaikoff)"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Pathologies thyroïdiennes",
+  "autres": "",
+  "sous_theme": "Physiologie – iode et effet Wolff-Chaikoff",
+  "note": "Propositions partielles.",
+  "groupe": "WOLFF",
+  "map": {
+   "chapter": "thyroide",
+   "subchapter": "explo",
+   "lessons": [
+    "thyr-explo"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q14",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Alexopoulou (+ vrac adulte)",
+  "disc": "ADULTE",
+  "teacher": "Alexopoulou",
+  "page": 4,
+  "num": 14,
+  "line": 144,
+  "stem": [
+   "A propos de l’hyperthyroidie sur amiodarone la FAUSSE:"
+  ],
+  "lines": [
+   "A) type 1 due a une patho preexistante",
+   "B) type 2 due a thyroidite destructive",
+   "C) Scinti type 2 montre une hyperfixation",
+   "D) type 1 se traite par ATS",
+   "E) type 2 se traite par corticoides"
+  ],
+  "marked": [
+   "C) Scinti type 2 montre une hyperfixation"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hyperthyroïdie",
+  "autres": "Hypothyroïdie",
+  "sous_theme": "Amiodarone – types 1 et 2",
+  "note": "Alexopoulou.",
+  "groupe": "AMIODARONE",
+  "map": {
+   "chapter": "hyper",
+   "subchapter": "iatrogene",
+   "lessons": [
+    "hyper-autres"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q11",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 54,
+  "num": 11,
+  "line": 2285,
+  "stem": [
+   "A propos de l’Amiodarone, 1 fausse :"
+  ],
+  "lines": [
+   "a. Induit une hyperthyroïdie par surcharge iodée",
+   "b. Induit une hypothyroïdie",
+   "Peut donner un goitre multinodulaire toxique",
+   "d. Peut donner une augmentation de la T4 libre et une diminution de la T3 libre",
+   "e. Hyperthyroïdie par thyroïdite"
+  ],
+  "marked": [
+   "Peut donner un goitre multinodulaire toxique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hyperthyroïdie",
+  "autres": "Hypothyroïdie",
+  "sous_theme": "Amiodarone et thyroïde",
+  "note": "",
+  "groupe": "AMIODARONE",
+  "map": {
+   "chapter": "hyper",
+   "subchapter": "iatrogene",
+   "lessons": [
+    "hyper-autres"
+   ]
+  }
+ },
+ {
+  "ref": "ND-horsmans-hormones-Q6",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Horsmans – Pharmaco hormones",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 88,
+  "num": 6,
+  "line": 3944,
+  "stem": [
+   "Concernant les complications des anti-thyroïdiens de synthèse, quelle est la fausse ?"
+  ],
+  "lines": [
+   "A. Œsophagite",
+   "B. Dysgueusie",
+   "C. Leucopénie",
+   "D. Hépatotoxicité́"
+  ],
+  "marked": [
+   "A. Œsophagite"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hyperthyroïdie",
+  "autres": "",
+  "sous_theme": "Pharmacologie – antithyroïdiens de synthèse",
+  "note": "",
+  "groupe": "ATS-PHARMA",
+  "map": {
+   "chapter": "hyper",
+   "subchapter": "basedow",
+   "lessons": [
+    "hyper-traitements"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q27",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 5,
+  "num": 27,
+  "line": 157,
+  "stem": [
+   "Observables dans basedow : la fausse"
+  ],
+  "lines": [
+   "- goitre muldinodulaire a la palpation",
+   "- modification test hepatiques"
+  ],
+  "marked": [
+   "- goitre muldinodulaire a la palpation"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hyperthyroïdie",
+  "autres": "Pathologies thyroïdiennes",
+  "sous_theme": "Maladie de Basedow – clinique",
+  "note": "Deux propositions seulement.",
+  "groupe": "BASEDOW",
+  "map": {
+   "chapter": "hyper",
+   "subchapter": "basedow",
+   "lessons": [
+    "hyper-basedow"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q27",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 5,
+  "num": 27,
+  "line": 155,
+  "stem": [
+   "Concernant la maladie de Basedow/Graves, 1 réponse fausse"
+  ],
+  "lines": [
+   "A. Présence d’anticorps anti récepteurs à TSH",
+   "B. Peut causer une exophtalmie",
+   "C. Peut causer une perturbation des tests hépatiques",
+   "D. Strumazole est plus indiqué que le propylthiouracile (PTU) comme traitement",
+   "pendant le premier trimestre de grossesse",
+   "E. Après traitement, on observe une rechute dans 50% des cas"
+  ],
+  "marked": [
+   "D. Strumazole est plus indiqué que le propylthiouracile (PTU) comme traitement",
+   "pendant le premier trimestre de grossesse"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hyperthyroïdie",
+  "autres": "",
+  "sous_theme": "Basedow – clinique, traitement, grossesse, rechutes",
+  "note": "",
+  "groupe": "BASEDOW-ATS",
+  "map": {
+   "chapter": "hyper",
+   "subchapter": "basedow",
+   "lessons": [
+    "hyper-basedow",
+    "hyper-traitements"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q31",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 18,
+  "num": 31,
+  "line": 661,
+  "stem": [
+   "Cochez les deux propositions fausses :"
+  ],
+  "lines": [
+   "A. Dans le cas d’une maladie de Basedow, lors d’un traitement par des ATS on peut s’attendre à 50%",
+   "de rechutes.",
+   "B. Strumazole est plus indiqué que le PTU dans le cas d’une grossesse",
+   "C. Amiodarone peut causer une hyperthyroïdie via une contamination iodée et une induction de",
+   "thyroïdite",
+   "D. hypothyroïdie entraîne une hypercholestérolémie",
+   "E. Le traitement pour l'hypothyroïdie vise une valeur de TSH basse, inférieure a la valeur limite",
+   "inférieur, (nl: 0,3-3,3)"
+  ],
+  "marked": [
+   "B. Strumazole est plus indiqué que le PTU dans le cas d’une grossesse",
+   "E. Le traitement pour l'hypothyroïdie vise une valeur de TSH basse, inférieure a la valeur limite",
+   "inférieur, (nl: 0,3-3,3)"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hyperthyroïdie",
+  "autres": "Hypothyroïdie",
+  "sous_theme": "Basedow (ATS, grossesse), amiodarone, objectifs de TSH",
+  "note": "",
+  "groupe": "BASEDOW-ATS",
+  "map": {
+   "chapter": "hyper",
+   "subchapter": "basedow",
+   "lessons": [
+    "hyper-basedow",
+    "hyper-traitements"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q22",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 56,
+  "num": 22,
+  "line": 2347,
+  "stem": [
+   "Concernant le traitement de la maladie de Basedow, laquelle est fausse :"
+  ],
+  "lines": [
+   "A. Le strumazol est le premier traitement dans un Basedow",
+   "B. Une agranulocytose est une contre-indication stricte à l’utilisation des ATS",
+   "C. Le PTU est le traitement de choix durant le 3ème trimestre de la grossesse",
+   "D. Les fumeurs sont plus à risque d'exophtalmie basedowienne"
+  ],
+  "marked": [
+   "C. Le PTU est le traitement de choix durant le 3ème trimestre de la grossesse"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hyperthyroïdie",
+  "autres": "",
+  "sous_theme": "Basedow – traitement (ATS, grossesse, tabac)",
+  "note": "",
+  "groupe": "BASEDOW-ATS",
+  "map": {
+   "chapter": "hyper",
+   "subchapter": "basedow",
+   "lessons": [
+    "hyper-basedow",
+    "hyper-traitements"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q34",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 57,
+  "num": 34,
+  "line": 2418,
+  "stem": [
+   "Cochez les deux propositions fausses :"
+  ],
+  "lines": [
+   "F.",
+   "Dans le cas d’une maladie de Basedow, lors d’un traitement par des ATS on peut s’attendre à 50% de",
+   "rechutes.",
+   "G. Strumazole est plus indiqué que le PTU dans le cas d’une grossesse",
+   "H. Amiodarone peut causer une hyperthyroïdie via une contamination iodée et une induction de thyroïdite",
+   "I.",
+   "hypothyroïdie entraîne une hypercholestérolémie",
+   "J.",
+   "le traitement pour l'hypothyroïdie vise une valeur de TSH basse c’est à dire une valeur <0,5 (nl: 0,3-3,3)"
+  ],
+  "marked": [
+   "G. Strumazole est plus indiqué que le PTU dans le cas d’une grossesse",
+   "J.",
+   "le traitement pour l'hypothyroïdie vise une valeur de TSH basse c’est à dire une valeur <0,5 (nl: 0,3-3,3)"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hyperthyroïdie",
+  "autres": "Hypothyroïdie",
+  "sous_theme": "Basedow (ATS, grossesse), amiodarone, objectifs de TSH",
+  "note": "",
+  "groupe": "BASEDOW-ATS",
+  "map": {
+   "chapter": "hyper",
+   "subchapter": "basedow",
+   "lessons": [
+    "hyper-basedow",
+    "hyper-traitements"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q37",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 57,
+  "num": 37,
+  "line": 2441,
+  "stem": [
+   "Question avec le Strumazole, jme souviens plus trop"
+  ],
+  "lines": [
+   "a. Traitement de base strumazole pendant 18 mois",
+   "b. Rarement complication grave l’agranulocytose"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Question incomplète",
+  "module": "Hyperthyroïdie",
+  "autres": "",
+  "sous_theme": "Basedow – antithyroïdiens de synthèse",
+  "note": "« jme souviens plus trop » ; 2 propositions, pas de réponse.",
+  "groupe": "BASEDOW-ATS",
+  "map": {
+   "chapter": "hyper",
+   "subchapter": "basedow",
+   "lessons": [
+    "hyper-basedow",
+    "hyper-traitements"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q26",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 56,
+  "num": 26,
+  "line": 2362,
+  "stem": [
+   "Homme avec symptômes d’hyperthyroïde, et se plaint de céphalées à l’effort. TSH élevée, T4 et T3 normales, Ac",
+   "négatifs, quel diagnostic"
+  ],
+  "lines": [
+   "A. Adénome hypophysaire",
+   "B. Basedow",
+   "C. Thyroïdite subaiguë",
+   "D. Prise exogène de T3",
+   "E. De Quervain"
+  ],
+  "marked": [
+   "A. Adénome hypophysaire"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Hyperthyroïdie",
+  "autres": "",
+  "sous_theme": "Adénome thyréotrope (hyperthyroïdie d'origine centrale)",
+  "note": "Énoncé retranscrit incohérent (symptômes d'hyperthyroïdie avec T4 et T3 « normales ») : retranscription probablement inexacte.",
+  "groupe": "CENTRALE-HYPER",
+  "map": {
+   "chapter": "hyper",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "hyper-autres"
+   ]
+  }
+ },
+ {
+  "ref": "ND-duprez-coche-imagerie-Q118",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 85,
+  "num": 118,
+  "line": 3806,
+  "stem": [
+   "Caractéristique écho de Basedow"
+  ],
+  "lines": [
+   "a. Hypoéchogène et hypervascularisé en doppler",
+   "b. Vascularisation en tigre"
+  ],
+  "marked": [
+   "a. Hypoéchogène et hypervascularisé en doppler"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hyperthyroïdie",
+  "autres": "Pathologies thyroïdiennes",
+  "sous_theme": "Échographie – maladie de Basedow",
+  "note": "Deux propositions.",
+  "groupe": "ECHO-BASEDOW",
+  "map": {
+   "chapter": "hyper",
+   "subchapter": "basedow",
+   "lessons": [
+    "hyper-basedow"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q30",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 6,
+  "num": 30,
+  "line": 175,
+  "stem": [
+   "Ce qui ne cause pas une hyperthyroïdie (1 bonne réponse)"
+  ],
+  "lines": [
+   "A. - basedow",
+   "B. - goitre multinodulaire toxique",
+   "C. - carence en iode",
+   "D. - adénome hypophysaire à TSH",
+   "E. - adénome folliculaire toxique"
+  ],
+  "marked": [
+   "C. - carence en iode"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hyperthyroïdie",
+  "autres": "",
+  "sous_theme": "Étiologies de l'hyperthyroïdie",
+  "note": "",
+  "groupe": "ETIO-HYPER",
+  "map": {
+   "chapter": "hyper",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "hyper-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q1",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 53,
+  "num": 1,
+  "line": 2214,
+  "stem": [
+   "Associez à la bonne proposition :"
+  ],
+  "lines": [
+   "A. Basedow",
+   "B. Thyroïdite silencieuse",
+   "C. Nodule toxique",
+   "D. Thyroïdite de De Quervain",
+   "E. Prise exogène d’hormone thyroïdiennes",
+   "1° En gros basedow celle la, me souvient pas de l'énoncé mais presentation stereotype, Ac anti-TSH",
+   "2° Femme 30 ans, post partum 2 mois, symptômes d'hyperthyroidie, T4 a 3.4 (nle < 2), TSH indosable, Tg a 80,",
+   "anticorps anti TPO positifs, anticorps anti rTSH négatif, pas de fixation à la scinti",
+   "-> B",
+   "3° Matteo nodule à l’écho, tous les Ac sont négatif, TSH indosable, T3 augmentée et T4 ok et Thyroglobuline",
+   "augmentée",
+   "-> C"
+  ],
+  "marked": [
+   "1° En gros basedow celle la, me souvient pas de l'énoncé mais presentation stereotype, Ac anti-TSH",
+   "-> B",
+   "-> C"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse discutée ou contestée",
+  "module": "Hyperthyroïdie",
+  "autres": "Pathologies thyroïdiennes",
+  "sous_theme": "Diagnostic étiologique d'une hyperthyroïdie (association, 3 cas)",
+  "note": "Bloc d'association de 3 cas. Cas 1 : énoncé non retranscrit, réponse « Basedow » de mémoire. Cas 2 → B (thyroïdite silencieuse), cas 3 → C (nodule toxique) en rouge.",
+  "groupe": "ETIO-HYPER",
+  "map": {
+   "chapter": "hyper",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "hyper-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-Q32",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 31,
+  "num": 32,
+  "line": 1177,
+  "stem": [
+   "jeune de 20 ans mannequin vient avec des symptômes de l'hyperthyroïdie. T4",
+   "est un peu au dessus de la normale, T3 fortement élevée, thyroglobuline"
+  ],
+  "lines": [
+   "indétectable, anticorps négatifs :",
+   "• Basedow",
+   "•  Prise exogène des hormones thyroïdiennes",
+   "• Thyroïdite de De Quervain",
+   "• Hashimoto",
+   "• Nodule chaud"
+  ],
+  "marked": [
+   "•  Prise exogène des hormones thyroïdiennes"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hyperthyroïdie",
+  "autres": "",
+  "sous_theme": "Hyperthyroïdie factice (prise exogène)",
+  "note": "",
+  "groupe": "EXOGENE",
+  "map": {
+   "chapter": "hyper",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "hyper-diagnostic",
+    "hyper-autres"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q8",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 54,
+  "num": 8,
+  "line": 2264,
+  "stem": [
+   "Jeune patiente de 20 ans, TSH à 0, T4 à 30 (augmenté), T3 augmenté à 6, Tg basse à 15 et Anticorps anti-Tg positif.",
+   "Les valeurs labos de références sont données. Quelle est la fausse?"
+  ],
+  "lines": [
+   "a. Hyperthyroïdie",
+   "b. Tg basse peut être expliquée par les Ac anti-Tg positif",
+   "Si c’est un Basedow elle aura un goitre cervical",
+   "d. La Tg basse implique la recherche de prise d’hormones thyroïdiennes exogènes",
+   "e. Pour exclure un Basedow on dose les Ac anti-TPO. c"
+  ],
+  "marked": [
+   "e. Pour exclure un Basedow on dose les Ac anti-TPO. c"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hyperthyroïdie",
+  "autres": "",
+  "sous_theme": "Hyperthyroïdie – Tg basse, anticorps anti-Tg",
+  "note": "Cas clinique avec valeurs.",
+  "groupe": "EXOGENE",
+  "map": {
+   "chapter": "hyper",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "hyper-diagnostic",
+    "hyper-autres"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q24",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 56,
+  "num": 24,
+  "line": 2355,
+  "stem": [
+   "Femme de 20 ans symptomes hyperthyroidie T3 ++, TSH - anticorps thyroidiens neg ???",
+   "Prise exogène de T3"
+  ],
+  "lines": [
+   "a. Basedow",
+   "b. Thyroïdite subaiguë",
+   "adénome hypophysaire"
+  ],
+  "marked": [
+   "Prise exogène de T3"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Question incomplète",
+  "module": "Hyperthyroïdie",
+  "autres": "",
+  "sous_theme": "Hyperthyroïdie factice (T3)",
+  "note": "Propositions partielles.",
+  "groupe": "EXOGENE",
+  "map": {
+   "chapter": "hyper",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "hyper-diagnostic",
+    "hyper-autres"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q32",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 57,
+  "num": 32,
+  "line": 2401,
+  "stem": [
+   "Femme de 52 ans avec symptômes avec TSH=0, T4 augmentée (=4ng), Ac anti-TG négatifs, Tg augmentée (60;",
+   "Nle = 40), que peut-on exclure (une bonne réponse)"
+  ],
+  "lines": [
+   "A. Hyperthyroïdie factice",
+   "B. Goître multinodulaire",
+   "C. Maladie de Basedow",
+   "D. Nodule toxique",
+   "E. Thyroïdite silencieuse"
+  ],
+  "marked": [
+   "A. Hyperthyroïdie factice"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hyperthyroïdie",
+  "autres": "",
+  "sous_theme": "Hyperthyroïdie – diagnostic étiologique (Tg)",
+  "note": "",
+  "groupe": "EXOGENE",
+  "map": {
+   "chapter": "hyper",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "hyper-diagnostic",
+    "hyper-autres"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q15",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 55,
+  "num": 15,
+  "line": 2310,
+  "stem": [
+   "Quel est le diagnostic ?"
+  ],
+  "lines": [
+   "Hyperthyroïdie T4 libre augmentée (30), T3 libre augmentée et TSH diminuée",
+   "Goitre, FA",
+   "Echo : goitre volumineux avec aspect hétérogène et alternance de zones chauds et froids",
+   "a) Goitre multinodulaire"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hyperthyroïdie",
+  "autres": "Pathologies thyroïdiennes",
+  "sous_theme": "Goitre multinodulaire toxique – cas clinique",
+  "note": "Une seule proposition, non marquée.",
+  "groupe": "GMN",
+  "map": {
+   "chapter": "hyper",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "hyper-autres",
+    "hyper-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q18",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 55,
+  "num": 18,
+  "line": 2324,
+  "stem": [
+   "Pb hyperthyroidie avec nervosité, amaigrissement, anticorps Tg négatif nombreux nodules (et Tg = 80, > nmle),",
+   "altération de la santé de manière progressive sur plusieurs mois non ? ou c'était une autre question ?",
+   "A Basedow"
+  ],
+  "lines": [
+   "B goitre multinodulaire",
+   "C. adénome toxique",
+   "D. Quervain"
+  ],
+  "marked": [
+   "B goitre multinodulaire"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Hyperthyroïdie",
+  "autres": "",
+  "sous_theme": "Goitre multinodulaire toxique – cas clinique",
+  "note": "Énoncé incertain (« ou c'était une autre question ? »).",
+  "groupe": "GMN",
+  "map": {
+   "chapter": "hyper",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "hyper-autres",
+    "hyper-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-p7-l274",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Alexopoulou (+ vrac adulte)",
+  "disc": "ADULTE",
+  "teacher": "Alexopoulou",
+  "page": 7,
+  "num": null,
+  "line": 274,
+  "stem": [
+   "QUESTIONS EN VRAC :"
+  ],
+  "lines": [
+   "A propos de l’ophtalmopathie de Basedow (une fausse) :",
+   "A. Un traitement par ATS permet de guérir à 100% dans 100% des cas",
+   "B. L’ophtalmopathie peut arriver avant l’hyperthyroïdie",
+   "C. Un traitement par iode radioactif peut aggraver l’OB",
+   "D. Le tabac est un FR",
+   "E."
+  ],
+  "marked": [
+   "A. Un traitement par ATS permet de guérir à 100% dans 100% des cas"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hyperthyroïdie",
+  "autres": "",
+  "sous_theme": "Orbitopathie basedowienne",
+  "note": "4 propositions retranscrites.",
+  "groupe": "ORBITOPATHIE",
+  "map": {
+   "chapter": "hyper",
+   "subchapter": "basedow",
+   "lessons": [
+    "hyper-basedow"
+   ]
+  }
+ },
+ {
+  "ref": "ND-beauloye-pediatrie-p74-l3252",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Beauloye (ancien titulaire) – Pédiatrie",
+  "disc": "PEDIA",
+  "teacher": "Beauloye",
+  "page": 74,
+  "num": null,
+  "line": 3252,
+  "stem": [
+   "Courbe de croissance C avec lenteur à l’école -> thyroïdite +1 c’éttait pas déficit en GH (à cause d’une"
+  ],
+  "lines": [
+   "hypothyroïdie?)+1 Elle avait 12 ans…."
+  ],
+  "marked": [
+   "Courbe de croissance C avec lenteur à l’école -> thyroïdite +1 c’éttait pas déficit en GH (à cause d’une"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse discutée ou contestée",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie acquise et croissance (courbe)",
+  "note": "« thyroïdite +1, c'était pas déficit en GH ? +1 » : réponse débattue.",
+  "groupe": "CROISSANCE-THYR",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "ND-beauloye-pediatrie-p75-l3321",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Beauloye (ancien titulaire) – Pédiatrie",
+  "disc": "PEDIA",
+  "teacher": "Beauloye",
+  "page": 75,
+  "num": null,
+  "line": 3321,
+  "stem": [
+   "5 : Courbe taille décroche en horizontal, pas de céphalée + hypothyroïdie à la bio: hypothyroïdie ⇒ thyroïde"
+  ],
+  "lines": [
+   "ectopique (cause d’hypothyroïdie) une cassure aussi net on avait vu soit une thyroïdite soit un craniopharyngiome : ici",
+   "thyroïdite"
+  ],
+  "marked": [
+   "5 : Courbe taille décroche en horizontal, pas de céphalée + hypothyroïdie à la bio: hypothyroïdie ⇒ thyroïde",
+   "ectopique (cause d’hypothyroïdie) une cassure aussi net on avait vu soit une thyroïdite soit un craniopharyngiome : ici"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie acquise et croissance (courbe)",
+  "note": "Réponse débattue (thyroïde ectopique / thyroïdite).",
+  "groupe": "CROISSANCE-THYR",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "ND-beauloye-pediatrie-p75-l3326",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Beauloye (ancien titulaire) – Pédiatrie",
+  "disc": "PEDIA",
+  "teacher": "Beauloye",
+  "page": 75,
+  "num": null,
+  "line": 3326,
+  "stem": [
+   "8. TSH à 100, T4 à 2, IGF1 à 80, A1P1M1, décroche sa taille brutalement à l’âge de 9 ans, décroche son poids vers"
+  ],
+  "lines": [
+   "11,5 ans. C’est celle qui avait des céphalés ? c’était la même que dans les 3 courbes?",
+   "A. Cushing",
+   "B. Thyroïdite",
+   "C. Crâniopharyngiome",
+   "D. Hypothyroïdie centrale?",
+   "E. ?? une longue proposition qu’il y avait aussi dans la 61 je pense"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse absente",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie et croissance (TSH 100, T4 2)",
+  "note": "Propositions incomplètes et doute du transcripteur.",
+  "groupe": "CROISSANCE-THYR",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "ND-beauloye-pediatrie-p78-l3477",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Beauloye (ancien titulaire) – Pédiatrie",
+  "disc": "PEDIA",
+  "teacher": "Beauloye",
+  "page": 78,
+  "num": null,
+  "line": 3477,
+  "stem": [
+   "66. A quels diagnostics correspondent la courbe D ? (2 réponses justes)"
+  ],
+  "lines": [
+   "La courbe D = Cassure rapide vers 5 ans (sur 1-2 ans) de la courbe de taille suivi d’une cassure de poids vers le haut",
+   "Hypothyroïdie",
+   "Craniopharyngiome"
+  ],
+  "marked": [
+   "Hypothyroïdie",
+   "Craniopharyngiome"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Croissance – courbe D (hypothyroïdie / craniopharyngiome)",
+  "note": "Question de croissance dont une des deux réponses est l'hypothyroïdie.",
+  "groupe": "CROISSANCE-THYR",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q53",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Pharmacologie",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 12,
+  "num": 53,
+  "line": 487,
+  "stem": [
+   "Effet secondaire principal du traitement par hormones thyroïdiennes (tuyau)"
+  ],
+  "lines": [
+   "A. Leucopénie",
+   "B. Hépatite",
+   "C. Hyperthyroïdie",
+   "D. Dysgeusie",
+   "E. Nausée"
+  ],
+  "marked": [
+   "C. Hyperthyroïdie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypothyroïdie",
+  "autres": "Hyperthyroïdie",
+  "sous_theme": "Pharmacologie – hormones thyroïdiennes",
+  "note": "Horsmans.",
+  "groupe": "ES-HT",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "traitement",
+   "lessons": [
+    "hypo-traitement"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q89",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 11,
+  "num": 89,
+  "line": 379,
+  "stem": [
+   "Effet secondaire principal du traitement par hormones thyroïdiennes"
+  ],
+  "lines": [
+   "A. Leucopénie",
+   "B. Hépatite",
+   "C. Hyperthyroïdie",
+   "D. Dysgeusie",
+   "E. Nausée"
+  ],
+  "marked": [
+   "C. Hyperthyroïdie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypothyroïdie",
+  "autres": "Hyperthyroïdie",
+  "sous_theme": "Pharmacologie – hormones thyroïdiennes",
+  "note": "Pharmacologie (Horsmans).",
+  "groupe": "ES-HT",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "traitement",
+   "lessons": [
+    "hypo-traitement"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q100",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 12,
+  "num": 100,
+  "line": 405,
+  "stem": [
+   "question tuyau sur l’effet secondaire d’un R/ H thyroïdienne => hyperthyroïdie"
+  ],
+  "lines": [],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Pharmacologie – hormones thyroïdiennes",
+  "note": "Seulement mentionnée (« question tuyau ») avec la réponse dans le texte (=> hyperthyroïdie). Possible doublon de la Q89 de la même retranscription.",
+  "groupe": "ES-HT",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "traitement",
+   "lessons": [
+    "hypo-traitement"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q87",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 25,
+  "num": 87,
+  "line": 939,
+  "stem": [
+   "Effet secondaire principal du traitement par hormones thyroïdiennes"
+  ],
+  "lines": [
+   "A. Leucopénie",
+   "B. Hépatite",
+   "C. Hyperthyroïdie",
+   "D. Dysgueusie",
+   "E. Nausée"
+  ],
+  "marked": [
+   "C. Hyperthyroïdie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypothyroïdie",
+  "autres": "Hyperthyroïdie",
+  "sous_theme": "Pharmacologie – hormones thyroïdiennes",
+  "note": "",
+  "groupe": "ES-HT",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "traitement",
+   "lessons": [
+    "hypo-traitement"
+   ]
+  }
+ },
+ {
+  "ref": "ND-horsmans-hormones-Q5",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Horsmans – Pharmaco hormones",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 88,
+  "num": 5,
+  "line": 3938,
+  "stem": [
+   "Effet secondaire principal du traitement par hormones thyroïdiennes"
+  ],
+  "lines": [
+   "A. Leucopénie",
+   "B. Hépatite",
+   "C. Hyperthyroïdie",
+   "D. Dysgueusie",
+   "E. Nausée"
+  ],
+  "marked": [
+   "C. Hyperthyroïdie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypothyroïdie",
+  "autres": "Hyperthyroïdie",
+  "sous_theme": "Pharmacologie – hormones thyroïdiennes",
+  "note": "",
+  "groupe": "ES-HT",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "traitement",
+   "lessons": [
+    "hypo-traitement"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q30",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Lysy",
+  "disc": "PEDIA",
+  "teacher": "Lysy",
+  "page": 8,
+  "num": 30,
+  "line": 315,
+  "stem": [
+   "Quel est l’inconvénient principal du test Guthrie ?"
+  ],
+  "lines": [
+   "A. Ne peut être effectué que chez les prématurés",
+   "B. Difficile de faire une PDS à un bébé",
+   "C. Ne détecte pas une hypothyroïdie centrale",
+   "D. Trop de FP d’hypothyroïdie",
+   "E. Doit être effectué toutes les semaines après la naissance"
+  ],
+  "marked": [
+   "C. Ne détecte pas une hypothyroïdie centrale"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Dépistage néonatal (Guthrie) – limites",
+  "note": "Lysy.",
+  "groupe": "GUTHRIE",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "ND-beauloye-pediatrie-p71-l3119",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Beauloye (ancien titulaire) – Pédiatrie",
+  "disc": "PEDIA",
+  "teacher": "Beauloye",
+  "page": 71,
+  "num": null,
+  "line": 3119,
+  "stem": [
+   "Qu'est-ce qu’on dose sur le papier buvard du Guthrie ?"
+  ],
+  "lines": [
+   "●",
+   "TSH"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Dépistage néonatal (Guthrie)",
+  "note": "Seule la réponse « TSH » est notée.",
+  "groupe": "GUTHRIE",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "ND-beauloye-pediatrie-p72-l3178",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Beauloye (ancien titulaire) – Pédiatrie",
+  "disc": "PEDIA",
+  "teacher": "Beauloye",
+  "page": 72,
+  "num": null,
+  "line": 3178,
+  "stem": [
+   "Le test de Guthrie permet de dépister toutes les maladies suivantes sauf une:"
+  ],
+  "lines": [
+   "A) Syndrome de Pendred",
+   "B) Athyréose",
+   "C) Dyshormonogenèse",
+   "D)  Hypothyroïdie centrale",
+   "E) Thyroïde ectopique"
+  ],
+  "marked": [
+   "D)  Hypothyroïdie centrale"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Dépistage néonatal (Guthrie) – limites",
+  "note": "Ancien titulaire (Beauloye).",
+  "groupe": "GUTHRIE",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q16",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Alexopoulou (+ vrac adulte)",
+  "disc": "ADULTE",
+  "teacher": "Alexopoulou",
+  "page": 4,
+  "num": 16,
+  "line": 161,
+  "stem": [
+   "Concernant l’hypothyroïdie primaire; une est fausse"
+  ],
+  "lines": [
+   "-",
+   "traitement par L-thyroxine",
+   "-",
+   "Taux de TSH élevé",
+   "-",
+   "1er cause en Europe est la thyroïdite d’hashimoto",
+   "-",
+   "Le traitement est toujours commencé à forte dose chez les personnes âgés",
+   "-",
+   "Je sais plus sorry mais pas la bonne"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse absente",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie primaire",
+  "note": "5e proposition oubliée (« je sais plus sorry mais pas la bonne ») ; aucune réponse marquée.",
+  "groupe": "HYPO-ADULTE",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "hypo-diagnostic",
+    "hypo-grossesse"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-Q37",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 32,
+  "num": 37,
+  "line": 1197,
+  "stem": [
+   "Concernant l’hypothyroidie chez l'adulte en Belgique une fausse"
+  ],
+  "lines": [
+   "• La première cause est Autoimmune",
+   "• Autoimmune peut débuter par une phase d'hyperthyroïdie",
+   "• Dans des cas sévères peut engendrer une hyponatrémie",
+   "• Traitement par L thyroxine avec taux de TSH à 12 augmenter la dose de 25 (pas",
+   "sûre)",
+   "• Durant la grossesse on augmente le taux d'hormone thyroïdienne à la fin du",
+   "premier trimestre"
+  ],
+  "marked": [
+   "• Traitement par L thyroxine avec taux de TSH à 12 augmenter la dose de 25 (pas",
+   "sûre)"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie de l'adulte (cause, traitement, grossesse)",
+  "note": "Désaccord entre compilations : rouge (2016-2024) = « TSH à 12 → augmenter de 25 » (pas sûre) ; surligné (2016-2025) = « augmenter à la fin du 1er trimestre ».",
+  "groupe": "HYPO-ADULTE",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "hypo-diagnostic",
+    "hypo-grossesse"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q14",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 55,
+  "num": 14,
+  "line": 2304,
+  "stem": [
+   "Concernant la thyroïde, la fausse :"
+  ],
+  "lines": [
+   "A) Hypothyroïdie chez les adultes en BE sont le plus souvent d’origine auto-immune.",
+   "B) Une cause auto-immune peut aussi bien donner une hyperthyroïdie qu'une hypothyroïdie",
+   "C) TSH est le meilleur marqueur de fonction thyroïdienne",
+   "D) Scintigraphie n'est pas utile en cas d'hypothyroïdie chez l’adulte",
+   "E) Il faut doubler les doses hormones thyroïdiennes le premier trimestre de grossesse"
+  ],
+  "marked": [
+   "E) Il faut doubler les doses hormones thyroïdiennes le premier trimestre de grossesse"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypothyroïdie",
+  "autres": "Pathologies thyroïdiennes",
+  "sous_theme": "Thyroïde – généralités, hypothyroïdie et grossesse",
+  "note": "",
+  "groupe": "HYPO-ADULTE",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "hypo-diagnostic",
+    "hypo-grossesse"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q29",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 56,
+  "num": 29,
+  "line": 2381,
+  "stem": [
+   "La fausse :"
+  ],
+  "lines": [
+   "A. En Belgique, il y a une carence en iode modérée",
+   "B. La principale cause d'hypothyroïdie est l'hypothyroïdie congénitale",
+   "C. ?",
+   "D. Les besoins en hormones thyroïdiennes sont augmentés de 30-50% pendant la grossesse",
+   "E. ?"
+  ],
+  "marked": [
+   "B. La principale cause d'hypothyroïdie est l'hypothyroïdie congénitale"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie – épidémiologie et grossesse",
+  "note": "2 propositions sur 5 manquantes.",
+  "groupe": "HYPO-ADULTE",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "hypo-diagnostic",
+    "hypo-grossesse"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q5",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 54,
+  "num": 5,
+  "line": 2246,
+  "stem": [
+   "Quel signe à la biologie ne retrouve-t-on pas en cas d’hypothyroïdie sévère (1 réponse):"
+  ],
+  "lines": [
+   "A. Hypernatrémie",
+   "B. Hyperprolactinémie",
+   "C. Anémie normochrome normocytaire",
+   "D. Hypercholestérolémie",
+   "E. Augmentation des CPK musculaires"
+  ],
+  "marked": [
+   "A. Hypernatrémie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie sévère – anomalies biologiques",
+  "note": "",
+  "groupe": "HYPO-BIO",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "hypo-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q22",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Alexopoulou (+ vrac adulte)",
+  "disc": "ADULTE",
+  "teacher": "Alexopoulou",
+  "page": 5,
+  "num": 22,
+  "line": 220,
+  "stem": [
+   "Que doser pour un bon suivi d'une hypothyroïdie centrale ?"
+  ],
+  "lines": [
+   "● TSH",
+   "● T4 libre",
+   "● T3 libre",
+   "● TRH",
+   "● Thyroglobuline"
+  ],
+  "marked": [
+   "● T4 libre"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie centrale – surveillance",
+  "note": "",
+  "groupe": "HYPO-CENTRALE",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "traitement",
+   "lessons": [
+    "hypo-traitement",
+    "hypo-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q30",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 18,
+  "num": 30,
+  "line": 659,
+  "stem": [
+   "Une fausse:"
+  ],
+  "lines": [
+   "c) vérifier avec la tsh quand on traite une hypothyroidie centrale"
+  ],
+  "marked": [
+   "c) vérifier avec la tsh quand on traite une hypothyroidie centrale"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie centrale – surveillance (T4L, pas TSH)",
+  "note": "Une seule proposition.",
+  "groupe": "HYPO-CENTRALE",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "traitement",
+   "lessons": [
+    "hypo-traitement",
+    "hypo-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-hypophyse-Q4",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Hypophyse",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 58,
+  "num": 4,
+  "line": 2471,
+  "stem": [
+   "Insuffisance hypophysaire 1F :"
+  ],
+  "lines": [
+   "a. Dans l’hypothyroïdie centrale : TSH indéterminée et T4 libre normal à supérieur par rapport à la limite d’âge"
+  ],
+  "marked": [
+   "a. Dans l’hypothyroïdie centrale : TSH indéterminée et T4 libre normal à supérieur par rapport à la limite d’âge"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie centrale (section Hypophyse)",
+  "note": "Une seule proposition.",
+  "groupe": "HYPO-CENTRALE",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "traitement",
+   "lessons": [
+    "hypo-traitement",
+    "hypo-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q2",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 53,
+  "num": 2,
+  "line": 2233,
+  "stem": [
+   "Un carence en iode sévère peut causer : 1 fausse"
+  ],
+  "lines": [
+   "a. Hypothyroïdie",
+   "b. Hyperthyroïdie",
+   "Retard intellectuel chez l’enfant",
+   "d. Hyperthyroxinemie chez la femme pendant la grossesse (c’etait pas hypOthyroxinemie?)",
+   "e. Goitre euthyroïdien"
+  ],
+  "marked": [
+   "b. Hyperthyroïdie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Hypothyroïdie",
+  "autres": "Pathologies thyroïdiennes",
+  "sous_theme": "Carence iodée sévère – conséquences",
+  "note": "Doute du transcripteur sur la proposition d (« hyper- » ou « hypothyroxinémie »).",
+  "groupe": "IODE",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "hypo-diagnostic",
+    "thyr-goitre"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q32",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 6,
+  "num": 32,
+  "line": 187,
+  "stem": [
+   "Une patiente de 83 ans, avec hypothyroïdie connue suite à une thyroïdectomie",
+   "totale, est traitée chroniquement par lévothyroxine sodique 100 microgramme/jour le",
+   "matin. Elle vous consulte pour fatigue et amaigrissement. Sa biologie récente montre",
+   "une TSH à 0,30 microU/mL (nl : 0,30-3,5), une T4 libre à 21 pmol/L (nl : 12-22) et une T3",
+   "libre à 5,2 pmol/L (nl : 2,0-6,0). Que lui conseillez-vous ? (Une seule bonne réponse)"
+  ],
+  "lines": [
+   "A. Vous poursuivez la même dose de L-Thyroxine mais vous insistez sur la prise au",
+   "matin à jeun",
+   "B. Vous poursuivez la même dose de L-Thyroxine et lui prescrivez un Beta-Bloquant",
+   "selectif à faible dose le soir",
+   "C. Vous augmentez la dose de la Thyroxine à 125 microgramme/jour",
+   "D. Vous diminuez la dose de la Thyroxine à 75 microgramme/jour (soit ça, soit la A)",
+   "E. Vous arrêtez la LThyroxine"
+  ],
+  "marked": [
+   "D. Vous diminuez la dose de la Thyroxine à 75 microgramme/jour (soit ça, soit la A)"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse discutée ou contestée",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "L-thyroxine – surdosage chez la personne âgée",
+  "note": "« soit ça, soit la A » : hésitation entre diminuer la dose et insister sur la prise à jeun.",
+  "groupe": "LT4-AGEE",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "traitement",
+   "lessons": [
+    "hypo-traitement"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q32",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 5,
+  "num": 32,
+  "line": 173,
+  "stem": [
+   "Une dame de 76 ans avec une hypothyroïdie connue depuis thyroïdectomie totale, et traitée par",
+   "Levothryroxine 75µg par jour, vient en consultation pour palpitations nocturnes. Sa prise de sang indique",
+   "(j’ai plus les chiffres mais osef): TSH abaissée, T4 limite normale haute, T3 normale. Que faites-vous :"
+  ],
+  "lines": [
+   "A. Maintenir le traitement en insistant bien sur la prise le matin à jeun.",
+   "B. Maintenir le traitement en ajoutant des bétabloquants",
+   "C. Augmenter le traitement à 100µg par jour",
+   "D. Diminuer le traitement à 50µg par jour",
+   "E. Arrêter le traitement"
+  ],
+  "marked": [
+   "D. Diminuer le traitement à 50µg par jour"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "L-thyroxine – surdosage chez la personne âgée",
+  "note": "Valeurs biologiques non retranscrites (« j'ai plus les chiffres »).",
+  "groupe": "LT4-AGEE",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "traitement",
+   "lessons": [
+    "hypo-traitement"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-thyroide-Q9",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Thyroïde",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 54,
+  "num": 9,
+  "line": 2271,
+  "stem": [
+   "Une patiente de 75 ans, avec hypothyroïdie connue suite à une thyroïdectomie totale, est traitée chroniquement",
+   "par lévothyroxine sodique 125 microgramme/jour le matin. Elle vous consulte pour des palpitations récentes la",
+   "nuit. Sa biologie récente montre une TSH à 0,20 microU/mL (nl : 0,30-3,5), une T4 libre à 18 pmol/L (nl : 12-22) et",
+   "une T3 libre à 2,2 pmol/L (nl : 2,0-6,0). Que lui conseillez-vous ? (Une seule bonne réponse)"
+  ],
+  "lines": [
+   "a. Vous poursuivez la même dose de L-Thyroxine mais vous insistez sur la prise au matin à jeun",
+   "b. Vous poursuivez la même dose de L-Thyroxine et lui prescrivez un Beta-Bloquant selectif à faible dose le soir",
+   "Vous augmentez la dose de la Thyroxine à 150 microgramme/jour",
+   "d. Vous diminuez la dose de la Thyroxine à 100 microgramme/jour",
+   "e. Vous diminuez la dose de la Thyroxine à 50 microgramme/jour"
+  ],
+  "marked": [
+   "d. Vous diminuez la dose de la Thyroxine à 100 microgramme/jour"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "L-thyroxine – surdosage chez la personne âgée",
+  "note": "Valeurs biologiques et normes fournies.",
+  "groupe": "LT4-AGEE",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "traitement",
+   "lessons": [
+    "hypo-traitement"
+   ]
+  }
+ },
+ {
+  "ref": "ND-beauloye-pediatrie-p74-l3265",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Beauloye (ancien titulaire) – Pédiatrie",
+  "disc": "PEDIA",
+  "teacher": "Beauloye",
+  "page": 74,
+  "num": null,
+  "line": 3265,
+  "stem": [
+   "Sarah a besoin d’une supplémentation en L-Thyroxine. Elle pesait à la naissance 3 kg, maintenant elle pèse 3,5 kg :"
+  ],
+  "lines": [
+   "e. 25 microg en comprimé",
+   "f.",
+   "50 microg en préparation magistrale par le pharmacien : sirop",
+   "g. 50 microg en comprimé",
+   "h. ..."
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse absente",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie congénitale – dose de L-thyroxine",
+  "note": "",
+  "groupe": "NN-DOSE",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "ND-beauloye-pediatrie-p77-l3388",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Beauloye (ancien titulaire) – Pédiatrie",
+  "disc": "PEDIA",
+  "teacher": "Beauloye",
+  "page": 77,
+  "num": null,
+  "line": 3388,
+  "stem": [
+   "Dosage de L-Thyroxine à donner à un enfant AGE?? de 3,5kg avec un poids de naissance = 3kg."
+  ],
+  "lines": [
+   "A. 50µg sous forme comprimé",
+   "B. 50µg sous forme de préparation faite par le Pharmacien",
+   "C. 37,5µg sous forme préparation faite par le Pharmacien",
+   "D. 10",
+   "E. 15"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse absente",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie congénitale – dose de L-thyroxine",
+  "note": "",
+  "groupe": "NN-DOSE",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "ND-beauloye-pediatrie-p74-l3254",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Beauloye (ancien titulaire) – Pédiatrie",
+  "disc": "PEDIA",
+  "teacher": "Beauloye",
+  "page": 74,
+  "num": null,
+  "line": 3254,
+  "stem": [
+   "Sarah, 10 jours, test de Guthrie positif : TSH 650, T4L très basse. Le labo indique que la Tg est indosable. Quel"
+  ],
+  "lines": [
+   "diagnostic ?",
+   "a. Athyréose",
+   "b. Dyshormonogénèse",
+   "Thyroïde ectopique",
+   "d. Thyroïdite"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse absente",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie congénitale – étiologie (Tg indosable)",
+  "note": "Ancien titulaire (Beauloye).",
+  "groupe": "NN-ETIO",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "ND-beauloye-pediatrie-p74-l3260",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Beauloye (ancien titulaire) – Pédiatrie",
+  "disc": "PEDIA",
+  "teacher": "Beauloye",
+  "page": 74,
+  "num": null,
+  "line": 3260,
+  "stem": [
+   "Imaginons que la Tg de Sarah soit élevée. Un truc du genre. Quel diagnostic?"
+  ],
+  "lines": [
+   "a. Athyréose",
+   "b. Dyshormonogénèse",
+   "Thyroïde ectopique",
+   "d. Thyroïdite"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie congénitale – étiologie (Tg élevée)",
+  "note": "« Un truc du genre » : énoncé approximatif, pas de réponse.",
+  "groupe": "NN-ETIO",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "ND-beauloye-pediatrie-p77-l3394",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Beauloye (ancien titulaire) – Pédiatrie",
+  "disc": "PEDIA",
+  "teacher": "Beauloye",
+  "page": 77,
+  "num": null,
+  "line": 3394,
+  "stem": [
+   "Q POSSIBLEMENT ANNULEE 20. Test revenu positif au ghutrie. Au J10 : patient avec un tableau d’hypothyroïdie, Ac"
+  ],
+  "lines": [
+   "négatif, T4 0,2 et TSH ++++(il me semble que c’était un piege, elle était normale 638 microU/L or l’unité donnée",
+   "dans la norme était en mU/L), Tg indosable",
+   "=> Athyréose",
+   "=>Ectopie thyroïdienne"
+  ],
+  "marked": [
+   "=> Athyréose"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse discutée ou contestée",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie congénitale – étiologie (athyréose)",
+  "note": "« Q possiblement annulée » ; piège d'unités signalé ; réponse notée => athyréose.",
+  "groupe": "NN-ETIO",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "ND-beauloye-pediatrie-p77-l3399",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Beauloye (ancien titulaire) – Pédiatrie",
+  "disc": "PEDIA",
+  "teacher": "Beauloye",
+  "page": 77,
+  "num": null,
+  "line": 3399,
+  "stem": [
+   "Q POSSIBLEMENT ANNULEE 19 Quid si ce même patient a un goître et un Tg élevée"
+  ],
+  "lines": [
+   "=> Dyshormonogenèse"
+  ],
+  "marked": [
+   "=> Dyshormonogenèse"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse discutée ou contestée",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie congénitale – étiologie (dyshormonogenèse)",
+  "note": "« Q possiblement annulée » ; réponse notée => dyshormonogenèse.",
+  "groupe": "NN-ETIO",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "ND-beauloye-pediatrie-p71-l3092",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Beauloye (ancien titulaire) – Pédiatrie",
+  "disc": "PEDIA",
+  "teacher": "Beauloye",
+  "page": 71,
+  "num": null,
+  "line": 3092,
+  "stem": [
+   "Comment peut se manifester l'hypothyroïdie congénitale chez un NN ? (2V)"
+  ],
+  "lines": [
+   "a. Retard du développement psychomoteur",
+   "b. L’enfant boit mal",
+   "Ictère prolongé",
+   "d. Fontanelle post large",
+   "e. DH sévère"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse absente",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie congénitale – signes",
+  "note": "Ancien titulaire (Beauloye).",
+  "groupe": "NN-SIGNES",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "ND-beauloye-pediatrie-p77-l3404",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Beauloye (ancien titulaire) – Pédiatrie",
+  "disc": "PEDIA",
+  "teacher": "Beauloye",
+  "page": 77,
+  "num": null,
+  "line": 3404,
+  "stem": [
+   "A propos des caractéristiques de l'hypothyroïdie chez le nouveau-né toutes sont vraies sauf une :"
+  ],
+  "lines": [
+   "A. Macroglossie",
+   "B. Fontanelles se referment très tôt",
+   "C. Subictère",
+   "D. Détresse respi",
+   "E. Hernie ombilicale"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse absente",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie congénitale – signes",
+  "note": "",
+  "groupe": "NN-SIGNES",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-p18-l544",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "PEDIA",
+  "teacher": "Lysy",
+  "page": 18,
+  "num": null,
+  "line": 544,
+  "stem": [
+   "question est sorti il y a 7 jours (il en a 12 jours de vie). Quelle est l'attitude",
+   "recommandée ?"
+  ],
+  "lines": [
+   "a) Prévoir une consultation pour évaluer l'évolution clinique",
+   "b) Prévoir des examens complémentaires pour évaluer l'enfant.",
+   "c) On amène l'enfant en urgence et on lance des examens complémentaires",
+   "d) On amène l'enfant en urgence, on fait des prélèvements biologiques et on commence",
+   "le traitement par LThyroxine sans attendre les résultats de l imagerie",
+   "e) On amène l'enfant en urgence et on fait un bilan complet (biologie+imagerie) pour",
+   "évaluer la condition clinique et ensuite donner de la LThyroxine",
+   "C’était oas exactement ça mais c’était l’idée"
+  ],
+  "marked": [
+   "d) On amène l'enfant en urgence, on fait des prélèvements biologiques et on commence",
+   "le traitement par LThyroxine sans attendre les résultats de l imagerie"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie congénitale – conduite après dépistage",
+  "note": "Pédiatrie, hors numérotation. « C'était pas exactement ça mais c'était l'idée ».",
+  "groupe": "NN-TSH",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q75",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "PEDIA",
+  "teacher": "Lysy",
+  "page": 24,
+  "num": 75,
+  "line": 884,
+  "stem": [
+   "Vous obtenez enfin un stage à la maternité tant attendu, mais votre joie disparait quand le",
+   "centre de depistage vous appelle pour un enfant dont la TSH est à 720 mU/l. Le bébé en",
+   "question est sorti il y a 7 jours (il en a 12 jours de vie). Quelle est l'attitude recommandée ?"
+  ],
+  "lines": [
+   "f) Prévoir une consultation pour évaluer l'évolution clinique",
+   "g) Prévoir des examens complémentaires pour évaluer l'enfant.",
+   "h) On amène l'enfant en urgence et on lance des examens complémentaires",
+   "i) On amène l'enfant en urgence, on fait des prélèvements biologiques et on commence le",
+   "traitement par LThyroxine sans attendre les résultats de l imagerie",
+   "j) On amène l'enfant en urgence et on fait un bilan complet (biologie+imagerie) pour évaluer",
+   "la condition clinique et ensuite donner de la LThyroxine"
+  ],
+  "marked": [
+   "i) On amène l'enfant en urgence, on fait des prélèvements biologiques et on commence le",
+   "traitement par LThyroxine sans attendre les résultats de l imagerie"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie congénitale – conduite après dépistage",
+  "note": "",
+  "groupe": "NN-TSH",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-p33-l1265",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Pédiatrie",
+  "disc": "PEDIA",
+  "teacher": "Lysy",
+  "page": 33,
+  "num": null,
+  "line": 1265,
+  "stem": [
+   "Bébé de 12 jours de vie dont la TSH crève le plafond. Vous êtes stagiaire à la maternité et le centre de"
+  ],
+  "lines": [
+   "dépistage vous en informe. Quelle est l'attitude recommandée ?",
+   "Prévoir une consultation pour évaluer l'évolution clinique",
+   "Prévoir des examens complémentaires pour évaluer l'enfant.",
+   "On amène l'enfant en urgence et on lance des examens complémentaires",
+   "On amène l'enfant en urgence, on fait des prélèvements biologiques et on commence le traitement",
+   "par LThyroxine sans attendre les résultats de l'imagerie",
+   "On amène l'enfant en urgence et on fait un bilan complet (biologie+imagerie) pour évaluer la",
+   "condition clinique et ensuite donner de la LThyroxine"
+  ],
+  "marked": [
+   "On amène l'enfant en urgence, on fait des prélèvements biologiques et on commence le traitement",
+   "par LThyroxine sans attendre les résultats de l'imagerie"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie congénitale – conduite après dépistage",
+  "note": "",
+  "groupe": "NN-TSH",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "ND-lysy-thyroide-Q2",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Lysy – Thyroïde",
+  "disc": "PEDIA",
+  "teacher": "Lysy",
+  "page": 70,
+  "num": 2,
+  "line": 3069,
+  "stem": [
+   "Bébé de 12 jours de vie dont la TSH crève le plafond. Vous êtes stagiaire à la maternité et le centre de dépistage",
+   "vous en informe. Quelle est l'attitude recommandée ?"
+  ],
+  "lines": [
+   "a. Prévoir une consultation pour évaluer l'évolution clinique",
+   "b. Prévoir des examens complémentaires pour évaluer l'enfant.",
+   "On amène l'enfant en urgence et on lance des examens complémentaires",
+   "d. On amène l'enfant en urgence, on fait des prélèvements biologiques et on commence le traitement par",
+   "LThyroxine sans attendre les résultats de l'imagerie",
+   "e. On amène l'enfant en urgence et on fait un bilan complet (biologie+imagerie) pour évaluer la condition",
+   "clinique et ensuite donner de la LThyroxine"
+  ],
+  "marked": [
+   "d. On amène l'enfant en urgence, on fait des prélèvements biologiques et on commence le traitement par",
+   "LThyroxine sans attendre les résultats de l'imagerie"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie congénitale – conduite après dépistage",
+  "note": "",
+  "groupe": "NN-TSH",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q61",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "PEDIA",
+  "teacher": "Lysy",
+  "page": 22,
+  "num": 61,
+  "line": 811,
+  "stem": [
+   "Thyroïde, la vraie:"
+  ],
+  "lines": [
+   "A) Enfant avec hypothyroïdie compensée, peut avoir des difficultés scolaires",
+   "B) Enfant avec hypoT décompensée avec TSH élevée, T4 basse aura toujours un problème de",
+   "croissance (en bas age)",
+   "C) Lors d’une prise de poids importante chez l’enfant, faut toujours voir si pas d’hypothyroïdie"
+  ],
+  "marked": [
+   "B) Enfant avec hypoT décompensée avec TSH élevée, T4 basse aura toujours un problème de",
+   "croissance (en bas age)"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie de l'enfant",
+  "note": "Rouge = B ici ; mais C en rouge en mai 2022 et dans la compilation 2016-2021 (Lysy). La couche surlignée de 2022 marque B.",
+  "groupe": "PEDIA-THYR",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q66",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "PEDIA",
+  "teacher": "Lysy",
+  "page": 23,
+  "num": 66,
+  "line": 838,
+  "stem": [
+   "Question avec le “10% trop petit pour son âge” / hypothyroïdie impact d’office la croissance",
+   "chez un enfant en bas âge / …"
+  ],
+  "lines": [],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie et croissance de l'enfant",
+  "note": "Seul le thème est retranscrit.",
+  "groupe": "PEDIA-THYR",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-p33-l1257",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Pédiatrie",
+  "disc": "PEDIA",
+  "teacher": "Lysy",
+  "page": 33,
+  "num": null,
+  "line": 1257,
+  "stem": [
+   "Thyroïde: la vraie?"
+  ],
+  "lines": [
+   "• Enfant avec hypothyroïdie compensée (TSH élevée mais T4 normale) peut avoir difficultés",
+   "scolaires",
+   "• Enfant avec hypoT décompensée (tsh élevée et T4 basse) aura toujours un pb de",
+   "croissance",
+   "• Lors d’une prise de poids importante chez l’enfant il faut toujours check si hypothyroïdie",
+   "• La présence d’un goitre permet d’exclure une hyperthyroïdie",
+   "• ??"
+  ],
+  "marked": [
+   "• Lors d’une prise de poids importante chez l’enfant il faut toujours check si hypothyroïdie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie de l'enfant",
+  "note": "Rouge = C ; surligné (compilation 2016-2025) = B ; mai 2023 = B.",
+  "groupe": "PEDIA-THYR",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "ND-lysy-thyroide-Q1",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Lysy – Thyroïde",
+  "disc": "PEDIA",
+  "teacher": "Lysy",
+  "page": 70,
+  "num": 1,
+  "line": 3064,
+  "stem": [
+   "Thyroïde: la vraie?"
+  ],
+  "lines": [
+   "a. Enfant avec TSH élevée mais T4 normale peut avoir difficultés scolaires",
+   "b. Enfant avec hypoT décompensée avec tsh élevée et T4 basse aura toujours un pb de croissance",
+   "Lors d’une prise de poids importante chez l’enfant il faut toujours check si hypothyroïdie",
+   "d. La présence d’un goitre permet d’exclure une hyperthyroïdie"
+  ],
+  "marked": [
+   "Lors d’une prise de poids importante chez l’enfant il faut toujours check si hypothyroïdie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie de l'enfant",
+  "note": "Rouge = C ; mai 2023 = B (voir groupe).",
+  "groupe": "PEDIA-THYR",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "ND-beauloye-pediatrie-p75-l3294",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Beauloye (ancien titulaire) – Pédiatrie",
+  "disc": "PEDIA",
+  "teacher": "Beauloye",
+  "page": 75,
+  "num": null,
+  "line": 3294,
+  "stem": [
+   "Vu que ses parents ont des ATCD de thyroide, on fait un check up (question retombée de l’an passée)"
+  ],
+  "lines": [
+   "a. Euthyroidienne"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Bilan thyroïdien chez l'enfant",
+  "note": "Une seule proposition.",
+  "groupe": "PEDIA-THYR",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "ND-beauloye-pediatrie-p75-l3304",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Beauloye (ancien titulaire) – Pédiatrie",
+  "disc": "PEDIA",
+  "teacher": "Beauloye",
+  "page": 75,
+  "num": null,
+  "line": 3304,
+  "stem": [
+   "Aline, 3ans, vient à la consultation parce que sa mère trouve pâle et fatiguée, on fait un bilan thyroïdien et on voit"
+  ],
+  "lines": [
+   "une T4 nle et une TSH d’environ 6.5 (les normes adultes de labo sont données). Un peu en surpoids, pas de goître",
+   "palpé, examen entièrement normal.",
+   "A. Elle est euthyroïdienne",
+   "B. Elle est obèse",
+   "C. Elle a une hypothyroïdie subclinique",
+   "D. Elle a une hypothyroïdie secondaire",
+   "E. Elle a une carence en iode"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse absente",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie infraclinique de l'enfant (TSH 6,5)",
+  "note": "Normes adultes données.",
+  "groupe": "SUBCLIN-PEDIA",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "ND-beauloye-pediatrie-p77-l3410",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Beauloye (ancien titulaire) – Pédiatrie",
+  "disc": "PEDIA",
+  "teacher": "Beauloye",
+  "page": 77,
+  "num": null,
+  "line": 3410,
+  "stem": [
+   "Histoire d’une fille de 13 ans, surpoids mais croissance normale, les parents viennent pour checker si"
+  ],
+  "lines": [
+   "hypothyroïdie… Elle avait 5,6 de TSH, sa T4L était dans les normes (elle donnait les valeurs du labo mais donc",
+   "adultes : mais au final ca revient plus ou moins au même vu qu’elle a 13 ans et que ca varie surtout en début de vie)",
+   "A. Euthyroïdie",
+   "B. Hypothyroidie subclinique",
+   "C. On sait pas dire, besoin d’autres tests complémentaires",
+   "D. Carence en iode",
+   "E. Hypothyroidie secondaire"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse absente",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "Hypothyroïdie infraclinique de l'enfant (TSH 5,6)",
+  "note": "Normes adultes données.",
+  "groupe": "SUBCLIN-PEDIA",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "congenitale",
+   "lessons": [
+    "hypo-congenitale"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q25",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 4,
+  "num": 25,
+  "line": 148,
+  "stem": [
+   "Diagnostic de l’hypothyroidie:Donnez la fausse :"
+  ],
+  "lines": [
+   "T4 libre est un bon marqueur de suivi de la maladie ( un truc comme ça)"
+  ],
+  "marked": [
+   "T4 libre est un bon marqueur de suivi de la maladie ( un truc comme ça)"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hypothyroïdie",
+  "autres": "Pathologies thyroïdiennes",
+  "sous_theme": "Diagnostic et suivi de l'hypothyroïdie (T4L vs TSH)",
+  "note": "Une seule proposition retranscrite (« un truc comme ça »). Non marquée dans la couche surlignée de la compilation 2016-2025.",
+  "groupe": "SUIVI-HYPO",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "hypo-diagnostic",
+    "hypo-traitement"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q25",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 5,
+  "num": 25,
+  "line": 148,
+  "stem": [
+   "Hypothyroidie"
+  ],
+  "lines": [],
+  "marked": [],
+  "placeholder": true,
+  "clinical": false,
+  "status": "Question non retranscrite (seul le nom du transcripteur figure)",
+  "module": "Hypothyroïdie",
+  "autres": "",
+  "sous_theme": "(thème « Hypothyroïdie », non retranscrite)",
+  "note": "Seul le titre « Hypothyroïdie » figure à la Q25.",
+  "groupe": "—",
+  "map": {
+   "chapter": "hypo",
+   "subchapter": "diagnostic",
+   "lessons": []
+  }
+ }
+]

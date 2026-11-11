@@ -168,3 +168,16 @@ input[type='checkbox'], input[type='radio'] { width: 1.2rem; height: 1.2rem; }
 .stat { background: #fff; border: 1px solid var(--grey-200); border-radius: 10px; padding: 0.7rem; display: grid; }
 .stat-v { font-size: 1.5rem; font-weight: 700; color: var(--navy); }
 .stat-l { font-size: 0.85rem; color: var(--grey-600); }
+
+/* ---------- Anciens examens ---------- */
+.archive-list { list-style: none; padding: 0; display: grid; gap: 0.5rem; margin-top: 1rem; }
+.archive-item { display: grid; gap: 0.3rem; background: #fff; border: 1px solid var(--grey-200); border-radius: 10px; padding: 0.7rem 0.9rem; text-decoration: none; color: var(--text); }
+.archive-item:hover { border-color: var(--turquoise); }
+.archive-meta { font-size: 0.82rem; color: var(--grey-600); }
+.archive-stem { font-weight: 600; }
+.archive-badges .badge:first-child { margin-left: 0; }
+.notice.warn { background: #fff4e5; border-left-color: #e08a00; }
+.choice.static { cursor: default; }
+.choice.marked { border-color: #e08a00; background: #fff8ee; }
+.linklike { background: none; border: 0; color: var(--blue); text-decoration: underline; cursor: pointer; font: inherit; padding: 0; }
+input[type='search'] { font: inherit; padding: 0.55rem; border-radius: 8px; border: 1px solid var(--grey-200); min-height: 44px; }

@@ -1,0 +1,1430 @@
+{
+  "source": "import-nd-maiter",
+  "questions": [
+    {
+      "id": "ENDO-ND-ADULTE-QCM-204",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "Proposition vraie cancer thyroïdien.",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Cancer folliculaire le plus fréquent"
+        },
+        {
+          "id": "B",
+          "text": "Cancer de hurtle indifférencié thyroïdien"
+        },
+        {
+          "id": "C",
+          "text": "Cancer papillaire métastase par voie hématogène"
+        },
+        {
+          "id": "D",
+          "text": "Cancer anaplasique répond bien à radio iode à très forte dose"
+        },
+        {
+          "id": "E",
+          "text": "Cancer médullaire associé à phéochromocytome"
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 53,
+        "originalNumber": 4,
+        "auditRef": "ND-maiter-thyroide-Q4"
+      },
+      "chapter": "thyroide",
+      "subchapter": "cancers",
+      "lessonLinks": [
+        "thyr-cancers"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CANCERS"
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-206",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Cancer de Hürthle, la fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Variant rare du carcinome papillaire de la thyroïde"
+        },
+        {
+          "id": "B",
+          "text": "+ agressif que les autres carcinomes"
+        },
+        {
+          "id": "C",
+          "text": "Se dissémine par voie hématogène"
+        },
+        {
+          "id": "D",
+          "text": "Composé de cellules oxyphiles"
+        },
+        {
+          "id": "E",
+          "text": "Métastases captent moins l’iode radioactif"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 54,
+        "originalNumber": 6,
+        "auditRef": "ND-maiter-thyroide-Q6"
+      },
+      "chapter": "thyroide",
+      "subchapter": "cancers",
+      "lessonLinks": [
+        "thyr-cancers"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CANCERS"
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-236",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "A propos du carcinome de la thyroïde (Mix de questions c’était en anapath les propositions), trouver la bonne réponse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Une ponction à l’aiguille fine permet toujours le diagnostic de cancer"
+        },
+        {
+          "id": "B",
+          "text": "Si on traite correctement le cancer, la Tg sera à 0 dans le suivi"
+        },
+        {
+          "id": "C",
+          "text": "Le Hurthle est un cancer thyroïdien indifférencié"
+        },
+        {
+          "id": "D",
+          "text": "le cancer folliculaire est le plus fréquent"
+        },
+        {
+          "id": "E",
+          "text": "Le cancer anaplasique répond bien au traitement par radioiode"
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 57,
+        "originalNumber": 36,
+        "auditRef": "ND-maiter-thyroide-Q36"
+      },
+      "chapter": "thyroide",
+      "subchapter": "cancers",
+      "lessonLinks": [
+        "thyr-cancers"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CANCERS"
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-212",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Un goitre peut être observé dans les cas suivants sauf UN",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Analogue somatostatine 🡺 traitement dans les adénome somatotrope (GH)"
+        },
+        {
+          "id": "B",
+          "text": "Maladie d'Hashimoto"
+        },
+        {
+          "id": "C",
+          "text": "Carence en iode"
+        },
+        {
+          "id": "D",
+          "text": "Basedow"
+        },
+        {
+          "id": "E",
+          "text": "Perturbation d'hormonogenèse thyroïdienne"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 55,
+        "originalNumber": 12,
+        "auditRef": "ND-maiter-thyroide-Q12"
+      },
+      "chapter": "thyroide",
+      "subchapter": "goitre",
+      "lessonLinks": [
+        "thyr-goitre"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "GOITRE"
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-220",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Qu'est ce qui ne donne pas un goitre?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Thyroïdite d’Hashimoto"
+        },
+        {
+          "id": "B",
+          "text": "Maladie de Basedow"
+        },
+        {
+          "id": "C",
+          "text": "Prise chronique de Lithium"
+        },
+        {
+          "id": "D",
+          "text": "Carence en iode"
+        },
+        {
+          "id": "E",
+          "text": "Surdosage d’un traitement en hormone thyroïdienne"
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 56,
+        "originalNumber": 20,
+        "auditRef": "ND-maiter-thyroide-Q20"
+      },
+      "chapter": "thyroide",
+      "subchapter": "goitre",
+      "lessonLinks": [
+        "thyr-goitre"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "GOITRE"
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-230",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Face à un nodule thyroïdien isolé, quel examen complémentaire n’est PAS utile?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Dosage sanguin de la TSH"
+        },
+        {
+          "id": "B",
+          "text": "Dosage sanguin des anticorps stimulants anti-récepteurs de la TSH (TSI)"
+        },
+        {
+          "id": "C",
+          "text": "Dosage sanguin de la calcitonine"
+        },
+        {
+          "id": "D",
+          "text": "Échographie de la région thyroïdienne"
+        },
+        {
+          "id": "E",
+          "text": "Scinti à Iode 132"
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 57,
+        "originalNumber": 30,
+        "auditRef": "ND-maiter-thyroide-Q30"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "NOD-BILAN",
+      "answerNote": "« Scinti à Iode 132 » : probablement iode 123 (faute de frappe)."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-203",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Nodule thyroïdien, quel élément augmente la suspicion que ça soit un cancer (1 fausse):",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": ">70 ans"
+        },
+        {
+          "id": "B",
+          "text": "Etre un homme"
+        },
+        {
+          "id": "C",
+          "text": "Antécédents d’irradiation cervicale"
+        },
+        {
+          "id": "D",
+          "text": "TSH diminuée"
+        },
+        {
+          "id": "E",
+          "text": "Calcifications visibles à l’écho"
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 54,
+        "originalNumber": 3,
+        "auditRef": "ND-maiter-thyroide-Q3"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "NOD-SUSP"
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-207",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Qu'est-ce qui est de plus mauvais pronostic pour un nodule thyroïdien",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Calcitonine élevée"
+        },
+        {
+          "id": "B",
+          "text": "Eutirads 3"
+        },
+        {
+          "id": "C",
+          "text": "Hyperéchogène avec TSH basse"
+        },
+        {
+          "id": "D",
+          "text": "Bethesda lI"
+        },
+        {
+          "id": "E",
+          "text": "?"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 54,
+        "originalNumber": 7,
+        "auditRef": "ND-maiter-thyroide-Q7"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "NOD-SUSP",
+      "answerNote": "5e proposition manquante."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-217",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Présence d’un nodule thyroïdien. Parmi les éléments ci-dessous qu’est ce qui ne renforce pas la suspicion d’un cancer thyroïdien :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Thyroglobuline augmentée"
+        },
+        {
+          "id": "B",
+          "text": "Antécédent d'irradiation cervicale"
+        },
+        {
+          "id": "C",
+          "text": "Antécédent familial de cancer thyroïdien"
+        },
+        {
+          "id": "D",
+          "text": "Consistance très ferme du nodule"
+        },
+        {
+          "id": "E",
+          "text": "Classification eutirads 5 à l’échographie"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 55,
+        "originalNumber": 17,
+        "auditRef": "ND-maiter-thyroide-Q17"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "NOD-SUSP"
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-233",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Face un nodule thyroïdien, les éléments suivants augmentent la suspicion d’une pathologie cancéreuse, sauf UN, Lequel ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Un jeune âge, inférieur à 15 ans"
+        },
+        {
+          "id": "B",
+          "text": "Le sexe féminin"
+        },
+        {
+          "id": "C",
+          "text": "Un ATCD d’irradiation cervicale"
+        },
+        {
+          "id": "D",
+          "text": "Un nodule dur et fixé"
+        },
+        {
+          "id": "E",
+          "text": "Des microcalcifications présentes à l’échographie"
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 57,
+        "originalNumber": 33,
+        "auditRef": "ND-maiter-thyroide-Q33"
+      },
+      "chapter": "thyroide",
+      "subchapter": "nodules",
+      "lessonLinks": [
+        "thyr-nodules"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "NOD-SUSP"
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-225",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Indication pour une scintigraphie thyroïdienne, laquelle est fausse ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Diagnostic étiologique d’une hypothyroïdie chez l’adulte"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 56,
+        "originalNumber": 25,
+        "auditRef": "ND-maiter-thyroide-Q25"
+      },
+      "chapter": "thyroide",
+      "subchapter": "explo",
+      "lessonLinks": [
+        "thyr-explo"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SCINTI",
+      "answerNote": "Une seule proposition."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-216",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant la pathologie thyroïdienne : une fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "En cas de malnutrition chronique, on peut avoir une t4 basse isolée"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 55,
+        "originalNumber": 16,
+        "auditRef": "ND-maiter-thyroide-Q16"
+      },
+      "chapter": "thyroide",
+      "subchapter": "explo",
+      "lessonLinks": [
+        "thyr-explo"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "T3-BASSE",
+      "answerNote": "Une seule proposition."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-223",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant le syndrome de la T3 basse, quelle est la fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Peut être diminuée en cas de cachexie, et il ne faut pas traiter"
+        },
+        {
+          "id": "B",
+          "text": "…"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 56,
+        "originalNumber": 23,
+        "auditRef": "ND-maiter-thyroide-Q23"
+      },
+      "chapter": "thyroide",
+      "subchapter": "explo",
+      "lessonLinks": [
+        "thyr-explo"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "T3-BASSE",
+      "answerNote": "Une seule proposition ; celle marquée « fausse » paraît exacte sur le fond : marquage à vérifier."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-213",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Tous les facteurs suivants diminuent la TSH sauf un:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Oestrogène"
+        },
+        {
+          "id": "B",
+          "text": "Glucocorticoïdes"
+        },
+        {
+          "id": "C",
+          "text": "Hyperthyroïdie"
+        },
+        {
+          "id": "D",
+          "text": "Femme enceinte"
+        },
+        {
+          "id": "E",
+          "text": "?"
+        }
+      ],
+      "expected": [
+        "A",
+        "D"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 55,
+        "originalNumber": 13,
+        "auditRef": "ND-maiter-thyroide-Q13"
+      },
+      "chapter": "thyroide",
+      "subchapter": "explo",
+      "lessonLinks": [
+        "thyr-explo",
+        "hyper-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "TSH-BASSE",
+      "answerNote": "Deux propositions en rouge (œstrogènes et femme enceinte) pour une question « sauf un » ; 5e proposition manquante."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-210",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Au sujet de la thyroide, 2F",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Pilule OE-P augmente hormones thyroïdiennes totales et fraction libre"
+        },
+        {
+          "id": "B",
+          "text": "Wolff Chaikoff : iode a forte dose bénéfique dans l'hyperthyroïdie"
+        },
+        {
+          "id": "C",
+          "text": "Lithium et perchlorate inhibent l’organification de l’iode"
+        },
+        {
+          "id": "D",
+          "text": "Une carence en iode induit un goitre et une diminution de la T4 libre chez la femme enceinte"
+        }
+      ],
+      "expected": [
+        "A",
+        "C"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 54,
+        "originalNumber": 10,
+        "auditRef": "ND-maiter-thyroide-Q10"
+      },
+      "chapter": "thyroide",
+      "subchapter": "explo",
+      "lessonLinks": [
+        "thyr-explo",
+        "hypo-grossesse"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "WOLFF",
+      "answerNote": "4 propositions."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-221",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant la thyroide toutes ces propositions sont vraies sauf une (faux)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "injection d’une haute de dose d’iode stimule l’organification et la synthèse des HT (effet wolff Chaikoff) On majore de 125-150 µg / j les doses d’iode chez une femme enceinte"
+        },
+        {
+          "id": "B",
+          "text": "…"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 56,
+        "originalNumber": 21,
+        "auditRef": "ND-maiter-thyroide-Q21"
+      },
+      "chapter": "thyroide",
+      "subchapter": "explo",
+      "lessonLinks": [
+        "thyr-explo"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "WOLFF",
+      "answerNote": "Propositions partielles."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-211",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "A propos de l’Amiodarone, 1 fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Induit une hyperthyroïdie par surcharge iodée"
+        },
+        {
+          "id": "B",
+          "text": "Induit une hypothyroïdie"
+        },
+        {
+          "id": "C",
+          "text": "Peut donner un goitre multinodulaire toxique"
+        },
+        {
+          "id": "D",
+          "text": "Peut donner une augmentation de la T4 libre et une diminution de la T3 libre"
+        },
+        {
+          "id": "E",
+          "text": "Hyperthyroïdie par thyroïdite"
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 54,
+        "originalNumber": 11,
+        "auditRef": "ND-maiter-thyroide-Q11"
+      },
+      "chapter": "hyper",
+      "subchapter": "iatrogene",
+      "lessonLinks": [
+        "hyper-autres"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "AMIODARONE"
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-234",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Cochez les deux propositions fausses :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Dans le cas d’une maladie de Basedow, lors d’un traitement par des ATS on peut s’attendre à 50% de rechutes."
+        },
+        {
+          "id": "B",
+          "text": "Strumazole est plus indiqué que le PTU dans le cas d’une grossesse"
+        },
+        {
+          "id": "C",
+          "text": "Amiodarone peut causer une hyperthyroïdie via une contamination iodée et une induction de thyroïdite"
+        },
+        {
+          "id": "D",
+          "text": "hypothyroïdie entraîne une hypercholestérolémie"
+        },
+        {
+          "id": "E",
+          "text": "le traitement pour l'hypothyroïdie vise une valeur de TSH basse c’est à dire une valeur <0,5 (nl: 0,3-3,3)"
+        }
+      ],
+      "expected": [
+        "B",
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 57,
+        "originalNumber": 34,
+        "auditRef": "ND-maiter-thyroide-Q34"
+      },
+      "chapter": "hyper",
+      "subchapter": "basedow",
+      "lessonLinks": [
+        "hyper-basedow",
+        "hyper-traitements"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "BASEDOW-ATS"
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-237",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Question avec le Strumazole, jme souviens plus trop",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Traitement de base strumazole pendant 18 mois"
+        },
+        {
+          "id": "B",
+          "text": "Rarement complication grave l’agranulocytose"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 57,
+        "originalNumber": 37,
+        "auditRef": "ND-maiter-thyroide-Q37"
+      },
+      "chapter": "hyper",
+      "subchapter": "basedow",
+      "lessonLinks": [
+        "hyper-basedow",
+        "hyper-traitements"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "BASEDOW-ATS",
+      "answerNote": "« jme souviens plus trop » ; 2 propositions, pas de réponse."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-226",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Homme avec symptômes d’hyperthyroïde, et se plaint de céphalées à l’effort. TSH élevée, T4 et T3 normales, Ac négatifs, quel diagnostic",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Adénome hypophysaire"
+        },
+        {
+          "id": "B",
+          "text": "Basedow"
+        },
+        {
+          "id": "C",
+          "text": "Thyroïdite subaiguë"
+        },
+        {
+          "id": "D",
+          "text": "Prise exogène de T3"
+        },
+        {
+          "id": "E",
+          "text": "De Quervain"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 56,
+        "originalNumber": 26,
+        "auditRef": "ND-maiter-thyroide-Q26"
+      },
+      "chapter": "hyper",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "hyper-autres"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CENTRALE-HYPER",
+      "answerNote": "Énoncé retranscrit incohérent (symptômes d'hyperthyroïdie avec T4 et T3 « normales ») : retranscription probablement inexacte."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-201",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Associez à la bonne proposition :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Basedow"
+        },
+        {
+          "id": "B",
+          "text": "Thyroïdite silencieuse"
+        },
+        {
+          "id": "C",
+          "text": "Nodule toxique"
+        },
+        {
+          "id": "D",
+          "text": "Thyroïdite de De Quervain"
+        },
+        {
+          "id": "E",
+          "text": "Prise exogène d’hormone thyroïdiennes"
+        },
+        {
+          "id": "F",
+          "text": "1° En gros basedow celle la, me souvient pas de l'énoncé mais presentation stereotype, Ac anti-TSH 2° Femme 30 ans, post partum 2 mois, symptômes d'hyperthyroidie, T4 a 3.4 (nle < 2), TSH indosable, Tg a 80, anticorps anti TPO positifs, anticorps anti rTSH négatif, pas de fixation à la scinti 3° Matteo nodule à l’écho, tous les Ac sont négatif, TSH indosable, T3 augmentée et T4 ok et Thyroglobuline augmentée"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [
+        "-> B",
+        "-> C"
+      ],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 53,
+        "originalNumber": 1,
+        "auditRef": "ND-maiter-thyroide-Q1"
+      },
+      "chapter": "hyper",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "hyper-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "ETIO-HYPER",
+      "answerNote": "Bloc d'association de 3 cas cliniques (énoncé du cas 1 non retranscrit) : consultable, non noté sous forme de QCM."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-208",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Jeune patiente de 20 ans, TSH à 0, T4 à 30 (augmenté), T3 augmenté à 6, Tg basse à 15 et Anticorps anti-Tg positif. Les valeurs labos de références sont données. Quelle est la fausse?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hyperthyroïdie"
+        },
+        {
+          "id": "B",
+          "text": "Tg basse peut être expliquée par les Ac anti-Tg positif"
+        },
+        {
+          "id": "C",
+          "text": "Si c’est un Basedow elle aura un goitre cervical"
+        },
+        {
+          "id": "D",
+          "text": "La Tg basse implique la recherche de prise d’hormones thyroïdiennes exogènes"
+        },
+        {
+          "id": "E",
+          "text": "Pour exclure un Basedow on dose les Ac anti-TPO."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 54,
+        "originalNumber": 8,
+        "auditRef": "ND-maiter-thyroide-Q8"
+      },
+      "chapter": "hyper",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "hyper-diagnostic",
+        "hyper-autres"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "EXOGENE",
+      "answerNote": "Cas clinique avec valeurs."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-224",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Femme de 20 ans symptomes hyperthyroidie T3 ++, TSH - anticorps thyroidiens neg ??? Prise exogène de T3",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Basedow"
+        },
+        {
+          "id": "B",
+          "text": "Thyroïdite subaiguë"
+        },
+        {
+          "id": "C",
+          "text": "adénome hypophysaire"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 56,
+        "originalNumber": 24,
+        "auditRef": "ND-maiter-thyroide-Q24"
+      },
+      "chapter": "hyper",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "hyper-diagnostic",
+        "hyper-autres"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "EXOGENE",
+      "answerNote": "Propositions partielles."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-215",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quel est le diagnostic ? Hyperthyroïdie T4 libre augmentée (30), T3 libre augmentée et TSH diminuée Goitre, FA Echo : goitre volumineux avec aspect hétérogène et alternance de zones chauds et froids",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Goitre multinodulaire"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 55,
+        "originalNumber": 15,
+        "auditRef": "ND-maiter-thyroide-Q15"
+      },
+      "chapter": "hyper",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "hyper-autres",
+        "hyper-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "GMN",
+      "answerNote": "Une seule proposition, non marquée."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-218",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Pb hyperthyroidie avec nervosité, amaigrissement, anticorps Tg négatif nombreux nodules (et Tg = 80, > nmle), altération de la santé de manière progressive sur plusieurs mois non ? ou c'était une autre question ? A Basedow",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "goitre multinodulaire"
+        },
+        {
+          "id": "B",
+          "text": "adénome toxique"
+        },
+        {
+          "id": "C",
+          "text": "Quervain"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 55,
+        "originalNumber": 18,
+        "auditRef": "ND-maiter-thyroide-Q18"
+      },
+      "chapter": "hyper",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "hyper-autres",
+        "hyper-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "GMN",
+      "answerNote": "Énoncé incertain (« ou c'était une autre question ? »)."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-229",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "La fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "En Belgique, il y a une carence en iode modérée"
+        },
+        {
+          "id": "B",
+          "text": "La principale cause d'hypothyroïdie est l'hypothyroïdie congénitale"
+        },
+        {
+          "id": "C",
+          "text": "?"
+        },
+        {
+          "id": "D",
+          "text": "Les besoins en hormones thyroïdiennes sont augmentés de 30-50% pendant la grossesse"
+        },
+        {
+          "id": "E",
+          "text": "?"
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 56,
+        "originalNumber": 29,
+        "auditRef": "ND-maiter-thyroide-Q29"
+      },
+      "chapter": "hypo",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "hypo-diagnostic",
+        "hypo-grossesse"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HYPO-ADULTE",
+      "answerNote": "2 propositions sur 5 manquantes."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-304",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Insuffisance hypophysaire 1F :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Dans l’hypothyroïdie centrale : TSH indéterminée et T4 libre normal à supérieur par rapport à la limite d’âge"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 58,
+        "originalNumber": 4,
+        "auditRef": "ND-maiter-hypophyse-Q4"
+      },
+      "chapter": "hypo",
+      "subchapter": "traitement",
+      "lessonLinks": [
+        "hypo-traitement",
+        "hypo-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HYPO-CENTRALE",
+      "answerNote": "Une seule proposition."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-202",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Un carence en iode sévère peut causer : 1 fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hypothyroïdie"
+        },
+        {
+          "id": "B",
+          "text": "Hyperthyroïdie"
+        },
+        {
+          "id": "C",
+          "text": "Retard intellectuel chez l’enfant"
+        },
+        {
+          "id": "D",
+          "text": "Hyperthyroxinemie chez la femme pendant la grossesse (c’etait pas hypOthyroxinemie?)"
+        },
+        {
+          "id": "E",
+          "text": "Goitre euthyroïdien"
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 53,
+        "originalNumber": 2,
+        "auditRef": "ND-maiter-thyroide-Q2"
+      },
+      "chapter": "hypo",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "hypo-diagnostic",
+        "thyr-goitre"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "IODE",
+      "answerNote": "Doute du transcripteur sur la proposition d (« hyper- » ou « hypothyroxinémie »)."
+    }
+  ]
+}

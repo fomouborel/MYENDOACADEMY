@@ -21,7 +21,7 @@ test('menu : seules les rubriques disponibles sont proposées', async ({ page })
   await navTo(page, 'Mes cours');
   await expect(page.getByRole('heading', { name: 'Mes cours' })).toBeVisible();
   const nav = page.getByRole('navigation', { name: 'Navigation principale' });
-  await expect(nav.getByRole('link')).toHaveCount(4);
+  await expect(nav.getByRole('link')).toHaveCount(5);
 });
 
 test('sauvegarde et restauration de la progression', async ({ page }, info) => {
