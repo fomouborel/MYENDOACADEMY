@@ -45,6 +45,12 @@ export function validateContent(raw: RawContent): string[] {
       else {
         if (!md.includes(':::archives')) err(`leçon ${l.id}`, 'encadré « :::archives » obligatoire (ce que les archives interrogent)');
         if (!/À retenir/.test(md)) err(`leçon ${l.id}`, 'rubrique « À retenir » obligatoire');
+        md.split('\n').forEach((line, i) => {
+          // « :mot » est interprété comme une directive Markdown et disparaîtrait à l'affichage.
+          if (!line.startsWith(':::') && /(?<![:\\]):[A-Za-z0-9]/.test(line)) {
+            err(`leçon ${l.id}`, `ligne ${i + 1} : deux-points collé à un mot ou un chiffre (écrire « \\: » ou ajouter une espace)`);
+          }
+        });
       }
     }
   }

@@ -9,13 +9,75 @@
       "icon": "🦋",
       "status": "pending",
       "subchapters": [
-        { "id": "explo", "title": "Physiologie, iode et exploration (TSH, T4L, T3L, scintigraphie)" },
-        { "id": "nodules", "title": "Nodules : malignité, échographie (EU-TIRADS) et cytoponction" },
-        { "id": "cancers", "title": "Cancers thyroïdiens (clinique et anatomie pathologique)" },
-        { "id": "thyroidites", "title": "Thyroïdites (De Quervain, silencieuse, Hashimoto)" },
-        { "id": "goitre", "title": "Goitres" }
+        {
+          "id": "explo",
+          "title": "Physiologie, iode et exploration (TSH, T4L, T3L, scintigraphie)"
+        },
+        {
+          "id": "nodules",
+          "title": "Nodules : malignité, échographie (EU-TIRADS) et cytoponction"
+        },
+        {
+          "id": "cancers",
+          "title": "Cancers thyroïdiens (clinique et anatomie pathologique)"
+        },
+        {
+          "id": "thyroidites",
+          "title": "Thyroïdites (De Quervain, silencieuse, Hashimoto)"
+        },
+        {
+          "id": "goitre",
+          "title": "Goitres"
+        }
       ],
-      "lessons": []
+      "lessons": [
+        {
+          "id": "thyr-explo",
+          "title": "Physiologie et exploration de la thyroïde",
+          "file": "thyroide/01-physiologie-exploration.md",
+          "subchapters": [
+            "explo"
+          ],
+          "minutes": 13
+        },
+        {
+          "id": "thyr-nodules",
+          "title": "Nodules thyroïdiens : échographie et cytoponction",
+          "file": "thyroide/02-nodules.md",
+          "subchapters": [
+            "nodules"
+          ],
+          "minutes": 10
+        },
+        {
+          "id": "thyr-cancers",
+          "title": "Cancers thyroïdiens",
+          "file": "thyroide/03-cancers.md",
+          "subchapters": [
+            "cancers"
+          ],
+          "minutes": 9
+        },
+        {
+          "id": "thyr-thyroidites",
+          "title": "Thyroïdites : De Quervain, silencieuse, post-partum, Hashimoto",
+          "file": "thyroide/04-thyroidites.md",
+          "subchapters": [
+            "thyroidites"
+          ],
+          "minutes": 9
+        },
+        {
+          "id": "thyr-goitre",
+          "title": "Goitres, carence iodée et thyroïde pendant la grossesse",
+          "file": "thyroide/05-goitres-grossesse.md",
+          "subchapters": [
+            "goitre",
+            "explo"
+          ],
+          "minutes": 9
+        }
+      ]
     },
     {
       "id": "hyper",
@@ -26,11 +88,59 @@
       "icon": "🔥",
       "status": "pending",
       "subchapters": [
-        { "id": "diagnostic", "title": "Diagnostic étiologique (Tg, anticorps, scintigraphie)" },
-        { "id": "basedow", "title": "Maladie de Basedow (clinique, ATS, grossesse, orbitopathie)" },
-        { "id": "iatrogene", "title": "Amiodarone, iode et causes iatrogènes" }
+        {
+          "id": "diagnostic",
+          "title": "Diagnostic étiologique (Tg, anticorps, scintigraphie)"
+        },
+        {
+          "id": "basedow",
+          "title": "Maladie de Basedow (clinique, ATS, grossesse, orbitopathie)"
+        },
+        {
+          "id": "iatrogene",
+          "title": "Amiodarone, iode et causes iatrogènes"
+        }
       ],
-      "lessons": []
+      "lessons": [
+        {
+          "id": "hyper-diagnostic",
+          "title": "Hyperthyroïdie : reconnaître, confirmer et trouver la cause",
+          "file": "hyper/01-diagnostic.md",
+          "subchapters": [
+            "diagnostic"
+          ],
+          "minutes": 10
+        },
+        {
+          "id": "hyper-basedow",
+          "title": "La maladie de Basedow",
+          "file": "hyper/02-basedow.md",
+          "subchapters": [
+            "basedow"
+          ],
+          "minutes": 11
+        },
+        {
+          "id": "hyper-autres",
+          "title": "Nodules toxiques, amiodarone, prise d'hormones, origine centrale",
+          "file": "hyper/03-autres-causes.md",
+          "subchapters": [
+            "diagnostic",
+            "iatrogene"
+          ],
+          "minutes": 10
+        },
+        {
+          "id": "hyper-traitements",
+          "title": "Traiter une hyperthyroïdie : vue d'ensemble et situations particulières",
+          "file": "hyper/04-traitements.md",
+          "subchapters": [
+            "basedow",
+            "iatrogene"
+          ],
+          "minutes": 8
+        }
+      ]
     },
     {
       "id": "hypo",
@@ -41,19 +151,186 @@
       "icon": "🌙",
       "status": "pending",
       "subchapters": [
-        { "id": "diagnostic", "title": "Primaire ou centrale : biologie et causes" },
-        { "id": "traitement", "title": "L-thyroxine : dose, sujet âgé, grossesse, surveillance" },
-        { "id": "congenitale", "title": "Hypothyroïdie congénitale et de l'enfant (👶 Pédiatrie)" }
+        {
+          "id": "diagnostic",
+          "title": "Primaire ou centrale : biologie et causes"
+        },
+        {
+          "id": "traitement",
+          "title": "L-thyroxine : dose, sujet âgé, grossesse, surveillance"
+        },
+        {
+          "id": "congenitale",
+          "title": "Hypothyroïdie congénitale et de l'enfant (👶 Pédiatrie)"
+        }
+      ],
+      "lessons": [
+        {
+          "id": "hypo-diagnostic",
+          "title": "Hypothyroïdie : primaire ou centrale, reconnaître et trouver la cause",
+          "file": "hypo/01-diagnostic.md",
+          "subchapters": [
+            "diagnostic"
+          ],
+          "minutes": 10
+        },
+        {
+          "id": "hypo-traitement",
+          "title": "Traiter par L-thyroxine : prise, doses, adaptation et surveillance",
+          "file": "hypo/02-traitement.md",
+          "subchapters": [
+            "traitement"
+          ],
+          "minutes": 9
+        },
+        {
+          "id": "hypo-grossesse",
+          "title": "Hypothyroïdie et grossesse, formes sévères et complications",
+          "file": "hypo/03-grossesse-formes-severes.md",
+          "subchapters": [
+            "traitement",
+            "diagnostic"
+          ],
+          "minutes": 9
+        },
+        {
+          "id": "hypo-congenitale",
+          "title": "Hypothyroïdie congénitale et thyroïde de l'enfant",
+          "file": "hypo/04-congenitale-enfant.md",
+          "subchapters": [
+            "congenitale"
+          ],
+          "minutes": 11
+        }
+      ]
+    },
+    {
+      "id": "diabete",
+      "order": 10,
+      "domain": "diabete",
+      "title": "Diabète et hypoglycémies",
+      "short": "Prévu après la thyroïde",
+      "icon": "🩸",
+      "status": "pending",
+      "subchapters": [
+        {
+          "id": "a-definir",
+          "title": "À définir après intégration"
+        }
       ],
       "lessons": []
     },
-    { "id": "diabete", "order": 10, "domain": "diabete", "title": "Diabète et hypoglycémies", "short": "Prévu après la thyroïde", "icon": "🩸", "status": "pending", "subchapters": [{ "id": "a-definir", "title": "À définir après intégration" }], "lessons": [] },
-    { "id": "hypophyse", "order": 11, "domain": "hypophyse", "title": "Hypophyse", "short": "Prévu après la thyroïde", "icon": "🧠", "status": "pending", "subchapters": [{ "id": "a-definir", "title": "À définir après intégration" }], "lessons": [] },
-    { "id": "surrenales", "order": 12, "domain": "surrenales", "title": "Surrénales", "short": "Prévu après la thyroïde", "icon": "⛰️", "status": "pending", "subchapters": [{ "id": "a-definir", "title": "À définir après intégration" }], "lessons": [] },
-    { "id": "gonades", "order": 13, "domain": "gonades", "title": "Gonades et hormones sexuelles", "short": "Prévu après la thyroïde", "icon": "⚥", "status": "pending", "subchapters": [{ "id": "a-definir", "title": "À définir après intégration" }], "lessons": [] },
-    { "id": "obesite", "order": 14, "domain": "obesite", "title": "Obésité, nutrition et syndrome métabolique", "short": "Prévu après la thyroïde", "icon": "⚖️", "status": "pending", "subchapters": [{ "id": "a-definir", "title": "À définir après intégration" }], "lessons": [] },
-    { "id": "phosphocalcique", "order": 15, "domain": "phosphocalcique", "title": "Phosphocalcique et parathyroïdes", "short": "Prévu après la thyroïde", "icon": "🦴", "status": "pending", "subchapters": [{ "id": "a-definir", "title": "À définir après intégration" }], "lessons": [] },
-    { "id": "pediatrie", "order": 16, "domain": "pediatrie", "title": "Endocrinologie pédiatrique (croissance, puberté)", "short": "Prévu après la thyroïde", "icon": "👶", "status": "pending", "subchapters": [{ "id": "a-definir", "title": "À définir après intégration" }], "lessons": [] },
-    { "id": "pharmaco", "order": 17, "domain": "pharmaco", "title": "Pharmacologie", "short": "Prévu après la thyroïde", "icon": "💊", "status": "pending", "subchapters": [{ "id": "a-definir", "title": "À définir après intégration" }], "lessons": [] }
+    {
+      "id": "hypophyse",
+      "order": 11,
+      "domain": "hypophyse",
+      "title": "Hypophyse",
+      "short": "Prévu après la thyroïde",
+      "icon": "🧠",
+      "status": "pending",
+      "subchapters": [
+        {
+          "id": "a-definir",
+          "title": "À définir après intégration"
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "id": "surrenales",
+      "order": 12,
+      "domain": "surrenales",
+      "title": "Surrénales",
+      "short": "Prévu après la thyroïde",
+      "icon": "⛰️",
+      "status": "pending",
+      "subchapters": [
+        {
+          "id": "a-definir",
+          "title": "À définir après intégration"
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "id": "gonades",
+      "order": 13,
+      "domain": "gonades",
+      "title": "Gonades et hormones sexuelles",
+      "short": "Prévu après la thyroïde",
+      "icon": "⚥",
+      "status": "pending",
+      "subchapters": [
+        {
+          "id": "a-definir",
+          "title": "À définir après intégration"
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "id": "obesite",
+      "order": 14,
+      "domain": "obesite",
+      "title": "Obésité, nutrition et syndrome métabolique",
+      "short": "Prévu après la thyroïde",
+      "icon": "⚖️",
+      "status": "pending",
+      "subchapters": [
+        {
+          "id": "a-definir",
+          "title": "À définir après intégration"
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "id": "phosphocalcique",
+      "order": 15,
+      "domain": "phosphocalcique",
+      "title": "Phosphocalcique et parathyroïdes",
+      "short": "Prévu après la thyroïde",
+      "icon": "🦴",
+      "status": "pending",
+      "subchapters": [
+        {
+          "id": "a-definir",
+          "title": "À définir après intégration"
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "id": "pediatrie",
+      "order": 16,
+      "domain": "pediatrie",
+      "title": "Endocrinologie pédiatrique (croissance, puberté)",
+      "short": "Prévu après la thyroïde",
+      "icon": "👶",
+      "status": "pending",
+      "subchapters": [
+        {
+          "id": "a-definir",
+          "title": "À définir après intégration"
+        }
+      ],
+      "lessons": []
+    },
+    {
+      "id": "pharmaco",
+      "order": 17,
+      "domain": "pharmaco",
+      "title": "Pharmacologie",
+      "short": "Prévu après la thyroïde",
+      "icon": "💊",
+      "status": "pending",
+      "subchapters": [
+        {
+          "id": "a-definir",
+          "title": "À définir après intégration"
+        }
+      ],
+      "lessons": []
+    }
   ]
 }

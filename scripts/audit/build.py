@@ -45,6 +45,20 @@ for q in d:
     else:
         from post_dom import redomain
         q["domain"]=redomain(q)
-    q["ref"]=f'{q["session"]}-' + (f'Q{q["num"]}' if q["num"] is not None else f'p{q["page"]}-l{q["line"]}')
+    if q["session"]=="2016-2021":
+        import unicodedata
+        sl=unicodedata.normalize("NFD",q["section"]).encode("ascii","ignore").decode().lower()
+        sl=re.sub(r"\(.*?\)","",sl); sl=re.sub(r"[^a-z]+","-",sl).strip("-")
+        sl=sl.replace("-adulte","").replace("anapath-","").replace("pharmaco-","")
+        sl="-".join(sl.split("-")[:3])
+        q["ref"]=f'ND-{sl}-' + (f'Q{q["num"]}' if q["num"] is not None else f'p{q["page"]}-l{q["line"]}')
+    else:
+        q["ref"]=f'{q["session"]}-' + (f'Q{q["num"]}' if q["num"] is not None else f'p{q["page"]}-l{q["line"]}')
     q["answer"]=" | ".join(m for m in q["marked"])[:300]
+seen={}
+for q in d:
+    r=q["ref"]
+    if r in seen:
+        seen[r]+=1; q["ref"]=r+"abcdefgh"[seen[r]-1]
+    else: seen[r]=1
 json.dump(d,open(f"{S}/final.json","w"),ensure_ascii=False,indent=0)

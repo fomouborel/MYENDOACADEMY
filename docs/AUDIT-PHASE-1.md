@@ -8,7 +8,7 @@
 > - `docs/audit/inventaire-complet.csv`, l'inventaire des 844 entrées, tous domaines confondus ;
 > - `scripts/audit/`, les scripts d'extraction (pour pouvoir refaire l'audit).
 >
-> **Aucune ligne de l'application n'a encore été écrite.** Ce rapport attend votre validation.
+> Rapport validé le 10/11/2026. Mise à jour en phase 3 : les références d'audit de la compilation 2016-2021 sont désormais uniques par section (`ND-<enseignant>-<section>-Q<n>`).
 
 ---
 
@@ -289,16 +289,16 @@ Ces familles serviront de base aux **sous-chapitres** et à l'encadré « Ce que
 | Réf. audit | Problème |
 |---|---|
 | `2022-05-Q37` Hypothyroïdie de l'adulte | **Désaccord entre compilations** : rouge (2016-2024) = « TSH à 12 → augmenter de 25 » (« pas sûre ») ; surligné (2016-2025) = « augmentation des besoins à la fin du 1er trimestre » |
-| « Thyroïde de l'enfant, la vraie » (`2023-05-Q61`, `2022-05` pédiatrie, `2016-2021` Lysy Q1) | **Même question, réponses différentes** : B en rouge en 2023, C en rouge en 2022 et 2016-2021, B surligné en 2022 |
+| « Thyroïde de l'enfant, la vraie » (`2023-05-Q61`, `2022-05` pédiatrie, `ND-lysy-thyroide-Q1`) | **Même question, réponses différentes** : B en rouge en 2023, C en rouge en 2022 et 2016-2021, B surligné en 2022 |
 | `2022-05-Q34` Goitre « sauf un » | La réponse rouge « Hyperthyroïdie » est médicalement discutable. Les questions apparentées donnent « prise d'hormones thyroïdiennes ». Retranscription probablement inexacte |
-| `2016-2021-Q13` TSH « sauf un » | Deux propositions en rouge pour une seule réponse attendue ; une proposition manque |
-| `2016-2021-Q23` Syndrome de basse T3 | La proposition marquée « fausse » paraît exacte sur le fond. Marquage à vérifier |
-| `2016-2021-Q26` Adénome thyréotrope | Énoncé incohérent (hyperthyroïdie clinique avec T3 et T4 « normales ») : retranscription douteuse |
+| `ND-maiter-thyroide-Q13` TSH « sauf un » | Deux propositions en rouge pour une seule réponse attendue ; une proposition manque |
+| `ND-maiter-thyroide-Q23` Syndrome de basse T3 | La proposition marquée « fausse » paraît exacte sur le fond. Marquage à vérifier |
+| `ND-maiter-thyroide-Q26` Adénome thyréotrope | Énoncé incohérent (hyperthyroïdie clinique avec T3 et T4 « normales ») : retranscription douteuse |
 | `2025-01-Q32` L-thyroxine chez une patiente de 83 ans | « soit D, soit A » |
 | `2023-05-Q38` TSH abaissée | « +1 » sur deux propositions différentes |
-| `2016-2021` Beauloye Q19/Q20 (athyréose, dyshormonogenèse) | « Question **possiblement annulée** » ; piège d'unités (mU/L ou µU/mL) |
-| `2016-2021-Q2` Carence iodée | Doute sur la formulation d'une proposition (hyper- ou hypothyroxinémie) |
-| `2016-2021` anapath Q12 (Hashimoto) | Commentaire « FAUX les follicules non ? » sur la réponse rouge |
+| `ND-beauloye-pediatrie-p77-l3394` / `-l3399` (Q20/Q19) (athyréose, dyshormonogenèse) | « Question **possiblement annulée** » ; piège d'unités (mU/L ou µU/mL) |
+| `ND-maiter-thyroide-Q2` Carence iodée | Doute sur la formulation d'une proposition (hyper- ou hypothyroxinémie) |
+| `ND-marbaix-thyroide-parathyroides-Q12` (Hashimoto) | Commentaire « FAUX les follicules non ? » sur la réponse rouge |
 | Courbes de croissance Beauloye (C, cas 5) | Réponse débattue : thyroïdite ou déficit en GH, thyroïde ectopique ou thyroïdite |
 
 Ces questions garderont leur statut « discutée » et leurs commentaires. **Elles ne seront jamais présentées comme corrigées officiellement.**

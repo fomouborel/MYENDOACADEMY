@@ -2,14 +2,22 @@ import { describe, expect, it } from 'vitest';
 import chapters from '../../../content/chapters.json';
 import exams from '../../../content/exams.json';
 import { mcq } from '@/test/fixtures';
+import { readFileSync } from 'node:fs';
 import { validateContent } from './validate';
 
-const run = (questions: unknown[], lessons: Record<string, string> = {}, ch: unknown = chapters) =>
+// Leçons réelles du dépôt (content/lessons/…).
+const realLessons = Object.fromEntries(
+  chapters.chapters.flatMap((c) => c.lessons.map((l) => [l.file, readFileSync(`content/lessons/${l.file}`, 'utf8')])),
+);
+// Pour tester les règles des questions isolément : chapitres sans leçons.
+const bare = { chapters: chapters.chapters.map((c) => ({ ...c, lessons: [] })) };
+
+const run = (questions: unknown[], lessons: Record<string, string> = {}, ch: unknown = bare) =>
   validateContent({ chapters: ch, exams, questionFiles: { 'questions/test.json': { source: 'test', questions } }, lessons });
 
 describe('validateur de contenu', () => {
   it('le contenu réel du dépôt est valide', () => {
-    expect(validateContent({ chapters, exams, questionFiles: {}, lessons: {} })).toEqual([]);
+    expect(validateContent({ chapters, exams, questionFiles: {}, lessons: realLessons })).toEqual([]);
   });
   it('accepte une question cohérente', () => {
     expect(run([mcq()])).toEqual([]);
@@ -36,9 +44,11 @@ describe('validateur de contenu', () => {
     expect(run([ex]).join()).toMatch(/authored/);
   });
   it('leçon : encadré archives et « À retenir » obligatoires', () => {
-    const ch = structuredClone(chapters);
+    const ch = structuredClone(bare);
     ch.chapters[0].lessons = [{ id: 'thyr-explo', title: 'T', file: 'thyroide/01-explo.md', subchapters: ['explo'], minutes: 10 }] as never;
     expect(run([], { 'thyroide/01-explo.md': '# Sans encadré' }, ch).join()).toMatch(/archives/);
     expect(run([], { 'thyroide/01-explo.md': ':::archives\nx\n:::\n## À retenir' }, ch)).toEqual([]);
+    expect(run([], { 'thyroide/01-explo.md': ':::archives\nThyroid 2016;26:1-133\n:::\n## À retenir' }, ch).join()).toMatch(/deux-points/);
+    expect(run([], { 'thyroide/01-explo.md': ':::archives\nThyroid 2016;26\\:1-133, voir : ici\n:::\n## À retenir' }, ch)).toEqual([]);
   });
 });
