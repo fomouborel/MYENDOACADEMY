@@ -7,7 +7,7 @@
       "title": "Pathologies thyroïdiennes",
       "short": "Physiologie et exploration, nodules, cancers, thyroïdites, goitres",
       "icon": "🦋",
-      "status": "pending",
+      "status": "available",
       "subchapters": [
         {
           "id": "explo",
@@ -86,7 +86,7 @@
       "title": "Hyperthyroïdie",
       "short": "Diagnostic étiologique, maladie de Basedow, amiodarone et traitements",
       "icon": "🔥",
-      "status": "pending",
+      "status": "available",
       "subchapters": [
         {
           "id": "diagnostic",
@@ -149,7 +149,7 @@
       "title": "Hypothyroïdie",
       "short": "Primaire ou centrale, L-thyroxine et surveillance, hypothyroïdie congénitale",
       "icon": "🌙",
-      "status": "pending",
+      "status": "available",
       "subchapters": [
         {
           "id": "diagnostic",

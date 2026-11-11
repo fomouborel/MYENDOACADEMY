@@ -31,6 +31,7 @@ export default defineConfig({
       workbox: { globPatterns: ['**/*.{js,css,html,svg,png,json,md}'] },
     }),
   ],
+  build: { chunkSizeWarningLimit: 1500 },
   test: {
     environment: 'jsdom',
     include: ['src/**/*.test.{ts,tsx}', 'scripts/**/*.test.ts'],
