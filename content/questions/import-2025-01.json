@@ -461,23 +461,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Vous poursuivez la même dose de L-Thyroxine mais vous insistez sur la prise au matin à jeun"
+          "text": "Vous poursuivez la même dose de L-Thyroxine mais vous insistez sur la prise au matin à jeun",
+          "explanation": "Peu défendable : une prise mieux faite augmenterait l’absorption, donc le surdosage."
         },
         {
           "id": "B",
-          "text": "Vous poursuivez la même dose de L-Thyroxine et lui prescrivez un Beta-Bloquant selectif à faible dose le soir"
+          "text": "Vous poursuivez la même dose de L-Thyroxine et lui prescrivez un Beta-Bloquant selectif à faible dose le soir",
+          "explanation": "Non : traite le symptôme, pas le surdosage."
         },
         {
           "id": "C",
-          "text": "Vous augmentez la dose de la Thyroxine à 125 microgramme/jour"
+          "text": "Vous augmentez la dose de la Thyroxine à 125 microgramme/jour",
+          "explanation": "Non : aggraverait le surdosage."
         },
         {
           "id": "D",
-          "text": "Vous diminuez la dose de la Thyroxine à 75 microgramme/jour (soit ça, soit la A)"
+          "text": "Vous diminuez la dose de la Thyroxine à 75 microgramme/jour (soit ça, soit la A)",
+          "explanation": "Oui (réponse attendue) : baisse d’un palier."
         },
         {
           "id": "E",
-          "text": "Vous arrêtez la LThyroxine"
+          "text": "Vous arrêtez la LThyroxine",
+          "explanation": "Non : sans thyroïde, l’arrêt mène à l’hypothyroïdie."
         }
       ],
       "expected": [
@@ -504,7 +509,18 @@
       "difficulty": 3,
       "clinical": true,
       "duplicateGroup": "LT4-AGEE",
-      "answerNote": "« soit ça, soit la A » : hésitation entre diminuer la dose et insister sur la prise à jeun."
+      "answerNote": "« soit ça, soit la A » : hésitation entre diminuer la dose et insister sur la prise à jeun.",
+      "hints": [
+        "Interprète la TSH par rapport à la norme donnée : où se situe-t-elle ?",
+        "Chez une personne très âgée, un léger excès d’hormones est mal toléré (cœur, os, amaigrissement).",
+        "Sans thyroïde, arrêter le traitement n’est pas une option ; on ajuste par paliers."
+      ],
+      "explanation": {
+        "text": "La TSH est à la limite inférieure de la norme, la T4L et la T3L dans le haut de la norme, et la patiente de 83 ans maigrit : c’est un léger surdosage. Chez le sujet très âgé, on accepte généralement une TSH plus haute que chez l’adulte jeune (valeur cible à préciser avec le cours), car l’excès d’hormones expose à la fibrillation auriculaire et à l’ostéoporose. On diminue donc d’un palier (100 → 75 µg), puis on recontrôle. Insister sur la prise à jeun augmenterait plutôt l’absorption ; un bêtabloquant masquerait le problème ; augmenter la dose aggraverait le surdosage ; arrêter est impossible après une thyroïdectomie totale. La compilation note une hésitation avec A, peu défendable sur le fond.",
+        "status": "complement",
+        "sources": []
+      },
+      "pitfall": "Chez le sujet âgé, une TSH à la limite basse de la norme peut déjà correspondre à un surdosage."
     },
     {
       "id": "ENDO-2025-01-PEDIA-QCM-900",
@@ -516,27 +532,33 @@
       "options": [
         {
           "id": "A",
-          "text": "Prévoir une consultation pour évaluer l'évolution clinique"
+          "text": "Prévoir une consultation pour évaluer l'évolution clinique",
+          "explanation": "Non : trop lent."
         },
         {
           "id": "B",
-          "text": "Prévoir des examens complémentaires pour évaluer l'enfant."
+          "text": "Prévoir des examens complémentaires pour évaluer l'enfant.",
+          "explanation": "Non : trop lent."
         },
         {
           "id": "C",
-          "text": "On amène l'enfant en urgence et on lance des examens complémentaires"
+          "text": "On amène l'enfant en urgence et on lance des examens complémentaires",
+          "explanation": "Insuffisant : le traitement doit commencer tout de suite."
         },
         {
           "id": "D",
-          "text": "On amène l'enfant en urgence, on fait des prélèvements biologiques et on commence le traitement par LThyroxine sans attendre les résultats de l imagerie"
+          "text": "On amène l'enfant en urgence, on fait des prélèvements biologiques et on commence le traitement par LThyroxine sans attendre les résultats de l imagerie",
+          "explanation": "Oui (réponse attendue)."
         },
         {
           "id": "E",
-          "text": "On amène l'enfant en urgence et on fait un bilan complet (biologie+imagerie) pour évaluer la condition clinique et ensuite donner de la LThyroxine"
+          "text": "On amène l'enfant en urgence et on fait un bilan complet (biologie+imagerie) pour évaluer la condition clinique et ensuite donner de la LThyroxine",
+          "explanation": "Non : l’imagerie ne doit pas retarder le traitement."
         },
         {
           "id": "F",
-          "text": "C’était oas exactement ça mais c’était l’idée"
+          "text": "C’était oas exactement ça mais c’était l’idée",
+          "explanation": "Commentaire du transcripteur, pas une proposition."
         }
       ],
       "expected": [
@@ -563,7 +585,17 @@
       "difficulty": 3,
       "clinical": true,
       "duplicateGroup": "NN-TSH",
-      "answerNote": "Pédiatrie, hors numérotation. « C'était pas exactement ça mais c'était l'idée »."
+      "answerNote": "Pédiatrie, hors numérotation. « C'était pas exactement ça mais c'était l'idée ».",
+      "hints": [
+        "Chaque jour sans hormones compte pour le cerveau du nourrisson.",
+        "Faut-il connaître la cause exacte (imagerie) avant de traiter ?",
+        "On confirme par une prise de sang, puis on agit sans délai."
+      ],
+      "explanation": {
+        "text": "Une TSH très élevée au dépistage néonatal est une urgence : on convoque l’enfant, on prélève pour confirmer (TSH et T4L sériques), puis on commence la L-thyroxine immédiatement, sans attendre l’imagerie, qui précisera la cause plus tard. Chaque jour de retard compte pour le développement cérébral. Note : la dernière « proposition » est un commentaire du transcripteur.",
+        "status": "complement",
+        "sources": []
+      }
     }
   ]
 }

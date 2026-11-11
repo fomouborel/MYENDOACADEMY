@@ -341,23 +341,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Dans le cas d’une maladie de Basedow, lors d’un traitement par des ATS on peut s’attendre à 50% de rechutes."
+          "text": "Dans le cas d’une maladie de Basedow, lors d’un traitement par des ATS on peut s’attendre à 50% de rechutes.",
+          "explanation": "Vrai : environ la moitié des patients."
         },
         {
           "id": "B",
-          "text": "Strumazole est plus indiqué que le PTU dans le cas d’une grossesse"
+          "text": "Strumazole est plus indiqué que le PTU dans le cas d’une grossesse",
+          "explanation": "Faux (réponse attendue) : PTU au 1er trimestre."
         },
         {
           "id": "C",
-          "text": "Amiodarone peut causer une hyperthyroïdie via une contamination iodée et une induction de thyroïdite"
+          "text": "Amiodarone peut causer une hyperthyroïdie via une contamination iodée et une induction de thyroïdite",
+          "explanation": "Vrai : types 1 et 2."
         },
         {
           "id": "D",
-          "text": "hypothyroïdie entraîne une hypercholestérolémie"
+          "text": "hypothyroïdie entraîne une hypercholestérolémie",
+          "explanation": "Vrai : cholestérol LDL élevé."
         },
         {
           "id": "E",
-          "text": "Le traitement pour l'hypothyroïdie vise une valeur de TSH basse, inférieure a la valeur limite inférieur, (nl: 0,3-3,3)"
+          "text": "Le traitement pour l'hypothyroïdie vise une valeur de TSH basse, inférieure a la valeur limite inférieur, (nl: 0,3-3,3)",
+          "explanation": "Faux (réponse attendue) : on vise une TSH normale ; une TSH basse est un surdosage."
         }
       ],
       "expected": [
@@ -385,7 +390,18 @@
       "tags": [],
       "difficulty": 2,
       "clinical": false,
-      "duplicateGroup": "BASEDOW-ATS"
+      "duplicateGroup": "BASEDOW-ATS",
+      "hints": [
+        "Deux propositions concernent un traitement : l’une pendant la grossesse, l’autre dans l’hypothyroïdie.",
+        "Au 1er trimestre, un des deux ATS est associé à un risque de malformations.",
+        "Sous L-thyroxine, vise-t-on une TSH normale ou freinée ?"
+      ],
+      "explanation": {
+        "text": "Deux propositions sont fausses. Au 1er trimestre de grossesse (et en projet de grossesse), on préfère le PTU, car le thiamazole (Strumazol) est associé à un risque de malformations. Et le traitement d’une hypothyroïdie vise une TSH dans les normes, pas une TSH freinée : une TSH basse sous L-thyroxine signe un surdosage. Les autres propositions sont exactes : environ la moitié des patients rechutent après un traitement par ATS, l’amiodarone peut donner une hyperthyroïdie de type 1 (surcharge iodée) ou de type 2 (thyroïdite), et l’hypothyroïdie élève le cholestérol LDL.",
+        "status": "complement",
+        "sources": []
+      },
+      "pitfall": "Une TSH freinée n’est visée que dans certains cancers thyroïdiens à risque de récidive, jamais dans une simple hypothyroïdie."
     },
     {
       "id": "ENDO-2023-05-ADULTE-QCM-030",
@@ -437,15 +453,18 @@
       "options": [
         {
           "id": "A",
-          "text": "Enfant avec hypothyroïdie compensée, peut avoir des difficultés scolaires"
+          "text": "Enfant avec hypothyroïdie compensée, peut avoir des difficultés scolaires",
+          "explanation": "Discutable : le retentissement scolaire d’une hypothyroïdie infraclinique n’est pas établi."
         },
         {
           "id": "B",
-          "text": "Enfant avec hypoT décompensée avec TSH élevée, T4 basse aura toujours un problème de croissance (en bas age)"
+          "text": "Enfant avec hypoT décompensée avec TSH élevée, T4 basse aura toujours un problème de croissance (en bas age)",
+          "explanation": "Vrai (réponse attendue) : la plus défendable."
         },
         {
           "id": "C",
-          "text": "Lors d’une prise de poids importante chez l’enfant, faut toujours voir si pas d’hypothyroïdie"
+          "text": "Lors d’une prise de poids importante chez l’enfant, faut toujours voir si pas d’hypothyroïdie",
+          "explanation": "Retenue d’autres années, discutable : « toujours » est excessif."
         }
       ],
       "expected": [
@@ -472,7 +491,17 @@
       "difficulty": 2,
       "clinical": false,
       "duplicateGroup": "PEDIA-THYR",
-      "answerNote": "Rouge = B ici ; mais C en rouge en mai 2022 et dans la compilation 2016-2021 (Lysy). La couche surlignée de 2022 marque B."
+      "answerNote": "Rouge = B ici ; mais C en rouge en mai 2022 et dans la compilation 2016-2021 (Lysy). La couche surlignée de 2022 marque B.",
+      "hints": [
+        "Méfie-toi du mot « toujours » : dans quelle proposition est-il le plus défendable ?",
+        "Une hypothyroïdie patente non traitée chez le jeune enfant ralentit la croissance.",
+        "Une prise de poids avec une croissance normale oriente rarement vers une hypothyroïdie."
+      ],
+      "explanation": {
+        "text": "La réponse retenue ici est B : une hypothyroïdie patente (TSH élevée, T4 basse) non traitée chez le jeune enfant retentit sur la croissance. C’est la plus défendable sur le fond. Correction discutée : la même question a la réponse C (« prise de poids, toujours vérifier une hypothyroïdie ») en rouge en mai 2022 et dans la compilation 2016-2021. Or une prise de poids avec une croissance normale oriente rarement vers une hypothyroïdie. Pour A, le retentissement scolaire d’une hypothyroïdie infraclinique n’est pas établi. Aucune correction officielle n’existe.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-2023-05-PEDIA-QCM-066",

@@ -192,23 +192,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Leucopénie"
+          "text": "Leucopénie",
+          "explanation": "Non : effet des ATS."
         },
         {
           "id": "B",
-          "text": "Hépatite"
+          "text": "Hépatite",
+          "explanation": "Non : effet des ATS (surtout le PTU)."
         },
         {
           "id": "C",
-          "text": "Hyperthyroïdie"
+          "text": "Hyperthyroïdie",
+          "explanation": "Oui (réponse attendue)."
         },
         {
           "id": "D",
-          "text": "Dysgeusie"
+          "text": "Dysgeusie",
+          "explanation": "Non : effet des ATS."
         },
         {
           "id": "E",
-          "text": "Nausée"
+          "text": "Nausée",
+          "explanation": "Non."
         }
       ],
       "expected": [
@@ -235,7 +240,17 @@
       "difficulty": 2,
       "clinical": false,
       "duplicateGroup": "ES-HT",
-      "answerNote": "Horsmans."
+      "answerNote": "Horsmans.",
+      "hints": [
+        "Le médicament est l’hormone elle-même.",
+        "Que se passe-t-il si on en donne trop ?",
+        "L’effet indésirable reproduit une maladie thyroïdienne."
+      ],
+      "explanation": {
+        "text": "La L-thyroxine est l’hormone naturelle : son effet indésirable principal est le surdosage, c’est-à-dire une hyperthyroïdie iatrogène (palpitations, fibrillation auriculaire, ostéoporose chez le sujet âgé). Leucopénie, hépatite et dysgueusie sont des effets indésirables des antithyroïdiens de synthèse.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-2026-01-ADULTE-QCM-016",

@@ -42,12 +42,21 @@
 - **Rappel de sauvegarde** : après 20 réponses, si aucune sauvegarde n'a été téléchargée, ou si la dernière date de plus de 14 jours, un message apparaît sur l'accueil et dans « Ma progression ».
 - **Mode d'emploi** (lien « ❔ Mode d'emploi » en bas du menu), sans jargon : par où commencer, signification des couleurs, sauvegarde, installation sur iPhone ou Android, que faire si une question semble fausse.
 
+- **Explications des questions importées** (après la phase 7) : 51 questions complétées, 33 pour le cours 1 et 18 pour les cours 2 et 3.
+  - Les textes sont dans `scripts/content/explications/*.py`, et `scripts/content/add_explanations.py` les reporte dans `content/questions/import-*.json`. Ce script est relançable et ne touche ni aux énoncés, ni aux propositions, ni aux réponses.
+  - Quand la correction est discutée, l'explication présente les deux versions et ce qui est le plus défendable sur le fond, sans jamais changer la réponse retenue.
+  - Une seule question a changé de statut, de « proposée » à « discutée » : l'anatomie pathologique de Basedow en janvier 2025, déjà signalée dans la leçon Thyroïdites.
+  - Défauts de retranscription signalés dans l'explication, sans modifier la question :
+    - mai 2022, pédiatrie : la proposition A est en réalité la fin de l'énoncé ;
+    - janvier 2025, pédiatrie : la proposition F est un commentaire du transcripteur ;
+    - une question de l'ancien titulaire réunit deux propositions en une seule.
+
 ## 3. Limites à connaître
 
 1. **Pas de synchronisation entre appareils** : il faut passer par la sauvegarde (export sur un appareil, import sur l'autre).
 2. **Effacer les données du navigateur efface la progression.** Sur iPhone, installer l'application sur l'écran d'accueil protège mieux les données.
 3. **Site public** : toute personne qui connaît l'adresse peut voir les cours et les questions, jamais la progression. Voir l'étude Cloudflare Access (phase 2, § 10).
 4. **Corrections non officielles** : 0 correction officielle dans les sources. 14 réponses sont discutées et 52 questions ne sont que consultables.
-5. **Explications** : 51 questions d'examen notées n'ont pas encore d'indices ni d'explication rédigée. Toutes les explications existantes sont « à valider ».
+5. **Explications** : toutes les questions d'examen notées ont désormais 3 indices, une explication et une remarque par proposition (complété après la phase 7, en deux lots). **Toutes ces explications sont « à valider »** : aucune n'a été relue par un enseignant. Un test empêche désormais d'ajouter une question notée sans explication.
 6. **Périmètre** : la thyroïde seulement. Les autres domaines sont inventoriés (phase 1), mais pas encore intégrés.
 7. **Taille** : l'application pèse environ 300 Ko compressés. Elle reste utilisable hors connexion après la première visite.

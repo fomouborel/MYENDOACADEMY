@@ -964,23 +964,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Induit une hyperthyroïdie par surcharge iodée"
+          "text": "Induit une hyperthyroïdie par surcharge iodée",
+          "explanation": "Vrai : type 1."
         },
         {
           "id": "B",
-          "text": "Induit une hypothyroïdie"
+          "text": "Induit une hypothyroïdie",
+          "explanation": "Vrai : surtout sur thyroïdite auto-immune."
         },
         {
           "id": "C",
-          "text": "Peut donner un goitre multinodulaire toxique"
+          "text": "Peut donner un goitre multinodulaire toxique",
+          "explanation": "Faux (réponse attendue) : elle révèle un goitre préexistant, elle ne le crée pas."
         },
         {
           "id": "D",
-          "text": "Peut donner une augmentation de la T4 libre et une diminution de la T3 libre"
+          "text": "Peut donner une augmentation de la T4 libre et une diminution de la T3 libre",
+          "explanation": "Vrai : inhibition de la désiodase."
         },
         {
           "id": "E",
-          "text": "Hyperthyroïdie par thyroïdite"
+          "text": "Hyperthyroïdie par thyroïdite",
+          "explanation": "Vrai : type 2."
         }
       ],
       "expected": [
@@ -1006,7 +1011,17 @@
       "tags": [],
       "difficulty": 2,
       "clinical": false,
-      "duplicateGroup": "AMIODARONE"
+      "duplicateGroup": "AMIODARONE",
+      "hints": [
+        "L’amiodarone contient beaucoup d’iode et inhibe la conversion de T4 en T3.",
+        "Elle peut donner une hypothyroïdie, ou une hyperthyroïdie par deux mécanismes.",
+        "Crée-t-elle des nodules, ou révèle-t-elle une glande déjà malade ?"
+      ],
+      "explanation": {
+        "text": "L’amiodarone, très riche en iode, peut donner une hypothyroïdie (effet Wolff-Chaikoff persistant, surtout sur une thyroïdite auto-immune) ou une hyperthyroïdie : type 1 par surcharge iodée sur une glande déjà anormale (goitre multinodulaire, Basedow latent), type 2 par thyroïdite destructrice. Elle inhibe aussi la désiodase : T4L un peu augmentée et T3L un peu diminuée, même chez un patient en euthyroïdie. Elle ne crée pas de goitre multinodulaire : elle peut rendre toxique un goitre qui existait déjà.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-ND-ADULTE-QCMM-234",
@@ -1018,23 +1033,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Dans le cas d’une maladie de Basedow, lors d’un traitement par des ATS on peut s’attendre à 50% de rechutes."
+          "text": "Dans le cas d’une maladie de Basedow, lors d’un traitement par des ATS on peut s’attendre à 50% de rechutes.",
+          "explanation": "Vrai : environ la moitié des patients."
         },
         {
           "id": "B",
-          "text": "Strumazole est plus indiqué que le PTU dans le cas d’une grossesse"
+          "text": "Strumazole est plus indiqué que le PTU dans le cas d’une grossesse",
+          "explanation": "Faux (réponse attendue) : PTU au 1er trimestre."
         },
         {
           "id": "C",
-          "text": "Amiodarone peut causer une hyperthyroïdie via une contamination iodée et une induction de thyroïdite"
+          "text": "Amiodarone peut causer une hyperthyroïdie via une contamination iodée et une induction de thyroïdite",
+          "explanation": "Vrai : types 1 et 2."
         },
         {
           "id": "D",
-          "text": "hypothyroïdie entraîne une hypercholestérolémie"
+          "text": "hypothyroïdie entraîne une hypercholestérolémie",
+          "explanation": "Vrai : cholestérol LDL élevé."
         },
         {
           "id": "E",
-          "text": "le traitement pour l'hypothyroïdie vise une valeur de TSH basse c’est à dire une valeur <0,5 (nl: 0,3-3,3)"
+          "text": "le traitement pour l'hypothyroïdie vise une valeur de TSH basse c’est à dire une valeur <0,5 (nl: 0,3-3,3)",
+          "explanation": "Faux (réponse attendue) : on vise une TSH dans les normes, pas une TSH freinée."
         }
       ],
       "expected": [
@@ -1062,7 +1082,18 @@
       "tags": [],
       "difficulty": 2,
       "clinical": false,
-      "duplicateGroup": "BASEDOW-ATS"
+      "duplicateGroup": "BASEDOW-ATS",
+      "hints": [
+        "Deux propositions concernent un traitement : l’une pendant la grossesse, l’autre dans l’hypothyroïdie.",
+        "Au 1er trimestre, un des deux ATS est associé à un risque de malformations.",
+        "Sous L-thyroxine, vise-t-on une TSH normale ou freinée ?"
+      ],
+      "explanation": {
+        "text": "Deux propositions sont fausses. Au 1er trimestre de grossesse (et en projet de grossesse), on préfère le PTU, car le thiamazole (Strumazol) est associé à un risque de malformations. Et le traitement d’une hypothyroïdie vise une TSH dans les normes, pas une TSH freinée : une TSH basse sous L-thyroxine signe un surdosage. Les autres propositions sont exactes : environ la moitié des patients rechutent après un traitement par ATS, l’amiodarone peut donner une hyperthyroïdie de type 1 (surcharge iodée) ou de type 2 (thyroïdite), et l’hypothyroïdie élève le cholestérol LDL.",
+        "status": "complement",
+        "sources": []
+      },
+      "pitfall": "Une TSH freinée n’est visée que dans certains cancers thyroïdiens à risque de récidive, jamais dans une simple hypothyroïdie."
     },
     {
       "id": "ENDO-ND-ADULTE-QCM-237",
@@ -1116,23 +1147,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Adénome hypophysaire"
+          "text": "Adénome hypophysaire",
+          "explanation": "Réponse retenue : seule cause proposée où la TSH n’est pas freinée."
         },
         {
           "id": "B",
-          "text": "Basedow"
+          "text": "Basedow",
+          "explanation": "Non : TSH freinée, anticorps anti-récepteur de la TSH positifs."
         },
         {
           "id": "C",
-          "text": "Thyroïdite subaiguë"
+          "text": "Thyroïdite subaiguë",
+          "explanation": "Non : TSH freinée."
         },
         {
           "id": "D",
-          "text": "Prise exogène de T3"
+          "text": "Prise exogène de T3",
+          "explanation": "Non : TSH freinée."
         },
         {
           "id": "E",
-          "text": "De Quervain"
+          "text": "De Quervain",
+          "explanation": "Non : TSH freinée (c’est la même maladie que la thyroïdite subaiguë)."
         }
       ],
       "expected": [
@@ -1159,7 +1195,17 @@
       "difficulty": 2,
       "clinical": false,
       "duplicateGroup": "CENTRALE-HYPER",
-      "answerNote": "Énoncé retranscrit incohérent (symptômes d'hyperthyroïdie avec T4 et T3 « normales ») : retranscription probablement inexacte."
+      "answerNote": "Énoncé retranscrit incohérent (symptômes d'hyperthyroïdie avec T4 et T3 « normales ») : retranscription probablement inexacte.",
+      "hints": [
+        "Regarde d’abord la TSH : est-elle freinée, comme dans la plupart des hyperthyroïdies ?",
+        "Une TSH non freinée avec des signes d’hyperthyroïdie oriente vers l’hypophyse.",
+        "Des céphalées évoquent une masse dans la région de la selle turcique."
+      ],
+      "explanation": {
+        "text": "Énoncé incohérent. Dans presque toutes les hyperthyroïdies (Basedow, thyroïdites, prise exogène), la TSH est freinée. Une TSH élevée ou normale avec des signes d’hyperthyroïdie oriente vers un adénome thyréotrope (qui sécrète de la TSH), d’autant plus qu’il y a des céphalées (effet de masse). Dans ce cas, la T4L et la T3L sont élevées : les « T4 et T3 normales » de l’énoncé sont probablement une erreur de retranscription. Aucune correction officielle n’existe.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-ND-ADULTE-QCM-201",
@@ -1233,23 +1279,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Hyperthyroïdie"
+          "text": "Hyperthyroïdie",
+          "explanation": "Vrai : TSH effondrée, T4 et T3 élevées."
         },
         {
           "id": "B",
-          "text": "Tg basse peut être expliquée par les Ac anti-Tg positif"
+          "text": "Tg basse peut être expliquée par les Ac anti-Tg positif",
+          "explanation": "Vrai : les anti-Tg interfèrent avec le dosage de la Tg."
         },
         {
           "id": "C",
-          "text": "Si c’est un Basedow elle aura un goitre cervical"
+          "text": "Si c’est un Basedow elle aura un goitre cervical",
+          "explanation": "Vrai le plus souvent : goitre diffus habituel, mais pas constant."
         },
         {
           "id": "D",
-          "text": "La Tg basse implique la recherche de prise d’hormones thyroïdiennes exogènes"
+          "text": "La Tg basse implique la recherche de prise d’hormones thyroïdiennes exogènes",
+          "explanation": "Vrai : une hyperthyroïdie factice est à rechercher."
         },
         {
           "id": "E",
-          "text": "Pour exclure un Basedow on dose les Ac anti-TPO."
+          "text": "Pour exclure un Basedow on dose les Ac anti-TPO.",
+          "explanation": "Faux (réponse attendue) : on dose les anticorps anti-récepteur de la TSH."
         }
       ],
       "expected": [
@@ -1277,7 +1328,18 @@
       "difficulty": 3,
       "clinical": true,
       "duplicateGroup": "EXOGENE",
-      "answerNote": "Cas clinique avec valeurs."
+      "answerNote": "Cas clinique avec valeurs.",
+      "hints": [
+        "Une proposition concerne l’anticorps qui caractérise la maladie de Basedow.",
+        "Les anti-TPO sont fréquents dans plusieurs maladies auto-immunes de la thyroïde.",
+        "Quel anticorps cible le récepteur de la TSH ?"
+      ],
+      "explanation": {
+        "text": "Pour affirmer ou exclure une maladie de Basedow, on dose les anticorps anti-récepteur de la TSH (TRAK, TSI), spécifiques. Les anti-TPO sont présents dans Basedow comme dans Hashimoto et les thyroïdites auto-immunes : ils ne permettent pas d’exclure le diagnostic. Le reste est exact : il s’agit bien d’une hyperthyroïdie ; une Tg basse doit faire rechercher une prise d’hormones exogènes, mais les anticorps anti-Tg peuvent fausser le dosage ; un goitre diffus est habituel dans Basedow, sans être constant.",
+        "status": "complement",
+        "sources": []
+      },
+      "pitfall": "Toujours interpréter une Tg avec le dosage des anticorps anti-Tg."
     },
     {
       "id": "ENDO-ND-ADULTE-QCM-224",
@@ -1373,15 +1435,18 @@
       "options": [
         {
           "id": "A",
-          "text": "goitre multinodulaire"
+          "text": "goitre multinodulaire",
+          "explanation": "Oui (réponse attendue) : nodules multiples, installation progressive."
         },
         {
           "id": "B",
-          "text": "adénome toxique"
+          "text": "adénome toxique",
+          "explanation": "Non : nodule unique."
         },
         {
           "id": "C",
-          "text": "Quervain"
+          "text": "Quervain",
+          "explanation": "Non : douleur, fièvre, syndrome inflammatoire."
         }
       ],
       "expected": [
@@ -1409,7 +1474,17 @@
       "difficulty": 2,
       "clinical": false,
       "duplicateGroup": "GMN",
-      "answerNote": "Énoncé incertain (« ou c'était une autre question ? »)."
+      "answerNote": "Énoncé incertain (« ou c'était une autre question ? »).",
+      "hints": [
+        "Combien de nodules la patiente présente-t-elle ?",
+        "Un adénome toxique est un nodule unique.",
+        "L’évolution est lente, sans douleur ni fièvre."
+      ],
+      "explanation": {
+        "text": "Plusieurs nodules, une hyperthyroïdie qui s’installe progressivement sur des mois, sans douleur : c’est le tableau du goitre multinodulaire toxique. L’adénome toxique est un nodule unique ; De Quervain est douloureux, fébrile et inflammatoire, d’installation rapide. La Tg élevée est compatible avec un goitre. L’énoncé est incertain : le transcripteur doute qu’il s’agisse de la même question, et une proposition « Basedow » semble avoir été fondue dans l’énoncé.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-ND-ADULTE-QCM-229",
@@ -1517,23 +1592,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Hypothyroïdie"
+          "text": "Hypothyroïdie",
+          "explanation": "Vrai."
         },
         {
           "id": "B",
-          "text": "Hyperthyroïdie"
+          "text": "Hyperthyroïdie",
+          "explanation": "Réponse retenue : pas un effet direct, mais possible à long terme par des nodules autonomes."
         },
         {
           "id": "C",
-          "text": "Retard intellectuel chez l’enfant"
+          "text": "Retard intellectuel chez l’enfant",
+          "explanation": "Vrai : surtout par carence pendant la grossesse et la petite enfance."
         },
         {
           "id": "D",
-          "text": "Hyperthyroxinemie chez la femme pendant la grossesse (c’etait pas hypOthyroxinemie?)"
+          "text": "Hyperthyroxinemie chez la femme pendant la grossesse (c’etait pas hypOthyroxinemie?)",
+          "explanation": "Formulation douteuse : « hypothyroxinémie » serait vraie, « hyperthyroxinémie » fausse."
         },
         {
           "id": "E",
-          "text": "Goitre euthyroïdien"
+          "text": "Goitre euthyroïdien",
+          "explanation": "Vrai : goitre souvent euthyroïdien."
         }
       ],
       "expected": [
@@ -1561,7 +1641,17 @@
       "difficulty": 2,
       "clinical": false,
       "duplicateGroup": "IODE",
-      "answerNote": "Doute du transcripteur sur la proposition d (« hyper- » ou « hypothyroxinémie »)."
+      "answerNote": "Doute du transcripteur sur la proposition d (« hyper- » ou « hypothyroxinémie »).",
+      "hints": [
+        "Une carence en iode prive la thyroïde de sa matière première.",
+        "Pense aux conséquences chez l’enfant, chez la femme enceinte et sur le volume de la glande.",
+        "Relis la proposition sur la grossesse : le préfixe retranscrit est douteux."
+      ],
+      "explanation": {
+        "text": "Correction discutée. Une carence sévère en iode donne une hypothyroïdie, un goitre (souvent euthyroïdien), un retard intellectuel chez l’enfant exposé pendant la grossesse ou la petite enfance, et une hypothyroxinémie chez la femme enceinte. La réponse retenue est B (hyperthyroïdie), car ce n’est pas l’effet direct du manque d’iode. Deux nuances : dans une carence ancienne, des nodules autonomes peuvent apparaître et donner une hyperthyroïdie (goitre multinodulaire toxique), surtout chez la personne âgée ; et si la proposition D disait vraiment « hyperthyroxinémie », c’est elle qui serait fausse. Le transcripteur pensait d’ailleurs à « hypothyroxinémie ». Aucune correction officielle n’existe.",
+        "status": "complement",
+        "sources": []
+      }
     }
   ]
 }

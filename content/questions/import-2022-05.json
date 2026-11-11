@@ -203,23 +203,28 @@
       "options": [
         {
           "id": "A",
-          "text": "La première cause est Autoimmune"
+          "text": "La première cause est Autoimmune",
+          "explanation": "Vrai : Hashimoto."
         },
         {
           "id": "B",
-          "text": "Autoimmune peut débuter par une phase d'hyperthyroïdie"
+          "text": "Autoimmune peut débuter par une phase d'hyperthyroïdie",
+          "explanation": "Vrai : phase de relargage transitoire possible."
         },
         {
           "id": "C",
-          "text": "Dans des cas sévères peut engendrer une hyponatrémie"
+          "text": "Dans des cas sévères peut engendrer une hyponatrémie",
+          "explanation": "Vrai : hypothyroïdie sévère."
         },
         {
           "id": "D",
-          "text": "Traitement par L thyroxine avec taux de TSH à 12 augmenter la dose de 25 (pas sûre)"
+          "text": "Traitement par L thyroxine avec taux de TSH à 12 augmenter la dose de 25 (pas sûre)",
+          "explanation": "Réponse retenue (rouge, « pas sûre ») : en réalité plutôt exacte, un sous-dosage se corrige par paliers."
         },
         {
           "id": "E",
-          "text": "Durant la grossesse on augmente le taux d'hormone thyroïdienne à la fin du premier trimestre"
+          "text": "Durant la grossesse on augmente le taux d'hormone thyroïdienne à la fin du premier trimestre",
+          "explanation": "Retenue par l’autre compilation, et la plus défendable comme fausse : on augmente dès le début de la grossesse."
         }
       ],
       "expected": [
@@ -247,7 +252,17 @@
       "difficulty": 2,
       "clinical": false,
       "duplicateGroup": "HYPO-ADULTE",
-      "answerNote": "Désaccord entre compilations : rouge (2016-2024) = « TSH à 12 → augmenter de 25 » (pas sûre) ; surligné (2016-2025) = « augmenter à la fin du 1er trimestre »."
+      "answerNote": "Désaccord entre compilations : rouge (2016-2024) = « TSH à 12 → augmenter de 25 » (pas sûre) ; surligné (2016-2025) = « augmenter à la fin du 1er trimestre ».",
+      "hints": [
+        "Une proposition porte sur la cause, une sur l’évolution, une sur la gravité, deux sur le traitement.",
+        "Pour les deux propositions de traitement, demande-toi si la dose et le moment sont corrects.",
+        "Cette question a deux corrections différentes selon les compilations : lis l’explication après avoir répondu."
+      ],
+      "explanation": {
+        "text": "Correction discutée. La compilation 2016-2024 retient D (en rouge, avec la mention « pas sûre ») ; la compilation 2016-2025 retient E. Sur le fond, E est la plus défendable comme fausse : chez une femme traitée, on augmente la L-thyroxine dès que la grossesse est confirmée (d’environ 20 à 30 %), et non à la fin du 1er trimestre. D est plutôt exacte : une TSH à 12 sous traitement signe un sous-dosage, corrigé par paliers de 12,5 à 25 µg (valeurs à valider, voir la leçon L-thyroxine). A, B et C sont exactes : la cause la plus fréquente est auto-immune (Hashimoto), une thyroïdite auto-immune peut débuter par une phase d’hyperthyroïdie transitoire, et une hypothyroïdie sévère peut donner une hyponatrémie. Aucune correction officielle n’existe.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-2022-05-PEDIA-QCM-900",
@@ -259,27 +274,33 @@
       "options": [
         {
           "id": "A",
-          "text": "dépistage vous en informe. Quelle est l'attitude recommandée ?"
+          "text": "dépistage vous en informe. Quelle est l'attitude recommandée ?",
+          "explanation": "Fragment de l’énoncé, retranscrit par erreur comme une proposition."
         },
         {
           "id": "B",
-          "text": "Prévoir une consultation pour évaluer l'évolution clinique"
+          "text": "Prévoir une consultation pour évaluer l'évolution clinique",
+          "explanation": "Non : trop lent."
         },
         {
           "id": "C",
-          "text": "Prévoir des examens complémentaires pour évaluer l'enfant."
+          "text": "Prévoir des examens complémentaires pour évaluer l'enfant.",
+          "explanation": "Non : trop lent."
         },
         {
           "id": "D",
-          "text": "On amène l'enfant en urgence et on lance des examens complémentaires"
+          "text": "On amène l'enfant en urgence et on lance des examens complémentaires",
+          "explanation": "Insuffisant : le traitement doit commencer tout de suite."
         },
         {
           "id": "E",
-          "text": "On amène l'enfant en urgence, on fait des prélèvements biologiques et on commence le traitement par LThyroxine sans attendre les résultats de l'imagerie"
+          "text": "On amène l'enfant en urgence, on fait des prélèvements biologiques et on commence le traitement par LThyroxine sans attendre les résultats de l'imagerie",
+          "explanation": "Oui (réponse attendue)."
         },
         {
           "id": "F",
-          "text": "On amène l'enfant en urgence et on fait un bilan complet (biologie+imagerie) pour évaluer la condition clinique et ensuite donner de la LThyroxine"
+          "text": "On amène l'enfant en urgence et on fait un bilan complet (biologie+imagerie) pour évaluer la condition clinique et ensuite donner de la LThyroxine",
+          "explanation": "Non : l’imagerie ne doit pas retarder le traitement."
         }
       ],
       "expected": [
@@ -305,7 +326,17 @@
       "tags": [],
       "difficulty": 3,
       "clinical": true,
-      "duplicateGroup": "NN-TSH"
+      "duplicateGroup": "NN-TSH",
+      "hints": [
+        "Chaque jour sans hormones compte pour le cerveau du nourrisson.",
+        "Faut-il connaître la cause exacte (imagerie) avant de traiter ?",
+        "On confirme par une prise de sang, puis on agit sans délai."
+      ],
+      "explanation": {
+        "text": "Une TSH très élevée au dépistage néonatal est une urgence : on convoque l’enfant, on prélève pour confirmer (TSH et T4L sériques), puis on commence la L-thyroxine immédiatement, sans attendre l’imagerie, qui précisera la cause plus tard. Chaque jour de retard compte pour le développement cérébral. Note : la première « proposition » est en réalité la fin de l’énoncé, coupée à la retranscription.",
+        "status": "complement",
+        "sources": []
+      }
     },
     {
       "id": "ENDO-2022-05-PEDIA-QCM-901",
@@ -317,23 +348,28 @@
       "options": [
         {
           "id": "A",
-          "text": "Enfant avec hypothyroïdie compensée (TSH élevée mais T4 normale) peut avoir difficultés scolaires"
+          "text": "Enfant avec hypothyroïdie compensée (TSH élevée mais T4 normale) peut avoir difficultés scolaires",
+          "explanation": "Discutable : le retentissement scolaire d’une hypothyroïdie infraclinique n’est pas établi."
         },
         {
           "id": "B",
-          "text": "Enfant avec hypoT décompensée (tsh élevée et T4 basse) aura toujours un pb de croissance"
+          "text": "Enfant avec hypoT décompensée (tsh élevée et T4 basse) aura toujours un pb de croissance",
+          "explanation": "La plus défendable sur le fond (retenue en mai 2023 et dans la couche surlignée)."
         },
         {
           "id": "C",
-          "text": "Lors d’une prise de poids importante chez l’enfant il faut toujours check si hypothyroïdie"
+          "text": "Lors d’une prise de poids importante chez l’enfant il faut toujours check si hypothyroïdie",
+          "explanation": "Réponse retenue en mai 2022 (rouge), discutable : « toujours » est excessif."
         },
         {
           "id": "D",
-          "text": "La présence d’un goitre permet d’exclure une hyperthyroïdie"
+          "text": "La présence d’un goitre permet d’exclure une hyperthyroïdie",
+          "explanation": "Faux : la maladie de Basedow associe goitre et hyperthyroïdie."
         },
         {
           "id": "E",
-          "text": "??"
+          "text": "??",
+          "explanation": "Proposition non retranscrite."
         }
       ],
       "expected": [
@@ -360,7 +396,17 @@
       "difficulty": 2,
       "clinical": false,
       "duplicateGroup": "PEDIA-THYR",
-      "answerNote": "Rouge = C ; surligné (compilation 2016-2025) = B ; mai 2023 = B."
+      "answerNote": "Rouge = C ; surligné (compilation 2016-2025) = B ; mai 2023 = B.",
+      "hints": [
+        "Méfie-toi des mots « toujours » et « exclure ».",
+        "Une proposition est fausse à coup sûr : un goitre peut accompagner une hyperthyroïdie.",
+        "Cette question a des réponses différentes selon les années : lis l’explication après avoir répondu."
+      ],
+      "explanation": {
+        "text": "Correction discutée. La compilation de mai 2022 retient C (« lors d’une prise de poids importante, il faut toujours vérifier une hypothyroïdie »), mais la couche surlignée de la même compilation et la session de mai 2023 retiennent B (« une hypothyroïdie décompensée chez le petit enfant aura toujours un problème de croissance »). Sur le fond, B est la plus défendable : une hypothyroïdie patente non traitée chez le jeune enfant retentit sur la croissance. C est discutable : une prise de poids avec une croissance normale oriente rarement vers une hypothyroïdie, même si la TSH est souvent dosée en pratique. D est fausse (la maladie de Basedow associe goitre et hyperthyroïdie). Pour A, le retentissement scolaire d’une hypothyroïdie infraclinique n’est pas établi. Aucune correction officielle n’existe (voir la leçon Hypothyroïdie congénitale).",
+        "status": "complement",
+        "sources": []
+      }
     }
   ]
 }

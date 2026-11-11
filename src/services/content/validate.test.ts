@@ -2,7 +2,9 @@ import { describe, expect, it } from 'vitest';
 import chapters from '../../../content/chapters.json';
 import exams from '../../../content/exams.json';
 import { mcq } from '@/test/fixtures';
-import { readFileSync } from 'node:fs';
+import { readdirSync, readFileSync } from 'node:fs';
+import { QuestionFile } from '@/schemas/content';
+import { isPlayable } from '@/services/scoring/score';
 import { validateContent } from './validate';
 
 // Leçons réelles du dépôt (content/lessons/…).
@@ -18,6 +20,14 @@ const run = (questions: unknown[], lessons: Record<string, string> = {}, ch: unk
 describe('validateur de contenu', () => {
   it('le contenu réel du dépôt est valide', () => {
     expect(validateContent({ chapters, exams, questionFiles: {}, lessons: realLessons })).toEqual([]);
+  });
+  it('chaque question d’archives jouable a ses 3 indices et son explication', () => {
+    const missing = readdirSync('content/questions')
+      .filter((f) => f.endsWith('.json'))
+      .flatMap((f) => QuestionFile.parse(JSON.parse(readFileSync(`content/questions/${f}`, 'utf8'))).questions)
+      .filter((q) => q.kind === 'archive' && isPlayable(q) && (!q.explanation || !q.hints))
+      .map((q) => q.id);
+    expect(missing).toEqual([]);
   });
   it('accepte une question cohérente', () => {
     expect(run([mcq()])).toEqual([]);
