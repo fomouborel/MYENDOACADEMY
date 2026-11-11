@@ -13,13 +13,15 @@ W, DOM = sys.argv[1], sys.argv[2]
 HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.join(HERE, "..", "..")
 sys.path.insert(0, HERE)
 cfg = importlib.import_module(DOM)
-LABEL = {"hypophyse": ("Hypophyse", "Hypophyse")}[DOM]  # (domaine dans l'audit, titre du cours)
+LABEL = {"hypophyse": ("Hypophyse", "Hypophyse"), "surrenales": ("Surrénales", "Surrénales")}[DOM]  # (domaine dans l'audit, titre du cours)
 
 final = json.load(open(os.path.join(W, "final.json"), encoding="utf-8"))
-pool = [q for q in final if q.get("domain") == LABEL[0]]
+# Le domaine de l'audit, plus les questions classées ailleurs par l'extraction et rattachées ici à la main.
+pool = [q for q in final if q.get("domain") == LABEL[0] or (q["src"], q["line"]) in cfg.H]
 keys = {(q["src"], q["line"]) for q in pool}
+in_domain = {(q["src"], q["line"]) for q in final if q.get("domain") == LABEL[0]}
 missing = (set(cfg.H) | set(cfg.EXCLUDE)) - keys
-unclassified = keys - set(cfg.H) - set(cfg.EXCLUDE)
+unclassified = in_domain - set(cfg.H) - set(cfg.EXCLUDE)
 if missing or unclassified:
     sys.exit(f"classement incomplet : inconnues {sorted(missing)}, non classées {sorted(unclassified)}")
 
@@ -46,7 +48,7 @@ cnt = defaultdict(int)
 for q in out: cnt[q["status"]] += 1
 L = [f"# Inventaire détaillé des questions : {LABEL[1].lower()}", "",
      f"> Généré par `scripts/audit/domain_audit.py` à partir de l'extraction des PDF (voir `AUDIT-PHASE-1.md`) et du classement manuel `scripts/audit/{DOM}.py`.",
-     f"> **{len(out)} questions** retenues sur {len(pool)} classées automatiquement dans ce domaine ({len(cfg.EXCLUDE)} relèvent d'un autre domaine, voir la fin).",
+     f"> **{len(out)} questions** retenues : {len(in_domain)} classées automatiquement dans ce domaine, dont {len(cfg.EXCLUDE)} écartées (voir la fin), et {len(keys - in_domain)} rattachées depuis un autre domaine.",
      "> **Statuts** : 🟦 réponse proposée dans la compilation (en rouge) · 🟧 discutée/contestée · ⬜ question incomplète · 🟥 réponse absente · 🟨 déduite du texte.",
      "> Aucune correction officielle n'a été identifiée dans les sources.", "",
      "| Statut | Questions |", "|---|---:|"] + [f"| {SHORT[s]} | {n} |" for s, n in sorted(cnt.items(), key=lambda x: -x[1])] + [""]

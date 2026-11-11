@@ -491,6 +491,44 @@ VF("exercices-hypophyse", 14, "hypophyse", "posthypophyse", ["hyph-posthypophyse
    H("Où est le défaut dans la forme centrale ?", "Le rein est-il capable de répondre à l’ADH ?", "La desmopressine remplace l’ADH manquante."), ["diabète insipide", "desmopressine"])
 
 
+# ============================ COURS 5 — SURRÉNALES (exercices vrai ou faux) ============================
+VF("exercices-surrenales", 1, "surrenales", "insuffisance", ["surr-insuffisance"], "Dans la maladie d’Addison, la rénine est basse.", False,
+   "La destruction de la surrénale supprime l’aldostérone : le rein perd du sel, la volémie baisse et la rénine monte. Elle est donc élevée.",
+   H("Quelle hormone de la corticosurrénale retient le sel ?", "Sans elle, que devient la volémie ?", "Comment réagit le rein quand la volémie baisse ?"), ["Addison"])
+VF("exercices-surrenales", 2, "surrenales", "insuffisance", ["surr-insuffisance"], "En cas de fièvre, un patient traité pour une insuffisance surrénale double ou triple sa dose d’hydrocortisone.", True,
+   "Le stress de la maladie augmente les besoins en cortisol. On augmente l’hydrocortisone pendant l’épisode ; la fludrocortisone ne change pas. En cas de vomissements : injection et consultation en urgence.",
+   H("Le cortisol est l’hormone du stress.", "Le patient ne peut pas en fabriquer davantage lui-même.", "Qui doit compenser ?"), ["insuffisance surrénale", "éducation"])
+VF("exercices-surrenales", 3, "surrenales", "cushing", ["surr-cushing"], "Pour trouver la cause d’un syndrome de Cushing, le premier dosage est celui de l’ACTH.", True,
+   "Une ACTH effondrée oriente vers une cause surrénalienne (ou des corticoïdes) ; une ACTH normale ou élevée vers l’hypophyse ou une tumeur ectopique.",
+   H("Le cortisol en excès freine-t-il toujours l’hypophyse ?", "Que devient l’ACTH si une tumeur surrénalienne fabrique le cortisol ?", "Et si c’est l’hypophyse qui est malade ?"), ["Cushing", "ACTH"])
+VF("exercices-surrenales", 4, "surrenales", "cushing", ["surr-cushing"], "Un cortisol sanguin du matin isolé permet de dépister un syndrome de Cushing.", False,
+   "Le matin, le cortisol est normalement à son maximum. On dépiste par le cortisol salivaire du soir, le cortisol libre urinaire des 24 heures ou le freinage par 1 mg de dexaméthasone.",
+   H("Le cortisol suit un rythme sur 24 heures.", "Quand est-il normalement le plus haut ?", "Ce moment permet-il de repérer un excès ?"), ["Cushing", "dépistage"])
+VF("exercices-surrenales", 5, "surrenales", "aldosterone", ["surr-aldosterone"], "Dans l’hyperaldostéronisme primaire, l’hypokaliémie est constante.", False,
+   "Beaucoup de patients ont un potassium normal. L’HTA, elle, est presque constante. On dépiste par le rapport aldostérone/rénine.",
+   H("Méfie-toi du mot « constante ».", "Quel signe est presque toujours présent ?", "Faut-il attendre une hypokaliémie pour dépister ?"), ["Conn"])
+VF("exercices-surrenales", 6, "surrenales", "aldosterone", ["surr-aldosterone"], "Dans l’hyperaldostéronisme primaire, le rapport aldostérone/rénine est élevé parce que la rénine est freinée.", True,
+   "L’aldostérone autonome retient le sodium et l’eau ; la volémie augmente et la rénine est freinée. Aldostérone haute et rénine basse : le rapport est élevé.",
+   H("L’aldostérone est sécrétée sans être commandée.", "Que devient la volémie ?", "Comment le rein ajuste-t-il alors la rénine ?"), ["Conn", "rapport aldostérone/rénine"])
+VF("exercices-surrenales", 7, "surrenales", "pheo", ["surr-pheo"], "Le phéochromocytome fait typiquement prendre du poids.", False,
+   "Les catécholamines augmentent la dépense d’énergie : le patient maigrit. Il a aussi une hyperglycémie, pas d’hypoglycémies.",
+   H("Pense à l’effet de l’adrénaline sur le métabolisme.", "Le métabolisme accéléré brûle-t-il plus ou moins d’énergie ?", "Que devient le poids ?"), ["phéochromocytome"])
+VF("exercices-surrenales", 8, "surrenales", "pheo", ["surr-pheo"], "Le dépistage biologique du phéochromocytome repose sur le dosage des métanéphrines.", True,
+   "Les métanéphrines plasmatiques libres ou urinaires fractionnées sont les tests les plus fiables. L’imagerie vient ensuite, une fois la biologie positive.",
+   H("Les catécholamines sont dégradées en dérivés plus stables.", "Ces dérivés sont produits en continu dans la tumeur.", "Biologie d’abord, imagerie ensuite."), ["phéochromocytome", "dépistage"])
+VF("exercices-surrenales", 9, "surrenales", "incidentalome", ["surr-incidentalome"], "Devant un incidentalome surrénalien, le test au Synacthène fait partie du bilan systématique.", False,
+   "Le Synacthène cherche une insuffisance surrénale. Devant un incidentalome, on cherche un excès : freinage par 1 mg de dexaméthasone, métanéphrines, rapport aldostérone/rénine si HTA.",
+   H("Que cherche-t-on devant une masse surrénalienne : un excès ou un manque ?", "Le Synacthène stimule la surrénale.", "Il sert à prouver qu’elle ne répond pas."), ["incidentalome"])
+VF("exercices-surrenales", 10, "surrenales", "incidentalome", ["surr-incidentalome"], "Une masse surrénalienne homogène de densité inférieure ou égale à 10 UH au scanner sans injection est un adénome bénin.", True,
+   "Une densité basse traduit des lipides dans les cellules : c’est la signature d’un adénome. Une densité plus élevée n’exclut pas un adénome pauvre en lipides.",
+   H("Que signifie une densité basse au scanner ?", "Quelle tumeur surrénalienne contient des lipides dans ses cellules ?", "La graisse abaisse la densité."), ["incidentalome", "scanner"])
+VF("exercices-surrenales", 11, "surrenales", "hyperandrogenie", ["surr-hyperandrogenie"], "Le bloc en 21-hydroxylase donne une hypertension artérielle.", False,
+   "Le bloc en 21-hydroxylase empêche la fabrication de l’aldostérone : il fait perdre du sel. L’HTA appartient au bloc en 11-bêta-hydroxylase, plus rare.",
+   H("La 21-hydroxylase sert à fabriquer le cortisol et l’aldostérone.", "Sans aldostérone, que perd le rein ?", "La pression monte-t-elle ou baisse-t-elle ?"), ["hyperplasie congénitale"])
+VF("exercices-surrenales", 12, "surrenales", "hyperandrogenie", ["surr-hyperandrogenie"], "Le syndrome des ovaires polykystiques est la cause la plus fréquente d’hirsutisme chez la femme.", True,
+   "Avec l’hirsutisme idiopathique, c’est l’une des deux causes les plus fréquentes. Un hirsutisme brutal ou une virilisation font rechercher une tumeur.",
+   H("Les causes fréquentes sont rarement graves.", "Une cause associe hirsutisme et troubles des règles.", "Elle concerne l’ovaire."), ["hirsutisme", "ovaires polykystiques"])
+
 # ============================ CAS CLINIQUES PROGRESSIFS (créés, hors archives) ============================
 NORMES = "normes reprises d’un énoncé d’examen UCL (compilation 2016-2021) — valeurs propres au laboratoire de l’exercice"
 def LAB(a, v, u, r): return {"analyte": a, "value": v, "unit": u, "reference": r, "referenceOrigin": NORMES}

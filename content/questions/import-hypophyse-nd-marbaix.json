@@ -265,6 +265,71 @@
         "status": "complement",
         "sources": []
       }
+    },
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-109",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Adénome silencieux",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Sécrète gonadotrophines",
+          "explanation": "Défendable : les adénomes silencieux sont souvent gonadotropes, sans effet clinique."
+        },
+        {
+          "id": "B",
+          "text": "Incidentalome, découvert de manière fortuite",
+          "explanation": "Défendable : découverte fortuite possible."
+        },
+        {
+          "id": "C",
+          "text": "Donne troubles visuels et céphalées",
+          "explanation": "Réponse retenue : syndrome tumoral."
+        },
+        {
+          "id": "D",
+          "text": "Ne donne pas de céphalées ni de troubles visuels et ne peut être détecté qu’avec IRM + contraste",
+          "explanation": "Faux : il peut donner céphalées et troubles visuels."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 82,
+        "originalNumber": 9,
+        "auditRef": "ND-marbaix-thyroide-parathyroides-Q9"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ANAPATH-ADENOME",
+      "answerNote": "Classée « Surrénales » par l’extraction (section d’anatomie pathologique mixte). Réponse discutable : un adénome silencieux est souvent gonadotrope (il fabrique des gonadotrophines sans effet clinique) et peut être découvert par hasard.",
+      "hints": [
+        "« Silencieux » veut dire : pas de syndrome d’hypersécrétion visible.",
+        "Sans signe hormonal, comment un adénome se révèle-t-il le plus souvent ?",
+        "Pense à l’effet de masse quand il grossit."
+      ],
+      "explanation": {
+        "text": "Correction discutée. Un adénome « silencieux » ne donne pas de syndrome d’hypersécrétion : il se révèle quand il devient volumineux, par des céphalées et des troubles visuels (compression du chiasma). C’est la réponse retenue. Mais deux autres propositions se défendent : la plupart des adénomes silencieux sont des adénomes gonadotropes, qui fabriquent des gonadotrophines sans effet clinique (visibles en immunohistochimie) ; et un adénome silencieux peut aussi être découvert par hasard, comme incidentalome. La dernière proposition est fausse : un macroadénome silencieux peut comprimer et se voit aussi sans contraste.",
+        "status": "complement",
+        "sources": []
+      }
     }
   ]
 }

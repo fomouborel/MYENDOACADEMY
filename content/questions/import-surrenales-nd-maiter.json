@@ -1,0 +1,1657 @@
+{
+  "source": "import-surrenales-nd-maiter",
+  "questions": [
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-401",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Incidentalome surrénalien 1F",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Dosage cortisolurie 24h"
+        },
+        {
+          "id": "B",
+          "text": "Dosage ACTH matin"
+        },
+        {
+          "id": "C",
+          "text": "Dosage cortisol"
+        }
+      ],
+      "expected": [
+        "A",
+        "C"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 61,
+        "originalNumber": 1,
+        "auditRef": "ND-maiter-surrenale-Q1"
+      },
+      "chapter": "surrenales",
+      "subchapter": "incidentalome",
+      "lessonLinks": [
+        "surr-incidentalome"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "INCID-BILAN",
+      "answerNote": "Deux propositions en rouge pour « 1F » ; retranscription confuse. La consigne retranscrite demande 1 réponse(s), mais 2 proposition(s) sont marquées dans la compilation."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-402",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "En cas d’hyperaldostéronisme primaire, choisir la vraie :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Le patient est presque toujours hypertendu",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Le patient a des valeurs élevées d’aldostérone et de rénine",
+          "explanation": "Faux : la rénine est basse."
+        },
+        {
+          "id": "C",
+          "text": "Le patient a toujours une hypokaliémie",
+          "explanation": "Faux : inconstante."
+        },
+        {
+          "id": "D",
+          "text": "Il y a toujours une image d'un adénome au scanner des surrénales",
+          "explanation": "Faux : pas toujours."
+        },
+        {
+          "id": "E",
+          "text": "L’HTA ne répond pas à la spironolactone",
+          "explanation": "Faux : elle y répond."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 61,
+        "originalNumber": 2,
+        "auditRef": "ND-maiter-surrenale-Q2"
+      },
+      "chapter": "surrenales",
+      "subchapter": "aldosterone",
+      "lessonLinks": [
+        "surr-aldosterone"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "ALDO",
+      "hints": [
+        "Méfie-toi des mots « toujours ».",
+        "La rénine est-elle élevée ou freinée ?",
+        "Quel signe est quasi constant ?"
+      ],
+      "explanation": {
+        "text": "Dans l’hyperaldostéronisme primaire, le patient est presque toujours hypertendu. L’aldostérone est élevée mais la rénine est basse ; l’hypokaliémie est inconstante ; le scanner ne montre pas toujours un adénome ; l’HTA répond à la spironolactone.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-403",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "2 fausses sur le phéochromocytome:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hypotension orthostatique",
+          "explanation": "Présente."
+        },
+        {
+          "id": "B",
+          "text": "Prise de poids",
+          "explanation": "Fausse (réponse attendue) : il fait maigrir."
+        },
+        {
+          "id": "C",
+          "text": "Hyperplasia bilatérales des surrénales",
+          "explanation": "Fausse (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Amaigrissement",
+          "explanation": "Présent."
+        },
+        {
+          "id": "E",
+          "text": "La triade céphalée sudation palpitation",
+          "explanation": "Présente."
+        }
+      ],
+      "expected": [
+        "B",
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 62,
+        "originalNumber": 3,
+        "auditRef": "ND-maiter-surrenale-Q3"
+      },
+      "chapter": "surrenales",
+      "subchapter": "pheo",
+      "lessonLinks": [
+        "surr-pheo"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PHEO-CLIN",
+      "hints": [
+        "Les catécholamines accélèrent le métabolisme.",
+        "Que deviennent le poids et la glycémie quand l’adrénaline est en excès ?",
+        "Pense aussi à ce qui arrive à la pression artérielle quand le patient se lève."
+      ],
+      "explanation": {
+        "text": "Le phéochromocytome donne une hypotension orthostatique, un amaigrissement et la triade céphalées, sueurs, palpitations. Deux propositions sont fausses : la prise de poids (il fait maigrir) et l’« hyperplasie bilatérale des surrénales », qui n’est pas un signe du phéochromocytome.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-404",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "A propos du Sd d’Addison la F :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "HypoNa et HyperK"
+        },
+        {
+          "id": "B",
+          "text": "Tr digestifs et crampes musculaires"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 62,
+        "originalNumber": 4,
+        "auditRef": "ND-maiter-surrenale-Q4"
+      },
+      "chapter": "surrenales",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "surr-insuffisance"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ADDISON-BIO",
+      "answerNote": "Deux propositions seulement."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-405",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Dans l’hyperaldostéronisme primaire,",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "il y a toujours une hypokaliémie"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 62,
+        "originalNumber": 5,
+        "auditRef": "ND-maiter-surrenale-Q5"
+      },
+      "chapter": "surrenales",
+      "subchapter": "aldosterone",
+      "lessonLinks": [
+        "surr-aldosterone"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ALDO",
+      "answerNote": "Une seule proposition."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-406",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Incidentalome de 3cm… tous les examens sauf :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Test suppression à la dexa",
+          "explanation": "Utile."
+        },
+        {
+          "id": "B",
+          "text": "Dosage aldo/rénine",
+          "explanation": "Utile."
+        },
+        {
+          "id": "C",
+          "text": "Cortisolurie de 24h",
+          "explanation": "Utile."
+        },
+        {
+          "id": "D",
+          "text": "Dosage de cortisol le matin",
+          "explanation": "Inutile (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "Dosage catécholamines urinaires de 24h",
+          "explanation": "Utile."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 62,
+        "originalNumber": 6,
+        "auditRef": "ND-maiter-surrenale-Q6"
+      },
+      "chapter": "surrenales",
+      "subchapter": "incidentalome",
+      "lessonLinks": [
+        "surr-incidentalome"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "INCID-BILAN",
+      "hints": [
+        "Devant un incidentalome, on cherche une sécrétion excessive.",
+        "Le cortisol a un rythme : à quel moment est-il normalement élevé ?",
+        "Un dosage isolé peut-il prouver un excès ?"
+      ],
+      "explanation": {
+        "text": "Le bilan d’un incidentalome comprend le freinage par la dexaméthasone, le rapport aldostérone/rénine (si HTA), le cortisol libre urinaire et le dosage des catécholamines ou métanéphrines urinaires. Un cortisol du matin isolé est inutile : il est normalement élevé le matin et ne permet pas de conclure.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-407",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Peut être présent dans le phéochromocytome SAUF DEUX :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hypotension orthostatique",
+          "explanation": "Présente."
+        },
+        {
+          "id": "B",
+          "text": "Prise de poids",
+          "explanation": "Fausse (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Hypogklycémies fréquentes",
+          "explanation": "Fausses (réponse attendue) : c’est une hyperglycémie."
+        },
+        {
+          "id": "D",
+          "text": "Métanéphrines plasmatiques et urinaires élevées",
+          "explanation": "Présentes : examen de dépistage."
+        },
+        {
+          "id": "E",
+          "text": "Malaises: céphalées, sudations, palpitations",
+          "explanation": "Présents."
+        }
+      ],
+      "expected": [
+        "B",
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 62,
+        "originalNumber": 7,
+        "auditRef": "ND-maiter-surrenale-Q7"
+      },
+      "chapter": "surrenales",
+      "subchapter": "pheo",
+      "lessonLinks": [
+        "surr-pheo"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PHEO-CLIN",
+      "hints": [
+        "Les catécholamines accélèrent le métabolisme.",
+        "Que deviennent le poids et la glycémie quand l’adrénaline est en excès ?",
+        "Pense aussi à ce qui arrive à la pression artérielle quand le patient se lève."
+      ],
+      "explanation": {
+        "text": "Dans le phéochromocytome, on trouve une hypotension orthostatique, des métanéphrines plasmatiques et urinaires élevées et des malaises avec céphalées, sueurs et palpitations. Deux propositions sont fausses : la prise de poids (il fait maigrir) et les hypoglycémies (il donne une hyperglycémie).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-408",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Maladie auto-immune Addison, trouvez la fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "cortisol bas",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "rénine basse",
+          "explanation": "Faux (réponse attendue) : elle est élevée."
+        },
+        {
+          "id": "C",
+          "text": "non réponse du cortisol à l’acth",
+          "explanation": "Vrai : c’est le test de référence."
+        },
+        {
+          "id": "D",
+          "text": "anticorps anti-21hydroxylase",
+          "explanation": "Vrai : marqueur de l’origine auto-immune."
+        },
+        {
+          "id": "E",
+          "text": "(je sais plus la dernière proposition)",
+          "explanation": "Proposition non retranscrite."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 62,
+        "originalNumber": 8,
+        "auditRef": "ND-maiter-surrenale-Q8"
+      },
+      "chapter": "surrenales",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "surr-insuffisance"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ADDISON-BIO",
+      "answerNote": "Proposition E non retranscrite (« je sais plus ») ; la réponse marquée est sans ambiguïté.",
+      "hints": [
+        "La surrénale détruite ne fabrique plus d’aldostérone.",
+        "Sans aldostérone, le rein perd du sel et la volémie baisse.",
+        "Comment réagit alors le système rénine-angiotensine ?"
+      ],
+      "explanation": {
+        "text": "Dans la maladie d’Addison auto-immune, le cortisol est bas, il ne monte pas au test à l’ACTH, et on trouve des anticorps anti-21-hydroxylase. La rénine est élevée, et non basse : la destruction de la glomérulée supprime l’aldostérone, le rein perd du sel et le système rénine-angiotensine est stimulé. La dernière proposition n’a pas été retranscrite.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-409",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Incidentalome surrénalien > 6 cm mais patient normotendu:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "On exclut maladie de Conn car pas HTA (autre prop : y’avait genre Cushing ? phéochromo? Métastase ? Insuffisance ?)"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 62,
+        "originalNumber": 9,
+        "auditRef": "ND-maiter-surrenale-Q9"
+      },
+      "chapter": "surrenales",
+      "subchapter": "incidentalome",
+      "lessonLinks": [
+        "surr-incidentalome"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "INCID-DIAG",
+      "answerNote": "Une seule proposition."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-410",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Autre question avec insuffisance surrénalienne cette fois:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Il faut un truc veineux (gradient par KT?) Pour distinguer unilat de bilat"
+        },
+        {
+          "id": "B",
+          "text": "Vitiligo (c’était ds cette question?)"
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 62,
+        "originalNumber": 10,
+        "auditRef": "ND-maiter-surrenale-Q10"
+      },
+      "chapter": "surrenales",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "surr-insuffisance"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ADDISON-CLIN",
+      "answerNote": "Propositions incertaines."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-411",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Maladie d’addison la fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hyperpigmentation",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": ", Hypertension",
+          "explanation": "Faux (réponse attendue) : c’est une hypotension."
+        },
+        {
+          "id": "C",
+          "text": "Vitiligo parfois associé",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "Douleurs abdominales",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "Amaigrissement",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 62,
+        "originalNumber": 11,
+        "auditRef": "ND-maiter-surrenale-Q11"
+      },
+      "chapter": "surrenales",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "surr-insuffisance"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ADDISON-CLIN",
+      "hints": [
+        "Le cortisol et l’aldostérone maintiennent la pression artérielle.",
+        "Que devient la pression quand ils manquent ?",
+        "Une proposition décrit l’inverse."
+      ],
+      "explanation": {
+        "text": "La maladie d’Addison donne une hyperpigmentation (excès d’ACTH), un vitiligo parfois associé (auto-immunité), des douleurs abdominales et un amaigrissement. Elle donne une hypotension, pas une hypertension.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-412",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "En cas d’hyperaldostéronisme primaire, les éléments suivants sont vrais sauf 1 (la fausse)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Le rapport aldostérone sur rénine est augmenté, et ce indépendamment de la position",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "Il y a une hypokaliémie avec kaliurie.",
+          "explanation": "Vrai : kaliurie inadaptée."
+        },
+        {
+          "id": "C",
+          "text": "L’hypertension artérielle est résistante au traitement habituel",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "L’adénome surrénalien unilatéral est plus  fréquent  que l’hyperplasie bilatérale des surrénales.",
+          "explanation": "Faux (réponse attendue) : l’hyperplasie bilatérale est plus fréquente."
+        },
+        {
+          "id": "E",
+          "text": "En cas d’hyperplasie bilatérale des surrénales, l’aldostérone augmente lors du test de la posture.",
+          "explanation": "Vrai : la glande reste sensible à l’angiotensine."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 62,
+        "originalNumber": 12,
+        "auditRef": "ND-maiter-surrenale-Q12"
+      },
+      "chapter": "surrenales",
+      "subchapter": "aldosterone",
+      "lessonLinks": [
+        "surr-aldosterone"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ALDO-RAPPORT",
+      "hints": [
+        "Une proposition porte sur la fréquence relative des deux causes.",
+        "Laquelle est traitée médicalement, et laquelle chirurgicalement ?",
+        "La forme bilatérale est-elle rare ?"
+      ],
+      "explanation": {
+        "text": "L’hyperplasie bilatérale des surrénales est plus fréquente que l’adénome unilatéral (environ deux tiers contre un tiers, ordre de grandeur classique). Les autres propositions sont exactes : rapport aldostérone/rénine augmenté quelle que soit la position, hypokaliémie avec kaliurie, HTA souvent résistante au traitement habituel, aldostérone qui augmente au test de posture dans l’hyperplasie bilatérale.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-413",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Quelles anomalies ne retrouve-t-on pas en cas d’insuffisance surrénalienne primaire (2 réponses)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Amaigrissement"
+        },
+        {
+          "id": "B",
+          "text": "Hyponatrémie"
+        },
+        {
+          "id": "C",
+          "text": "Gynécomastie"
+        },
+        {
+          "id": "D",
+          "text": "Hyperkaliémie"
+        },
+        {
+          "id": "E",
+          "text": "Hyperpigmentation"
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 62,
+        "originalNumber": 13,
+        "auditRef": "ND-maiter-surrenale-Q13"
+      },
+      "chapter": "surrenales",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "surr-insuffisance"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ADDISON-CLIN",
+      "answerNote": "« 2 réponses » demandées, une seule marquée (gynécomastie) : les quatre autres signes sont bien présents dans l'insuffisance surrénale primaire. La consigne retranscrite demande 2 réponse(s), mais 1 proposition(s) sont marquées dans la compilation."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-414",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Face à un incidentalome de 3cm découvert chez un patient hypertendu, quel examen ne devrez-vous pas effectuer ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Suppression court par Dexamethasone 1mg",
+          "explanation": "Utile."
+        },
+        {
+          "id": "B",
+          "text": "Dosage urinaire des Catécholamines",
+          "explanation": "Utile : phéochromocytome."
+        },
+        {
+          "id": "C",
+          "text": "Dosage isolé de l’ACTH matinal",
+          "explanation": "Inutile (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Dosage de l’Aldostérone matinal",
+          "explanation": "Inutile (réponse attendue) : à interpréter avec la rénine."
+        },
+        {
+          "id": "E",
+          "text": "Rapport de l’Aldostérone/Rénine",
+          "explanation": "Utile : le patient est hypertendu."
+        }
+      ],
+      "expected": [
+        "C",
+        "D"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 63,
+        "originalNumber": 14,
+        "auditRef": "ND-maiter-surrenale-Q14"
+      },
+      "chapter": "surrenales",
+      "subchapter": "incidentalome",
+      "lessonLinks": [
+        "surr-incidentalome"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "INCID-BILAN",
+      "answerNote": "Consigne au singulier (« quel examen ») mais deux réponses marquées, toutes deux défendables : un dosage isolé de l'ACTH ou de l'aldostérone n'a pas d'intérêt.",
+      "hints": [
+        "Pour chaque hormone, un dosage isolé suffit-il à conclure ?",
+        "L’aldostérone s’interprète toujours avec une autre hormone.",
+        "L’ACTH seule ne dit rien d’une sécrétion surrénalienne autonome."
+      ],
+      "explanation": {
+        "text": "Correction discutée sur la forme : la consigne est au singulier, mais deux réponses sont marquées, toutes deux défendables. Devant un incidentalome chez un hypertendu, on fait le freinage par 1 mg de dexaméthasone, le dosage des catécholamines ou métanéphrines urinaires et le rapport aldostérone/rénine. Un dosage isolé de l’ACTH du matin et un dosage isolé de l’aldostérone (sans la rénine) ne permettent pas de conclure.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-415",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Parmi ces symptômes, lesquels NE SONT PAS spécifiques d’une insuffisance surrénalienne d’origine centrale : (2 réponses)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Bronzé"
+        },
+        {
+          "id": "B",
+          "text": "Amaigrissement"
+        },
+        {
+          "id": "C",
+          "text": "Gynécomastie"
+        },
+        {
+          "id": "D",
+          "text": "Hyponatrémie"
+        },
+        {
+          "id": "E",
+          "text": "Hypokaliémie et hyperkaliurie"
+        }
+      ],
+      "expected": [
+        "A",
+        "C",
+        "E"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 63,
+        "originalNumber": 15,
+        "auditRef": "ND-maiter-surrenale-Q15"
+      },
+      "chapter": "surrenales",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "surr-insuffisance",
+        "hyph-insuffisance"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ISR-CENTRALE",
+      "answerNote": "Trois propositions marquées pour « 2 réponses ». La consigne retranscrite demande 2 réponse(s), mais 3 proposition(s) sont marquées dans la compilation."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-416",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "A propos du syndrome de Conn, qu’est-ce qui est faux",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Le rapport Aldostérone/Rénine est élevé indépendamment de la position du patient",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "L’hyperplasie bilatérale est plus fréquente que l’adénome unilat",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Est responsable d’une hypocalcémie et d’une hyperkaliurie",
+          "explanation": "Faux (réponse attendue) : pas d’hypocalcémie."
+        },
+        {
+          "id": "D",
+          "text": "peut donner une hta sévère qui résiste souvent au traitements classiques",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 63,
+        "originalNumber": 16,
+        "auditRef": "ND-maiter-surrenale-Q16"
+      },
+      "chapter": "surrenales",
+      "subchapter": "aldosterone",
+      "lessonLinks": [
+        "surr-aldosterone"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "ALDO",
+      "hints": [
+        "L’aldostérone agit sur le sodium et le potassium, pas sur le calcium.",
+        "Que devient la kaliurie ?",
+        "Une proposition associe un vrai et un faux."
+      ],
+      "explanation": {
+        "text": "Le syndrome de Conn donne une hyperkaliurie (le rein perd du potassium), mais pas d’hypocalcémie : l’association des deux rend la proposition fausse. Le rapport aldostérone/rénine est élevé quelle que soit la position, l’hyperplasie bilatérale est plus fréquente que l’adénome, et l’HTA peut être sévère et résistante.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-417",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Je pense qu’il y avait aussi une question sur Conn ? La fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "HTA"
+        },
+        {
+          "id": "B",
+          "text": "HyperK"
+        },
+        {
+          "id": "C",
+          "text": "Polyurie polydipsie"
+        },
+        {
+          "id": "D",
+          "text": "?"
+        },
+        {
+          "id": "E",
+          "text": "?"
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 63,
+        "originalNumber": 17,
+        "auditRef": "ND-maiter-surrenale-Q17"
+      },
+      "chapter": "surrenales",
+      "subchapter": "aldosterone",
+      "lessonLinks": [
+        "surr-aldosterone"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ALDO",
+      "answerNote": "Deux propositions non retranscrites."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-418",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Parmi les tests suivants, quel est LE meilleur test de dépistage pour un phéochromocytome ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Scinti MIB"
+        },
+        {
+          "id": "B",
+          "text": "Dosage urinaire 24H métanéphrines"
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 63,
+        "originalNumber": 18,
+        "auditRef": "ND-maiter-surrenale-Q18"
+      },
+      "chapter": "surrenales",
+      "subchapter": "pheo",
+      "lessonLinks": [
+        "surr-pheo"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PHEO-CLIN",
+      "answerNote": "Deux propositions seulement."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-419",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Un homme de 50 ans avec diabète et HTA. Découverte d’un incidentalome surrénalien de 2 cm. Tous les examens complémentaires suivants sont utiles sauf un:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Test à l’ACTH",
+          "explanation": "Inutile (réponse attendue) : explore l’insuffisance surrénale."
+        },
+        {
+          "id": "B",
+          "text": "Mesure du rapport rénine/aldostérone",
+          "explanation": "Utile : le patient est hypertendu."
+        },
+        {
+          "id": "C",
+          "text": "Cortisolurie de 24h",
+          "explanation": "Utile."
+        },
+        {
+          "id": "D",
+          "text": "Test court à la Dexaméthasone 1 mg",
+          "explanation": "Utile : test de référence pour le cortisol."
+        },
+        {
+          "id": "E",
+          "text": "Mesure des métanéphrines urinaires",
+          "explanation": "Utile : phéochromocytome."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 63,
+        "originalNumber": 19,
+        "auditRef": "ND-maiter-surrenale-Q19"
+      },
+      "chapter": "surrenales",
+      "subchapter": "incidentalome",
+      "lessonLinks": [
+        "surr-incidentalome"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "INCID-BILAN",
+      "hints": [
+        "Devant un incidentalome, on cherche une sécrétion EXCESSIVE d’hormone.",
+        "Un des tests proposés sert à prouver un manque de cortisol.",
+        "Le Synacthène est de l’ACTH de synthèse : que cherche-t-on en stimulant la surrénale ?"
+      ],
+      "explanation": {
+        "text": "Le bilan d’un incidentalome cherche une hypersécrétion : freinage par 1 mg de dexaméthasone (ou cortisol libre urinaire) pour le cortisol, rapport aldostérone/rénine chez un hypertendu, métanéphrines ou catécholamines urinaires pour le phéochromocytome. Le test à l’ACTH (Synacthène) explore au contraire une insuffisance surrénale : il est inutile ici.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-420",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Bio dans la Maladie d’Addison (1 faux) :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hyponatrémie avec hyperkaliémie",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "ACTH augmentée",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Éosinophilie",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "Rénine basse",
+          "explanation": "Faux (réponse attendue) : elle est élevée."
+        },
+        {
+          "id": "E",
+          "text": "Cortisol bas",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 63,
+        "originalNumber": 20,
+        "auditRef": "ND-maiter-surrenale-Q20"
+      },
+      "chapter": "surrenales",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "surr-insuffisance"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ADDISON-BIO",
+      "hints": [
+        "La surrénale détruite ne fabrique plus d’aldostérone.",
+        "Sans aldostérone, le rein perd du sel et la volémie baisse.",
+        "Comment réagit alors le système rénine-angiotensine ?"
+      ],
+      "explanation": {
+        "text": "Dans la maladie d’Addison : hyponatrémie avec hyperkaliémie, ACTH augmentée (rétrocontrôle levé), éosinophilie, cortisol bas. La rénine est élevée, et non basse, parce que l’aldostérone manque.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-421",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Dans la maladie d’Addison associée à une ménopause précoce chez une femme jeune, le traitement habituel est (sauf 2) :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hydrocortisone 2 à 3 fois par jour",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "9 fluorohydrocortisone en cas de stress majeur",
+          "explanation": "Faux (réponse attendue) : chaque jour, pas seulement en cas de stress."
+        },
+        {
+          "id": "C",
+          "text": "Une faible dose de dexaméthasone au coucher",
+          "explanation": "Faux (réponse attendue) : pas un traitement de substitution."
+        },
+        {
+          "id": "D",
+          "text": "DHEA-s en cas de fatigue ou de perturbation de la libido",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "Traitement oestro-progestatif",
+          "explanation": "Vrai : ménopause précoce."
+        }
+      ],
+      "expected": [
+        "B",
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 63,
+        "originalNumber": 21,
+        "auditRef": "ND-maiter-surrenale-Q21"
+      },
+      "chapter": "surrenales",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "surr-insuffisance"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ADDISON-TRT",
+      "hints": [
+        "Deux propositions concernent des corticoïdes qui ne conviennent pas, ou un mauvais rythme.",
+        "Dans l’Addison, l’aldostérone manque en permanence, pas seulement en cas de stress.",
+        "Pourquoi n’utilise-t-on pas un corticoïde à très longue durée d’action ?"
+      ],
+      "explanation": {
+        "text": "Une jeune femme atteinte de maladie d’Addison et de ménopause précoce reçoit : de l’hydrocortisone en 2 à 3 prises par jour ; de la fludrocortisone chaque jour (et non seulement en cas de stress), car l’aldostérone manque en permanence ; des œstroprogestatifs pour la ménopause précoce ; éventuellement de la DHEA en cas de fatigue ou de baisse de la libido. La dexaméthasone n’est pas un traitement de substitution : action trop longue, aucun effet minéralocorticoïde.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-422",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "L’hyperplasie congénitale des surrénales par bloc de la 21 OH a les caractéristiques cliniques et biologiques suivantes sauf 1",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Un hirsutisme par augmentation de testostérone et de DHEA"
+        },
+        {
+          "id": "B",
+          "text": "Une augmentation d’ACTH plasmatique"
+        },
+        {
+          "id": "C",
+          "text": "Une augmentation de 17 OH progestérone"
+        },
+        {
+          "id": "D",
+          "text": "Un déficit en cortisol"
+        },
+        {
+          "id": "E",
+          "text": "Une hypertension par excès de minéralocorticoïdes"
+        }
+      ],
+      "expected": [
+        "A",
+        "E"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 64,
+        "originalNumber": 22,
+        "auditRef": "ND-maiter-surrenale-Q22"
+      },
+      "chapter": "surrenales",
+      "subchapter": "hyperandrogenie",
+      "lessonLinks": [
+        "surr-hyperandrogenie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HCS",
+      "answerNote": "Deux propositions marquées pour « sauf 1 » : l'hirsutisme est pourtant un signe du bloc en 21-hydroxylase ; seule l'HTA est clairement fausse. La consigne retranscrite demande 1 réponse(s), mais 2 proposition(s) sont marquées dans la compilation."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-423",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Dans la Maladie de Conn, le rapport Aldostérone/Rénine (1 mauvaise) en en",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Varie selon la position",
+          "explanation": "Faux (réponse attendue) : il est élevé quelle que soit la position."
+        },
+        {
+          "id": "B",
+          "text": "Est augmenté",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Est modifié par la spironolactone",
+          "explanation": "Vrai : la spironolactone élève la rénine."
+        },
+        {
+          "id": "D",
+          "text": "Est responsable d’une aldostéronurie",
+          "explanation": "Vrai : aldostéronurie élevée."
+        },
+        {
+          "id": "E",
+          "text": "Ne permet pas de faire la différence entre origine unilatérale ou bilatérale",
+          "explanation": "Vrai : il faut un cathétérisme des veines surrénales."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 64,
+        "originalNumber": 23,
+        "auditRef": "ND-maiter-surrenale-Q23"
+      },
+      "chapter": "surrenales",
+      "subchapter": "aldosterone",
+      "lessonLinks": [
+        "surr-aldosterone"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ALDO-RAPPORT",
+      "hints": [
+        "Le rapport aldostérone/rénine sert au dépistage.",
+        "Pense aux médicaments qui modifient la rénine.",
+        "Le rapport dépend-il de la position du patient ?"
+      ],
+      "explanation": {
+        "text": "Dans la maladie de Conn, le rapport aldostérone/rénine est augmenté, quelle que soit la position (c’est l’aldostérone elle-même qui peut varier avec la posture dans l’hyperplasie). Il est modifié par la spironolactone, qui fait monter la rénine, et il ne distingue pas une forme unilatérale d’une forme bilatérale. L’aldostérone en excès est éliminée dans les urines.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-424",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-correct",
+      "stem": "Les 2 causes les plus fréquentes d’hirsutisme chez la femme adulte",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Syndrome des ovaires polykystiques",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Tumeur ovaire",
+          "explanation": "Rare."
+        },
+        {
+          "id": "C",
+          "text": "Tumeur surrénalienne",
+          "explanation": "Rare."
+        },
+        {
+          "id": "D",
+          "text": "Bloc partiel de la 21 hydroxylase",
+          "explanation": "Rare."
+        },
+        {
+          "id": "E",
+          "text": "Sensibilité accrue des glandes pilo-sébacées pour les androgènes (hirsutisme idiopathique)",
+          "explanation": "Oui (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "A",
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 64,
+        "originalNumber": 24,
+        "auditRef": "ND-maiter-surrenale-Q24"
+      },
+      "chapter": "surrenales",
+      "subchapter": "hyperandrogenie",
+      "lessonLinks": [
+        "surr-hyperandrogenie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HIRSUTISME",
+      "hints": [
+        "Les causes les plus fréquentes sont rarement les plus graves.",
+        "Une cause est ovarienne et associe troubles des règles et hyperandrogénie.",
+        "L’autre cause n’a pas d’excès d’androgènes : c’est le poil qui réagit trop."
+      ],
+      "explanation": {
+        "text": "Les deux causes les plus fréquentes d’hirsutisme chez la femme sont le syndrome des ovaires polykystiques et l’hirsutisme idiopathique (sensibilité accrue du follicule pileux aux androgènes, avec des androgènes normaux). Les tumeurs ovariennes ou surrénaliennes, le bloc partiel en 21-hydroxylase, le syndrome de Cushing, les médicaments et le prolactinome sont des causes rares, à évoquer selon le contexte (début brutal, virilisation).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-425",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-correct",
+      "stem": "Quelles sont les 2 principales causes d’hirsutisme chez la femme jeune?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "OMPK",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "syndrome de Cushing",
+          "explanation": "Rare."
+        },
+        {
+          "id": "C",
+          "text": "tumeur ovarienne",
+          "explanation": "Rare."
+        },
+        {
+          "id": "D",
+          "text": "sensibilité accrue du poil à l’action des androgènes",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "hyperplasie congénitale des surrénales forme non classique",
+          "explanation": "Rare."
+        }
+      ],
+      "expected": [
+        "A",
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 64,
+        "originalNumber": 25,
+        "auditRef": "ND-maiter-surrenale-Q25"
+      },
+      "chapter": "surrenales",
+      "subchapter": "hyperandrogenie",
+      "lessonLinks": [
+        "surr-hyperandrogenie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HIRSUTISME",
+      "hints": [
+        "Les causes les plus fréquentes sont rarement les plus graves.",
+        "Une cause est ovarienne et associe troubles des règles et hyperandrogénie.",
+        "L’autre cause n’a pas d’excès d’androgènes : c’est le poil qui réagit trop."
+      ],
+      "explanation": {
+        "text": "Les deux causes les plus fréquentes d’hirsutisme chez la femme sont le syndrome des ovaires polykystiques et l’hirsutisme idiopathique (sensibilité accrue du follicule pileux aux androgènes, avec des androgènes normaux). Les tumeurs ovariennes ou surrénaliennes, le bloc partiel en 21-hydroxylase, le syndrome de Cushing, les médicaments et le prolactinome sont des causes rares, à évoquer selon le contexte (début brutal, virilisation).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-426",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-correct",
+      "stem": "Causes principales d’hirsutisme (2 vraies)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "OMPK",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Hypersensibilité du follicule pileux aux androgènes",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Cause médicamenteuse",
+          "explanation": "Rare."
+        },
+        {
+          "id": "D",
+          "text": "Syndrome de Cushing",
+          "explanation": "Rare."
+        },
+        {
+          "id": "E",
+          "text": "Prolactinome",
+          "explanation": "Rare."
+        }
+      ],
+      "expected": [
+        "A",
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 64,
+        "originalNumber": 26,
+        "auditRef": "ND-maiter-surrenale-Q26"
+      },
+      "chapter": "surrenales",
+      "subchapter": "hyperandrogenie",
+      "lessonLinks": [
+        "surr-hyperandrogenie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HIRSUTISME",
+      "hints": [
+        "Les causes les plus fréquentes sont rarement les plus graves.",
+        "Une cause est ovarienne et associe troubles des règles et hyperandrogénie.",
+        "L’autre cause n’a pas d’excès d’androgènes : c’est le poil qui réagit trop."
+      ],
+      "explanation": {
+        "text": "Les deux causes les plus fréquentes d’hirsutisme chez la femme sont le syndrome des ovaires polykystiques et l’hirsutisme idiopathique (sensibilité accrue du follicule pileux aux androgènes, avec des androgènes normaux). Les tumeurs ovariennes ou surrénaliennes, le bloc partiel en 21-hydroxylase, le syndrome de Cushing, les médicaments et le prolactinome sont des causes rares, à évoquer selon le contexte (début brutal, virilisation).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-427",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Dans OMPK, toutes ces anomalies sont présentes sauf une, laquelle ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Augmentation des taux de testostérone et androsténédione",
+          "explanation": "Présente."
+        },
+        {
+          "id": "B",
+          "text": "Diminution du rapport LH/FSH",
+          "explanation": "Absente (réponse attendue) : le rapport est augmenté."
+        },
+        {
+          "id": "C",
+          "text": "Insulinorésistance",
+          "explanation": "Présente."
+        },
+        {
+          "id": "D",
+          "text": "Aménorrhée",
+          "explanation": "Présente."
+        },
+        {
+          "id": "E",
+          "text": "Hirsutisme",
+          "explanation": "Présent."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 64,
+        "originalNumber": 27,
+        "auditRef": "ND-maiter-surrenale-Q27"
+      },
+      "chapter": "surrenales",
+      "subchapter": "hyperandrogenie",
+      "lessonLinks": [
+        "surr-hyperandrogenie"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SOPK",
+      "hints": [
+        "Dans les ovaires polykystiques, une gonadotrophine stimule la production d’androgènes.",
+        "Laquelle des deux, LH ou FSH, est en excès ?",
+        "Le rapport entre les deux est-il augmenté ou diminué ?"
+      ],
+      "explanation": {
+        "text": "Dans le syndrome des ovaires polykystiques, la LH est élevée par rapport à la FSH : le rapport LH/FSH est augmenté, et la LH stimule la production d’androgènes par l’ovaire. On trouve aussi une élévation de la testostérone et de l’androstènedione, une insulinorésistance, une aménorrhée ou des cycles longs, et un hirsutisme.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

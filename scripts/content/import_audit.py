@@ -85,22 +85,24 @@ def parse_options(lines):
     return clean[:10], comments
 
 def expected_of(opts, marked):
-    """Rattache chaque fragment marqué en rouge à une proposition. On cherche d'abord une correspondance
-    complète (le fragment contient la proposition ou l'inverse), puis seulement sur les 25 premiers
-    caractères : deux propositions qui commencent pareil ne doivent pas être confondues."""
+    """Rattache chaque fragment marqué en rouge à une proposition. On cherche d'abord une proposition
+    identique, puis une correspondance complète (le fragment contient la proposition ou l'inverse), puis
+    seulement les 25 premiers caractères : deux propositions qui commencent pareil, ou dont l'une contient
+    l'autre (« dosage cortisol » et « dosage cortisolurie »), ne doivent pas être confondues."""
     exp = []
     nos = [norm(o) for o in opts]
     for m in marked:
         mt = norm(OPT.sub("", m.strip(), count=1))
         if len(mt) < 3: continue
-        hit = [i for i, no in enumerate(nos) if no and (mt in no or (len(no) >= 8 and no in mt))]
+        hit = [i for i, no in enumerate(nos) if no == mt]
+        if not hit: hit = [i for i, no in enumerate(nos) if no and (mt in no or (len(no) >= 8 and no in mt))]
         if not hit: hit = [i for i, no in enumerate(nos) if no and (mt[:25] in no or no[:25] in mt)]
         if hit and "ABCDEFGHIJ"[hit[0]] not in exp: exp.append("ABCDEFGHIJ"[hit[0]])
     return exp
 
 # Numérotation stable des sections non datées (ND) : base + numéro dans la section.
 ND_BASE = {"Maiter adulte – Thyroïde": 200, "Maiter adulte – Hypophyse": 300, "Lysy – Thyroïde": 160, "Marbaix – Anapath thyroïde/parathyroïdes/surrénales": 100,
-           "Duprez + Coche – Imagerie": 0, "Horsmans – Pharmaco hormones": 0, "Marbaix – Anapath hypophyse": 120}
+           "Duprez + Coche – Imagerie": 0, "Horsmans – Pharmaco hormones": 0, "Marbaix – Anapath hypophyse": 120, "Maiter adulte – Surrénale": 400}
 used = collections.defaultdict(set)
 for qid in existing.values():
     m = re.match(r"ENDO-(.+)-(ADULTE|PEDIA|RADIO|ANAPATH|PHARMA)-(QCM|QCMM|VF|QROC|CAS)-(\d{3})$", qid)
@@ -120,7 +122,8 @@ def number_for(q, beauloye_rank):
 # Corrections ciblées après relecture (débordement de la question suivante, blocs non jouables).
 TRUNCATE = {"2025-01-p16-l482": "Question sur les critères", "2026-01-Q18": "Q28."}
 FORCE = {"ND-maiter-thyroide-Q1": ("incomplete", "Bloc d'association de 3 cas cliniques (énoncé du cas 1 non retranscrit) : consultable, non noté sous forme de QCM.")}
-EXTRA_COMMENT = {"ND-marbaix-thyroide-parathyroides-Q2": "La proposition E est vraisemblablement une plaisanterie du transcripteur (proposition originale inconnue)."}
+EXTRA_COMMENT = {"ND-marbaix-thyroide-parathyroides-Q2": "La proposition E est vraisemblablement une plaisanterie du transcripteur (proposition originale inconnue).",
+                 "2025-01-Q50": "Mention du transcripteur : « Réponses à confirmer » (+1 ×2)."}
 # Découpage énoncé / propositions refait à la main quand l'extraction les a mélangés (texte original inchangé).
 RESPLIT = {"2024-01-Q39": ("observables en cas de macropolactinome nô secretant chez femme, la fausse :",
                            ["Alopecie temporale", "Galactorhée", "Aménorrhée secondaire", "céphalées"]),
@@ -141,7 +144,14 @@ RESPLIT = {"2024-01-Q39": ("observables en cas de macropolactinome nô secretant
            "ND-marbaix-hypophyse-Q1": ("Adénome hypophysaire",
                            ["Cellules avec gros noyaux",
                             "Peut causer une amputation du champ visuel sans causer de troubles hormonaux (??)",
-                            "Contient des fibres réticulaires"])}
+                            "Contient des fibres réticulaires"]),
+           # lettres collées au texte (« A-IRM hypophyse ») : lettres retirées, texte inchangé
+           "2025-01-Q43": ("Parmi ces propositions laquelle ne permet pas de déterminer l’étiologie du syndrome de Cushing :",
+                           ["IRM hypophyse", "La concentartion plamsatique d’ACTH", "Le test de stimulation de CRH", "CTscan des surrénales", "Le test dexamethasone faible dose"]),
+           # la mention « Réponses à confirmer +1+1 » du transcripteur avait été lue comme une 6e proposition
+           "2025-01-Q50": ("Hypercortisolémie avec ACTH élévé lesquelles des ses situations ne sont possibles (2 réponses) :",
+                           ["macroadenome hypophysaire", "microadénome hypophysaire", "tumeur carcinoïde bronchique",
+                            "traitement de gouttes nasales avec corticoides", "incidentalome surrénalien avec sécrétion autonome de cortisol"])}
 # Consigne déduite d'une autre occurrence de la même question (énoncé abrégé dans la retranscription).
 INSTR = {"ND-maiter-hypophyse-Q8": "one-false",
          # formulations de consigne non reconnues automatiquement
@@ -149,7 +159,18 @@ INSTR = {"ND-maiter-hypophyse-Q8": "one-false",
          "ND-maiter-hypophyse-Q15": "two-correct",    # « (Deux justes) »
          "ND-maiter-hypophyse-Q24": "two-false",      # « 2 F »
          "2025-01-Q37": "two-false",                  # « 2 propositions fausses »
-         "ND-duprez-coche-imagerie-Q9": "one-correct"} # « n'est pas graisseuse » décrit la masse, pas la consigne
+         "ND-duprez-coche-imagerie-Q9": "one-correct", # « n'est pas graisseuse » décrit la masse, pas la consigne
+         # Surrénales
+         "2023-05-Q50": "two-false",                  # « quels traitements sont faux » (deux marqués, comme Maiter Q21)
+         "ND-maiter-surrenale-Q13": "two-false",      # « ne retrouve-t-on pas (2 réponses) »
+         "ND-maiter-surrenale-Q14": "two-false",      # deux réponses marquées, toutes deux défendables
+         "ND-maiter-surrenale-Q15": "two-false",      # « NE SONT PAS spécifiques (2 réponses) »
+         "2023-05-Q12b": "two-false",                 # « quels 2 symptômes ne sont pas obtenus »
+         "2025-01-Q50": "two-false",                  # « ne sont possibles (2 réponses) »
+         "ND-maiter-surrenale-Q23": "one-false",      # « (1 mauvaise) »
+         "ND-marbaix-thyroide-parathyroides-Q10": "one-correct",  # la bonne réponse est « aucune »
+         "2023-05-Q35": "one-false", "2022-05-Q42": "one-false",  # « une chose à pas faire »
+         "2023-05-Q42": "one-true"}                   # « parmi ces propositions fausses, laquelle est la vraie »
 
 files = collections.defaultdict(list)
 report = collections.Counter()
@@ -205,7 +226,10 @@ for q in AUDIT:
     report[status] += 1
 
 for name, qs in files.items():
-    with open(os.path.join(OUTDIR, f"{name}.json"), "w", encoding="utf-8") as f:
-        json.dump({"source": name, "questions": qs}, f, ensure_ascii=False, indent=2)
+    path = os.path.join(OUTDIR, f"{name}.json")
+    # On ajoute aux questions déjà présentes : un fichier existant n'est jamais remplacé.
+    before = json.load(open(path, encoding="utf-8"))["questions"] if os.path.exists(path) else []
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump({"source": name, "questions": before + qs}, f, ensure_ascii=False, indent=2)
 print(dict(report), sum(len(v) for v in files.values()), "questions importées dans", len(files), "fichiers")
 for p in problems: print("À VÉRIFIER", p)

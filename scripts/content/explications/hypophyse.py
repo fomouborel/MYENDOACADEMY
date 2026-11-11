@@ -312,6 +312,18 @@ EXPL = {
            "Faux : « toujours ».",
            "Vrai (réponse attendue)."]),
 
+    "ENDO-ND-ANAPATH-QCM-109": dict(
+        h=["« Silencieux » veut dire : pas de syndrome d'hypersécrétion visible.",
+           "Sans signe hormonal, comment un adénome se révèle-t-il le plus souvent ?",
+           "Pense à l'effet de masse quand il grossit."],
+        e="Correction discutée. Un adénome « silencieux » ne donne pas de syndrome d'hypersécrétion : il se révèle quand il devient volumineux, par des céphalées et des troubles visuels (compression du chiasma). C'est la réponse retenue. Mais deux autres propositions se défendent : la plupart des adénomes silencieux sont des adénomes gonadotropes, qui fabriquent des gonadotrophines sans effet clinique (visibles en immunohistochimie) ; et un adénome silencieux peut aussi être découvert par hasard, comme incidentalome. La dernière proposition est fausse : un macroadénome silencieux peut comprimer et se voit aussi sans contraste.",
+        o=["Défendable : les adénomes silencieux sont souvent gonadotropes, sans effet clinique.",
+           "Défendable : découverte fortuite possible.",
+           "Réponse retenue : syndrome tumoral.",
+           "Faux : il peut donner céphalées et troubles visuels."],
+        status="disputed",
+        note="Classée « Surrénales » par l'extraction (section d'anatomie pathologique mixte). Réponse discutable : un adénome silencieux est souvent gonadotrope (il fabrique des gonadotrophines sans effet clinique) et peut être découvert par hasard."),
+
     # ═════════════ Cushing ═════════════
     "ENDO-ND-ADULTE-QCM-322": dict(
         h=["L'excès de cortisol fait fondre l'os.",

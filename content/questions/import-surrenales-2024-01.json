@@ -1,0 +1,319 @@
+{
+  "source": "import-surrenales-2024-01",
+  "questions": [
+    {
+      "id": "ENDO-2024-01-ADULTE-QCM-016",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "un enfant qui est mal hypotonie hypoglycemie tt ca premature et 8j de vie, probleme surrenale je crois une hemorragie surrenale et y’a des problemes de rythme circadien qu’est ce qui est le plus pertinent a mesurer",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Glycemie",
+          "explanation": "Utile pour la prise en charge, mais n’explore pas la cause."
+        },
+        {
+          "id": "B",
+          "text": "Acth",
+          "explanation": "Réponse retenue : une ACTH élevée signe l’origine surrénalienne."
+        },
+        {
+          "id": "C",
+          "text": "Cortisol",
+          "explanation": "Indispensable aussi : d’où le statut « discutée »."
+        },
+        {
+          "id": "D",
+          "text": "dheas",
+          "explanation": "Peu pertinent ici."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 3,
+        "originalNumber": 16,
+        "auditRef": "2024-01-Q16"
+      },
+      "chapter": "surrenales",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "surr-insuffisance"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "NN-ISR",
+      "answerNote": "Énoncé reconstitué de mémoire (« je crois »), propositions sans lettres. Nouveau-né de 8 jours (question classée en adulte).",
+      "hints": [
+        "Une hémorragie des surrénales détruit la glande : l’insuffisance est primaire.",
+        "Dans une insuffisance primaire, comment réagit l’hypophyse ?",
+        "Cette question a une correction discutée : lis l’explication après avoir répondu."
+      ],
+      "explanation": {
+        "text": "Correction discutée, énoncé reconstitué de mémoire. Un nouveau-né prématuré de 8 jours, hypotonique et hypoglycémique, avec une possible hémorragie des surrénales, évoque une insuffisance surrénale primaire. On dose le cortisol et l’ACTH ensemble : le cortisol est bas, et l’ACTH élevée confirme l’origine surrénalienne. La compilation retient l’ACTH ; le cortisol est tout aussi indispensable. Il ne faut pas retarder le traitement par hydrocortisone.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2024-01-ADULTE-QCMM-024",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-correct",
+      "stem": "est observe dans l'hyperaldostéronisme primaire , donner les deux vraies",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Rapport aldosterone renine augmente",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Test de posture en cas d’apa augmente l’aldosterone de 33%",
+          "explanation": "Retenue, mais contraire aux autres sessions : c’est l’hyperplasie qui répond à la posture."
+        },
+        {
+          "id": "C",
+          "text": "Hypokaliemie hypokaliurique (ce n’est pas toujours le cas) ça n’est jamais le cas, c’est HYPERkaliurique..",
+          "explanation": "Faux : la kaliurie est élevée."
+        },
+        {
+          "id": "D",
+          "text": "HTA résistante à la spironolactone",
+          "explanation": "Faux : l’HTA répond à la spironolactone."
+        },
+        {
+          "id": "E",
+          "text": "Rénine augmentée",
+          "explanation": "Faux : la rénine est basse."
+        }
+      ],
+      "expected": [
+        "A",
+        "B"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 4,
+        "originalNumber": 24,
+        "auditRef": "2024-01-Q24"
+      },
+      "chapter": "surrenales",
+      "subchapter": "aldosterone",
+      "lessonLinks": [
+        "surr-aldosterone"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ALDO-RAPPORT",
+      "answerNote": "La proposition retenue « test de posture : en cas d'adénome (APA), l'aldostérone augmente de 33 % » contredit les autres sessions : c'est dans l'hyperplasie bilatérale que l'aldostérone monte en position debout (Maiter Q12), et l'inverse est retenu comme faux en mai 2023.",
+      "hints": [
+        "Repère d’abord ce qui définit biologiquement l’hyperaldostéronisme primaire.",
+        "La rénine est-elle haute ou basse ? La kaliurie ?",
+        "Cette question a une correction discutée : lis l’explication après avoir répondu."
+      ],
+      "explanation": {
+        "text": "Correction discutée. Le rapport aldostérone/rénine est augmenté : c’est sûr. La compilation retient aussi que « le test de posture augmente l’aldostérone de 33 % en cas d’adénome ». Or c’est dans l’hyperplasie bilatérale que l’aldostérone monte en position debout ; dans l’adénome, elle ne monte pas (Maiter Q12, mai 2023). Les autres propositions sont fausses : l’hypokaliémie s’accompagne d’une kaliurie élevée (le commentaire du transcripteur le rappelle), l’HTA répond à la spironolactone, et la rénine est basse.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2024-01-ADULTE-QCM-900",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Dans l’Adisson la fausse:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Eosinophilie"
+        },
+        {
+          "id": "B",
+          "text": "Rénine diminuée"
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 4,
+        "originalNumber": null,
+        "auditRef": "2024-01-p4-l128"
+      },
+      "chapter": "surrenales",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "surr-insuffisance"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ADDISON-BIO",
+      "answerNote": "Deux propositions seulement."
+    },
+    {
+      "id": "ENDO-2024-01-ADULTE-QCM-901",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Qu’est-ce qui ne donne pas une ACTH élévée",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Adisson insuffisamment traitée",
+          "explanation": "Donne une ACTH élevée."
+        },
+        {
+          "id": "B",
+          "text": "Adénome hypophysaire sécrétant ACTH",
+          "explanation": "Donne une ACTH élevée."
+        },
+        {
+          "id": "C",
+          "text": "Cancer bronchique à petite cellule",
+          "explanation": "Donne une ACTH élevée : sécrétion ectopique."
+        },
+        {
+          "id": "D",
+          "text": "Prise de cortisol exogène (plus sûr honnetement) si c’était une proposition avec du cortisol en exces et du coup c’était celle la pcq le retrofeed back negatif était a fond",
+          "explanation": "Ne donne pas d’ACTH élevée (réponse attendue) : rétrocontrôle négatif."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 4,
+        "originalNumber": null,
+        "auditRef": "2024-01-p4-l142"
+      },
+      "chapter": "surrenales",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "surr-cushing",
+        "surr-insuffisance"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ACTH-ELEVEE",
+      "answerNote": "Le transcripteur hésite sur la formulation de la proposition retenue (« prise de cortisol exogène »), pas sur l'idée.",
+      "hints": [
+        "L’ACTH monte quand le cortisol manque, ou quand une tumeur la fabrique.",
+        "Que fait un corticoïde apporté de l’extérieur sur l’hypophyse ?",
+        "Le rétrocontrôle négatif freine la sécrétion d’ACTH."
+      ],
+      "explanation": {
+        "text": "Une maladie d’Addison insuffisamment traitée (cortisol bas, rétrocontrôle levé), un adénome hypophysaire corticotrope et un cancer bronchique à petites cellules (sécrétion ectopique) donnent une ACTH élevée. La prise de cortisol exogène, au contraire, freine l’hypophyse : l’ACTH est basse. Le transcripteur hésite sur la formulation, pas sur l’idée.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2024-01-ADULTE-QCM-050",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Incidentalome de 2cm chez un homme de 43 ans, hypertendu, diabétique, quel dosage / examen ne faut il pas faire ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Test à l'ACTH",
+          "explanation": "Inutile (réponse attendue) : explore l’insuffisance surrénale."
+        },
+        {
+          "id": "B",
+          "text": "Test à la dexamethasone",
+          "explanation": "Utile : sécrétion de cortisol."
+        },
+        {
+          "id": "C",
+          "text": "Dosage de l'aldostérone et rénine",
+          "explanation": "Utile : le patient est hypertendu."
+        },
+        {
+          "id": "D",
+          "text": "Catécholamines urinaire de 24h",
+          "explanation": "Utile : phéochromocytome."
+        },
+        {
+          "id": "E",
+          "text": "Cortisolurie de 24h",
+          "explanation": "Utile : sécrétion de cortisol."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 7,
+        "originalNumber": 50,
+        "auditRef": "2024-01-Q50"
+      },
+      "chapter": "surrenales",
+      "subchapter": "incidentalome",
+      "lessonLinks": [
+        "surr-incidentalome"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "INCID-BILAN",
+      "hints": [
+        "Devant un incidentalome, on cherche une sécrétion EXCESSIVE d’hormone.",
+        "Un des tests proposés sert à prouver un manque de cortisol.",
+        "Le Synacthène est de l’ACTH de synthèse : que cherche-t-on en stimulant la surrénale ?"
+      ],
+      "explanation": {
+        "text": "Le bilan d’un incidentalome cherche une hypersécrétion : freinage par 1 mg de dexaméthasone (ou cortisol libre urinaire) pour le cortisol, rapport aldostérone/rénine chez un hypertendu, métanéphrines ou catécholamines urinaires pour le phéochromocytome. Le test à l’ACTH (Synacthène) explore au contraire une insuffisance surrénale : il est inutile ici.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

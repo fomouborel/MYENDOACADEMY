@@ -1,0 +1,427 @@
+{
+  "source": "import-surrenales-2023-05",
+  "questions": [
+    {
+      "id": "ENDO-2023-05-ADULTE-QCMM-012",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Quels 2 symptômes ne sont pas obtenus avec un Phéochromocytome",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hypotension",
+          "explanation": "Retenue, mais discutable : l’hypotension orthostatique est classique."
+        },
+        {
+          "id": "B",
+          "text": "Cephalée",
+          "explanation": "Présente : triade."
+        },
+        {
+          "id": "C",
+          "text": "Palpitations",
+          "explanation": "Présentes : triade."
+        },
+        {
+          "id": "D",
+          "text": "Hypoglycémies",
+          "explanation": "Absentes (réponse attendue) : c’est une hyperglycémie."
+        }
+      ],
+      "expected": [
+        "A",
+        "D"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 15,
+        "originalNumber": 12,
+        "auditRef": "2023-05-Q12b"
+      },
+      "chapter": "surrenales",
+      "subchapter": "pheo",
+      "lessonLinks": [
+        "surr-pheo"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PHEO-CLIN",
+      "answerNote": "Deux réponses retenues : « hypotension » et « hypoglycémies ». Or l'hypotension orthostatique est classique dans le phéochromocytome et retenue comme présente dans les autres sessions (Maiter Q3 et Q7, janvier 2026).",
+      "hints": [
+        "Les catécholamines accélèrent le métabolisme.",
+        "Que deviennent le poids et la glycémie quand l’adrénaline est en excès ?",
+        "Cette question a une correction discutée : lis l’explication après avoir répondu."
+      ],
+      "explanation": {
+        "text": "Correction discutée. Le phéochromocytome donne des céphalées et des palpitations (et des sueurs). Les hypoglycémies n’en font pas partie : il donne au contraire une hyperglycémie. La compilation retient aussi « hypotension » comme absente. Or l’hypotension orthostatique est classique (la vasoconstriction chronique réduit la volémie) et les autres sessions la retiennent comme présente (Maiter Q3 et Q7). Il s’agissait peut-être d’une autre proposition à l’origine, comme « prise de poids ».",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2023-05-ADULTE-QCM-028",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Papa médecin biologiste veut donner du medrol a sa fille de 16 ans pour vertiges à doses anti inflammatoires. Traitement de 2-3 mois. Il dit qu’un peu de cortisol ca fait pas de mal. Elle a eu ses règles 3 ans auparavant. Que lui dire? 1 réponse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Ok donne lui mais attention ça peut bloquer sa croissance",
+          "explanation": "Peu pertinent : croissance presque terminée."
+        },
+        {
+          "id": "B",
+          "text": "Faire attention pcq peut causer un cushing iatrogène",
+          "explanation": "Exact aussi : d’où le statut « discutée »."
+        },
+        {
+          "id": "C",
+          "text": "Attention en cas d'arrêt il peut y avoir une ISR (insuffisance surrénalienne)",
+          "explanation": "Réponse retenue : insuffisance surrénale à l’arrêt brutal."
+        },
+        {
+          "id": "D",
+          "text": "Faire attention au trouble du cycle menstruel",
+          "explanation": "Peu pertinent."
+        },
+        {
+          "id": "E",
+          "text": "Il peut donner le traitement pendant cette durée là, mais pas plus car effets néfastes",
+          "explanation": "Faux : la durée ne rend pas le traitement anodin."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 18,
+        "originalNumber": 28,
+        "auditRef": "2023-05-Q28"
+      },
+      "chapter": "surrenales",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "surr-insuffisance",
+        "surr-cushing"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "CORTICO-SEVRAGE",
+      "answerNote": "Une seule réponse demandée ; « insuffisance surrénale à l'arrêt » est retenue, mais « Cushing iatrogène » est aussi exact pour 2 à 3 mois à dose anti-inflammatoire (les deux sont marquées dans la version pédiatrique de mai 2022).",
+      "hints": [
+        "Une corticothérapie de 2 à 3 mois à dose anti-inflammatoire freine l’axe corticotrope.",
+        "Que se passe-t-il si on arrête brutalement ?",
+        "Cette question a une correction discutée : lis l’explication après avoir répondu."
+      ],
+      "explanation": {
+        "text": "Correction discutée. Une corticothérapie de 2 à 3 mois à dose anti-inflammatoire expose à deux risques : un Cushing iatrogène pendant le traitement et une insuffisance surrénale à l’arrêt, car l’axe corticotrope est freiné. La réponse retenue est l’insuffisance surrénale à l’arrêt, le risque le plus grave et le plus souvent oublié. Mais « Cushing iatrogène » est aussi exact : les deux réponses sont marquées dans la version pédiatrique de mai 2022. La croissance est presque terminée (règles depuis 3 ans).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2023-05-ADULTE-QCM-035",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Diagnostic de syndrome de Cushing (ou maladie jsp) ; une chose à pas faire :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Cortisol à minuit",
+          "explanation": "Utile : perte du nadir nocturne."
+        },
+        {
+          "id": "B",
+          "text": "Cortisol le matin",
+          "explanation": "Inutile (réponse attendue) : normalement élevé le matin."
+        },
+        {
+          "id": "C",
+          "text": "Cortisolurie de 24h",
+          "explanation": "Utile : test de dépistage."
+        },
+        {
+          "id": "D",
+          "text": "Cortisol salivaire le soir",
+          "explanation": "Utile : test de dépistage, réalisable à domicile."
+        },
+        {
+          "id": "E",
+          "text": "Test court par dexamethasone",
+          "explanation": "Utile : le cortisol ne baisse pas dans le Cushing."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 19,
+        "originalNumber": 35,
+        "auditRef": "2023-05-Q35"
+      },
+      "chapter": "surrenales",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "surr-cushing",
+        "hyph-cushing"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CUSHING-DIAG",
+      "answerNote": "Doute du transcripteur sur « syndrome ou maladie », pas sur la réponse.",
+      "hints": [
+        "Le cortisol suit un rythme sur 24 heures.",
+        "À quel moment de la journée le cortisol est-il normalement le plus élevé ?",
+        "Un dosage fait au moment où il est naturellement haut permet-il de repérer un excès ?"
+      ],
+      "explanation": {
+        "text": "Pour dépister un syndrome de Cushing, on cherche une perte du rythme circadien ou un défaut de freinage : cortisol à minuit (sanguin ou salivaire), cortisol libre urinaire des 24 h, freinage minute par 1 mg de dexaméthasone. Un cortisol du matin isolé est inutile : le matin, le cortisol est normalement à son maximum, et le dosage ne distingue pas le malade du sujet sain. La question précise « syndrome ou maladie » avec un doute du transcripteur, sans effet sur la réponse.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2023-05-ADULTE-QCM-042",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "Parmi toutes ces propositions fausses concernant l’hyperaldosteronisme primaire ( ?), laquelle est la vrai",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "La renine est elevée",
+          "explanation": "Faux : la rénine est basse."
+        },
+        {
+          "id": "B",
+          "text": "Il n’y a pas de difference entre une HTA essentielle et une HTA d’un hyperaldosteronisme primaire",
+          "explanation": "Réponse retenue : vrai, cliniquement indiscernable."
+        },
+        {
+          "id": "C",
+          "text": "Hypokaliémie hypokaliurique ++++",
+          "explanation": "Faux : la kaliurie est élevée."
+        },
+        {
+          "id": "D",
+          "text": "Elle est traitée avec de la spironolactone",
+          "explanation": "Vrai aussi : traitement de la forme bilatérale (d’où le statut « discutée »)."
+        },
+        {
+          "id": "E",
+          "text": "Dans le test de la posture, il y a une augmentation de l’aldosterone avec une APA .",
+          "explanation": "Faux : c’est l’hyperplasie bilatérale qui répond à la posture."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [
+        "« +1 » ×2 sur la proposition : Elle est traitée avec de la spironolactone"
+      ],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 20,
+        "originalNumber": 42,
+        "auditRef": "2023-05-Q42"
+      },
+      "chapter": "surrenales",
+      "subchapter": "aldosterone",
+      "lessonLinks": [
+        "surr-aldosterone"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ALDO",
+      "answerNote": "La réponse retenue est B (pas de différence clinique entre HTA essentielle et HTA de l'hyperaldostéronisme), mais D (« traitée par spironolactone ») est aussi exacte et recueille deux « +1 ».",
+      "hints": [
+        "Toutes les propositions sauf une sont présentées comme fausses : vérifie-les une par une.",
+        "La rénine, la kaliurie et le test de posture ont chacun un piège.",
+        "Cette question a une correction discutée : lis l’explication après avoir répondu."
+      ],
+      "explanation": {
+        "text": "Correction discutée. La réponse retenue est B : rien, cliniquement, ne distingue une HTA d’hyperaldostéronisme d’une HTA essentielle, d’où l’intérêt du dépistage biologique. Mais D (« traitée avec de la spironolactone », deux « +1 ») est aussi exacte : c’est le traitement de la forme bilatérale. Les autres sont fausses : la rénine est basse ; l’hypokaliémie s’accompagne d’une kaliurie élevée ; dans le test de posture, c’est l’hyperplasie bilatérale, pas l’adénome, qui fait monter l’aldostérone.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2023-05-ADULTE-QCMM-050",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Jeune femme avec maladie d’Addison et ménopause précoce, quels traitements sont faux ? (c’était les deux vraies non ?)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Oestroprogestatif",
+          "explanation": "Vrai : ménopause précoce."
+        },
+        {
+          "id": "B",
+          "text": "Dexamethasone 1mg le soir",
+          "explanation": "Faux (réponse attendue) : pas un traitement de substitution."
+        },
+        {
+          "id": "C",
+          "text": "9 alphafluorohydrocortisone uniquement en cas de stress",
+          "explanation": "Faux (réponse attendue) : chaque jour, pas seulement en cas de stress."
+        },
+        {
+          "id": "D",
+          "text": "Hydrocortisone 2-3x/j",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "DHEA en cas de fatigue et perte de libido",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "B",
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 20,
+        "originalNumber": 50,
+        "auditRef": "2023-05-Q50"
+      },
+      "chapter": "surrenales",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "surr-insuffisance"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ADDISON-TRT",
+      "answerNote": "Consigne retranscrite avec doute (« c'était les deux vraies non ? ») ; les deux réponses marquées correspondent à la même question chez Maiter (Q21, « sauf 2 »).",
+      "hints": [
+        "Deux propositions concernent des corticoïdes qui ne conviennent pas, ou un mauvais rythme.",
+        "Dans l’Addison, l’aldostérone manque en permanence, pas seulement en cas de stress.",
+        "Pourquoi n’utilise-t-on pas un corticoïde à très longue durée d’action ?"
+      ],
+      "explanation": {
+        "text": "Une jeune femme atteinte de maladie d’Addison et de ménopause précoce reçoit : de l’hydrocortisone en 2 à 3 prises par jour ; de la fludrocortisone chaque jour (et non seulement en cas de stress), car l’aldostérone manque en permanence ; des œstroprogestatifs pour la ménopause précoce ; éventuellement de la DHEA en cas de fatigue ou de baisse de la libido. La dexaméthasone n’est pas un traitement de substitution : action trop longue, aucun effet minéralocorticoïde. Consigne retranscrite avec un doute ; les réponses marquées correspondent à la même question chez Maiter (Q21).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2023-05-ANAPATH-QCM-077",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Graisse dans incidentalome ou qqch comme ça ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "forcément malin",
+          "explanation": "Faux : la graisse oriente plutôt vers une lésion bénigne."
+        },
+        {
+          "id": "B",
+          "text": "forcément bénin",
+          "explanation": "Faux : « forcément » est excessif."
+        },
+        {
+          "id": "C",
+          "text": "ça peut encore être un adénome justifie faire une IRM",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "faire chirurgie + anapath",
+          "explanation": "Non : pas d’emblée pour une lésion d’allure bénigne."
+        },
+        {
+          "id": "E",
+          "text": "….",
+          "explanation": "Proposition non retranscrite."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 24,
+        "originalNumber": 77,
+        "auditRef": "2023-05-Q77"
+      },
+      "chapter": "surrenales",
+      "subchapter": "incidentalome",
+      "lessonLinks": [
+        "surr-incidentalome",
+        "surr-aldosterone"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SURR-IMAGERIE",
+      "answerNote": "Énoncé approximatif (« ou qqch comme ça ») ; anatomie pathologique.",
+      "hints": [
+        "La graisse dans une masse surrénalienne n’a pas toujours la même signification.",
+        "Un adénome contient des lipides dans ses cellules.",
+        "Peut-on conclure avec certitude sans autre examen ?"
+      ],
+      "explanation": {
+        "text": "Énoncé approximatif. La présence de graisse oriente vers une lésion bénigne : un adénome riche en lipides, ou un myélolipome si la graisse est visible macroscopiquement. Mais « forcément » est excessif. La réponse retenue : il peut s’agir d’un adénome, qu’une IRM (opposition de phase) aide à confirmer. On n’opère pas d’emblée une lésion d’allure bénigne.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "source": "import-surrenales-2022-05",
+  "questions": [
+    {
+      "id": "ENDO-2022-05-ADULTE-QCM-042",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Diagnostic de syndrome de Cushing (ou maladie jsp) ; une chose à pas faire :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Cortisol à minuit",
+          "explanation": "Utile : perte du nadir nocturne."
+        },
+        {
+          "id": "B",
+          "text": "Cortisol le matin",
+          "explanation": "Inutile (réponse attendue) : normalement élevé le matin."
+        },
+        {
+          "id": "C",
+          "text": "Cortisolurie de 24h",
+          "explanation": "Utile : test de dépistage."
+        },
+        {
+          "id": "D",
+          "text": "Cortisol salivaire le soir",
+          "explanation": "Utile : test de dépistage, réalisable à domicile."
+        },
+        {
+          "id": "E",
+          "text": "Test court par dexamethasone",
+          "explanation": "Utile : le cortisol ne baisse pas dans le Cushing."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2022-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 32,
+        "originalNumber": 42,
+        "auditRef": "2022-05-Q42"
+      },
+      "chapter": "surrenales",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "surr-cushing",
+        "hyph-cushing"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CUSHING-DIAG",
+      "answerNote": "Doute du transcripteur sur « syndrome ou maladie », pas sur la réponse.",
+      "hints": [
+        "Le cortisol suit un rythme sur 24 heures.",
+        "À quel moment de la journée le cortisol est-il normalement le plus élevé ?",
+        "Un dosage fait au moment où il est naturellement haut permet-il de repérer un excès ?"
+      ],
+      "explanation": {
+        "text": "Pour dépister un syndrome de Cushing, on cherche une perte du rythme circadien ou un défaut de freinage : cortisol à minuit (sanguin ou salivaire), cortisol libre urinaire des 24 h, freinage minute par 1 mg de dexaméthasone. Un cortisol du matin isolé est inutile : le matin, le cortisol est normalement à son maximum, et le dosage ne distingue pas le malade du sujet sain. La question précise « syndrome ou maladie » avec un doute du transcripteur, sans effet sur la réponse.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2022-05-ADULTE-QCMM-044",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Dans un Syndrome de Cushing sévère, tout peut être retrouvé sauf 2",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hyperglycémie chronique",
+          "explanation": "Possible."
+        },
+        {
+          "id": "B",
+          "text": "Alcalose hypokaliémique",
+          "explanation": "Possible : formes sévères."
+        },
+        {
+          "id": "C",
+          "text": "Lymphocytose avec éosinophilie",
+          "explanation": "Fausse (réponse attendue) : lymphopénie et éosinopénie."
+        },
+        {
+          "id": "D",
+          "text": "Augmentation des LDH",
+          "explanation": "Laissée comme possible par la compilation."
+        },
+        {
+          "id": "E",
+          "text": "Augmentation des CPK",
+          "explanation": "Fausse (réponse attendue) : CPK normales."
+        }
+      ],
+      "expected": [
+        "C",
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2022-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 32,
+        "originalNumber": 44,
+        "auditRef": "2022-05-Q44"
+      },
+      "chapter": "surrenales",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "surr-cushing",
+        "hyph-cushing"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CUSHING-SIGNES",
+      "hints": [
+        "Deux propositions décrivent la numération sanguine ou une enzyme musculaire.",
+        "Les corticoïdes font baisser certains globules blancs.",
+        "La myopathie du Cushing détruit-elle les fibres musculaires ?"
+      ],
+      "explanation": {
+        "text": "Dans un Cushing sévère, on trouve une hyperglycémie chronique et une alcalose hypokaliémique. Deux propositions sont fausses : le cortisol en excès donne une lymphopénie et une éosinopénie (pas une lymphocytose avec éosinophilie), et l’amyotrophie se fait sans élévation des CPK. Les LDH ne sont pas un marqueur du Cushing ; la compilation les laisse parmi les propositions possibles.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2022-05-ADULTE-QCM-047",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Dans le cadre d’un hyperaldostéronisme en raison d’un adénome, quelle est la proposition fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "le rapport aldostérone rénine est augmenté",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "…",
+          "explanation": "Proposition non retranscrite."
+        },
+        {
+          "id": "C",
+          "text": "Le CT met toujours en évidence un adénome unilatéral",
+          "explanation": "Faux (réponse attendue) : « toujours » est faux."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2022-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 32,
+        "originalNumber": 47,
+        "auditRef": "2022-05-Q47"
+      },
+      "chapter": "surrenales",
+      "subchapter": "aldosterone",
+      "lessonLinks": [
+        "surr-aldosterone"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ALDO",
+      "answerNote": "Une proposition non retranscrite (« … »).",
+      "hints": [
+        "Méfie-toi du mot « toujours ».",
+        "Un adénome de Conn peut être très petit.",
+        "Le scanner peut-il manquer un petit adénome, ou montrer un nodule sans rapport ?"
+      ],
+      "explanation": {
+        "text": "Dans un hyperaldostéronisme par adénome, le rapport aldostérone/rénine est augmenté. Mais le scanner ne met pas toujours en évidence l’adénome : il peut être trop petit pour être vu, et un nodule visible peut être un adénome non sécrétant sans rapport. C’est pourquoi on confirme la latéralisation par un cathétérisme des veines surrénales avant la chirurgie.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2022-05-ADULTE-QCM-050",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "incidentalome de 6 cm chez un patient normotendu, tous les diagnostics peuvent être évoqués sauf un",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "carcinome SR",
+          "explanation": "Possible : la grande taille fait craindre un carcinome."
+        },
+        {
+          "id": "B",
+          "text": "adénome cortico-SR non fonctionnel",
+          "explanation": "Possible."
+        },
+        {
+          "id": "C",
+          "text": "hyperaldostéronisme primaire",
+          "explanation": "Peu probable (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "phéochromocytome",
+          "explanation": "Possible."
+        },
+        {
+          "id": "E",
+          "text": "métastase",
+          "explanation": "Possible."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2022-05",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 33,
+        "originalNumber": 50,
+        "auditRef": "2022-05-Q50"
+      },
+      "chapter": "surrenales",
+      "subchapter": "incidentalome",
+      "lessonLinks": [
+        "surr-incidentalome"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "INCID-DIAG",
+      "hints": [
+        "Une masse de 6 cm fait d’abord craindre une lésion maligne.",
+        "Une des hypothèses est presque toujours associée à une HTA.",
+        "Le patient est normotendu."
+      ],
+      "explanation": {
+        "text": "Devant une masse de 6 cm, on évoque un carcinome (taille), un adénome non fonctionnel, un phéochromocytome (pas toujours hypertendu) ou une métastase. Un hyperaldostéronisme primaire est peu probable chez un patient normotendu : il s’accompagne presque toujours d’une HTA, et l’adénome de Conn est en général petit.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2022-05-RADIO-QCM-901",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quelle est l’imagerie la plus sensible pour un adénome surrénalien dans le cas d’une mise au point d’un syndrome de Conn (1 réponse) :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Imagerie par résonance magnétique nucléaire",
+          "explanation": "Moins sensible en pratique."
+        },
+        {
+          "id": "B",
+          "text": "Tomodensitométrie à coupes fines",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Echographie",
+          "explanation": "Non : peu sensible pour les surrénales."
+        },
+        {
+          "id": "D",
+          "text": "PET-CT",
+          "explanation": "Non."
+        },
+        {
+          "id": "E",
+          "text": "SPECT-CT",
+          "explanation": "Non."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2022-05",
+        "discipline": "RADIO",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 36,
+        "originalNumber": null,
+        "auditRef": "2022-05-p36-l1381"
+      },
+      "chapter": "surrenales",
+      "subchapter": "incidentalome",
+      "lessonLinks": [
+        "surr-incidentalome",
+        "surr-aldosterone"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SURR-IMAGERIE",
+      "answerNote": "Radiologie.",
+      "hints": [
+        "L’adénome de Conn est souvent petit.",
+        "Quel examen a la meilleure résolution pour les surrénales ?",
+        "L’épaisseur des coupes compte."
+      ],
+      "explanation": {
+        "text": "Pour un adénome de Conn, souvent petit, l’examen le plus sensible est le scanner en coupes fines. L’IRM, l’échographie et les imageries fonctionnelles (PET-CT, SPECT-CT) font moins bien en pratique courante. Le scanner ne prouve toutefois pas que le nodule sécrète : le cathétérisme des veines surrénales confirme la latéralisation.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

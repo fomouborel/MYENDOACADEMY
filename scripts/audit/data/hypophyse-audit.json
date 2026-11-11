@@ -1982,6 +1982,45 @@
   }
  },
  {
+  "ref": "ND-marbaix-thyroide-parathyroides-Q9",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Marbaix – Anapath thyroïde/parathyroïdes/surrénales",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 82,
+  "num": 9,
+  "line": 3657,
+  "stem": [
+   "Adénome silencieux"
+  ],
+  "lines": [
+   "a. Sécrète gonadotrophines",
+   "b. Incidentalome, découvert de manière fortuite",
+   "c. Donne troubles visuels et céphalées",
+   "d. Ne donne pas de céphalées ni de troubles visuels et ne peut être détecté qu’avec IRM + contraste"
+  ],
+  "marked": [
+   "c. Donne troubles visuels et céphalées"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Anatomie pathologique de l'adénome",
+  "note": "Classée « Surrénales » par l'extraction (section d'anatomie pathologique mixte) ; porte sur un adénome hypophysaire silencieux. La proposition « sécrète des gonadotrophines » n'est pas absurde (adénome gonadotrope silencieux) : la réponse retenue porte sur le syndrome tumoral.",
+  "groupe": "ANAPATH-ADENOME",
+  "answer": "c. Donne troubles visuels et céphalées",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
   "ref": "ND-duprez-coche-imagerie-Q1",
   "src": "A",
   "session": "2016-2021",

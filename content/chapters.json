@@ -329,16 +329,91 @@
       "order": 12,
       "domain": "surrenales",
       "title": "Surrénales",
-      "short": "Prévu après la thyroïde",
+      "short": "Insuffisance surrénale, Cushing, Conn, phéochromocytome, incidentalome, hyperandrogénie",
       "icon": "⛰️",
-      "status": "pending",
+      "status": "available",
       "subchapters": [
         {
-          "id": "a-definir",
-          "title": "À définir après intégration"
+          "id": "insuffisance",
+          "title": "Physiologie et insuffisance surrénale"
+        },
+        {
+          "id": "cushing",
+          "title": "Syndrome de Cushing : diagnostic et causes surrénaliennes"
+        },
+        {
+          "id": "aldosterone",
+          "title": "Hyperaldostéronisme primaire"
+        },
+        {
+          "id": "pheo",
+          "title": "Phéochromocytome et paragangliome"
+        },
+        {
+          "id": "incidentalome",
+          "title": "Incidentalome et imagerie"
+        },
+        {
+          "id": "hyperandrogenie",
+          "title": "Hyperandrogénie et hyperplasie congénitale"
         }
       ],
-      "lessons": []
+      "lessons": [
+        {
+          "id": "surr-insuffisance",
+          "title": "Physiologie et insuffisance surrénale",
+          "file": "surrenales/01-insuffisance.md",
+          "subchapters": [
+            "insuffisance"
+          ],
+          "minutes": 9
+        },
+        {
+          "id": "surr-cushing",
+          "title": "Syndrome de Cushing : démarche diagnostique et causes surrénaliennes",
+          "file": "surrenales/02-cushing.md",
+          "subchapters": [
+            "cushing"
+          ],
+          "minutes": 8
+        },
+        {
+          "id": "surr-aldosterone",
+          "title": "Hyperaldostéronisme primaire (syndrome de Conn)",
+          "file": "surrenales/03-aldosterone.md",
+          "subchapters": [
+            "aldosterone"
+          ],
+          "minutes": 9
+        },
+        {
+          "id": "surr-pheo",
+          "title": "Phéochromocytome et paragangliome",
+          "file": "surrenales/04-pheochromocytome.md",
+          "subchapters": [
+            "pheo"
+          ],
+          "minutes": 8
+        },
+        {
+          "id": "surr-incidentalome",
+          "title": "Incidentalome surrénalien et imagerie",
+          "file": "surrenales/05-incidentalome.md",
+          "subchapters": [
+            "incidentalome"
+          ],
+          "minutes": 8
+        },
+        {
+          "id": "surr-hyperandrogenie",
+          "title": "Hyperandrogénie : hirsutisme, ovaires polykystiques, hyperplasie congénitale",
+          "file": "surrenales/06-hyperandrogenie.md",
+          "subchapters": [
+            "hyperandrogenie"
+          ],
+          "minutes": 8
+        }
+      ]
     },
     {
       "id": "gonades",

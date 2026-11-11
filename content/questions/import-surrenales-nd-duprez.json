@@ -1,0 +1,464 @@
+{
+  "source": "import-surrenales-nd-duprez",
+  "questions": [
+    {
+      "id": "ENDO-ND-RADIO-QCM-003",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "A propos d’un phéochromocytome, la fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Elle peut avoir une densité < 20 UH après le CT"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 83,
+        "originalNumber": 3,
+        "auditRef": "ND-duprez-coche-imagerie-Q3"
+      },
+      "chapter": "surrenales",
+      "subchapter": "pheo",
+      "lessonLinks": [
+        "surr-pheo",
+        "surr-incidentalome"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PHEO-IMAGERIE",
+      "answerNote": "Une seule proposition."
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-015",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "Quelle est l'affirmation exacte concernant l’adénome surrénalien ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Toujours sécrétant",
+          "explanation": "Faux : la plupart ne sécrètent rien."
+        },
+        {
+          "id": "B",
+          "text": "Présente un rehaussement tardif avec rétention de produit de contraste",
+          "explanation": "Faux : lavage rapide du contraste."
+        },
+        {
+          "id": "C",
+          "text": "Peut présenter une densité charnue",
+          "explanation": "Vrai (réponse attendue) : adénome pauvre en lipides."
+        },
+        {
+          "id": "D",
+          "text": "Est le mieux détecté par une IRM à coupes de 10mm",
+          "explanation": "Faux : scanner en coupes fines."
+        },
+        {
+          "id": "E",
+          "text": "Toujours unilatéral",
+          "explanation": "Faux : il peut être bilatéral."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 84,
+        "originalNumber": 15,
+        "auditRef": "ND-duprez-coche-imagerie-Q15"
+      },
+      "chapter": "surrenales",
+      "subchapter": "incidentalome",
+      "lessonLinks": [
+        "surr-incidentalome",
+        "surr-aldosterone"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SURR-IMAGERIE",
+      "answerNote": "Radiologie ; même question en janvier 2026.",
+      "hints": [
+        "Méfie-toi des mots « toujours ».",
+        "Un adénome surrénalien n’est pas toujours riche en graisse.",
+        "Un adénome pauvre en lipides a une densité plus élevée au scanner."
+      ],
+      "explanation": {
+        "text": "Un adénome surrénalien peut présenter une densité « charnue » : environ un tiers des adénomes sont pauvres en lipides et ont une densité élevée sans injection. Il n’est pas toujours sécrétant (la plupart ne sécrètent rien), ni toujours unilatéral. Il se caractérise par un lavage rapide du produit de contraste, pas par un rehaussement tardif avec rétention. Le meilleur examen est le scanner en coupes fines, pas une IRM en coupes épaisses de 10 mm.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-016",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Un phéochromocytome au CT avec injection se présente (le plus souvent) sous la forme:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Masse hypervascularisée",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Masse avec de la graisse",
+          "explanation": "Non : évoque un adénome ou un myélolipome."
+        },
+        {
+          "id": "C",
+          "text": "Masse calcifiée",
+          "explanation": "Non typique."
+        },
+        {
+          "id": "D",
+          "text": "Masse extra-surrénalienne",
+          "explanation": "Possible (paragangliome), mais pas le plus fréquent."
+        },
+        {
+          "id": "E",
+          "text": "Masse bilatérale",
+          "explanation": "Possible (formes héréditaires), mais pas le plus fréquent."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 85,
+        "originalNumber": 16,
+        "auditRef": "ND-duprez-coche-imagerie-Q16"
+      },
+      "chapter": "surrenales",
+      "subchapter": "pheo",
+      "lessonLinks": [
+        "surr-pheo",
+        "surr-incidentalome"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PHEO-IMAGERIE",
+      "answerNote": "Radiologie.",
+      "hints": [
+        "Le phéochromocytome est une tumeur très vascularisée.",
+        "Comment se comporte une tumeur riche en vaisseaux après injection ?",
+        "La graisse évoque d’autres lésions."
+      ],
+      "explanation": {
+        "text": "Au scanner injecté, le phéochromocytome se présente le plus souvent comme une masse surrénalienne hypervascularisée (forte prise de contraste), parfois hétérogène ou nécrotique. La graisse évoque un adénome riche en lipides ou un myélolipome. Il est le plus souvent surrénalien et unilatéral ; les calcifications sont possibles mais non typiques.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-116",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Meilleur examen pour détecter adénome des surrénales",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "CT en coupes fines (3 mm)",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Echo abdominale",
+          "explanation": "Non : peu sensible."
+        },
+        {
+          "id": "C",
+          "text": "IRM avec contraste",
+          "explanation": "Complément, pas l’examen de base."
+        },
+        {
+          "id": "D",
+          "text": "PET-CT",
+          "explanation": "Non."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 85,
+        "originalNumber": 116,
+        "auditRef": "ND-duprez-coche-imagerie-Q116"
+      },
+      "chapter": "surrenales",
+      "subchapter": "incidentalome",
+      "lessonLinks": [
+        "surr-incidentalome",
+        "surr-aldosterone"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SURR-IMAGERIE",
+      "answerNote": "Radiologie.",
+      "hints": [
+        "Un adénome surrénalien est souvent petit.",
+        "Quel examen a la meilleure résolution pour les surrénales ?",
+        "L’épaisseur des coupes compte."
+      ],
+      "explanation": {
+        "text": "Le meilleur examen pour détecter et caractériser un adénome surrénalien est le scanner en coupes fines (environ 3 mm) : il mesure la densité sans injection et le lavage du contraste. L’échographie est peu sensible ; l’IRM est un complément (opposition de phase) ; le PET-CT n’est pas l’examen de première intention.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-123",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Structure 50UH dans une surrénale",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Est sans aucun doute un adénome",
+          "explanation": "Faux : rien n’est certain."
+        },
+        {
+          "id": "B",
+          "text": "N’est certainement pas un adénome",
+          "explanation": "Faux : un adénome pauvre en lipides est possible."
+        },
+        {
+          "id": "C",
+          "text": "Pourrait encore être un adénome",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Est certainement une métastase",
+          "explanation": "Faux : rien n’est certain."
+        },
+        {
+          "id": "E",
+          "text": "Est certainement un carcinome",
+          "explanation": "Faux : rien n’est certain."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 85,
+        "originalNumber": 123,
+        "auditRef": "ND-duprez-coche-imagerie-Q123"
+      },
+      "chapter": "surrenales",
+      "subchapter": "incidentalome",
+      "lessonLinks": [
+        "surr-incidentalome",
+        "surr-aldosterone"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SURR-IMAGERIE",
+      "answerNote": "Radiologie.",
+      "hints": [
+        "Un adénome n’est pas toujours riche en graisse.",
+        "Que signifie une densité élevée sans injection ?",
+        "Un seul chiffre permet-il d’affirmer ou d’exclure ?"
+      ],
+      "explanation": {
+        "text": "Une structure à 50 UH pourrait encore être un adénome : environ un tiers des adénomes sont pauvres en lipides et ont une densité élevée. Le lavage du produit de contraste ou l’IRM en opposition de phase aideront. Rien ne permet d’affirmer, sur ce seul chiffre, un adénome, une métastase ou un carcinome.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-115",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Concernant le phéochromocytome 1 bonne",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "exclusivement dans la médullaire surrénale",
+          "explanation": "Faux : paragangliomes extrasurrénaliens."
+        },
+        {
+          "id": "B",
+          "text": "peut se retrouver en paravertébrale et en intravésical",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "est toujours bénin",
+          "explanation": "Faux : une minorité métastase."
+        },
+        {
+          "id": "D",
+          "text": "est faiblement vascularisé en CT+injection et IRM",
+          "explanation": "Faux : hypervascularisé."
+        },
+        {
+          "id": "E",
+          "text": "est toujours unilatéral",
+          "explanation": "Faux : bilatéral possible."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 86,
+        "originalNumber": 115,
+        "auditRef": "ND-duprez-coche-imagerie-Q115"
+      },
+      "chapter": "surrenales",
+      "subchapter": "pheo",
+      "lessonLinks": [
+        "surr-pheo",
+        "surr-incidentalome"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PHEO-IMAGERIE",
+      "answerNote": "Radiologie.",
+      "hints": [
+        "Méfie-toi des mots « exclusivement », « toujours ».",
+        "Des tumeurs de même nature existent le long de la chaîne sympathique.",
+        "On les appelle paragangliomes."
+      ],
+      "explanation": {
+        "text": "Les tumeurs de même nature que le phéochromocytome peuvent se trouver en dehors de la surrénale (paragangliomes) : région paravertébrale, vessie, cou. Le phéochromocytome n’est pas toujours bénin, il est hypervascularisé (pas faiblement), et il peut être bilatéral.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-132",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Question avec adénome surrénalien, trouvez la fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Densité faible en CT : indique un contenu riche en graisse",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "Densité élevé en CT : indique un contenu pauvre en lipides",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "En IRM T1 : augmentation du signal en opposition de phase signifie structure riche en graisse",
+          "explanation": "Faux (réponse attendue) : c’est une chute du signal."
+        },
+        {
+          "id": "D",
+          "text": "Wash out rapide : rehaussement rapide et vidange rapide après injection en iv sur CT",
+          "explanation": "Vrai : caractéristique de l’adénome."
+        },
+        {
+          "id": "E",
+          "text": "Lésion nodulaire à diamètre variable",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 87,
+        "originalNumber": 132,
+        "auditRef": "ND-duprez-coche-imagerie-Q132"
+      },
+      "chapter": "surrenales",
+      "subchapter": "incidentalome",
+      "lessonLinks": [
+        "surr-incidentalome",
+        "surr-aldosterone"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SURR-IMAGERIE",
+      "answerNote": "Radiologie.",
+      "hints": [
+        "En opposition de phase, l’eau et la graisse d’une même cellule annulent en partie leurs signaux.",
+        "Le signal d’un tissu riche en graisse monte-t-il ou baisse-t-il ?",
+        "Une proposition décrit l’inverse de ce qui se passe."
+      ],
+      "explanation": {
+        "text": "En IRM, un adénome riche en graisse perd son signal en opposition de phase : c’est une chute, pas une augmentation. Les autres propositions sont exactes : une densité faible au scanner signe un contenu riche en graisse, une densité élevée un contenu pauvre en lipides ; l’adénome se rehausse et se vide rapidement (lavage rapide) ; sa taille est variable.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

@@ -88,6 +88,8 @@ H = {
     ("A", 3596): ("ANAT-HYPOPH", None, "Anatomie pathologique (Marbaix)."),
     ("A", 3602): ("SHEEHAN", None, "Anatomie pathologique (Marbaix) ; proposition e résumée par le transcripteur."),
     ("A", 3608): ("ANAPATH-ADENOME", None, "Anatomie pathologique (Marbaix)."),
+    # Rattachée depuis « Surrénales » (section d'anatomie pathologique thyroïde/parathyroïdes/surrénales) : adénome hypophysaire silencieux.
+    ("A", 3657): ("ANAPATH-ADENOME", None, "Classée « Surrénales » par l'extraction (section d'anatomie pathologique mixte) ; porte sur un adénome hypophysaire silencieux. La proposition « sécrète des gonadotrophines » n'est pas absurde (adénome gonadotrope silencieux) : la réponse retenue porte sur le syndrome tumoral."),
     ("A", 3714): ("VISION", None, "Radiologie ; 3 propositions."),
     ("A", 3727): ("IRM-ADENOME", None, "Une seule proposition."),
     ("A", 3729): ("VISION", None, "Une seule proposition."),

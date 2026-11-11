@@ -1,13 +1,13 @@
 # Inventaire détaillé des questions : hypophyse
 
 > Généré par `scripts/audit/domain_audit.py` à partir de l'extraction des PDF (voir `AUDIT-PHASE-1.md`) et du classement manuel `scripts/audit/hypophyse.py`.
-> **86 questions** retenues sur 90 classées automatiquement dans ce domaine (4 relèvent d'un autre domaine, voir la fin).
+> **87 questions** retenues : 90 classées automatiquement dans ce domaine, dont 4 écartées (voir la fin), et 1 rattachées depuis un autre domaine.
 > **Statuts** : 🟦 réponse proposée dans la compilation (en rouge) · 🟧 discutée/contestée · ⬜ question incomplète · 🟥 réponse absente · 🟨 déduite du texte.
 > Aucune correction officielle n'a été identifiée dans les sources.
 
 | Statut | Questions |
 |---|---:|
-| 🟦 proposée | 67 |
+| 🟦 proposée | 68 |
 | ⬜ incomplète | 10 |
 | 🟧 discutée | 8 |
 | 🟥 absente | 1 |
@@ -102,12 +102,13 @@
 | `2025-01-Q35` | janv. 2025 · adulte · p.7 | Monsieur, connu pour macroadénome, arrive aux urgences pour céphalées, | Apoplexie hypophysaire | 🟦 proposée | — |
 | `2026-01-Q20` | janv. 2026 · adulte · p.5 | Concernant l’apoplexie hypophysaire : | — | 🟥 absente | Alexopoulou ; aucune réponse marquée. |
 
-## Anatomie pathologique de l'adénome (2)
+## Anatomie pathologique de l'adénome (3)
 
 | Réf. audit | Session · discipline · p. | Énoncé (début) | Réponse en rouge | Statut | Remarques |
 |---|---|---|---|---|---|
 | `ND-marbaix-hypophyse-Q1` | 2016-2021 · anapath · p.81 | Adénome hypophysaire | b. Peut causer une amputation du champ visuel sans causer de troubles… | 🟦 proposée | Doute du transcripteur (« (??) ») ; la proposition retenue est la seule exacte. |
 | `ND-marbaix-hypophyse-Q4` | 2016-2021 · anapath · p.81 | Concernant l’adénome hypophysaire (1 vrai) | D. Peut causer une déficience visuelle | 🟦 proposée | Anatomie pathologique (Marbaix). |
+| `ND-marbaix-thyroide-parathyroides-Q9` | 2016-2021 · anapath · p.82 | Adénome silencieux | c. Donne troubles visuels et céphalées | 🟦 proposée | Classée « Surrénales » par l'extraction (section d'anatomie pathologique mixte) ; porte sur un adénome hypophysaire silencieux. La proposition « sécrète des gonadotrophines » n'est pas absurde (adéno… |
 
 ## Craniopharyngiome (1)
 

@@ -1,0 +1,408 @@
+{
+  "source": "exercices-surrenales",
+  "questions": [
+    {
+      "id": "ENDO-EX-surrenales-VF-001",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Dans la maladie d’Addison, la rénine est basse.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "surrenales",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "surr-insuffisance"
+      ],
+      "tags": [
+        "Addison"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Quelle hormone de la corticosurrénale retient le sel ?",
+        "Sans elle, que devient la volémie ?",
+        "Comment réagit le rein quand la volémie baisse ?"
+      ],
+      "explanation": {
+        "text": "La destruction de la surrénale supprime l’aldostérone : le rein perd du sel, la volémie baisse et la rénine monte. Elle est donc élevée.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-surrenales-VF-002",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "En cas de fièvre, un patient traité pour une insuffisance surrénale double ou triple sa dose d’hydrocortisone.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "surrenales",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "surr-insuffisance"
+      ],
+      "tags": [
+        "insuffisance surrénale",
+        "éducation"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Le cortisol est l’hormone du stress.",
+        "Le patient ne peut pas en fabriquer davantage lui-même.",
+        "Qui doit compenser ?"
+      ],
+      "explanation": {
+        "text": "Le stress de la maladie augmente les besoins en cortisol. On augmente l’hydrocortisone pendant l’épisode ; la fludrocortisone ne change pas. En cas de vomissements : injection et consultation en urgence.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-surrenales-VF-003",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Pour trouver la cause d’un syndrome de Cushing, le premier dosage est celui de l’ACTH.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "surrenales",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "surr-cushing"
+      ],
+      "tags": [
+        "Cushing",
+        "ACTH"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Le cortisol en excès freine-t-il toujours l’hypophyse ?",
+        "Que devient l’ACTH si une tumeur surrénalienne fabrique le cortisol ?",
+        "Et si c’est l’hypophyse qui est malade ?"
+      ],
+      "explanation": {
+        "text": "Une ACTH effondrée oriente vers une cause surrénalienne (ou des corticoïdes) ; une ACTH normale ou élevée vers l’hypophyse ou une tumeur ectopique.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-surrenales-VF-004",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Un cortisol sanguin du matin isolé permet de dépister un syndrome de Cushing.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "surrenales",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "surr-cushing"
+      ],
+      "tags": [
+        "Cushing",
+        "dépistage"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Le cortisol suit un rythme sur 24 heures.",
+        "Quand est-il normalement le plus haut ?",
+        "Ce moment permet-il de repérer un excès ?"
+      ],
+      "explanation": {
+        "text": "Le matin, le cortisol est normalement à son maximum. On dépiste par le cortisol salivaire du soir, le cortisol libre urinaire des 24 heures ou le freinage par 1 mg de dexaméthasone.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-surrenales-VF-005",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Dans l’hyperaldostéronisme primaire, l’hypokaliémie est constante.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "surrenales",
+      "subchapter": "aldosterone",
+      "lessonLinks": [
+        "surr-aldosterone"
+      ],
+      "tags": [
+        "Conn"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Méfie-toi du mot « constante ».",
+        "Quel signe est presque toujours présent ?",
+        "Faut-il attendre une hypokaliémie pour dépister ?"
+      ],
+      "explanation": {
+        "text": "Beaucoup de patients ont un potassium normal. L’HTA, elle, est presque constante. On dépiste par le rapport aldostérone/rénine.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-surrenales-VF-006",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Dans l’hyperaldostéronisme primaire, le rapport aldostérone/rénine est élevé parce que la rénine est freinée.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "surrenales",
+      "subchapter": "aldosterone",
+      "lessonLinks": [
+        "surr-aldosterone"
+      ],
+      "tags": [
+        "Conn",
+        "rapport aldostérone/rénine"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "L’aldostérone est sécrétée sans être commandée.",
+        "Que devient la volémie ?",
+        "Comment le rein ajuste-t-il alors la rénine ?"
+      ],
+      "explanation": {
+        "text": "L’aldostérone autonome retient le sodium et l’eau ; la volémie augmente et la rénine est freinée. Aldostérone haute et rénine basse : le rapport est élevé.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-surrenales-VF-007",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Le phéochromocytome fait typiquement prendre du poids.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "surrenales",
+      "subchapter": "pheo",
+      "lessonLinks": [
+        "surr-pheo"
+      ],
+      "tags": [
+        "phéochromocytome"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Pense à l’effet de l’adrénaline sur le métabolisme.",
+        "Le métabolisme accéléré brûle-t-il plus ou moins d’énergie ?",
+        "Que devient le poids ?"
+      ],
+      "explanation": {
+        "text": "Les catécholamines augmentent la dépense d’énergie : le patient maigrit. Il a aussi une hyperglycémie, pas d’hypoglycémies.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-surrenales-VF-008",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Le dépistage biologique du phéochromocytome repose sur le dosage des métanéphrines.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "surrenales",
+      "subchapter": "pheo",
+      "lessonLinks": [
+        "surr-pheo"
+      ],
+      "tags": [
+        "phéochromocytome",
+        "dépistage"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Les catécholamines sont dégradées en dérivés plus stables.",
+        "Ces dérivés sont produits en continu dans la tumeur.",
+        "Biologie d’abord, imagerie ensuite."
+      ],
+      "explanation": {
+        "text": "Les métanéphrines plasmatiques libres ou urinaires fractionnées sont les tests les plus fiables. L’imagerie vient ensuite, une fois la biologie positive.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-surrenales-VF-009",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Devant un incidentalome surrénalien, le test au Synacthène fait partie du bilan systématique.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "surrenales",
+      "subchapter": "incidentalome",
+      "lessonLinks": [
+        "surr-incidentalome"
+      ],
+      "tags": [
+        "incidentalome"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Que cherche-t-on devant une masse surrénalienne : un excès ou un manque ?",
+        "Le Synacthène stimule la surrénale.",
+        "Il sert à prouver qu’elle ne répond pas."
+      ],
+      "explanation": {
+        "text": "Le Synacthène cherche une insuffisance surrénale. Devant un incidentalome, on cherche un excès : freinage par 1 mg de dexaméthasone, métanéphrines, rapport aldostérone/rénine si HTA.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-surrenales-VF-010",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Une masse surrénalienne homogène de densité inférieure ou égale à 10 UH au scanner sans injection est un adénome bénin.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "surrenales",
+      "subchapter": "incidentalome",
+      "lessonLinks": [
+        "surr-incidentalome"
+      ],
+      "tags": [
+        "incidentalome",
+        "scanner"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Que signifie une densité basse au scanner ?",
+        "Quelle tumeur surrénalienne contient des lipides dans ses cellules ?",
+        "La graisse abaisse la densité."
+      ],
+      "explanation": {
+        "text": "Une densité basse traduit des lipides dans les cellules : c’est la signature d’un adénome. Une densité plus élevée n’exclut pas un adénome pauvre en lipides.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-surrenales-VF-011",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Le bloc en 21-hydroxylase donne une hypertension artérielle.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "surrenales",
+      "subchapter": "hyperandrogenie",
+      "lessonLinks": [
+        "surr-hyperandrogenie"
+      ],
+      "tags": [
+        "hyperplasie congénitale"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "La 21-hydroxylase sert à fabriquer le cortisol et l’aldostérone.",
+        "Sans aldostérone, que perd le rein ?",
+        "La pression monte-t-elle ou baisse-t-elle ?"
+      ],
+      "explanation": {
+        "text": "Le bloc en 21-hydroxylase empêche la fabrication de l’aldostérone : il fait perdre du sel. L’HTA appartient au bloc en 11-bêta-hydroxylase, plus rare.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-surrenales-VF-012",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Le syndrome des ovaires polykystiques est la cause la plus fréquente d’hirsutisme chez la femme.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "surrenales",
+      "subchapter": "hyperandrogenie",
+      "lessonLinks": [
+        "surr-hyperandrogenie"
+      ],
+      "tags": [
+        "hirsutisme",
+        "ovaires polykystiques"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Les causes fréquentes sont rarement graves.",
+        "Une cause associe hirsutisme et troubles des règles.",
+        "Elle concerne l’ovaire."
+      ],
+      "explanation": {
+        "text": "Avec l’hirsutisme idiopathique, c’est l’une des deux causes les plus fréquentes. Un hirsutisme brutal ou une virilisation font rechercher une tumeur.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

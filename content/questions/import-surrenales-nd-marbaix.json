@@ -1,0 +1,350 @@
+{
+  "source": "import-surrenales-nd-marbaix",
+  "questions": [
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-110",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Addison: laquelle des maladies suivantes ne peut provoquer de maladie d’Addison?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Auto-immun",
+          "explanation": "Peut provoquer : la plus fréquente."
+        },
+        {
+          "id": "B",
+          "text": "Amyloïdose",
+          "explanation": "Peut provoquer."
+        },
+        {
+          "id": "C",
+          "text": "Tuberculose",
+          "explanation": "Peut provoquer."
+        },
+        {
+          "id": "D",
+          "text": "Métastase",
+          "explanation": "Peut provoquer."
+        },
+        {
+          "id": "E",
+          "text": "Aucune (toutes ces maladies peuvent provoquer la maladie d’Addison)",
+          "explanation": "Vrai (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 82,
+        "originalNumber": 10,
+        "auditRef": "ND-marbaix-thyroide-parathyroides-Q10"
+      },
+      "chapter": "surrenales",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "surr-insuffisance"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ADDISON-CAUSES",
+      "answerNote": "Anatomie pathologique (Marbaix).",
+      "hints": [
+        "La maladie d’Addison est une destruction des deux surrénales.",
+        "Toute cause capable de détruire le cortex peut-elle la provoquer ?",
+        "Pense aux infections, aux dépôts et aux cancers."
+      ],
+      "explanation": {
+        "text": "Toutes ces maladies peuvent provoquer une maladie d’Addison : l’auto-immunité (la plus fréquente dans les pays développés), la tuberculose, les métastases (souvent bilatérales) et l’amylose (dépôts dans les surrénales).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-111",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Concernant le phéochromocytome:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Toujours unilatéral",
+          "explanation": "Faux."
+        },
+        {
+          "id": "B",
+          "text": "Toujours malin",
+          "explanation": "Faux."
+        },
+        {
+          "id": "C",
+          "text": "Jamais en localisation extrasurrénalienne",
+          "explanation": "Faux : paragangliomes."
+        },
+        {
+          "id": "D",
+          "text": "Tumeur dont on ne peut pas faire preuve du caractère malin ou pas en anatomopathologie",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "Cellules d’aspect bénin en anapath",
+          "explanation": "Faux : l’aspect n’est pas prédictif."
+        },
+        {
+          "id": "F",
+          "text": "Exclusivement médullo surrénale",
+          "explanation": "Faux : paragangliomes."
+        },
+        {
+          "id": "G",
+          "text": "Une histologie avec cellules bien différenciées",
+          "explanation": "Faux : l’aspect n’est pas prédictif."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 82,
+        "originalNumber": 11,
+        "auditRef": "ND-marbaix-thyroide-parathyroides-Q11"
+      },
+      "chapter": "surrenales",
+      "subchapter": "pheo",
+      "lessonLinks": [
+        "surr-pheo"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PHEO-ANAPATH",
+      "answerNote": "Anatomie pathologique (Marbaix).",
+      "hints": [
+        "Méfie-toi des mots « toujours », « jamais », « exclusivement ».",
+        "Le microscope permet-il de prédire les métastases ?",
+        "Qu’est-ce qui prouve finalement la malignité ?"
+      ],
+      "explanation": {
+        "text": "Aucun critère histologique ne permet de distinguer un phéochromocytome bénin d’un malin : seule la présence de métastases prouve la malignité. Le phéochromocytome peut être uni- ou bilatéral, et des tumeurs de même nature (paragangliomes) siègent en dehors de la surrénale. La plupart sont bénins. Les cellules ne sont pas simplement « d’aspect bénin » ou « bien différenciées » : elles peuvent être atypiques et pléomorphes, sans que cela prédise l’évolution.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-114",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "Le phéochromocytome, une vraie?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Exclusivement dans le médullo-surrénale",
+          "explanation": "Faux : paragangliomes."
+        },
+        {
+          "id": "B",
+          "text": "Toujours Bilatéral",
+          "explanation": "Faux : le plus souvent unilatéral."
+        },
+        {
+          "id": "C",
+          "text": "Provient d’une mutation inactivatrice de la Tyrosine Hydroxylase",
+          "explanation": "Faux : la tumeur fabrique des catécholamines."
+        },
+        {
+          "id": "D",
+          "text": "Le comportement malin ne peut pas être diagnostiqué avec certitude grâce à l’histologie",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "Tumeur Maligne avec cellules montones d’aspect bénin.",
+          "explanation": "Faux : la plupart sont bénins."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 82,
+        "originalNumber": 14,
+        "auditRef": "ND-marbaix-thyroide-parathyroides-Q14"
+      },
+      "chapter": "surrenales",
+      "subchapter": "pheo",
+      "lessonLinks": [
+        "surr-pheo"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PHEO-ANAPATH",
+      "answerNote": "Anatomie pathologique (Marbaix).",
+      "hints": [
+        "Méfie-toi des mots « toujours » et « exclusivement ».",
+        "Le microscope permet-il de prédire les métastases ?",
+        "Qu’est-ce qui prouve finalement la malignité ?"
+      ],
+      "explanation": {
+        "text": "Aucun critère histologique ne permet de distinguer un phéochromocytome bénin d’un malin : seule la présence de métastases prouve la malignité. Le phéochromocytome peut être uni- ou bilatéral, et des tumeurs de même nature (paragangliomes) siègent en dehors de la surrénale. La plupart sont bénins. La tyrosine hydroxylase est l’enzyme de synthèse des catécholamines : la tumeur l’exprime, elle ne provient pas de sa mutation inactivatrice.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-116",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "Pour le phéochromocytome, laquelle est vraie ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Les cellules sont d’allures bénignes et monomorphes (je me rappelle plus de la formulation)",
+          "explanation": "Formulation incertaine ; l’aspect cellulaire n’est pas prédictif."
+        },
+        {
+          "id": "B",
+          "text": "Toujours bilatéral",
+          "explanation": "Faux."
+        },
+        {
+          "id": "C",
+          "text": "Toujours au niveau de la surrénale",
+          "explanation": "Faux : paragangliomes."
+        },
+        {
+          "id": "D",
+          "text": "Il n’y a pas de critère histologique pour différencier un phéochromocytome bénin d’un phéochromocytome malin",
+          "explanation": "Vrai (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 83,
+        "originalNumber": 16,
+        "auditRef": "ND-marbaix-thyroide-parathyroides-Q16"
+      },
+      "chapter": "surrenales",
+      "subchapter": "pheo",
+      "lessonLinks": [
+        "surr-pheo"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PHEO-ANAPATH",
+      "answerNote": "Anatomie pathologique (Marbaix) ; formulation de a incertaine.",
+      "hints": [
+        "Méfie-toi des mots « toujours ».",
+        "Le microscope permet-il de prédire les métastases ?",
+        "Qu’est-ce qui prouve finalement la malignité ?"
+      ],
+      "explanation": {
+        "text": "Aucun critère histologique ne permet de distinguer un phéochromocytome bénin d’un malin : seule la présence de métastases prouve la malignité. Le phéochromocytome peut être uni- ou bilatéral, et des tumeurs de même nature (paragangliomes) siègent en dehors de la surrénale. La plupart sont bénins. La formulation de la proposition A est incertaine selon le transcripteur.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-118",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Phéochromocytome ? réponse fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Les cellules ont un aspect normal",
+          "explanation": "Faux (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "On peut voir des plages nécrotiques",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "On peut voir une hypervascularisation",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 83,
+        "originalNumber": 18,
+        "auditRef": "ND-marbaix-thyroide-parathyroides-Q18"
+      },
+      "chapter": "surrenales",
+      "subchapter": "pheo",
+      "lessonLinks": [
+        "surr-pheo"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PHEO-ANAPATH",
+      "answerNote": "Anatomie pathologique (Marbaix).",
+      "hints": [
+        "Une tumeur sécrétante très vascularisée a un aspect particulier.",
+        "Que peut-on voir dans une tumeur volumineuse et richement vascularisée ?",
+        "Les cellules tumorales ressemblent-elles aux cellules normales ?"
+      ],
+      "explanation": {
+        "text": "Au microscope, le phéochromocytome montre des cellules en nids, parfois atypiques et pléomorphes, une hypervascularisation et parfois des plages de nécrose. Les cellules n’ont pas un aspect normal.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

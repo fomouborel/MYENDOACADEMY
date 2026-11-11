@@ -1,0 +1,392 @@
+{
+  "source": "import-surrenales-2025-01",
+  "questions": [
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-036",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Qu’est ce qui n’est pas caractéristique de Cushing ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Visage boursouflé",
+          "explanation": "Caractéristique."
+        },
+        {
+          "id": "B",
+          "text": "Hirsutisme",
+          "explanation": "Caractéristique."
+        },
+        {
+          "id": "C",
+          "text": "Hypotension orthostatique",
+          "explanation": "Pas caractéristique (réponse attendue) : c’est une HTA."
+        },
+        {
+          "id": "D",
+          "text": "Vergetures abdominales",
+          "explanation": "Caractéristiques : vergetures pourpres."
+        },
+        {
+          "id": "E",
+          "text": "Bosse de bison",
+          "explanation": "Caractéristique."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 7,
+        "originalNumber": 36,
+        "auditRef": "2025-01-Q36"
+      },
+      "chapter": "surrenales",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "surr-cushing",
+        "hyph-cushing"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CUSHING-SIGNES",
+      "hints": [
+        "Le cortisol en excès retient le sel et fait monter la pression.",
+        "Quatre propositions sont des signes morphologiques classiques.",
+        "Une proposition décrit plutôt une insuffisance surrénale."
+      ],
+      "explanation": {
+        "text": "Le visage boursouflé, l’hirsutisme, les vergetures abdominales et la bosse de bison sont caractéristiques du Cushing. L’hypotension orthostatique ne l’est pas : le cortisol en excès donne une HTA. L’hypotension évoque au contraire une insuffisance surrénale.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-043",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Parmi ces propositions laquelle ne permet pas de déterminer l’étiologie du syndrome de Cushing :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "IRM hypophyse",
+          "explanation": "Utile pour la cause."
+        },
+        {
+          "id": "B",
+          "text": "La concentartion plamsatique d’ACTH",
+          "explanation": "Utile : premier examen étiologique."
+        },
+        {
+          "id": "C",
+          "text": "Le test de stimulation de CRH",
+          "explanation": "Utile : distingue l’origine hypophysaire de l’origine ectopique."
+        },
+        {
+          "id": "D",
+          "text": "CTscan des surrénales",
+          "explanation": "Utile si l’ACTH est basse."
+        },
+        {
+          "id": "E",
+          "text": "Le test dexamethasone faible dose",
+          "explanation": "Ne permet pas (réponse attendue) : c’est un test de dépistage."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 8,
+        "originalNumber": 43,
+        "auditRef": "2025-01-Q43"
+      },
+      "chapter": "surrenales",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "surr-cushing",
+        "hyph-cushing"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CUSHING-ETIO",
+      "hints": [
+        "Le diagnostic se fait en deux temps : prouver l’excès, puis trouver la cause.",
+        "Quels examens servent au premier temps ?",
+        "Un test de dépistage ne localise pas la cause."
+      ],
+      "explanation": {
+        "text": "Pour trouver la cause d’un Cushing, on dose l’ACTH (basse : surrénale ; normale ou haute : hypophyse ou tumeur ectopique), puis on fait l’IRM hypophysaire, le test à la CRH ou le scanner des surrénales selon le cas. Le test à la dexaméthasone faible dose dépiste l’hypercortisolisme, mais ne permet pas de déterminer la cause.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-046",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Que donne un hyperaldosteronsime primaire ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "toujours une hypokaliemie",
+          "explanation": "Faux : inconstante."
+        },
+        {
+          "id": "B",
+          "text": "de l'hypertension (bonne réponse)",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "toujours une image d adénome au ct",
+          "explanation": "Faux : pas toujours."
+        },
+        {
+          "id": "D",
+          "text": "une hypertension résistante à la spironolactone",
+          "explanation": "Faux : elle y répond."
+        },
+        {
+          "id": "E",
+          "text": "une élévation du taux d aldostérone et de renine",
+          "explanation": "Faux : la rénine est basse."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 8,
+        "originalNumber": 46,
+        "auditRef": "2025-01-Q46"
+      },
+      "chapter": "surrenales",
+      "subchapter": "aldosterone",
+      "lessonLinks": [
+        "surr-aldosterone"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ALDO",
+      "answerNote": "La proposition retenue porte la mention « (bonne réponse) » du transcripteur.",
+      "hints": [
+        "Méfie-toi des mots « toujours ».",
+        "La rénine est-elle élevée ou freinée ?",
+        "Quel signe est quasi constant ?"
+      ],
+      "explanation": {
+        "text": "L’hyperaldostéronisme primaire donne une hypertension, quasi constante. L’hypokaliémie est inconstante, le scanner ne montre pas toujours d’adénome, l’HTA répond à la spironolactone, et la rénine est basse : aldostérone élevée et rénine basse, d’où un rapport aldostérone/rénine élevé.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCMM-049",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Malade d’Addison, la fausse ou les 2 deux fausses",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "rénine et aldostérone sont élevés"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 9,
+        "originalNumber": 49,
+        "auditRef": "2025-01-Q49"
+      },
+      "chapter": "surrenales",
+      "subchapter": "insuffisance",
+      "lessonLinks": [
+        "surr-insuffisance"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ADDISON-BIO",
+      "answerNote": "Une seule proposition."
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCMM-050",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Hypercortisolémie avec ACTH élévé lesquelles des ses situations ne sont possibles (2 réponses) :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "macroadenome hypophysaire"
+        },
+        {
+          "id": "B",
+          "text": "microadénome hypophysaire"
+        },
+        {
+          "id": "C",
+          "text": "tumeur carcinoïde bronchique"
+        },
+        {
+          "id": "D",
+          "text": "traitement de gouttes nasales avec corticoides"
+        },
+        {
+          "id": "E",
+          "text": "incidentalome surrénalien avec sécrétion autonome de cortisol"
+        }
+      ],
+      "expected": [
+        "C",
+        "D",
+        "E"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [
+        "« +1 » ×2 sur la proposition : Réponses à confirmer",
+        "Mention du transcripteur : « Réponses à confirmer » (+1 ×2)."
+      ],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 9,
+        "originalNumber": 50,
+        "auditRef": "2025-01-Q50"
+      },
+      "chapter": "surrenales",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "surr-cushing",
+        "hyph-cushing"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CUSHING-ETIO",
+      "answerNote": "Trois propositions marquées pour « 2 réponses », avec « réponses à confirmer ». Une tumeur carcinoïde bronchique sécrétant de l'ACTH donne au contraire un hypercortisolisme avec ACTH élevée : les deux situations impossibles sont les gouttes nasales de corticoïdes et l'incidentalome à sécrétion autonome de cortisol."
+    },
+    {
+      "id": "ENDO-2025-01-ANAPATH-QCM-084",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Couleur des adénomes surrenaliens en anapath",
+      "labs": [],
+      "options": [],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 14,
+        "originalNumber": 84,
+        "auditRef": "2025-01-Q84"
+      },
+      "chapter": "surrenales",
+      "subchapter": "incidentalome",
+      "lessonLinks": [
+        "surr-incidentalome",
+        "surr-aldosterone"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SURR-IMAGERIE",
+      "answerNote": "Aucune proposition retranscrite."
+    },
+    {
+      "id": "ENDO-2025-01-RADIO-QCM-902",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Qu’est-ce qui ne permet pas le diagnostic étiologique de Cushing",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Test à la dexamethsaone faible dose"
+        },
+        {
+          "id": "B",
+          "text": "Ct scan"
+        },
+        {
+          "id": "C",
+          "text": "Test ACTH"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "absent",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "RADIO",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 17,
+        "originalNumber": null,
+        "auditRef": "2025-01-p17-l527"
+      },
+      "chapter": "surrenales",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "surr-cushing",
+        "hyph-cushing"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CUSHING-ETIO",
+      "answerNote": "Radiologie ; aucune réponse marquée."
+    }
+  ]
+}

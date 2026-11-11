@@ -1,0 +1,380 @@
+{
+  "source": "import-surrenales-2026-01",
+  "questions": [
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-023",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Syndrome cushing acth dépendant peut être causé par :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Prise iatrogène cortisol"
+        },
+        {
+          "id": "B",
+          "text": "Hyperplasie bilat surrénales"
+        },
+        {
+          "id": "C",
+          "text": "Maladie cushing (adénome hypophysaire)"
+        },
+        {
+          "id": "D",
+          "text": "Adénome surrénale en sécrétant du cortisol"
+        },
+        {
+          "id": "E",
+          "text": "Adéno-carcinome de la surrénale sécrétant du cortisol"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "absent",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Alexopoulou",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 6,
+        "originalNumber": 23,
+        "auditRef": "2026-01-Q23"
+      },
+      "chapter": "surrenales",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "surr-cushing",
+        "hyph-cushing"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CUSHING-ETIO",
+      "answerNote": "Alexopoulou ; aucune réponse marquée."
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-024",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "On découvre une tumeur surrénalienne de 2 cm chez un patient hypertendu de 50 ans. Parmi ces hypothèses, laquelle est la moins probable ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "adénome corticosurrénalien bénin non-sécrétant",
+          "explanation": "Probable : le plus fréquent."
+        },
+        {
+          "id": "B",
+          "text": "Phéochromocytome",
+          "explanation": "Possible."
+        },
+        {
+          "id": "C",
+          "text": "hyperaldostéronisme primaire",
+          "explanation": "Possible : patient hypertendu."
+        },
+        {
+          "id": "D",
+          "text": "Cushing",
+          "explanation": "Possible."
+        },
+        {
+          "id": "E",
+          "text": "Addison",
+          "explanation": "La moins probable (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Alexopoulou",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 6,
+        "originalNumber": 24,
+        "auditRef": "2026-01-Q24"
+      },
+      "chapter": "surrenales",
+      "subchapter": "incidentalome",
+      "lessonLinks": [
+        "surr-incidentalome"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "INCID-DIAG",
+      "answerNote": "Alexopoulou.",
+      "hints": [
+        "Toutes les hypothèses sauf une correspondent à une masse.",
+        "Une proposition décrit une destruction des surrénales.",
+        "Ce diagnostic donne une hypotension, pas une HTA."
+      ],
+      "explanation": {
+        "text": "Une masse surrénalienne de 2 cm chez un hypertendu peut être un adénome non sécrétant (le plus fréquent), un phéochromocytome, un adénome de Conn ou un adénome sécrétant du cortisol. La maladie d’Addison est la moins probable : c’est une destruction des deux surrénales, pas une tumeur, et elle donne une hypotension.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-026",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Pheocromocytome, la fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Céphalée",
+          "explanation": "Présente."
+        },
+        {
+          "id": "B",
+          "text": "Palpitation",
+          "explanation": "Présentes."
+        },
+        {
+          "id": "C",
+          "text": "Transpiration",
+          "explanation": "Présente."
+        },
+        {
+          "id": "D",
+          "text": "Hypotension",
+          "explanation": "Présente : orthostatique."
+        },
+        {
+          "id": "E",
+          "text": "prise de poids rapide",
+          "explanation": "Faux (réponse attendue) : il fait maigrir."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Alexopoulou",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 6,
+        "originalNumber": 26,
+        "auditRef": "2026-01-Q26"
+      },
+      "chapter": "surrenales",
+      "subchapter": "pheo",
+      "lessonLinks": [
+        "surr-pheo"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PHEO-CLIN",
+      "answerNote": "Alexopoulou.",
+      "hints": [
+        "Les catécholamines accélèrent le métabolisme.",
+        "Que deviennent le poids et la glycémie quand l’adrénaline est en excès ?",
+        "Pense aussi à ce qui arrive à la pression artérielle quand le patient se lève."
+      ],
+      "explanation": {
+        "text": "Le phéochromocytome donne des céphalées, des palpitations, des sueurs (la triade) et une hypotension orthostatique. Il fait maigrir : les catécholamines augmentent la dépense d’énergie. La prise de poids rapide n’en fait pas partie.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-904",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quel test effectuer en ambulatoire pour évaluer le rythme circadien dans un syndrome de Cushing ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Test salivaire",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Test à la dexaméthasone",
+          "explanation": "Non : explore le freinage."
+        },
+        {
+          "id": "C",
+          "text": "Dosage de l’ACTH à 8h",
+          "explanation": "Non : un dosage du matin ne renseigne pas sur le rythme."
+        },
+        {
+          "id": "D",
+          "text": "Dosage de l’ACTH + cortisol à 8h",
+          "explanation": "Non : même raison."
+        },
+        {
+          "id": "E",
+          "text": "Cortisolurie de 24h",
+          "explanation": "Non : production totale sur 24 h, pas le rythme."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Alexopoulou",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 7,
+        "originalNumber": null,
+        "auditRef": "2026-01-p7-l293"
+      },
+      "chapter": "surrenales",
+      "subchapter": "cushing",
+      "lessonLinks": [
+        "surr-cushing",
+        "hyph-cushing"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CUSHING-DIAG",
+      "answerNote": "Alexopoulou.",
+      "hints": [
+        "Le test doit se faire à domicile.",
+        "Le rythme circadien s’évalue sur le moment où le cortisol devrait être au plus bas.",
+        "Quel prélèvement le patient peut-il faire lui-même le soir ?"
+      ],
+      "explanation": {
+        "text": "Le cortisol salivaire de fin de soirée se recueille à domicile : il explore directement le rythme circadien (le cortisol devrait être au plus bas le soir). Le test à la dexaméthasone explore le freinage, le cortisol libre urinaire la production sur 24 heures, et les dosages de 8 h ne renseignent pas sur le rythme.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-905",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quel test effectuer pour dépister un hyperaldostéronisme primaire ? (Tuyau)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Doser le rapport aldostérone-rénine"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Alexopoulou",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 7,
+        "originalNumber": null,
+        "auditRef": "2026-01-p7-l303"
+      },
+      "chapter": "surrenales",
+      "subchapter": "aldosterone",
+      "lessonLinks": [
+        "surr-aldosterone"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ALDO",
+      "answerNote": "Une seule proposition (« tuyau »)."
+    },
+    {
+      "id": "ENDO-2026-01-RADIO-QCM-041",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "Quelle est l'affirmation exacte concernant l’adénome surrénalien ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Toujours sécrétant",
+          "explanation": "Faux : la plupart ne sécrètent rien."
+        },
+        {
+          "id": "B",
+          "text": "Présente un rehaussement tardif avec rétention de produit de contraste [1]",
+          "explanation": "Faux : lavage rapide du contraste."
+        },
+        {
+          "id": "C",
+          "text": "Peut présenter une densité charnue",
+          "explanation": "Vrai (réponse attendue) : adénome pauvre en lipides."
+        },
+        {
+          "id": "D",
+          "text": "Est le mieux détecté par une IRM [2] à coupes de 10mm",
+          "explanation": "Faux : scanner en coupes fines."
+        },
+        {
+          "id": "E",
+          "text": "Toujours unilatéral",
+          "explanation": "Faux : il peut être bilatéral."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "RADIO",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 10,
+        "originalNumber": 41,
+        "auditRef": "2026-01-Q41"
+      },
+      "chapter": "surrenales",
+      "subchapter": "incidentalome",
+      "lessonLinks": [
+        "surr-incidentalome",
+        "surr-aldosterone"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SURR-IMAGERIE",
+      "answerNote": "Radiologie ; même question en 2016-2021.",
+      "hints": [
+        "Méfie-toi des mots « toujours ».",
+        "Un adénome surrénalien n’est pas toujours riche en graisse.",
+        "Un adénome pauvre en lipides a une densité plus élevée au scanner."
+      ],
+      "explanation": {
+        "text": "Un adénome surrénalien peut présenter une densité « charnue » : environ un tiers des adénomes sont pauvres en lipides et ont une densité élevée sans injection. Il n’est pas toujours sécrétant (la plupart ne sécrètent rien), ni toujours unilatéral. Il se caractérise par un lavage rapide du produit de contraste, pas par un rehaussement tardif avec rétention. Le meilleur examen est le scanner en coupes fines, pas une IRM en coupes épaisses de 10 mm. Les marques [1] et [2] sont des renvois de la retranscription.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}
