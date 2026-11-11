@@ -1,0 +1,75 @@
+{
+  "source": "import-pharmaco-2022-05",
+  "questions": [
+    {
+      "id": "ENDO-2022-05-PHARMA-QCM-901",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Nouvelle question : quel médicament n'est pas un inhibiteur de CYP 2 C8 :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Carbamazépine",
+          "explanation": "Pas un inhibiteur (réponse attendue) : c’est un inducteur."
+        },
+        {
+          "id": "B",
+          "text": "trimétoprime,",
+          "explanation": "Inhibiteur."
+        },
+        {
+          "id": "C",
+          "text": "cotrimoxazole,",
+          "explanation": "Inhibiteur : contient du triméthoprime."
+        },
+        {
+          "id": "D",
+          "text": "déférasirox",
+          "explanation": "Inhibiteur."
+        },
+        {
+          "id": "E",
+          "text": "Clopidogrel",
+          "explanation": "Inhibiteur : par son métabolite glucuronide."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2022-05",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 36,
+        "originalNumber": null,
+        "auditRef": "2022-05-p36-l1395"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "cinetique",
+      "lessonLinks": [
+        "pharm-cinetique"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CYP2C8",
+      "answerNote": "« Nouvelle question » en mai 2022.",
+      "hints": [
+        "Distingue les médicaments qui inhibent les cytochromes de ceux qui les induisent.",
+        "Un antiépileptique ancien est connu pour accélérer le métabolisme de nombreux médicaments.",
+        "Le cotrimoxazole contient du triméthoprime."
+      ],
+      "explanation": {
+        "text": "La carbamazépine n’est pas un inhibiteur du CYP2C8 : c’est un inducteur enzymatique puissant. Le triméthoprime (et donc le cotrimoxazole, qui en contient), le déférasirox et le clopidogrel (par son métabolite glucuronide) inhibent le CYP2C8.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

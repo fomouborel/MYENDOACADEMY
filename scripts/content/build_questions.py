@@ -529,6 +529,32 @@ VF("exercices-surrenales", 12, "surrenales", "hyperandrogenie", ["surr-hyperandr
    "Avec l’hirsutisme idiopathique, c’est l’une des deux causes les plus fréquentes. Un hirsutisme brutal ou une virilisation font rechercher une tumeur.",
    H("Les causes fréquentes sont rarement graves.", "Une cause associe hirsutisme et troubles des règles.", "Elle concerne l’ovaire."), ["hirsutisme", "ovaires polykystiques"])
 
+# ============================ COURS 6 — PHARMACOLOGIE GÉNÉRALE (exercices vrai ou faux) ============================
+VF("exercices-pharmaco", 1, "pharmaco", "cinetique", ["pharm-cinetique"], "Un inducteur enzymatique augmente les taux sanguins des médicaments métabolisés par le cytochrome qu’il induit.", False,
+   "Un inducteur accélère le métabolisme : les taux baissent, avec un risque d’inefficacité (par exemple un rejet de greffe sous ciclosporine avec la rifampicine). Ce sont les inhibiteurs qui augmentent les taux.",
+   H("Induire une enzyme, c’est en fabriquer davantage.", "Plus d’enzyme : le médicament est-il dégradé plus vite ou moins vite ?", "Que deviennent alors ses taux ?"), ["interactions"])
+VF("exercices-pharmaco", 2, "pharmaco", "cinetique", ["pharm-cinetique"], "L’effet de premier passage peut réduire la biodisponibilité d’un médicament pris par voie orale.", True,
+   "Avant d’atteindre la circulation générale, le médicament traverse la paroi intestinale et le foie, où il peut être en partie métabolisé. Par voie intraveineuse, il n’y a pas de premier passage : biodisponibilité de 100 %.",
+   H("Par la bouche, quel chemin suit le médicament avant la circulation générale ?", "La veine porte mène au foie.", "Que peut faire le foie au médicament à ce premier passage ?"), ["biodisponibilité"])
+VF("exercices-pharmaco", 3, "pharmaco", "hematopoiese", ["pharm-hematopoiese"], "La vitamine B12 est absorbée dans l’estomac.", False,
+   "L’estomac sécrète le facteur intrinsèque, mais l’absorption du complexe vitamine-facteur se fait dans l’iléon terminal.",
+   H("La B12 a besoin d’un partenaire fabriqué par l’estomac.", "Le complexe voyage ensuite dans l’intestin grêle.", "Où est-il absorbé ?"), ["vitamine B12"])
+VF("exercices-pharmaco", 4, "pharmaco", "hematopoiese", ["pharm-hematopoiese"], "Une carence en vitamine B12 peut donner une atteinte neurologique, contrairement à une carence en folates.", True,
+   "Les deux carences donnent une anémie macrocytaire, mais seule la carence en B12 atteint la moelle épinière et les nerfs. Donner des folates seuls à un patient carencé en B12 masquerait l’anémie sans protéger les nerfs.",
+   H("Les deux carences donnent la même anémie.", "Une seule touche le système nerveux.", "C’est celle qui donne la sclérose combinée de la moelle."), ["vitamine B12", "folates"])
+VF("exercices-pharmaco", 5, "pharmaco", "immunosuppresseurs", ["pharm-immunosuppresseurs"], "L’association de l’azathioprine et de l’allopurinol expose à une aplasie médullaire.", True,
+   "L’allopurinol bloque la xanthine oxydase, qui dégrade la 6-mercaptopurine issue de l’azathioprine : le médicament actif s’accumule et détruit la moelle osseuse.",
+   H("L’allopurinol bloque une enzyme qui dégrade les purines.", "L’azathioprine est un analogue des purines.", "S’il n’est plus dégradé, que devient le médicament ?"), ["azathioprine"])
+VF("exercices-pharmaco", 6, "pharmaco", "immunosuppresseurs", ["pharm-immunosuppresseurs"], "Le jus de pamplemousse diminue les taux sanguins de ciclosporine.", False,
+   "Le jus de pamplemousse inhibe le CYP3A4 intestinal : la ciclosporine est moins dégradée et ses taux augmentent, avec un risque de néphrotoxicité.",
+   H("La ciclosporine est métabolisée par le CYP3A4.", "Le pamplemousse inhibe-t-il ou induit-il cette enzyme ?", "Moins d’enzyme active : plus ou moins de médicament ?"), ["ciclosporine", "interactions"])
+VF("exercices-pharmaco", 7, "pharmaco", "hypolipemiants", ["pharm-hypolipemiants"], "Les statines inhibent l’absorption intestinale du cholestérol.", False,
+   "Les statines inhibent l’HMG-CoA réductase, enzyme de la fabrication du cholestérol dans le foie. C’est l’ézétimibe qui bloque l’absorption intestinale.",
+   H("Le cholestérol a deux origines.", "Les statines agissent dans le foie.", "Quel médicament agit dans l’intestin ?"), ["statines"])
+VF("exercices-pharmaco", 8, "pharmaco", "hypolipemiants", ["pharm-hypolipemiants"], "Certaines statines métabolisées par le CYP3A4 voient leurs taux augmenter avec la ciclosporine, ce qui accroît le risque musculaire.", True,
+   "La ciclosporine augmente les taux de statines comme la simvastatine : risque de douleurs musculaires, voire de rhabdomyolyse.",
+   H("Les deux médicaments partagent des voies de métabolisme et de transport.", "Si une statine est moins éliminée, ses taux montent.", "Quelle toxicité des statines dépend de leur taux ?"), ["statines", "interactions"])
+
 # ============================ CAS CLINIQUES PROGRESSIFS (créés, hors archives) ============================
 NORMES = "normes reprises d’un énoncé d’examen UCL (compilation 2016-2021) — valeurs propres au laboratoire de l’exercice"
 def LAB(a, v, u, r): return {"analyte": a, "value": v, "unit": u, "reference": r, "referenceOrigin": NORMES}

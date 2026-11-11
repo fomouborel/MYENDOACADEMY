@@ -1,0 +1,429 @@
+{
+  "source": "import-pharmaco-2023-05",
+  "questions": [
+    {
+      "id": "ENDO-2023-05-PHARMA-QCM-088",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Association Allopurinol et Azathioprine, quel effet secondaire est favorisé :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hyperuricémie",
+          "explanation": "Non : l’allopurinol la traite."
+        },
+        {
+          "id": "B",
+          "text": "Diabète insulino dépendant",
+          "explanation": "Non."
+        },
+        {
+          "id": "C",
+          "text": "Aplasie médullaire",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Leucémie chronique",
+          "explanation": "Non."
+        },
+        {
+          "id": "E",
+          "text": "Cystite hémorragique",
+          "explanation": "Non : c’est un effet du cyclophosphamide."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 25,
+        "originalNumber": 88,
+        "auditRef": "2023-05-Q88"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "immunosuppresseurs",
+      "lessonLinks": [
+        "pharm-immunosuppresseurs"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "AZA-ALLO",
+      "answerNote": "Pharmacologie (Horsmans), « tuyau ».",
+      "hints": [
+        "L’allopurinol bloque une enzyme qui dégrade les purines.",
+        "L’azathioprine est transformée en 6-mercaptopurine, dégradée en partie par cette même enzyme.",
+        "Si le médicament actif s’accumule, quel organe à renouvellement rapide en souffre ?"
+      ],
+      "explanation": {
+        "text": "L’allopurinol inhibe la xanthine oxydase, qui dégrade la 6-mercaptopurine issue de l’azathioprine. Le médicament actif s’accumule et provoque une toxicité médullaire : aplasie, parfois mortelle. On évite l’association ou on réduit très fortement la dose d’azathioprine. L’allopurinol traite au contraire l’hyperuricémie.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2023-05-PHARMA-QCM-090",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "L’absorption de la vitamine B12 se fait au niveau",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Jéjunum",
+          "explanation": "Non : les folates."
+        },
+        {
+          "id": "B",
+          "text": "Iléon",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Côlon",
+          "explanation": "Non."
+        },
+        {
+          "id": "D",
+          "text": "Gastrique",
+          "explanation": "Non : l’estomac sécrète le facteur intrinsèque, il n’absorbe pas la vitamine."
+        },
+        {
+          "id": "E",
+          "text": "Estoma",
+          "explanation": "Non : même raison."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 26,
+        "originalNumber": 90,
+        "auditRef": "2023-05-Q90"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "hematopoiese",
+      "lessonLinks": [
+        "pharm-hematopoiese"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "B12-ABS",
+      "answerNote": "Pharmacologie (Horsmans).",
+      "hints": [
+        "La vitamine B12 a besoin du facteur intrinsèque, sécrété par l’estomac.",
+        "Le complexe vitamine-facteur est absorbé plus loin, dans l’intestin grêle.",
+        "Pense à la partie terminale de l’intestin grêle."
+      ],
+      "explanation": {
+        "text": "La vitamine B12 se lie au facteur intrinsèque, sécrété par l’estomac ; le complexe est absorbé dans l’iléon terminal. C’est pourquoi une gastrectomie (plus de facteur intrinsèque) ou une maladie ou une résection de l’iléon (maladie de Crohn) donnent une carence. Le fer est absorbé dans le duodénum, les folates dans le jéjunum.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2023-05-PHARMA-QCM-094",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant le Sirolimus, trouver la fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "First-pass hépatique important",
+          "explanation": "Vrai : biodisponibilité d’environ 14 %."
+        },
+        {
+          "id": "B",
+          "text": "Cyp 3A4",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Absorption intestinale lente",
+          "explanation": "Faux (réponse retenue) : absorption rapide."
+        },
+        {
+          "id": "D",
+          "text": "Elimination rénale",
+          "explanation": "Inexacte aussi : 2,2 % dans les urines."
+        },
+        {
+          "id": "E",
+          "text": "Élimination hépatique",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 26,
+        "originalNumber": 94,
+        "auditRef": "2023-05-Q94"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "immunosuppresseurs",
+      "lessonLinks": [
+        "pharm-immunosuppresseurs",
+        "pharm-cinetique"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SIROLIMUS",
+      "answerNote": "« Tuyau » de Horsmans : la réponse retenue est « absorption intestinale lente » (le sirolimus est absorbé rapidement). Mais « élimination rénale » est aussi inexacte : environ 2 % seulement de la dose est éliminée dans les urines, l'élimination est surtout fécale.",
+      "hints": [
+        "Le sirolimus, comme la ciclosporine, passe par le CYP3A4.",
+        "Sa biodisponibilité est faible à cause d’un important premier passage.",
+        "Cette question a une correction discutée : lis l’explication après avoir répondu."
+      ],
+      "explanation": {
+        "text": "Correction discutée. Le sirolimus subit un important effet de premier passage (biodisponibilité d’environ 14 %), il est métabolisé par le CYP3A4 et éliminé surtout par voie hépatique et fécale (91 % dans les selles). Il est absorbé rapidement (pic en 1 à 2 heures) : « absorption intestinale lente » est faux, c’est la réponse retenue. Mais « élimination rénale » est aussi inexacte : 2,2 % seulement de la dose passent dans les urines.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2023-05-PHARMA-QCM-097",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quel médicament/substance n’interagit pas avec la cyclosporine",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Jus de pamplemousse",
+          "explanation": "Interagit : inhibe le CYP3A4."
+        },
+        {
+          "id": "B",
+          "text": "Rifampicine",
+          "explanation": "Interagit : induit le CYP3A4."
+        },
+        {
+          "id": "C",
+          "text": "Un antiépileptique",
+          "explanation": "Interagit (antiépileptiques inducteurs)."
+        },
+        {
+          "id": "D",
+          "text": "Ezetrol",
+          "explanation": "Réponse retenue, discutable : interaction décrite dans la notice."
+        },
+        {
+          "id": "E",
+          "text": "Amlodipine",
+          "explanation": "Interagit : substrat du CYP3A4."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 27,
+        "originalNumber": 97,
+        "auditRef": "2023-05-Q97"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "immunosuppresseurs",
+      "lessonLinks": [
+        "pharm-immunosuppresseurs",
+        "pharm-cinetique"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CYCLO-INTER",
+      "answerNote": "« Tuyau » de Horsmans : la réponse retenue est l'ézétimibe (Ezetrol), qui n'agit pas sur le CYP3A4. Mais la notice de l'ézétimibe signale une interaction avec la ciclosporine (exposition des deux médicaments augmentée, taux de ciclosporine à surveiller) : « n'interagit pas » n'est pas exact au sens strict.",
+      "hints": [
+        "La ciclosporine est métabolisée par le CYP3A4.",
+        "Cherche les inhibiteurs (taux augmentés) et les inducteurs (taux diminués) du CYP3A4.",
+        "Cette question a une correction discutée : lis l’explication après avoir répondu."
+      ],
+      "explanation": {
+        "text": "Correction discutée. La ciclosporine est métabolisée par le CYP3A4 : le jus de pamplemousse et la cimétidine (inhibiteurs) augmentent ses taux ; la rifampicine et les antiépileptiques inducteurs les diminuent ; l’amlodipine passe aussi par le CYP3A4. La réponse retenue, l’ézétimibe (Ezetrol), est le seul médicament proposé qui n’agit pas sur le CYP3A4. Mais la notice de l’ézétimibe signale une interaction avec la ciclosporine : l’exposition des deux médicaments augmente et il faut surveiller les taux de ciclosporine. « N’interagit pas » n’est donc pas exact au sens strict.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2023-05-PHARMA-QCM-099",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "L’azatioprine est métabolisé par",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "le cytochrome P450 2C18",
+          "explanation": "Non."
+        },
+        {
+          "id": "B",
+          "text": "Le cytochrome P450 3A",
+          "explanation": "Non."
+        },
+        {
+          "id": "C",
+          "text": "Le cytochrome P450 2D",
+          "explanation": "Non."
+        },
+        {
+          "id": "D",
+          "text": "Glycopeptide P",
+          "explanation": "Non : ce n’est pas une enzyme de métabolisme."
+        },
+        {
+          "id": "E",
+          "text": "Thiopurine methyltransferase",
+          "explanation": "Oui (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 27,
+        "originalNumber": 99,
+        "auditRef": "2023-05-Q99"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "immunosuppresseurs",
+      "lessonLinks": [
+        "pharm-immunosuppresseurs"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "AZA-TPMT",
+      "answerNote": "Pharmacologie (Horsmans).",
+      "hints": [
+        "L’azathioprine est un analogue des purines.",
+        "Elle n’est pas un substrat classique des cytochromes P450.",
+        "Une enzyme au déficit génétique connu expose à une aplasie sous ce traitement."
+      ],
+      "explanation": {
+        "text": "L’azathioprine est transformée en 6-mercaptopurine, dégradée par la thiopurine méthyltransférase (TPMT) et par la xanthine oxydase. Un déficit génétique en TPMT expose à une aplasie à dose normale : on peut mesurer son activité avant de traiter. Les cytochromes P450 et la glycoprotéine P (et non une « glycopeptide P ») ne sont pas les voies principales.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2023-05-PHARMA-QCM-100",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "biodisponibilité IV :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "25%",
+          "explanation": "Non."
+        },
+        {
+          "id": "B",
+          "text": "50%",
+          "explanation": "Non."
+        },
+        {
+          "id": "C",
+          "text": "75%",
+          "explanation": "Non."
+        },
+        {
+          "id": "D",
+          "text": "100%",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "10 %",
+          "explanation": "Non."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [
+        "Commentaire du transcripteur sur l'examen : « Horsman 100 % tuyaux sauf les 2 dernières questions qui sont nouvelles »."
+      ],
+      "provenance": {
+        "session": "2023-05",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 27,
+        "originalNumber": 100,
+        "auditRef": "2023-05-Q100"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "cinetique",
+      "lessonLinks": [
+        "pharm-cinetique"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "BIODISPO",
+      "answerNote": "Les lignes suivantes de la retranscription (« Horsman 100 % tuyaux… ») sont des commentaires sur l'examen, pas des propositions.",
+      "hints": [
+        "La biodisponibilité est la fraction de la dose qui atteint la circulation générale.",
+        "Par voie intraveineuse, le médicament est injecté directement dans le sang.",
+        "Y a-t-il une absorption ou un premier passage à franchir ?"
+      ],
+      "explanation": {
+        "text": "La biodisponibilité est la fraction de la dose qui atteint la circulation générale sous forme active. Par voie intraveineuse, le médicament est injecté directement dans le sang : sans absorption ni premier passage, la biodisponibilité est par définition de 100 %. Par voie orale, elle est souvent plus faible.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

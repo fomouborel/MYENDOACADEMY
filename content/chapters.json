@@ -483,17 +483,66 @@
       "id": "pharmaco",
       "order": 17,
       "domain": "pharmaco",
-      "title": "Pharmacologie",
-      "short": "Prévu après la thyroïde",
+      "title": "Pharmacologie générale",
+      "short": "Pharmacocinétique et interactions, fer et vitamines, immunosuppresseurs, hypolipémiants",
       "icon": "💊",
-      "status": "pending",
+      "status": "available",
       "subchapters": [
         {
-          "id": "a-definir",
-          "title": "À définir après intégration"
+          "id": "cinetique",
+          "title": "Pharmacocinétique et interactions"
+        },
+        {
+          "id": "hematopoiese",
+          "title": "Fer, vitamine B12 et folates"
+        },
+        {
+          "id": "immunosuppresseurs",
+          "title": "Immunosuppresseurs"
+        },
+        {
+          "id": "hypolipemiants",
+          "title": "Hypolipémiants"
         }
       ],
-      "lessons": []
+      "lessons": [
+        {
+          "id": "pharm-cinetique",
+          "title": "Pharmacocinétique et interactions",
+          "file": "pharmaco/01-cinetique.md",
+          "subchapters": [
+            "cinetique"
+          ],
+          "minutes": 6
+        },
+        {
+          "id": "pharm-hematopoiese",
+          "title": "Fer, vitamine B12 et folates",
+          "file": "pharmaco/02-hematopoiese.md",
+          "subchapters": [
+            "hematopoiese"
+          ],
+          "minutes": 7
+        },
+        {
+          "id": "pharm-immunosuppresseurs",
+          "title": "Immunosuppresseurs : ciclosporine, sirolimus, azathioprine",
+          "file": "pharmaco/03-immunosuppresseurs.md",
+          "subchapters": [
+            "immunosuppresseurs"
+          ],
+          "minutes": 7
+        },
+        {
+          "id": "pharm-hypolipemiants",
+          "title": "Hypolipémiants : statines et ézétimibe",
+          "file": "pharmaco/04-hypolipemiants.md",
+          "subchapters": [
+            "hypolipemiants"
+          ],
+          "minutes": 4
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,141 @@
+{
+  "source": "import-pharmaco-2025-01",
+  "questions": [
+    {
+      "id": "ENDO-2025-01-PHARMA-QCM-096",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quel médicament/substance n’interagit pas avec la cyclosporine",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Cimétidine",
+          "explanation": "Interagit : inhibe les cytochromes."
+        },
+        {
+          "id": "B",
+          "text": "Jus de pamplemousse",
+          "explanation": "Interagit : inhibe le CYP3A4."
+        },
+        {
+          "id": "C",
+          "text": "Rifampicine",
+          "explanation": "Interagit : induit le CYP3A4."
+        },
+        {
+          "id": "D",
+          "text": "Ezetimibe",
+          "explanation": "Réponse retenue, discutable : interaction décrite dans la notice."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 15,
+        "originalNumber": 96,
+        "auditRef": "2025-01-Q96"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "immunosuppresseurs",
+      "lessonLinks": [
+        "pharm-immunosuppresseurs",
+        "pharm-cinetique"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CYCLO-INTER",
+      "answerNote": "« Tuyau » de Horsmans : la réponse retenue est l'ézétimibe (Ezetrol), qui n'agit pas sur le CYP3A4. Mais la notice de l'ézétimibe signale une interaction avec la ciclosporine (exposition des deux médicaments augmentée, taux de ciclosporine à surveiller) : « n'interagit pas » n'est pas exact au sens strict.",
+      "hints": [
+        "La ciclosporine est métabolisée par le CYP3A4.",
+        "Cherche les inhibiteurs (taux augmentés) et les inducteurs (taux diminués) du CYP3A4.",
+        "Cette question a une correction discutée : lis l’explication après avoir répondu."
+      ],
+      "explanation": {
+        "text": "Correction discutée. La ciclosporine est métabolisée par le CYP3A4 : le jus de pamplemousse et la cimétidine (inhibiteurs) augmentent ses taux ; la rifampicine et les antiépileptiques inducteurs les diminuent ; l’amlodipine passe aussi par le CYP3A4. La réponse retenue, l’ézétimibe (Ezetrol), est le seul médicament proposé qui n’agit pas sur le CYP3A4. Mais la notice de l’ézétimibe signale une interaction avec la ciclosporine : l’exposition des deux médicaments augmente et il faut surveiller les taux de ciclosporine. « N’interagit pas » n’est donc pas exact au sens strict.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2025-01-PHARMA-QCM-100",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Association Allopurinol/Azathioprine, quel effet secondaire est favorisé :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hyperuricémie",
+          "explanation": "Non : l’allopurinol la traite."
+        },
+        {
+          "id": "B",
+          "text": "Diabète insulino dépendant",
+          "explanation": "Non."
+        },
+        {
+          "id": "C",
+          "text": "Aplasie médullaire",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Leucémie chronique",
+          "explanation": "Non."
+        },
+        {
+          "id": "E",
+          "text": "Cystite hémorragique",
+          "explanation": "Non : c’est un effet du cyclophosphamide."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 16,
+        "originalNumber": 100,
+        "auditRef": "2025-01-Q100"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "immunosuppresseurs",
+      "lessonLinks": [
+        "pharm-immunosuppresseurs"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "AZA-ALLO",
+      "answerNote": "Pharmacologie (Horsmans), « tuyau ».",
+      "hints": [
+        "L’allopurinol bloque une enzyme qui dégrade les purines.",
+        "L’azathioprine est transformée en 6-mercaptopurine, dégradée en partie par cette même enzyme.",
+        "Si le médicament actif s’accumule, quel organe à renouvellement rapide en souffre ?"
+      ],
+      "explanation": {
+        "text": "L’allopurinol inhibe la xanthine oxydase, qui dégrade la 6-mercaptopurine issue de l’azathioprine. Le médicament actif s’accumule et provoque une toxicité médullaire : aplasie, parfois mortelle. On évite l’association ou on réduit très fortement la dose d’azathioprine. L’allopurinol traite au contraire l’hyperuricémie.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

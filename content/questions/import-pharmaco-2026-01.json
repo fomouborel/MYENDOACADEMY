@@ -1,0 +1,215 @@
+{
+  "source": "import-pharmaco-2026-01",
+  "questions": [
+    {
+      "id": "ENDO-2026-01-PHARMA-QCM-045",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quelle est la quantité journalière nécessaire en fer ? (Tuyau)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "0,4 mg",
+          "explanation": "Non : trop peu."
+        },
+        {
+          "id": "B",
+          "text": "1mg",
+          "explanation": "Besoin de l’homme ; la réponse retenue est 1,5 mg."
+        },
+        {
+          "id": "C",
+          "text": "1,5 mg",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "3 mg",
+          "explanation": "Non : trop."
+        },
+        {
+          "id": "E",
+          "text": "5 mg",
+          "explanation": "Non : trop."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 10,
+        "originalNumber": 45,
+        "auditRef": "2026-01-Q45"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "hematopoiese",
+      "lessonLinks": [
+        "pharm-hematopoiese"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "FER",
+      "answerNote": "Pharmacologie (Horsmans), « tuyau ».",
+      "hints": [
+        "La question porte sur le fer qu’il faut ABSORBER chaque jour, pas sur l’apport alimentaire.",
+        "On perd environ 1 mg de fer par jour, davantage chez la femme réglée.",
+        "Il faut compenser les pertes, règles comprises."
+      ],
+      "explanation": {
+        "text": "On perd environ 1 mg de fer par jour (desquamation, sueur, urines), davantage chez la femme réglée. Pour rester à l’équilibre, il faut absorber environ 1 mg par jour chez l’homme et 1,5 mg chez la femme réglée : c’est la réponse retenue. Comme on n’absorbe qu’une petite partie du fer alimentaire, les apports recommandés sont bien plus élevés (environ 11 mg par jour chez l’homme et 16 mg chez la femme non ménopausée selon l’EFSA).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2026-01-PHARMA-QCM-051",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Biodisponibilité IV : (tuyau)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "25%",
+          "explanation": "Non."
+        },
+        {
+          "id": "B",
+          "text": "50%",
+          "explanation": "Non."
+        },
+        {
+          "id": "C",
+          "text": "75%",
+          "explanation": "Non."
+        },
+        {
+          "id": "D",
+          "text": "100%",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "10 %",
+          "explanation": "Non."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 11,
+        "originalNumber": 51,
+        "auditRef": "2026-01-Q51"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "cinetique",
+      "lessonLinks": [
+        "pharm-cinetique"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "BIODISPO",
+      "answerNote": "Pharmacologie (Horsmans), « tuyau ».",
+      "hints": [
+        "La biodisponibilité est la fraction de la dose qui atteint la circulation générale.",
+        "Par voie intraveineuse, le médicament est injecté directement dans le sang.",
+        "Y a-t-il une absorption ou un premier passage à franchir ?"
+      ],
+      "explanation": {
+        "text": "La biodisponibilité est la fraction de la dose qui atteint la circulation générale sous forme active. Par voie intraveineuse, le médicament est injecté directement dans le sang : sans absorption ni premier passage, la biodisponibilité est par définition de 100 %. Par voie orale, elle est souvent plus faible.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2026-01-PHARMA-QCM-055",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Association Allopurinol et Azathioprine, quel effet secondaire est favorisé : (tuyau)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hyperuricémie",
+          "explanation": "Non : l’allopurinol la traite."
+        },
+        {
+          "id": "B",
+          "text": "Diabète insulino dépendant",
+          "explanation": "Non."
+        },
+        {
+          "id": "C",
+          "text": "Aplasie médullaire",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Leucémie chronique",
+          "explanation": "Non."
+        },
+        {
+          "id": "E",
+          "text": "Cystite hémorragique",
+          "explanation": "Non : c’est un effet du cyclophosphamide."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 12,
+        "originalNumber": 55,
+        "auditRef": "2026-01-Q55"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "immunosuppresseurs",
+      "lessonLinks": [
+        "pharm-immunosuppresseurs"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "AZA-ALLO",
+      "answerNote": "Pharmacologie (Horsmans), « tuyau ».",
+      "hints": [
+        "L’allopurinol bloque une enzyme qui dégrade les purines.",
+        "L’azathioprine est transformée en 6-mercaptopurine, dégradée en partie par cette même enzyme.",
+        "Si le médicament actif s’accumule, quel organe à renouvellement rapide en souffre ?"
+      ],
+      "explanation": {
+        "text": "L’allopurinol inhibe la xanthine oxydase, qui dégrade la 6-mercaptopurine issue de l’azathioprine. Le médicament actif s’accumule et provoque une toxicité médullaire : aplasie, parfois mortelle. On évite l’association ou on réduit très fortement la dose d’azathioprine. L’allopurinol traite au contraire l’hyperuricémie.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

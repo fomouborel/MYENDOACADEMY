@@ -92,6 +92,8 @@ H = {
     ("A", 3657): ("ANAPATH-ADENOME", None, "Classée « Surrénales » par l'extraction (section d'anatomie pathologique mixte) ; porte sur un adénome hypophysaire silencieux. La proposition « sécrète des gonadotrophines » n'est pas absurde (adénome gonadotrope silencieux) : la réponse retenue porte sur le syndrome tumoral."),
     ("A", 3714): ("VISION", None, "Radiologie ; 3 propositions."),
     ("A", 3727): ("IRM-ADENOME", None, "Une seule proposition."),
+    # Rattachée depuis « Autre / non classable » : IRM d'un adénome hypophysaire sécrétant ou non.
+    ("A", 3800): ("IRM-ADENOME", "Question incomplète", "Classée « non classable » par l'extraction. Propositions mal retranscrites (« ique », formulation reconstituée) : consultable. Idée retenue : l'IRM ne distingue pas un adénome sécrétant d'un adénome non sécrétant."),
     ("A", 3729): ("VISION", None, "Une seule proposition."),
     ("A", 3731): ("CRANIO", None, "Radiologie."),
     ("A", 3738): ("IRM-ADENOME", None, "Une seule proposition."),

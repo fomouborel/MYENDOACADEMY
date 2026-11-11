@@ -4,7 +4,7 @@ import AxeBuilder from '@axe-core/playwright';
 const PAGES = ['./', './#/cours', './#/cours/thyroide', './#/cours/hyper/lecon/hyper-diagnostic', './#/quiz?mode=exam-level&chapter=hypo',
   './#/entrainement', './#/examens', './#/cas-cliniques/cas-hyper-basedow', './#/examens-blancs', './#/erreurs', './#/revisions', './#/progression', './#/aide',
   './#/cours/hypophyse', './#/cours/hypophyse/lecon/hyph-anatomie', './#/quiz?mode=check&chapter=hypophyse',
-  './#/cours/surrenales', './#/cours/surrenales/lecon/surr-incidentalome'];
+  './#/cours/surrenales', './#/cours/surrenales/lecon/surr-incidentalome', './#/cours/pharmaco'];
 
 test('accessibilité : aucune violation grave ou critique (axe-core)', async ({ page }) => {
   const all: string[] = [];

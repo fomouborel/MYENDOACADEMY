@@ -2372,6 +2372,48 @@
   }
  },
  {
+  "ref": "ND-duprez-coche-imagerie-Q85",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Duprez + Coche – Imagerie",
+  "disc": "RADIO",
+  "teacher": "Duprez/Coche",
+  "page": 85,
+  "num": 85,
+  "line": 3800,
+  "stem": [
+   "Pour différencier un adénome sécrétant d’un adénome non sécrétant en IRM"
+  ],
+  "lines": [
+   "A. Toujours",
+   "B. ique",
+   "C. On ne les distingue pas ni par la pondération T1 ni par le contraste (un truc du genre mais en tous cas on ne",
+   "fait pas la différence à l’imagerie) c’était genre il n’y a aucune particularités de rehaussement ou de...",
+   "D. Toujours hémorragique"
+  ],
+  "marked": [
+   "C. On ne les distingue pas ni par la pondération T1 ni par le contraste (un truc du genre mais en tous cas on ne",
+   "fait pas la différence à l’imagerie) c’était genre il n’y a aucune particularités de rehaussement ou de..."
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "IRM : rehaussement de l'adénome, séquences",
+  "note": "Classée « non classable » par l'extraction. Propositions mal retranscrites (« ique », formulation reconstituée) : consultable. Idée retenue : l'IRM ne distingue pas un adénome sécrétant d'un adénome non sécrétant.",
+  "groupe": "IRM-ADENOME",
+  "answer": "C. On ne les distingue pas ni par la pondération T1 ni par le contraste (un truc du genre mais en tous cas on ne | fait pas la différence à l’imagerie) c’était genre il n’y a aucune particularités de rehaussement ou de...",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "imagerie",
+   "lessons": [
+    "hyph-anatomie",
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
   "ref": "ND-duprez-coche-imagerie-Q112",
   "src": "A",
   "session": "2016-2021",

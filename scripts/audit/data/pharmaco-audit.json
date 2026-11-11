@@ -1,0 +1,972 @@
+[
+ {
+  "ref": "2024-01-Q84",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 10,
+  "num": 84,
+  "line": 347,
+  "stem": [
+   "quelle est la dose de vit B12 recommandée quotidiennement?"
+  ],
+  "lines": [
+   "0,1mcg",
+   "0,5mcg",
+   "1mcg",
+   "5mcg",
+   "10mcg"
+  ],
+  "marked": [
+   "1mcg"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Vitamine B12 : besoins quotidiens",
+  "note": "Réponse retenue : 1 µg par jour. Les apports recommandés actuels sont plus élevés (4 µg par jour pour l'adulte selon l'EFSA, 2015) ; 1 µg correspond à un ordre de grandeur ancien du besoin minimal.",
+  "groupe": "B12-BESOIN",
+  "answer": "1mcg",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "hematopoiese",
+   "lessons": [
+    "pharm-hematopoiese"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-p10-l353",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 10,
+  "num": null,
+  "line": 353,
+  "stem": [
+   "85Le folate est absorbée au niveau :"
+  ],
+  "lines": [
+   "A.Jéjunum",
+   "B. Estomac",
+   "C. Iléon",
+   "D. colon",
+   "E. Gastrique"
+  ],
+  "marked": [
+   "A.Jéjunum"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Folates : absorption",
+  "note": "Numéro de question collé à l'énoncé dans la retranscription (« 85Le folate »).",
+  "groupe": "FOLATE",
+  "answer": "A.Jéjunum",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "hematopoiese",
+   "lessons": [
+    "pharm-hematopoiese"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q88",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 11,
+  "num": 88,
+  "line": 373,
+  "stem": [
+   "Quel médicament/substance n’interagit pas avec la cyclosporine"
+  ],
+  "lines": [
+   "A. Jus de pamplemousse",
+   "B. Rifampicine",
+   "C. Un anti-épileptique",
+   "D. Ezetrol",
+   "E. Amlodipine"
+  ],
+  "marked": [
+   "D. Ezetrol"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Ciclosporine : interactions",
+  "note": "« Tuyau » de Horsmans : la réponse retenue est l'ézétimibe (Ezetrol), qui n'agit pas sur le CYP3A4. Mais la notice de l'ézétimibe signale une interaction avec la ciclosporine (exposition des deux médicaments augmentée, taux de ciclosporine à surveiller) : « n'interagit pas » n'est pas exact au sens strict.",
+  "groupe": "CYCLO-INTER",
+  "answer": "D. Ezetrol",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "immunosuppresseurs",
+   "lessons": [
+    "pharm-immunosuppresseurs",
+    "pharm-cinetique"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q99",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 12,
+  "num": 99,
+  "line": 404,
+  "stem": [
+   "ezetrol (même que l'année passée)"
+  ],
+  "lines": [],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Statines et ézétimibe",
+  "note": "Seul le mot « ezetrol » est retranscrit.",
+  "groupe": "STATINES",
+  "answer": "",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "hypolipemiants",
+   "lessons": [
+    "pharm-hypolipemiants"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q88",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 25,
+  "num": 88,
+  "line": 945,
+  "stem": [
+   "Association Allopurinol et Azathioprine, quel effet secondaire est favorisé :"
+  ],
+  "lines": [
+   "A. Hyperuricémie",
+   "B. Diabète insulino dépendant",
+   "C. Aplasie médullaire",
+   "D. Leucémie chronique",
+   "E. Cystite hémorragique"
+  ],
+  "marked": [
+   "C. Aplasie médullaire"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Azathioprine et allopurinol",
+  "note": "Pharmacologie (Horsmans), « tuyau ».",
+  "groupe": "AZA-ALLO",
+  "answer": "C. Aplasie médullaire",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "immunosuppresseurs",
+   "lessons": [
+    "pharm-immunosuppresseurs"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q90",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 26,
+  "num": 90,
+  "line": 958,
+  "stem": [
+   "L’absorption de la vitamine B12 se fait au niveau"
+  ],
+  "lines": [
+   "A. Jéjunum",
+   "B. Iléon",
+   "C. Côlon",
+   "D. Gastrique",
+   "E. Estoma"
+  ],
+  "marked": [
+   "B. Iléon"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Vitamine B12 : absorption",
+  "note": "Pharmacologie (Horsmans).",
+  "groupe": "B12-ABS",
+  "answer": "B. Iléon",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "hematopoiese",
+   "lessons": [
+    "pharm-hematopoiese"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q94",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 26,
+  "num": 94,
+  "line": 982,
+  "stem": [
+   "Concernant le Sirolimus, trouver la fausse :"
+  ],
+  "lines": [
+   "A. First-pass hépatique important",
+   "B. Cyp 3A4",
+   "C. Absorption intestinale lente",
+   "D. Elimination rénale",
+   "E. Élimination hépatique"
+  ],
+  "marked": [
+   "C. Absorption intestinale lente"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Sirolimus : pharmacocinétique",
+  "note": "« Tuyau » de Horsmans : la réponse retenue est « absorption intestinale lente » (le sirolimus est absorbé rapidement). Mais « élimination rénale » est aussi inexacte : environ 2 % seulement de la dose est éliminée dans les urines, l'élimination est surtout fécale.",
+  "groupe": "SIROLIMUS",
+  "answer": "C. Absorption intestinale lente",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "immunosuppresseurs",
+   "lessons": [
+    "pharm-immunosuppresseurs",
+    "pharm-cinetique"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q97",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 27,
+  "num": 97,
+  "line": 996,
+  "stem": [
+   "Quel médicament/substance n’interagit pas avec la cyclosporine"
+  ],
+  "lines": [
+   "A. Jus de pamplemousse",
+   "B. Rifampicine",
+   "C. Un antiépileptique",
+   "D. Ezetrol",
+   "E. Amlodipine"
+  ],
+  "marked": [
+   "D. Ezetrol"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Ciclosporine : interactions",
+  "note": "« Tuyau » de Horsmans : la réponse retenue est l'ézétimibe (Ezetrol), qui n'agit pas sur le CYP3A4. Mais la notice de l'ézétimibe signale une interaction avec la ciclosporine (exposition des deux médicaments augmentée, taux de ciclosporine à surveiller) : « n'interagit pas » n'est pas exact au sens strict.",
+  "groupe": "CYCLO-INTER",
+  "answer": "D. Ezetrol",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "immunosuppresseurs",
+   "lessons": [
+    "pharm-immunosuppresseurs",
+    "pharm-cinetique"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q99",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 27,
+  "num": 99,
+  "line": 1003,
+  "stem": [
+   "L’azatioprine est métabolisé par"
+  ],
+  "lines": [
+   "- le cytochrome P450 2C18",
+   "- Le cytochrome P450 3A",
+   "- Le cytochrome P450 2D",
+   "- Glycopeptide P",
+   "- Thiopurine methyltransferase"
+  ],
+  "marked": [
+   "- Thiopurine methyltransferase"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Azathioprine : métabolisme",
+  "note": "Pharmacologie (Horsmans).",
+  "groupe": "AZA-TPMT",
+  "answer": "- Thiopurine methyltransferase",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "immunosuppresseurs",
+   "lessons": [
+    "pharm-immunosuppresseurs"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q100",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 27,
+  "num": 100,
+  "line": 1009,
+  "stem": [
+   "biodisponibilité IV :"
+  ],
+  "lines": [
+   "a) 25%",
+   "b)50%",
+   "c) 75%",
+   "d) 100%",
+   "e) 10 %",
+   "Horsman 100% tuyaux sauf les 2 dernières questions qui sont nouvelles",
+   "Anapath 100% tuyau sauf 1 nouvelle question sur la parathyroide",
+   "Thissen 1 question tuyau",
+   "Lysy : assez tuyau dans l’ensemble."
+  ],
+  "marked": [
+   "d) 100%"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Biodisponibilité",
+  "note": "Les lignes suivantes de la retranscription (« Horsman 100 % tuyaux… ») sont des commentaires sur l'examen, pas des propositions.",
+  "groupe": "BIODISPO",
+  "answer": "d) 100%",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "cinetique",
+   "lessons": [
+    "pharm-cinetique"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-p36-l1395",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Pharmacologie",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 36,
+  "num": null,
+  "line": 1395,
+  "stem": [
+   "Nouvelle question : quel médicament n'est pas un inhibiteur de CYP 2 C8 :"
+  ],
+  "lines": [
+   "• Carbamazépine",
+   "• trimétoprime,",
+   "• cotrimoxazole,",
+   "• déférasirox",
+   "• Clopidogrel"
+  ],
+  "marked": [
+   "• Carbamazépine"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Cytochromes : inhibiteurs du CYP2C8",
+  "note": "« Nouvelle question » en mai 2022.",
+  "groupe": "CYP2C8",
+  "answer": "• Carbamazépine",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "cinetique",
+   "lessons": [
+    "pharm-cinetique"
+   ]
+  }
+ },
+ {
+  "ref": "ND-horsmans-hematopoiese-Q1",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Horsmans – Pharmaco hématopoïèse",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 89,
+  "num": 1,
+  "line": 4007,
+  "stem": [
+   "Quel est le besoin journalier de fer dans l’organisme ?"
+  ],
+  "lines": [
+   "A. 0,1 mg",
+   "B. 0,4 mg",
+   "C. 1,5 mg",
+   "D. 3 mg",
+   "E. 5 mg"
+  ],
+  "marked": [
+   "C. 1,5 mg"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Fer : besoins quotidiens",
+  "note": "Pharmacologie (Horsmans).",
+  "groupe": "FER",
+  "answer": "C. 1,5 mg",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "hematopoiese",
+   "lessons": [
+    "pharm-hematopoiese"
+   ]
+  }
+ },
+ {
+  "ref": "ND-horsmans-hematopoiese-Q2",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Horsmans – Pharmaco hématopoïèse",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 89,
+  "num": 2,
+  "line": 4013,
+  "stem": [
+   "L’absorption de la vitamine B12 se fait au niveau"
+  ],
+  "lines": [
+   "A. Jéjunum",
+   "B. Iléon",
+   "C. Côlon",
+   "D. Gastrique",
+   "E. Estomac"
+  ],
+  "marked": [
+   "B. Iléon"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Vitamine B12 : absorption",
+  "note": "Pharmacologie (Horsmans).",
+  "groupe": "B12-ABS",
+  "answer": "B. Iléon",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "hematopoiese",
+   "lessons": [
+    "pharm-hematopoiese"
+   ]
+  }
+ },
+ {
+  "ref": "ND-horsmans-hematopoiese-Q3",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Horsmans – Pharmaco hématopoïèse",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 89,
+  "num": 3,
+  "line": 4019,
+  "stem": [
+   "Le folate est absorbé au niveau :"
+  ],
+  "lines": [
+   "A. Jéjunum",
+   "B. Estomac",
+   "C. Iléon",
+   "D. Colon",
+   "E. Gastrique"
+  ],
+  "marked": [
+   "A. Jéjunum"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Folates : absorption",
+  "note": "Pharmacologie (Horsmans).",
+  "groupe": "FOLATE",
+  "answer": "A. Jéjunum",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "hematopoiese",
+   "lessons": [
+    "pharm-hematopoiese"
+   ]
+  }
+ },
+ {
+  "ref": "ND-horsmans-hypolipemiants-Q1",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Horsmans – Pharmaco hypolipémiants",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 90,
+  "num": 1,
+  "line": 4027,
+  "stem": [
+   "Laquelle de ces propositions concernant les statines est fausse ?"
+  ],
+  "lines": [
+   "A. Elles inhibent l’absorption intestinale du cholestérol",
+   "B. Elles diminuent le taux de LDL-Cholestérol",
+   "C. Elles ont une métabolisation hépatique",
+   "D. Elles ont de multiples interactions avec d’autres médicaments",
+   "E. Elles inhibent l'HMG CoA-réductase"
+  ],
+  "marked": [
+   "A. Elles inhibent l’absorption intestinale du cholestérol"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Statines et ézétimibe",
+  "note": "Pharmacologie (Horsmans).",
+  "groupe": "STATINES",
+  "answer": "A. Elles inhibent l’absorption intestinale du cholestérol",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "hypolipemiants",
+   "lessons": [
+    "pharm-hypolipemiants"
+   ]
+  }
+ },
+ {
+  "ref": "ND-horsmans-immunosuppresseurs-Q1",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Horsmans – Pharmaco immunosuppresseurs",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 90,
+  "num": 1,
+  "line": 4034,
+  "stem": [
+   "Quel médicament/substance n’interagit pas avec la cyclosporine"
+  ],
+  "lines": [
+   "A. Jus de pamplemousse",
+   "B. Rifampicine",
+   "C. Un antiépileptique",
+   "D. Ezetrol",
+   "E. Amlodipine"
+  ],
+  "marked": [
+   "D. Ezetrol"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Ciclosporine : interactions",
+  "note": "« Tuyau » de Horsmans : la réponse retenue est l'ézétimibe (Ezetrol), qui n'agit pas sur le CYP3A4. Mais la notice de l'ézétimibe signale une interaction avec la ciclosporine (exposition des deux médicaments augmentée, taux de ciclosporine à surveiller) : « n'interagit pas » n'est pas exact au sens strict.",
+  "groupe": "CYCLO-INTER",
+  "answer": "D. Ezetrol",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "immunosuppresseurs",
+   "lessons": [
+    "pharm-immunosuppresseurs",
+    "pharm-cinetique"
+   ]
+  }
+ },
+ {
+  "ref": "ND-horsmans-immunosuppresseurs-Q2",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Horsmans – Pharmaco immunosuppresseurs",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 90,
+  "num": 2,
+  "line": 4040,
+  "stem": [
+   "Concernant la Ciclosporine, une fausse :"
+  ],
+  "lines": [
+   "A. Firstpass hépatique important",
+   "B. Cyp 3A4",
+   "C. Absorption lente",
+   "D. Elimination rénale",
+   "E. Elimination hépatique"
+  ],
+  "marked": [
+   "A. Firstpass hépatique important"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Ciclosporine : pharmacocinétique",
+  "note": "Réponse retenue : « first-pass hépatique important » serait faux. Or la ciclosporine subit un effet de premier passage notable (intestinal et hépatique, CYP3A4 et glycoprotéine P), et son élimination est surtout biliaire (3 à 6 % seulement dans les urines) : « élimination rénale » est au moins aussi inexacte.",
+  "groupe": "CYCLO-PK",
+  "answer": "A. Firstpass hépatique important",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "immunosuppresseurs",
+   "lessons": [
+    "pharm-immunosuppresseurs",
+    "pharm-cinetique"
+   ]
+  }
+ },
+ {
+  "ref": "ND-horsmans-immunosuppresseurs-Q3",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Horsmans – Pharmaco immunosuppresseurs",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 90,
+  "num": 3,
+  "line": 4046,
+  "stem": [
+   "Association Allopurinol et Azathioprine, quel effet secondaire est favorisé :"
+  ],
+  "lines": [
+   "A. Hyperuricémie",
+   "B. Diabète insulino dépendant",
+   "C. Aplasie médullaire",
+   "D. Leucémie chronique",
+   "E. Cystite hémorragique"
+  ],
+  "marked": [
+   "C. Aplasie médullaire"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Azathioprine et allopurinol",
+  "note": "Pharmacologie (Horsmans), « tuyau ».",
+  "groupe": "AZA-ALLO",
+  "answer": "C. Aplasie médullaire",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "immunosuppresseurs",
+   "lessons": [
+    "pharm-immunosuppresseurs"
+   ]
+  }
+ },
+ {
+  "ref": "ND-horsmans-immunosuppresseurs-Q4",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Horsmans – Pharmaco immunosuppresseurs",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 90,
+  "num": 4,
+  "line": 4052,
+  "stem": [
+   "Concernant le Sirolimus, trouver la fausse :"
+  ],
+  "lines": [
+   "A. First-pass hépatique important",
+   "B. Cyp 3A4",
+   "C. Absorption intestinale lente",
+   "D. Elimination rénale",
+   "E. Élimination hépatique",
+   "F. Absorption rapide"
+  ],
+  "marked": [
+   "C. Absorption intestinale lente"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Sirolimus : pharmacocinétique",
+  "note": "« Tuyau » de Horsmans : la réponse retenue est « absorption intestinale lente » (le sirolimus est absorbé rapidement). Mais « élimination rénale » est aussi inexacte : environ 2 % seulement de la dose est éliminée dans les urines, l'élimination est surtout fécale.",
+  "groupe": "SIROLIMUS",
+  "answer": "C. Absorption intestinale lente",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "immunosuppresseurs",
+   "lessons": [
+    "pharm-immunosuppresseurs",
+    "pharm-cinetique"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q96",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 15,
+  "num": 96,
+  "line": 462,
+  "stem": [
+   "Quel médicament/substance n’interagit pas avec la cyclosporine"
+  ],
+  "lines": [
+   "A. Cimétidine",
+   "B. Jus de pamplemousse",
+   "C. Rifampicine",
+   "D. Ezetimibe"
+  ],
+  "marked": [
+   "D. Ezetimibe"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Ciclosporine : interactions",
+  "note": "« Tuyau » de Horsmans : la réponse retenue est l'ézétimibe (Ezetrol), qui n'agit pas sur le CYP3A4. Mais la notice de l'ézétimibe signale une interaction avec la ciclosporine (exposition des deux médicaments augmentée, taux de ciclosporine à surveiller) : « n'interagit pas » n'est pas exact au sens strict.",
+  "groupe": "CYCLO-INTER",
+  "answer": "D. Ezetimibe",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "immunosuppresseurs",
+   "lessons": [
+    "pharm-immunosuppresseurs",
+    "pharm-cinetique"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q100",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 16,
+  "num": 100,
+  "line": 476,
+  "stem": [
+   "Association Allopurinol/Azathioprine, quel effet secondaire est favorisé :"
+  ],
+  "lines": [
+   "A. Hyperuricémie",
+   "B. Diabète insulino dépendant",
+   "C. Aplasie médullaire",
+   "D. Leucémie chronique",
+   "E. Cystite hémorragique"
+  ],
+  "marked": [
+   "C. Aplasie médullaire"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Azathioprine et allopurinol",
+  "note": "Pharmacologie (Horsmans), « tuyau ».",
+  "groupe": "AZA-ALLO",
+  "answer": "C. Aplasie médullaire",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "immunosuppresseurs",
+   "lessons": [
+    "pharm-immunosuppresseurs"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q45",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Pharmacologie",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 10,
+  "num": 45,
+  "line": 424,
+  "stem": [
+   "Quelle est la quantité journalière nécessaire en fer ? (Tuyau)"
+  ],
+  "lines": [
+   "-",
+   "0,4 mg",
+   "-",
+   "1mg",
+   "-",
+   "1,5 mg",
+   "-",
+   "3 mg",
+   "-",
+   "5 mg"
+  ],
+  "marked": [
+   "-",
+   "1,5 mg"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Fer : besoins quotidiens",
+  "note": "Pharmacologie (Horsmans), « tuyau ».",
+  "groupe": "FER",
+  "answer": "- | 1,5 mg",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "hematopoiese",
+   "lessons": [
+    "pharm-hematopoiese"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q51",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Pharmacologie",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 11,
+  "num": 51,
+  "line": 474,
+  "stem": [
+   "Biodisponibilité IV : (tuyau)"
+  ],
+  "lines": [
+   "a) 25%",
+   "b) 50%",
+   "c) 75%",
+   "d) 100%",
+   "e) 10 %"
+  ],
+  "marked": [
+   "d) 100%"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Biodisponibilité",
+  "note": "Pharmacologie (Horsmans), « tuyau ».",
+  "groupe": "BIODISPO",
+  "answer": "d) 100%",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "cinetique",
+   "lessons": [
+    "pharm-cinetique"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q55",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Pharmacologie",
+  "disc": "PHARMA",
+  "teacher": "Horsmans",
+  "page": 12,
+  "num": 55,
+  "line": 499,
+  "stem": [
+   "Association Allopurinol et Azathioprine, quel effet secondaire est favorisé :",
+   "(tuyau)"
+  ],
+  "lines": [
+   "A. Hyperuricémie",
+   "B. Diabète insulino dépendant",
+   "C. Aplasie médullaire",
+   "D. Leucémie chronique",
+   "E. Cystite hémorragique"
+  ],
+  "marked": [
+   "C. Aplasie médullaire"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Pharmacologie",
+  "autres": "",
+  "sous_theme": "Azathioprine et allopurinol",
+  "note": "Pharmacologie (Horsmans), « tuyau ».",
+  "groupe": "AZA-ALLO",
+  "answer": "C. Aplasie médullaire",
+  "map": {
+   "chapter": "pharmaco",
+   "subchapter": "immunosuppresseurs",
+   "lessons": [
+    "pharm-immunosuppresseurs"
+   ]
+  }
+ }
+]

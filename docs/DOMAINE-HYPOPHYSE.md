@@ -9,7 +9,7 @@
 | Élément | Contenu |
 |---|---|
 | **Cours « Hypophyse »** | 7 leçons (67 minutes de lecture), un nouveau cours dans « Mes cours » |
-| **Questions d'archives** | **87**, dont **73 jouables** (avec indices, explication et une remarque par proposition) et 14 seulement consultables |
+| **Questions d'archives** | **88**, dont **73 jouables** (avec indices, explication et une remarque par proposition) et 15 seulement consultables |
 | **Exercices vrai ou faux** | 14 (deux par leçon), créés pour l'étape « Vérifier ma compréhension » |
 | **Rubriques** | les questions apparaissent aussi dans « Anciens examens », « Entraînement », « Examens blancs », « Mes erreurs » et « Mes révisions » |
 
@@ -32,13 +32,14 @@ Une question peut être liée à plusieurs leçons. Le syndrome de Cushing est t
 - **90 questions** ont été classées automatiquement dans le domaine « Hypophyse » lors de l'audit de la phase 1. Je les ai relues une par une (classement manuel dans `scripts/audit/hypophyse.py`).
 - **4 relèvent d'un autre domaine** et y restent : 3 questions de pédiatrie sur la croissance et la puberté, et 1 sur les NEM et le phéochromocytome.
 - **1 question a été rattachée** depuis les surrénales (lors de l'intégration de ce domaine) : un adénome hypophysaire silencieux, classé « Surrénales » par l'extraction. Sa correction est discutée.
+- **1 question a été rattachée** depuis « non classable » (lors de l'intégration de la pharmacologie) : l'IRM ne distingue pas un adénome sécrétant d'un adénome non sécrétant. Propositions mal retranscrites : consultable.
 - **Inventaire détaillé** : `docs/audit/INVENTAIRE-HYPOPHYSE.md` (et `inventaire-hypophyse.csv`).
 
-| Statut des 87 questions | Nombre |
+| Statut des 88 questions | Nombre |
 |---|---:|
 | 🟦 réponse proposée dans la compilation | 66 |
 | 🟧 réponse discutée | 10 |
-| ⬜ question incomplète (consultable) | 10 |
+| ⬜ question incomplète (consultable) | 11 |
 | 🟥 réponse absente (consultable) | 1 |
 
 Aucune correction officielle n'existe dans les sources.

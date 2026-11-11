@@ -1,14 +1,14 @@
 # Inventaire détaillé des questions : hypophyse
 
 > Généré par `scripts/audit/domain_audit.py` à partir de l'extraction des PDF (voir `AUDIT-PHASE-1.md`) et du classement manuel `scripts/audit/hypophyse.py`.
-> **87 questions** retenues : 90 classées automatiquement dans ce domaine, dont 4 écartées (voir la fin), et 1 rattachées depuis un autre domaine.
+> **88 questions** retenues : 90 classées automatiquement dans ce domaine, dont 4 écartées (voir la fin), et 2 rattachées depuis un autre domaine.
 > **Statuts** : 🟦 réponse proposée dans la compilation (en rouge) · 🟧 discutée/contestée · ⬜ question incomplète · 🟥 réponse absente · 🟨 déduite du texte.
 > Aucune correction officielle n'a été identifiée dans les sources.
 
 | Statut | Questions |
 |---|---:|
 | 🟦 proposée | 68 |
-| ⬜ incomplète | 10 |
+| ⬜ incomplète | 11 |
 | 🟧 discutée | 8 |
 | 🟥 absente | 1 |
 
@@ -25,7 +25,7 @@
 | `ND-duprez-coche-imagerie-Q11` | 2016-2021 · radio · p.84 | Quels sont les bords de l’hypophyse qui ne sont pas bordés par une structure osseuse (2 réponses) | A. le plafond de l’hypophyse / E. les faces latérales | 🟦 proposée | Radiologie. |
 | `ND-duprez-coche-imagerie-Q129` | 2016-2021 · radio · p.87 | Question sur les parois de la selle turcique (je sais plus), lesquelles ne sont pas osseuses (2 réponses) : | a. Latérales / e. Toit | 🟦 proposée | Énoncé retranscrit de mémoire (« je sais plus ») ; réponse identique à la question Q11 de la même section. |
 
-## IRM : rehaussement de l'adénome, séquences (11)
+## IRM : rehaussement de l'adénome, séquences (12)
 
 | Réf. audit | Session · discipline · p. | Énoncé (début) | Réponse en rouge | Statut | Remarques |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | `2023-05-Q79` | mai 2023 · radio · p.24 | Qu’est-ce qui distingue un adénome hypophysaire d’un tissu normal en parenchymographie? | b) Rehausse, mais moins que le tissu normal | 🟦 proposée | Radiologie (Coche / Duprez). |
 | `ND-duprez-coche-imagerie-Q4` | 2016-2021 · radio · p.83 | Un microadénome, la différence avec le reste du tissu glandulaire: | a. Aura un rehaussement tardif après une parenchymographie avec pdc ?? | ⬜ incomplète | Une seule proposition. |
 | `ND-duprez-coche-imagerie-Q7` | 2016-2021 · radio · p.84 | IRM + PDC dynamique pour hypophyse : | a. Démasquer les microadénomes non vus en T1 et T2 standards | ⬜ incomplète | Une seule proposition. |
+| `ND-duprez-coche-imagerie-Q85` | 2016-2021 · radio · p.85 | Pour différencier un adénome sécrétant d’un adénome non sécrétant en IRM | C. On ne les distingue pas ni par la pondération T1 ni par le contras… | ⬜ incomplète | Classée « non classable » par l'extraction. Propositions mal retranscrites (« ique », formulation reconstituée) : consultable. Idée retenue : l'IRM ne distingue pas un adénome sécrétant d'un adénome … |
 | `ND-duprez-coche-imagerie-Q112` | 2016-2021 · radio · p.86 | Un adénome de l’hypophyse en IRM T1 avec injection de PC en temps précoce | c. rehausse mais moins que le parenchyme | 🟦 proposée | Radiologie. |
 | `ND-duprez-coche-imagerie-Q113` | 2016-2021 · radio · p.86 | Entre un adénome de l’hypophyse sécrétant et non sécrétant | — | ⬜ incomplète | Une seule proposition. |
 | `ND-duprez-coche-imagerie-Q117` | 2016-2021 · radio · p.86 | Quelle imagerie pour détecter un adénome hypophysaire | b. T1 contraste phase précoce | 🟦 proposée | Radiologie. |

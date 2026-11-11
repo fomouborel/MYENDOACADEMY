@@ -1,0 +1,248 @@
+{
+  "source": "import-pharmaco-2024-01",
+  "questions": [
+    {
+      "id": "ENDO-2024-01-PHARMA-QCM-084",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "quelle est la dose de vit B12 recommandée quotidiennement?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "0,1mcg",
+          "explanation": "Non : trop peu."
+        },
+        {
+          "id": "B",
+          "text": "0,5mcg",
+          "explanation": "Non : trop peu."
+        },
+        {
+          "id": "C",
+          "text": "1mcg",
+          "explanation": "Réponse retenue (ordre de grandeur ancien du besoin minimal)."
+        },
+        {
+          "id": "D",
+          "text": "5mcg",
+          "explanation": "Plus proche des apports recommandés actuels (4 µg selon l’EFSA)."
+        },
+        {
+          "id": "E",
+          "text": "10mcg",
+          "explanation": "Non : au-delà des apports recommandés."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 10,
+        "originalNumber": 84,
+        "auditRef": "2024-01-Q84"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "hematopoiese",
+      "lessonLinks": [
+        "pharm-hematopoiese"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "B12-BESOIN",
+      "answerNote": "Réponse retenue : 1 µg par jour. Les apports recommandés actuels sont plus élevés (4 µg par jour pour l'adulte selon l'EFSA, 2015) ; 1 µg correspond à un ordre de grandeur ancien du besoin minimal.",
+      "hints": [
+        "La question porte sur la dose quotidienne de vitamine B12.",
+        "Les besoins se comptent en microgrammes.",
+        "Cette question a une correction discutée : lis l’explication après avoir répondu."
+      ],
+      "explanation": {
+        "text": "Correction discutée. La compilation retient 1 µg par jour, ordre de grandeur ancien du besoin minimal, probablement celui du cours. Les apports recommandés actuels chez l’adulte sont plus élevés : 4 µg par jour selon l’EFSA (2015). Les réserves du foie couvrent plusieurs années, ce qui explique qu’une carence d’apport soit lente à apparaître.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2024-01-ADULTE-QCM-902",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Le folate est absorbée au niveau :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Jéjunum",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Estomac",
+          "explanation": "Non."
+        },
+        {
+          "id": "C",
+          "text": "Iléon",
+          "explanation": "Non : c’est la vitamine B12."
+        },
+        {
+          "id": "D",
+          "text": "colon",
+          "explanation": "Non."
+        },
+        {
+          "id": "E",
+          "text": "Gastrique",
+          "explanation": "Non."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 10,
+        "originalNumber": null,
+        "auditRef": "2024-01-p10-l353"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "hematopoiese",
+      "lessonLinks": [
+        "pharm-hematopoiese"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "FOLATE",
+      "answerNote": "Numéro de question collé à l'énoncé dans la retranscription (« 85Le folate »).",
+      "hints": [
+        "Chaque nutriment de l’hématopoïèse est absorbé à un endroit précis de l’intestin grêle.",
+        "La vitamine B12 est absorbée tout au bout, dans l’iléon.",
+        "Les folates, eux, sont absorbés dans la partie proximale du grêle."
+      ],
+      "explanation": {
+        "text": "Les folates sont absorbés dans le jéjunum (intestin grêle proximal). Une malabsorption du grêle, l’alcoolisme ou certains médicaments (méthotrexate, antiépileptiques) favorisent leur carence. La vitamine B12 est absorbée dans l’iléon terminal, avec le facteur intrinsèque ; l’estomac et le côlon n’absorbent pas les folates.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2024-01-PHARMA-QCM-088",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quel médicament/substance n’interagit pas avec la cyclosporine",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Jus de pamplemousse",
+          "explanation": "Interagit : inhibe le CYP3A4."
+        },
+        {
+          "id": "B",
+          "text": "Rifampicine",
+          "explanation": "Interagit : induit le CYP3A4."
+        },
+        {
+          "id": "C",
+          "text": "Un anti-épileptique",
+          "explanation": "Interagit (antiépileptiques inducteurs)."
+        },
+        {
+          "id": "D",
+          "text": "Ezetrol",
+          "explanation": "Réponse retenue, discutable : interaction décrite dans la notice."
+        },
+        {
+          "id": "E",
+          "text": "Amlodipine",
+          "explanation": "Interagit : substrat du CYP3A4."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 11,
+        "originalNumber": 88,
+        "auditRef": "2024-01-Q88"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "immunosuppresseurs",
+      "lessonLinks": [
+        "pharm-immunosuppresseurs",
+        "pharm-cinetique"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CYCLO-INTER",
+      "answerNote": "« Tuyau » de Horsmans : la réponse retenue est l'ézétimibe (Ezetrol), qui n'agit pas sur le CYP3A4. Mais la notice de l'ézétimibe signale une interaction avec la ciclosporine (exposition des deux médicaments augmentée, taux de ciclosporine à surveiller) : « n'interagit pas » n'est pas exact au sens strict.",
+      "hints": [
+        "La ciclosporine est métabolisée par le CYP3A4.",
+        "Cherche les inhibiteurs (taux augmentés) et les inducteurs (taux diminués) du CYP3A4.",
+        "Cette question a une correction discutée : lis l’explication après avoir répondu."
+      ],
+      "explanation": {
+        "text": "Correction discutée. La ciclosporine est métabolisée par le CYP3A4 : le jus de pamplemousse et la cimétidine (inhibiteurs) augmentent ses taux ; la rifampicine et les antiépileptiques inducteurs les diminuent ; l’amlodipine passe aussi par le CYP3A4. La réponse retenue, l’ézétimibe (Ezetrol), est le seul médicament proposé qui n’agit pas sur le CYP3A4. Mais la notice de l’ézétimibe signale une interaction avec la ciclosporine : l’exposition des deux médicaments augmente et il faut surveiller les taux de ciclosporine. « N’interagit pas » n’est donc pas exact au sens strict.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2024-01-PHARMA-QCM-099",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "ezetrol (même que l'année passée)",
+      "labs": [],
+      "options": [],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 12,
+        "originalNumber": 99,
+        "auditRef": "2024-01-Q99"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "hypolipemiants",
+      "lessonLinks": [
+        "pharm-hypolipemiants"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "STATINES",
+      "answerNote": "Seul le mot « ezetrol » est retranscrit."
+    }
+  ]
+}

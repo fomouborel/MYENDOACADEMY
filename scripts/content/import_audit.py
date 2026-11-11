@@ -102,7 +102,8 @@ def expected_of(opts, marked):
 
 # Numérotation stable des sections non datées (ND) : base + numéro dans la section.
 ND_BASE = {"Maiter adulte – Thyroïde": 200, "Maiter adulte – Hypophyse": 300, "Lysy – Thyroïde": 160, "Marbaix – Anapath thyroïde/parathyroïdes/surrénales": 100,
-           "Duprez + Coche – Imagerie": 0, "Horsmans – Pharmaco hormones": 0, "Marbaix – Anapath hypophyse": 120, "Maiter adulte – Surrénale": 400}
+           "Duprez + Coche – Imagerie": 0, "Horsmans – Pharmaco hormones": 0, "Marbaix – Anapath hypophyse": 120, "Maiter adulte – Surrénale": 400,
+           "Horsmans – Pharmaco hématopoïèse": 10, "Horsmans – Pharmaco hypolipémiants": 20, "Horsmans – Pharmaco immunosuppresseurs": 30}
 used = collections.defaultdict(set)
 for qid in existing.values():
     m = re.match(r"ENDO-(.+)-(ADULTE|PEDIA|RADIO|ANAPATH|PHARMA)-(QCM|QCMM|VF|QROC|CAS)-(\d{3})$", qid)
@@ -123,7 +124,8 @@ def number_for(q, beauloye_rank):
 TRUNCATE = {"2025-01-p16-l482": "Question sur les critères", "2026-01-Q18": "Q28."}
 FORCE = {"ND-maiter-thyroide-Q1": ("incomplete", "Bloc d'association de 3 cas cliniques (énoncé du cas 1 non retranscrit) : consultable, non noté sous forme de QCM.")}
 EXTRA_COMMENT = {"ND-marbaix-thyroide-parathyroides-Q2": "La proposition E est vraisemblablement une plaisanterie du transcripteur (proposition originale inconnue).",
-                 "2025-01-Q50": "Mention du transcripteur : « Réponses à confirmer » (+1 ×2)."}
+                 "2025-01-Q50": "Mention du transcripteur : « Réponses à confirmer » (+1 ×2).",
+                 "2023-05-Q100": "Commentaire du transcripteur sur l'examen : « Horsman 100 % tuyaux sauf les 2 dernières questions qui sont nouvelles »."}
 # Découpage énoncé / propositions refait à la main quand l'extraction les a mélangés (texte original inchangé).
 RESPLIT = {"2024-01-Q39": ("observables en cas de macropolactinome nô secretant chez femme, la fausse :",
                            ["Alopecie temporale", "Galactorhée", "Aménorrhée secondaire", "céphalées"]),
@@ -148,6 +150,9 @@ RESPLIT = {"2024-01-Q39": ("observables en cas de macropolactinome nô secretant
            # lettres collées au texte (« A-IRM hypophyse ») : lettres retirées, texte inchangé
            "2025-01-Q43": ("Parmi ces propositions laquelle ne permet pas de déterminer l’étiologie du syndrome de Cushing :",
                            ["IRM hypophyse", "La concentartion plamsatique d’ACTH", "Le test de stimulation de CRH", "CTscan des surrénales", "Le test dexamethasone faible dose"]),
+           # Pharmacologie : numéro collé à l'énoncé ; commentaires sur l'examen lus comme des propositions
+           "2024-01-p10-l353": ("Le folate est absorbée au niveau :", ["Jéjunum", "Estomac", "Iléon", "colon", "Gastrique"]),
+           "2023-05-Q100": ("biodisponibilité IV :", ["25%", "50%", "75%", "100%", "10 %"]),
            # la mention « Réponses à confirmer +1+1 » du transcripteur avait été lue comme une 6e proposition
            "2025-01-Q50": ("Hypercortisolémie avec ACTH élévé lesquelles des ses situations ne sont possibles (2 réponses) :",
                            ["macroadenome hypophysaire", "microadénome hypophysaire", "tumeur carcinoïde bronchique",

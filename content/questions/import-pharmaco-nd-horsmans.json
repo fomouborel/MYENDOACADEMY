@@ -1,0 +1,573 @@
+{
+  "source": "import-pharmaco-nd-horsmans",
+  "questions": [
+    {
+      "id": "ENDO-ND-PHARMA-QCM-011",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quel est le besoin journalier de fer dans l’organisme ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "0,1 mg",
+          "explanation": "Non : trop peu."
+        },
+        {
+          "id": "B",
+          "text": "0,4 mg",
+          "explanation": "Non : trop peu."
+        },
+        {
+          "id": "C",
+          "text": "1,5 mg",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "3 mg",
+          "explanation": "Non : trop."
+        },
+        {
+          "id": "E",
+          "text": "5 mg",
+          "explanation": "Non : trop."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 89,
+        "originalNumber": 1,
+        "auditRef": "ND-horsmans-hematopoiese-Q1"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "hematopoiese",
+      "lessonLinks": [
+        "pharm-hematopoiese"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "FER",
+      "answerNote": "Pharmacologie (Horsmans).",
+      "hints": [
+        "La question porte sur le fer qu’il faut ABSORBER chaque jour, pas sur l’apport alimentaire.",
+        "On perd environ 1 mg de fer par jour, davantage chez la femme réglée.",
+        "Il faut compenser les pertes, règles comprises."
+      ],
+      "explanation": {
+        "text": "On perd environ 1 mg de fer par jour (desquamation, sueur, urines), davantage chez la femme réglée. Pour rester à l’équilibre, il faut absorber environ 1 mg par jour chez l’homme et 1,5 mg chez la femme réglée : c’est la réponse retenue. Comme on n’absorbe qu’une petite partie du fer alimentaire, les apports recommandés sont bien plus élevés (environ 11 mg par jour chez l’homme et 16 mg chez la femme non ménopausée selon l’EFSA).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-PHARMA-QCM-012",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "L’absorption de la vitamine B12 se fait au niveau",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Jéjunum",
+          "explanation": "Non : les folates."
+        },
+        {
+          "id": "B",
+          "text": "Iléon",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Côlon",
+          "explanation": "Non."
+        },
+        {
+          "id": "D",
+          "text": "Gastrique",
+          "explanation": "Non : l’estomac sécrète le facteur intrinsèque, il n’absorbe pas la vitamine."
+        },
+        {
+          "id": "E",
+          "text": "Estomac",
+          "explanation": "Non : même raison."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 89,
+        "originalNumber": 2,
+        "auditRef": "ND-horsmans-hematopoiese-Q2"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "hematopoiese",
+      "lessonLinks": [
+        "pharm-hematopoiese"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "B12-ABS",
+      "answerNote": "Pharmacologie (Horsmans).",
+      "hints": [
+        "La vitamine B12 a besoin du facteur intrinsèque, sécrété par l’estomac.",
+        "Le complexe vitamine-facteur est absorbé plus loin, dans l’intestin grêle.",
+        "Pense à la partie terminale de l’intestin grêle."
+      ],
+      "explanation": {
+        "text": "La vitamine B12 se lie au facteur intrinsèque, sécrété par l’estomac ; le complexe est absorbé dans l’iléon terminal. C’est pourquoi une gastrectomie (plus de facteur intrinsèque) ou une maladie ou une résection de l’iléon (maladie de Crohn) donnent une carence. Le fer est absorbé dans le duodénum, les folates dans le jéjunum.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-PHARMA-QCM-013",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Le folate est absorbé au niveau :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Jéjunum",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Estomac",
+          "explanation": "Non."
+        },
+        {
+          "id": "C",
+          "text": "Iléon",
+          "explanation": "Non : c’est la vitamine B12."
+        },
+        {
+          "id": "D",
+          "text": "Colon",
+          "explanation": "Non."
+        },
+        {
+          "id": "E",
+          "text": "Gastrique",
+          "explanation": "Non."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 89,
+        "originalNumber": 3,
+        "auditRef": "ND-horsmans-hematopoiese-Q3"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "hematopoiese",
+      "lessonLinks": [
+        "pharm-hematopoiese"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "FOLATE",
+      "answerNote": "Pharmacologie (Horsmans).",
+      "hints": [
+        "Chaque nutriment de l’hématopoïèse est absorbé à un endroit précis de l’intestin grêle.",
+        "La vitamine B12 est absorbée tout au bout, dans l’iléon.",
+        "Les folates, eux, sont absorbés dans la partie proximale du grêle."
+      ],
+      "explanation": {
+        "text": "Les folates sont absorbés dans le jéjunum (intestin grêle proximal). Une malabsorption du grêle, l’alcoolisme ou certains médicaments (méthotrexate, antiépileptiques) favorisent leur carence. La vitamine B12 est absorbée dans l’iléon terminal, avec le facteur intrinsèque ; l’estomac et le côlon n’absorbent pas les folates.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-PHARMA-QCM-021",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Laquelle de ces propositions concernant les statines est fausse ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Elles inhibent l’absorption intestinale du cholestérol",
+          "explanation": "Faux (réponse attendue) : c’est l’ézétimibe."
+        },
+        {
+          "id": "B",
+          "text": "Elles diminuent le taux de LDL-Cholestérol",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Elles ont une métabolisation hépatique",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "Elles ont de multiples interactions avec d’autres médicaments",
+          "explanation": "Vrai : souvent par le CYP3A4."
+        },
+        {
+          "id": "E",
+          "text": "Elles inhibent l'HMG CoA-réductase",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 90,
+        "originalNumber": 1,
+        "auditRef": "ND-horsmans-hypolipemiants-Q1"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "hypolipemiants",
+      "lessonLinks": [
+        "pharm-hypolipemiants"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "STATINES",
+      "answerNote": "Pharmacologie (Horsmans).",
+      "hints": [
+        "Le cholestérol vient de deux sources : la fabrication par le foie et l’absorption par l’intestin.",
+        "Les statines agissent sur une enzyme du foie.",
+        "Quel médicament bloque l’absorption intestinale ?"
+      ],
+      "explanation": {
+        "text": "Les statines inhibent l’HMG-CoA réductase, enzyme clé de la fabrication du cholestérol dans le foie : le LDL-cholestérol baisse. Elles sont métabolisées par le foie (souvent par le CYP3A4) et ont de nombreuses interactions. L’inhibition de l’absorption intestinale du cholestérol est le mécanisme de l’ézétimibe, pas des statines.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-PHARMA-QCM-031",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quel médicament/substance n’interagit pas avec la cyclosporine",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Jus de pamplemousse",
+          "explanation": "Interagit : inhibe le CYP3A4."
+        },
+        {
+          "id": "B",
+          "text": "Rifampicine",
+          "explanation": "Interagit : induit le CYP3A4."
+        },
+        {
+          "id": "C",
+          "text": "Un antiépileptique",
+          "explanation": "Interagit (antiépileptiques inducteurs)."
+        },
+        {
+          "id": "D",
+          "text": "Ezetrol",
+          "explanation": "Réponse retenue, discutable : interaction décrite dans la notice."
+        },
+        {
+          "id": "E",
+          "text": "Amlodipine",
+          "explanation": "Interagit : substrat du CYP3A4."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 90,
+        "originalNumber": 1,
+        "auditRef": "ND-horsmans-immunosuppresseurs-Q1"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "immunosuppresseurs",
+      "lessonLinks": [
+        "pharm-immunosuppresseurs",
+        "pharm-cinetique"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CYCLO-INTER",
+      "answerNote": "« Tuyau » de Horsmans : la réponse retenue est l'ézétimibe (Ezetrol), qui n'agit pas sur le CYP3A4. Mais la notice de l'ézétimibe signale une interaction avec la ciclosporine (exposition des deux médicaments augmentée, taux de ciclosporine à surveiller) : « n'interagit pas » n'est pas exact au sens strict.",
+      "hints": [
+        "La ciclosporine est métabolisée par le CYP3A4.",
+        "Cherche les inhibiteurs (taux augmentés) et les inducteurs (taux diminués) du CYP3A4.",
+        "Cette question a une correction discutée : lis l’explication après avoir répondu."
+      ],
+      "explanation": {
+        "text": "Correction discutée. La ciclosporine est métabolisée par le CYP3A4 : le jus de pamplemousse et la cimétidine (inhibiteurs) augmentent ses taux ; la rifampicine et les antiépileptiques inducteurs les diminuent ; l’amlodipine passe aussi par le CYP3A4. La réponse retenue, l’ézétimibe (Ezetrol), est le seul médicament proposé qui n’agit pas sur le CYP3A4. Mais la notice de l’ézétimibe signale une interaction avec la ciclosporine : l’exposition des deux médicaments augmente et il faut surveiller les taux de ciclosporine. « N’interagit pas » n’est donc pas exact au sens strict.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-PHARMA-QCM-032",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant la Ciclosporine, une fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Firstpass hépatique important",
+          "explanation": "Réponse retenue, discutable : premier passage notable."
+        },
+        {
+          "id": "B",
+          "text": "Cyp 3A4",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Absorption lente",
+          "explanation": "Vrai : absorption lente et variable."
+        },
+        {
+          "id": "D",
+          "text": "Elimination rénale",
+          "explanation": "Inexacte aussi : élimination surtout biliaire."
+        },
+        {
+          "id": "E",
+          "text": "Elimination hépatique",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 90,
+        "originalNumber": 2,
+        "auditRef": "ND-horsmans-immunosuppresseurs-Q2"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "immunosuppresseurs",
+      "lessonLinks": [
+        "pharm-immunosuppresseurs",
+        "pharm-cinetique"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CYCLO-PK",
+      "answerNote": "Réponse retenue : « first-pass hépatique important » serait faux. Or la ciclosporine subit un effet de premier passage notable (intestinal et hépatique, CYP3A4 et glycoprotéine P), et son élimination est surtout biliaire (3 à 6 % seulement dans les urines) : « élimination rénale » est au moins aussi inexacte.",
+      "hints": [
+        "La ciclosporine passe par le CYP3A4 et la glycoprotéine P.",
+        "Par où est-elle surtout éliminée : la bile ou l’urine ?",
+        "Cette question a une correction discutée : lis l’explication après avoir répondu."
+      ],
+      "explanation": {
+        "text": "Correction discutée. La réponse retenue est que le « premier passage hépatique important » serait faux. Or la ciclosporine a une biodisponibilité faible et variable, avec un effet de premier passage notable dans l’intestin et le foie (CYP3A4, glycoprotéine P). Son absorption est lente et variable, son métabolisme passe par le CYP3A4, et son élimination est surtout biliaire : 3 à 6 % seulement dans les urines. « Élimination rénale » est donc au moins aussi inexacte. Aucune correction officielle n’existe.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-PHARMA-QCM-033",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Association Allopurinol et Azathioprine, quel effet secondaire est favorisé :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hyperuricémie",
+          "explanation": "Non : l’allopurinol la traite."
+        },
+        {
+          "id": "B",
+          "text": "Diabète insulino dépendant",
+          "explanation": "Non."
+        },
+        {
+          "id": "C",
+          "text": "Aplasie médullaire",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Leucémie chronique",
+          "explanation": "Non."
+        },
+        {
+          "id": "E",
+          "text": "Cystite hémorragique",
+          "explanation": "Non : c’est un effet du cyclophosphamide."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 90,
+        "originalNumber": 3,
+        "auditRef": "ND-horsmans-immunosuppresseurs-Q3"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "immunosuppresseurs",
+      "lessonLinks": [
+        "pharm-immunosuppresseurs"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "AZA-ALLO",
+      "answerNote": "Pharmacologie (Horsmans), « tuyau ».",
+      "hints": [
+        "L’allopurinol bloque une enzyme qui dégrade les purines.",
+        "L’azathioprine est transformée en 6-mercaptopurine, dégradée en partie par cette même enzyme.",
+        "Si le médicament actif s’accumule, quel organe à renouvellement rapide en souffre ?"
+      ],
+      "explanation": {
+        "text": "L’allopurinol inhibe la xanthine oxydase, qui dégrade la 6-mercaptopurine issue de l’azathioprine. Le médicament actif s’accumule et provoque une toxicité médullaire : aplasie, parfois mortelle. On évite l’association ou on réduit très fortement la dose d’azathioprine. L’allopurinol traite au contraire l’hyperuricémie.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-PHARMA-QCM-034",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant le Sirolimus, trouver la fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "First-pass hépatique important",
+          "explanation": "Vrai : biodisponibilité d’environ 14 %."
+        },
+        {
+          "id": "B",
+          "text": "Cyp 3A4",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Absorption intestinale lente",
+          "explanation": "Faux (réponse retenue) : absorption rapide."
+        },
+        {
+          "id": "D",
+          "text": "Elimination rénale",
+          "explanation": "Inexacte aussi : 2,2 % dans les urines."
+        },
+        {
+          "id": "E",
+          "text": "Élimination hépatique",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "F",
+          "text": "Absorption rapide",
+          "explanation": "Vrai : pic en 1 à 2 heures."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "PHARMA",
+        "teacher": "Horsmans",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 90,
+        "originalNumber": 4,
+        "auditRef": "ND-horsmans-immunosuppresseurs-Q4"
+      },
+      "chapter": "pharmaco",
+      "subchapter": "immunosuppresseurs",
+      "lessonLinks": [
+        "pharm-immunosuppresseurs",
+        "pharm-cinetique"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SIROLIMUS",
+      "answerNote": "« Tuyau » de Horsmans : la réponse retenue est « absorption intestinale lente » (le sirolimus est absorbé rapidement). Mais « élimination rénale » est aussi inexacte : environ 2 % seulement de la dose est éliminée dans les urines, l'élimination est surtout fécale.",
+      "hints": [
+        "Le sirolimus, comme la ciclosporine, passe par le CYP3A4.",
+        "Sa biodisponibilité est faible à cause d’un important premier passage.",
+        "Cette question a une correction discutée : lis l’explication après avoir répondu."
+      ],
+      "explanation": {
+        "text": "Correction discutée. Le sirolimus subit un important effet de premier passage (biodisponibilité d’environ 14 %), il est métabolisé par le CYP3A4 et éliminé surtout par voie hépatique et fécale (91 % dans les selles). Il est absorbé rapidement (pic en 1 à 2 heures) : « absorption intestinale lente » est faux, c’est la réponse retenue. Mais « élimination rénale » est aussi inexacte : 2,2 % seulement de la dose passent dans les urines.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

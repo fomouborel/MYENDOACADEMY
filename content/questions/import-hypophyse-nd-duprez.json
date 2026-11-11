@@ -1095,6 +1095,58 @@
         "status": "complement",
         "sources": []
       }
+    },
+    {
+      "id": "ENDO-ND-RADIO-QCM-085",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Pour différencier un adénome sécrétant d’un adénome non sécrétant en IRM",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Toujours"
+        },
+        {
+          "id": "B",
+          "text": "ique"
+        },
+        {
+          "id": "C",
+          "text": "On ne les distingue pas ni par la pondération T1 ni par le contraste (un truc du genre mais en tous cas on ne fait pas la différence à l’imagerie) c’était genre il n’y a aucune particularités de rehaussement ou de..."
+        },
+        {
+          "id": "D",
+          "text": "Toujours hémorragique"
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "RADIO",
+        "teacher": "Duprez/Coche",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 85,
+        "originalNumber": 85,
+        "auditRef": "ND-duprez-coche-imagerie-Q85"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "imagerie",
+      "lessonLinks": [
+        "hyph-anatomie",
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "IRM-ADENOME",
+      "answerNote": "Classée « non classable » par l'extraction. Propositions mal retranscrites (« ique », formulation reconstituée) : consultable. Idée retenue : l'IRM ne distingue pas un adénome sécrétant d'un adénome non sécrétant."
     }
   ]
 }
