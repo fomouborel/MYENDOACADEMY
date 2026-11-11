@@ -39,9 +39,16 @@ jobs:
         run: npm test
       - name: Construction
         run: npm run build
+      # Le navigateur vient du serveur de Playwright. Les dépendances système passent par le miroir
+      # Ubuntu, parfois indisponible : l'étape est tentée à part, sans bloquer (l'image GitHub contient
+      # déjà Chrome et ses bibliothèques). S'il manquait vraiment quelque chose, les tests échoueraient.
       - name: Navigateur pour les tests de bout en bout
-        run: npx playwright install --with-deps chromium
-        timeout-minutes: 10
+        run: npx playwright install chromium
+        timeout-minutes: 5
+      - name: Dépendances système du navigateur (facultatif)
+        run: npx playwright install-deps chromium
+        timeout-minutes: 4
+        continue-on-error: true
       - name: Tests de bout en bout (ordinateur + smartphone)
         run: npm run e2e
         timeout-minutes: 15

@@ -24,7 +24,10 @@ jobs:
       - run: npm run validate:content
       - run: npm test
       - run: npm run build
-      - run: npx playwright install --with-deps chromium
-        timeout-minutes: 10
+      - run: npx playwright install chromium
+        timeout-minutes: 5
+      - run: npx playwright install-deps chromium
+        timeout-minutes: 4
+        continue-on-error: true
       - run: npm run e2e
         timeout-minutes: 15
