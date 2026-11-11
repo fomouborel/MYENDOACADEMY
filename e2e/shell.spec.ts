@@ -16,6 +16,18 @@ test('accueil : les cours intégrés (thyroïde, hypophyse) sont accessibles', a
   }
 });
 
+test('mes cours : un cours ouvert n’apparaît jamais dans « Bientôt »', async ({ page }) => {
+  const { chapters } = JSON.parse(readFileSync('content/chapters.json', 'utf8')) as { chapters: { title: string; status: string; lessons: unknown[] }[] };
+  await page.goto('./#/cours');
+  const open = page.getByRole('list', { name: 'Cours disponibles' });
+  const soon = page.getByRole('list', { name: 'Cours bientôt disponibles' });
+  for (const c of chapters) {
+    const isOpen = c.status === 'available' && c.lessons.length > 0;
+    await expect((isOpen ? open : soon).getByText(c.title, { exact: true })).toHaveCount(1);
+    await expect((isOpen ? soon : open).getByText(c.title, { exact: true })).toHaveCount(0);
+  }
+});
+
 test('menu : seules les rubriques disponibles sont proposées', async ({ page }) => {
   await page.goto('./');
   await navTo(page, 'Mes cours');
