@@ -81,6 +81,8 @@ export function validateContent(raw: RawContent): string[] {
       if (!q.id.startsWith(`ENDO-${q.provenance.session}-${q.provenance.discipline}-`)) err(w, 'l’identifiant ne correspond pas à la session/discipline');
       if (q.answerStatus === 'authored') err(w, 'une question d’archives ne peut pas avoir le statut « authored »');
       // Règle pédiatrie (décision phase 1) : thyroïde de l'enfant → hypo/congenitale ; sinon chapitre pédiatrie.
+      // Décision du 11/11/2026 (docs/DECISIONS.md) : à l'intégration du cours de pédiatrie, la thyroïde de l'enfant
+      // y sera basculée et cette règle deviendra « toute question PEDIA → chapitre pediatrie ».
       if (q.provenance.discipline === 'PEDIA') {
         const ok = (q.chapter === 'hypo' && q.subchapter === 'congenitale') || q.chapter === 'pediatrie';
         if (!ok) err(w, 'question pédiatrique hors de « hypo › congenitale » ou du chapitre « pediatrie »');
