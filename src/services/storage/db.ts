@@ -119,3 +119,13 @@ export async function getLessons(): Promise<LessonProgress[]> {
   const db = await getDb();
   return db.getAll('lessons');
 }
+
+export async function getMeta<T = unknown>(key: string): Promise<T | undefined> {
+  const db = await getDb();
+  return (await db.get('meta', key))?.value as T | undefined;
+}
+
+export async function setMeta(key: string, value: unknown): Promise<void> {
+  const db = await getDb();
+  await db.put('meta', { key, value });
+}

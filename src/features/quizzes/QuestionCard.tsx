@@ -105,7 +105,7 @@ export function QuestionCard({ question: q, mode, hintsEnabled, sessionId, onAns
       <p id={`stem-${q.id}`} className="stem">{q.stem}</p>
 
       {q.labs.length > 0 && (
-        <div className="table-wrap">
+        <div className="table-wrap" tabIndex={0} role="region" aria-label="Tableau">
           <table className="labs">
             <thead><tr><th>Analyse</th><th>Résultat</th><th>Norme</th></tr></thead>
             <tbody>

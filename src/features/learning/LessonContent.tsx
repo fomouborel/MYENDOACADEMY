@@ -39,8 +39,9 @@ export function LessonContent({ markdown }: { markdown: string }) {
               </section>
             );
           },
+          pre: ({ node: _n, ...props }) => <pre tabIndex={0} aria-label="Schéma (défilable)" {...props} />,
           table: ({ node: _n, ...props }) => (
-            <div className="table-wrap">
+            <div className="table-wrap" tabIndex={0} role="region" aria-label="Tableau (défilable)">
               <table {...props} />
             </div>
           ),

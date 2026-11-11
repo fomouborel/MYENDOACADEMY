@@ -40,6 +40,7 @@ export function Layout() {
             {n.label}
           </NavLink>
         ))}
+        <NavLink to="/aide" className="side-help">❔ Mode d’emploi</NavLink>
       </nav>
       {open && <div className="backdrop" onClick={() => setOpen(false)} aria-hidden />}
       <main className="main">

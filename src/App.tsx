@@ -15,6 +15,7 @@ import { MockExamsPage } from '@/pages/MockExamsPage';
 import { SessionPage } from '@/pages/SessionPage';
 import { ErrorsPage } from '@/pages/ErrorsPage';
 import { RevisionPage } from '@/pages/RevisionPage';
+import { HelpPage } from '@/pages/HelpPage';
 import { ProgressProvider } from '@/state/ProgressContext';
 
 /**
@@ -41,6 +42,7 @@ export function App() {
             <Route path="session/:sessionId" element={<SessionPage />} />
             <Route path="erreurs" element={<ErrorsPage />} />
             <Route path="revisions" element={<RevisionPage />} />
+            <Route path="aide" element={<HelpPage />} />
             <Route path="progression" element={<ProgressPage />} />
             <Route path="*" element={<p>Page introuvable. Utilise le menu pour revenir à l’accueil.</p>} />
           </Route>

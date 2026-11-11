@@ -49,7 +49,7 @@ export function QuizSession({ questions, mode, hintsEnabled, backTo }: { questio
   const answered = q.id in answers;
   return (
     <div>
-      <div className="progressbar" role="progressbar" aria-valuemin={0} aria-valuemax={questions.length} aria-valuenow={index + 1}>
+      <div className="progressbar" role="progressbar" aria-label="Avancement de la série" aria-valuemin={0} aria-valuemax={questions.length} aria-valuenow={index + 1}>
         <span style={{ width: `${((index + (answered ? 1 : 0)) / questions.length) * 100}%` }} />
       </div>
       <p className="muted">Question {index + 1} sur {questions.length}{hintsEnabled ? '' : ' · sans indice (niveau examen)'}</p>

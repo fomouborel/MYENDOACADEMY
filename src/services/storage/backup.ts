@@ -5,7 +5,7 @@
  */
 import { Backup, PROGRESS_SCHEMA_VERSION, type Backup as BackupT } from '@/schemas/progress';
 import { rebuildState } from '@/services/progress/questionState';
-import { getDb } from './db';
+import { getDb, setMeta } from './db';
 
 export async function exportBackup(now = new Date()): Promise<BackupT> {
   const db = await getDb();
@@ -20,6 +20,11 @@ export async function exportBackup(now = new Date()): Promise<BackupT> {
       sessions: await db.getAll('sessions'),
     },
   };
+}
+
+/** À appeler après un téléchargement réussi : sert au rappel de sauvegarde. */
+export async function markExported(now = new Date()): Promise<void> {
+  await setMeta('lastExportAt', now.toISOString());
 }
 
 export function backupFileName(now = new Date()): string {

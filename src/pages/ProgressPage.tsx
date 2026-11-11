@@ -3,7 +3,8 @@ import { CoverageStats } from '@/components/Stats';
 import { ChapterCard } from '@/components/ChapterCard';
 import { openChapters } from '@/data/content';
 import { useProgress } from '@/state/ProgressContext';
-import { BackupError, backupFileName, exportBackup, importBackup, parseBackup } from '@/services/storage/backup';
+import { BackupError, backupFileName, exportBackup, importBackup, markExported, parseBackup } from '@/services/storage/backup';
+import { BackupReminder } from '@/components/BackupReminder';
 
 export function ProgressPage() {
   const [message, setMessage] = useState<{ kind: 'ok' | 'error'; text: string } | null>(null);
@@ -20,6 +21,8 @@ export function ProgressPage() {
     a.download = backupFileName();
     a.click();
     URL.revokeObjectURL(url);
+    await markExported();
+    window.dispatchEvent(new Event('endo-exported'));
     setMessage({ kind: 'ok', text: 'Sauvegarde téléchargée. Garde ce fichier en lieu sûr (par exemple dans ton cloud personnel).' });
   }
 
@@ -41,6 +44,7 @@ export function ProgressPage() {
     <section>
       <h1>Ma progression</h1>
       <p className="lead">Tes réponses sont enregistrées automatiquement sur cet appareil, dans ce navigateur.</p>
+      <BackupReminder />
       <h2>Archives travaillées</h2>
       <CoverageStats />
       <h2>Par cours</h2>

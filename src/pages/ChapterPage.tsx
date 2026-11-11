@@ -90,7 +90,7 @@ export function ChapterPage() {
         <li className="step">
           <h2>6. Bilan</h2>
           <p><strong>Niveau de maîtrise :</strong> {MASTERY_LABEL[m.level]} · {Math.round(m.workedRatio * 100)} % des questions travaillées · réussite {m.successRate === null ? '—' : `${Math.round(m.successRate * 100)} %`} · {m.finalEvalsPassed} évaluation(s) réussie(s) à des jours différents</p>
-          <div className="table-wrap">
+          <div className="table-wrap" tabIndex={0} role="region" aria-label="Tableau">
             <table>
               <thead><tr><th>Sous-chapitre</th><th>Travaillées</th><th>Réussite</th><th>Appréciation</th></tr></thead>
               <tbody>

@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import { chapters, lessons as allLessons, questions } from '@/data/content';
 import { ChapterCard } from '@/components/ChapterCard';
+import { BackupReminder } from '@/components/BackupReminder';
 import { CoverageStats } from '@/components/Stats';
 import { useProgress } from '@/state/ProgressContext';
 import { chapterMastery, MASTERY_LABEL } from '@/services/progress/chapterMastery';
@@ -29,6 +30,7 @@ export function HomePage() {
       {nextLesson && (
         <div className="notice"><strong>Pour continuer :</strong> <Link to={`/cours/${nextLesson.chapterId}/lecon/${nextLesson.id}`}>{nextLesson.title}</Link></div>
       )}
+      <BackupReminder />
       {due.ids.length > 0 && (
         <div className="notice"><strong>🔁 {due.ids.length} question(s) à réviser aujourd’hui.</strong> <Link to={`/quiz?mode=free&ids=${due.ids.slice(0, 20).join(',')}`}>Réviser maintenant</Link></div>
       )}
