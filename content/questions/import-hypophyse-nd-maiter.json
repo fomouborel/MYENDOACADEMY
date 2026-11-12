@@ -1881,6 +1881,240 @@
       "clinical": false,
       "duplicateGroup": "CUSHING-DIAG",
       "answerNote": "Trois propositions en rouge pour « 2 réponses fausses ». La freination par la dexaméthasone à forte dose (> 50 %) et l'élévation du cortisol sous contraception sont classiquement exactes : la retranscription est probablement inexacte."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-819",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Ds diabète insipide central, 1 fausse:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hyponatrémie a la fin du test de restriction hydrique",
+          "explanation": "Faux (réponse attendue) : c’est une hypernatrémie."
+        },
+        {
+          "id": "B",
+          "text": "Le patient continuera à perdre du poids meme pdt le test",
+          "explanation": "Vrai : la polyurie persiste."
+        },
+        {
+          "id": "C",
+          "text": "Osmolalité urinaire est plus basse que l'osmolalité plasmatique",
+          "explanation": "Vrai : urines diluées."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 40,
+        "originalNumber": 19,
+        "auditRef": "ND-maiter-diabete-Q19"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "posthypophyse",
+      "lessonLinks": [
+        "hyph-posthypophyse"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "DI",
+      "answerNote": "Classée « Diabète » par l'extraction (section diabète de Maiter) ; 3 propositions.",
+      "hints": [
+        "Pendant la restriction hydrique, le patient continue d’uriner beaucoup.",
+        "Il perd de l’eau libre sans pouvoir boire.",
+        "Que devient alors le sodium dans le sang ?"
+      ],
+      "explanation": {
+        "text": "Dans un diabète insipide central, la restriction hydrique ne fait pas concentrer les urines : le patient continue d’uriner et perd du poids, et l’osmolalité urinaire reste inférieure à l’osmolalité plasmatique. Il perd de l’eau libre : la natrémie monte (hypernatrémie), elle ne baisse pas. L’épreuve est arrêtée si la natrémie ou la perte de poids deviennent dangereuses.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-878",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Qu’est ce qu’on ne retrouve pas dans un diabète insipide ? 2 réponses",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Osmolalité urinaire > osmolalité plasmatique"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 47,
+        "originalNumber": 78,
+        "auditRef": "ND-maiter-diabete-Q78"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "posthypophyse",
+      "lessonLinks": [
+        "hyph-posthypophyse"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DI",
+      "answerNote": "Classée « Diabète » par l'extraction (section diabète de Maiter) ; une seule proposition."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-900",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Diabète insipide central.. Laquelle est fausse?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Osmolarité plasmatique > urinaire",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "Ne répond pas à l’administration de desmopressine",
+          "explanation": "Faux (réponse attendue) : il y répond (c’est le traitement)."
+        },
+        {
+          "id": "C",
+          "text": "Perte du signal hyperintense en irm t1 de la neurohypophyse",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "Produit une hypernatrémie",
+          "explanation": "Vrai : si l’accès à l’eau est limité."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 49,
+        "originalNumber": 100,
+        "auditRef": "ND-maiter-diabete-Q100"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "posthypophyse",
+      "lessonLinks": [
+        "hyph-posthypophyse"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DI",
+      "answerNote": "Classée « Diabète » par l'extraction (section diabète de Maiter).",
+      "hints": [
+        "Dans la forme centrale, qu’est-ce qui manque : l’ADH ou la réponse du rein ?",
+        "La desmopressine remplace l’ADH.",
+        "Le rein est-il capable de répondre si on lui apporte l’hormone ?"
+      ],
+      "explanation": {
+        "text": "Dans le diabète insipide central, c’est l’ADH qui manque : le rein répond normalement à la desmopressine, qui est d’ailleurs le traitement. On observe des urines diluées (osmolalité plasmatique supérieure à l’osmolalité urinaire), une perte de l’hypersignal T1 de la neurohypophyse et, si le patient ne peut pas boire, une hypernatrémie. C’est le diabète insipide néphrogénique qui ne répond pas à la desmopressine.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-932",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Toutes ces étiologies peuvent être à l’origine d’un diabète insipide central, sauf un :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Prise de lithium",
+          "explanation": "Pas une cause centrale (réponse attendue) : néphrogénique."
+        },
+        {
+          "id": "B",
+          "text": "Neurosarcoïdose",
+          "explanation": "Cause centrale."
+        },
+        {
+          "id": "C",
+          "text": "Neurohypophysite",
+          "explanation": "Cause centrale."
+        },
+        {
+          "id": "D",
+          "text": "Traumatisme crânien",
+          "explanation": "Cause centrale."
+        },
+        {
+          "id": "E",
+          "text": "Métastase tige pituitaire",
+          "explanation": "Cause centrale."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 53,
+        "originalNumber": 132,
+        "auditRef": "ND-maiter-diabete-Q132"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "posthypophyse",
+      "lessonLinks": [
+        "hyph-posthypophyse"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DI",
+      "answerNote": "Classée « Diabète » par l'extraction (section diabète de Maiter).",
+      "hints": [
+        "Distingue les causes centrales (hypothalamus, tige, posthypophyse) des causes rénales.",
+        "Un médicament bien connu en psychiatrie agit sur le rein.",
+        "Il rend le tube collecteur insensible à l’ADH."
+      ],
+      "explanation": {
+        "text": "Le lithium donne un diabète insipide néphrogénique : il rend le rein insensible à l’ADH. Ce n’est pas une cause de diabète insipide central. La neurosarcoïdose, l’hypophysite (atteinte de la tige et de la posthypophyse), les traumatismes crâniens et les métastases de la tige sont des causes centrales.",
+        "status": "complement",
+        "sources": []
+      }
     }
   ]
 }

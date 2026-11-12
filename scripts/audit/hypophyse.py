@@ -114,6 +114,12 @@ H = {
     ("A", 3919): ("AGONISTES-DA", None, "Pharmacologie (Horsmans)."),
     ("A", 3925): ("SOMATOSTATINE", DIS, "Les analogues de la somatostatine peuvent donner des hypo- et des hyperglycémies (ils freinent l'insuline et le glucagon) : « hypoglycémie » comme effet non rencontré est discutable. Les autres questions de la série retiennent l'hyperglycémie comme effet principal."),
     ("A", 3932): ("SOMATOSTATINE", None, "Pharmacologie (Horsmans)."),
+    # Rattachées depuis « Diabète & hypoglycémies » (section diabète de Maiter, janvier 2024) lors de l'intégration du diabète.
+    ("A", 198): ("ADENOME-EPIDEMIO", None, "Classée « Diabète » par l'extraction (janvier 2024). Même réponse que Maiter Q19 : les adénomes les plus fréquents sont les prolactinomes, pas les non fonctionnels."),
+    ("A", 1542): ("DI", None, "Classée « Diabète » par l'extraction (section diabète de Maiter) ; 3 propositions."),
+    ("A", 1882): ("DI", None, "Classée « Diabète » par l'extraction (section diabète de Maiter) ; une seule proposition."),
+    ("A", 2022): ("DI", None, "Classée « Diabète » par l'extraction (section diabète de Maiter)."),
+    ("A", 2207): ("DI", None, "Classée « Diabète » par l'extraction (section diabète de Maiter)."),
     ("E", 202): ("APOPLEXIE", None, ""),
     ("E", 215): ("HYPOPH-MIXTE", None, ""),
     ("E", 226): ("ACRO-SIGNES", None, ""),

@@ -1,0 +1,877 @@
+{
+  "source": "import-diabete-2025-01",
+  "questions": [
+    {
+      "id": "ENDO-2025-01-ADULTE-QCMM-001",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Qu’est ce qui ne permet pas le diagnostic de diabète ( 2 réponse ) ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "glycémie à jeun à 125"
+        },
+        {
+          "id": "B",
+          "text": "glycémie à jeun à 130"
+        },
+        {
+          "id": "C",
+          "text": "OGTT à 180 après 120 min"
+        },
+        {
+          "id": "D",
+          "text": "OGTT à 210 après 120 min"
+        },
+        {
+          "id": "E",
+          "text": "Glycémie à 200 à 15h avec polyurie"
+        }
+      ],
+      "expected": [
+        "A",
+        "C"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 1,
+        "originalNumber": 1,
+        "auditRef": "2025-01-Q1"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DIAG-CRIT",
+      "answerNote": "La consigne retranscrite demande 1 réponse(s), mais 2 proposition(s) sont marquées dans la compilation."
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-002",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "À propos du c-peptide :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "est éliminé par voie rénale",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "est un bon reflet de la fonction des cellules bêta",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "il est dosable dans une hypoglycémie secondaire à un insulinome",
+          "explanation": "Vrai : sécrétion endogène élevée."
+        },
+        {
+          "id": "D",
+          "text": "il est indosable dans un diabète de type 1 depuis longtemps",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "les anticorps anti-peptide c sont les meilleurs pour le diabète de type 1",
+          "explanation": "Faux (réponse attendue) : ce marqueur n’existe pas en pratique."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 1,
+        "originalNumber": 2,
+        "auditRef": "2025-01-Q2"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic",
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CPEPTIDE",
+      "hints": [
+        "Le peptide C est coupé de la proinsuline en même temps que l’insuline.",
+        "Il témoigne donc de la sécrétion propre du pancréas, pas de l’insuline injectée.",
+        "Que devient la sécrétion du pancréas quand on injecte beaucoup d’insuline ?"
+      ],
+      "explanation": {
+        "text": "Le peptide C reflète la sécrétion des cellules bêta. Il est éliminé par le rein, élevé dans l’insulinome, indosable dans un type 1 ancien. Les marqueurs auto-immuns du type 1 sont les anticorps anti-GAD, anti-IA2, anti-ZnT8 et anti-insuline : il n’existe pas d’anticorps « anti-peptide C » utilisés pour le diagnostic.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-004",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "concernant l’HbAc1, la vraie",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "- est le reflet de la glycémie moyenne du mois précédent l'analyse",
+          "explanation": "Faux : 2 à 3 mois."
+        },
+        {
+          "id": "B",
+          "text": "- est surestimé lors d’un déficit en fer",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "- est surestimé lors d’une hémoglobinopathie",
+          "explanation": "Faux comme règle générale : selon l’hémoglobinopathie et la méthode, l’erreur se fait dans un sens ou dans l’autre."
+        },
+        {
+          "id": "D",
+          "text": "- valeur de 6,4% permet de poser le diagnostic de diabète",
+          "explanation": "Faux : il faut 6,5 % ou plus."
+        },
+        {
+          "id": "E",
+          "text": "- glycation réversible",
+          "explanation": "Faux : glycation irréversible."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 1,
+        "originalNumber": 4,
+        "auditRef": "2025-01-Q4"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HBA1C",
+      "hints": [
+        "Pense à la durée de vie des globules rouges.",
+        "Des globules rouges plus jeunes ont eu moins de temps pour se glyquer, des globules rouges plus vieux davantage.",
+        "Que fait une carence en fer à l’âge moyen des globules rouges circulants ?"
+      ],
+      "explanation": {
+        "text": "L’HbA1c reflète la glycémie moyenne des 2 à 3 derniers mois (durée de vie des globules rouges). Elle est sous-estimée quand les globules rouges sont jeunes (hémolyse, hémorragie, transfusion) et surestimée en cas de carence en fer ou chez le sujet âgé. Elle s’exprime en % ou en mmol/mol, la glycation est irréversible, et le diagnostic de diabète est posé à 6,5 % ou plus (ADA 2025).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-006",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant le diabète de type 2, la fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Il y a des jeunes atteints",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "Un retard (c’était nutrition in utéro) in utero est un facteur de risque (ou un truc comme ça, c’était vrai)",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Le diabète peut disparaitre suite à une perte pondérale",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "Il y a fréquemment une composante familliale",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "Un BMI<25 doit exclure un diagnostic de diabète de type 2",
+          "explanation": "Faux (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 2,
+        "originalNumber": 6,
+        "auditRef": "2025-01-Q6"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DT2",
+      "hints": [
+        "Le type 2 touche de plus en plus de jeunes.",
+        "Il est fortement lié à l’hérédité et au poids, et peut régresser.",
+        "Le poids actuel suffit-il à écarter un type 2 ?"
+      ],
+      "explanation": {
+        "text": "Le type 2 touche aussi des jeunes, il est favorisé par un retard de croissance in utero, une histoire familiale est fréquente, et il peut régresser après une perte de poids importante. Un IMC inférieur à 25 ne l’exclut pas : la graisse abdominale, l’origine ethnique et la génétique jouent aussi.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-008",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "femme 30 ans , mère diabétique et grand-père maternel diabétique . En consultation, dosage de glycémie à jeun 130mg/dl et asymptomatique . Concernant la démarche diagnostique, une réponse fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "- on fait une HGPO + dosage glycémie à 120min pour confirmer le diabète",
+          "explanation": "Faux (réponse attendue) : on répète la glycémie à jeun ; l’HGPO n’est pas nécessaire."
+        },
+        {
+          "id": "B",
+          "text": "- ça pourrait être un MODY, qui doit faire l’objet d’une recherche génétique",
+          "explanation": "Vrai : histoire familiale, sujet jeune."
+        },
+        {
+          "id": "C",
+          "text": "- doser anti Gad à la recherche diabète de type 1 en phase pré clinique",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "- absence de critères menant à rechercher une cétonémie",
+          "explanation": "Vrai : asymptomatique."
+        },
+        {
+          "id": "E",
+          "text": "- absence de critères pour suspecter un diabète mitochondrial",
+          "explanation": "Retenue comme vraie : pas de surdité ni d’autre signe."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 2,
+        "originalNumber": 8,
+        "auditRef": "2025-01-Q8"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "DIAG-CRIT",
+      "hints": [
+        "Chez un patient sans symptôme, une valeur anormale doit être confirmée.",
+        "Pour confirmer une glycémie à jeun de 130, quel test est le plus simple ?",
+        "L’histoire familiale sur plusieurs générations oriente vers une cause particulière."
+      ],
+      "explanation": {
+        "text": "Sans symptôme, une glycémie à jeun de 130 mg/dL se confirme par une seconde glycémie à jeun (ou une HbA1c) : l’HGPO n’est pas nécessaire. L’histoire familiale sur plusieurs générations chez une femme jeune fait évoquer un MODY (recherche génétique) ; doser les anti-GAD est utile pour écarter un diabète auto-immun. Asymptomatique, elle n’a pas de raison d’être en cétose. La transmission maternelle peut faire penser au diabète mitochondrial, mais il manque ici les signes associés (surdité, atteinte neurologique).",
+        "status": "complement",
+        "sources": []
+      },
+      "pitfall": "L’HGPO n’est pas le test de confirmation d’une glycémie à jeun anormale."
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-014",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Un patient est en acidocétose, pH à 7.2, la fausse ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Perfusion NACL",
+          "explanation": "Oui."
+        },
+        {
+          "id": "B",
+          "text": "Glucosé",
+          "explanation": "Oui, quand la glycémie passe sous 250."
+        },
+        {
+          "id": "C",
+          "text": "Insuline",
+          "explanation": "Oui."
+        },
+        {
+          "id": "D",
+          "text": "KCL",
+          "explanation": "Oui, selon la kaliémie."
+        },
+        {
+          "id": "E",
+          "text": "Bicarbonates",
+          "explanation": "Faux (réponse attendue) : pH de 7,2."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 3,
+        "originalNumber": 14,
+        "auditRef": "2025-01-Q14"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "ACIDOCETOSE",
+      "hints": [
+        "Le traitement repose sur trois piliers : eau et sel, insuline, potassium.",
+        "Le liquide de départ doit corriger une déshydratation avec perte de sel.",
+        "Un des traitements proposés n’est réservé qu’aux acidoses extrêmes."
+      ],
+      "explanation": {
+        "text": "Acidocétose : réhydratation par sérum physiologique (NaCl 0,9 %), insuline IV continue (environ 0,1 U/kg/h), potassium dès que la kaliémie le permet, glucosé ajouté quand la glycémie descend sous 250 mg/dL, traitement de la cause (antibiotiques IV après hémocultures). Les bicarbonates ne sont pas donnés d’office : seulement si le pH est inférieur à 7,0 (consensus 2024), car ils exposent à l’hypokaliémie et à l’acidose paradoxale du LCR.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-016",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Les éléments suivants permettent de faire le diagnostic différentiel entre une acidose-cétose diabétique et un coma hyperosmolaire sauf un. Lequel?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Une glycémie très élevée, souvent supérieure à 800mg/dl",
+          "explanation": "Ne permet pas (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "La présence ou l’absence de cétose",
+          "explanation": "Permet."
+        },
+        {
+          "id": "C",
+          "text": "Une présence d’hypo-osmolalité plasmatique",
+          "explanation": "Permet (formulation de la compilation : c’est l’osmolalité, très élevée dans l’état hyperosmolaire)."
+        },
+        {
+          "id": "D",
+          "text": "Des troubles neurologiques avec altération de la conscience",
+          "explanation": "Permet en partie : plus fréquents dans l’état hyperosmolaire."
+        },
+        {
+          "id": "E",
+          "text": "La présence d’acidose",
+          "explanation": "Permet."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 3,
+        "originalNumber": 16,
+        "auditRef": "2025-01-Q16"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HYPEROSMO",
+      "hints": [
+        "Compare la cétose, l’acidose et l’osmolalité dans les deux tableaux.",
+        "Un des éléments est présent dans les deux, à des degrés divers.",
+        "Les deux sont des crises d’hyperglycémie."
+      ],
+      "explanation": {
+        "text": "L’acidocétose et l’état hyperosmolaire se distinguent par la cétose, l’acidose et l’osmolalité (très élevée dans l’état hyperosmolaire). Les troubles de la conscience sont plus fréquents et plus profonds dans l’état hyperosmolaire. La glycémie est élevée dans les deux : même si elle est plus haute dans l’état hyperosmolaire, la compilation retient qu’elle ne permet pas de trancher.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-020",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "DD du coma hypoglycémique et du coma acidocétosique (dire la fausse)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "le schéma d’insulinothérapie",
+          "explanation": "Ne permet pas (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "la transpiration",
+          "explanation": "Permet : sueurs de l’hypoglycémie."
+        },
+        {
+          "id": "C",
+          "text": "la déshydratation",
+          "explanation": "Permet."
+        },
+        {
+          "id": "D",
+          "text": "la vitesse d’arrivée",
+          "explanation": "Permet."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 4,
+        "originalNumber": 20,
+        "auditRef": "2025-01-Q20"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DD-COMA",
+      "hints": [
+        "Pour distinguer deux comas, il faut un signe qui diffère entre eux au moment où on examine le patient.",
+        "L’un s’installe en quelques minutes, avec des sueurs ; l’autre en plusieurs heures ou jours, avec une déshydratation.",
+        "Ce que le patient prend habituellement comme traitement est-il différent dans les deux cas ?"
+      ],
+      "explanation": {
+        "text": "Coma hypoglycémique : installation brutale, sueurs profuses, agitation et convulsions possibles, pas de déshydratation. Coma acidocétosique : installation progressive, peau et muqueuses sèches (déshydratation), respiration de Kussmaul, haleine acétonique (« pomme de reinette »). La glycémie capillaire tranche immédiatement. Ne permettent pas de les distinguer : la dose ou le schéma d’insuline, le type de diabète (les deux surviennent chez le diabétique de type 1 sous insuline), la tension artérielle.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-023",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Pied de charcot (ou neuroarthropathie) la fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "- il se présente par un œdème et une erythrose indolore du pied",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "-sa forme chronique est une déformation du pied",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "-un ulcère médio plantaire peut être une présentation du pied de charcot",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "-il est présent chez les diabétiques qui n’ont pas de neuropathie sensitive",
+          "explanation": "Faux (réponse attendue) : il faut une neuropathie."
+        },
+        {
+          "id": "E",
+          "text": "- c’est une urgence et nécessite un diagnostic précoce",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 5,
+        "originalNumber": 23,
+        "auditRef": "2025-01-Q23"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-pied"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PIED",
+      "hints": [
+        "Le pied de Charcot survient sur un pied qui a perdu sa sensibilité.",
+        "En phase aiguë, il ressemble à une infection : rouge, chaud, gonflé.",
+        "Son traitement est mécanique, pas médicamenteux."
+      ],
+      "explanation": {
+        "text": "Pied de Charcot (neuro-arthropathie) : il survient seulement chez des patients neuropathes (diabète surtout, mais aussi d’autres neuropathies). En phase aiguë : pied rouge, chaud, gonflé, peu ou pas douloureux ; c’est une urgence diagnostique et thérapeutique. Le diagnostic est clinique et radiologique (IRM si la radiographie est normale). Le traitement de référence est la décharge par botte plâtrée à contact total, pas les anti-inflammatoires ni les corticoïdes. En phase chronique : déformations sévères, ulcère médio-plantaire.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2025-01-RADIO-QCM-060",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "La glycation de l’hémoglobine est un phénomène naturel et ubiquitaire. Quelle affirmation va en ce sens (la vraie) ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "L’hémoglobine glyquée normale est entre 4-5,7% , donc la glycation de produit même de manière physiologique",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Se produit car le taux de glucose est souvent supérieur à 130 mg/dl",
+          "explanation": "Faux : elle se produit à glycémie normale."
+        },
+        {
+          "id": "C",
+          "text": "Reste pareil à 100mg/dl de glucose ???",
+          "explanation": "Faux : elle dépend de la glycémie."
+        },
+        {
+          "id": "D",
+          "text": "La glycation empêche le stress oxydatif venant du glucose",
+          "explanation": "Faux : les produits de glycation favorisent le stress oxydatif."
+        },
+        {
+          "id": "E",
+          "text": "La coloration de la peau au soleil vient de la glycation",
+          "explanation": "Faux : le bronzage vient de la mélanine."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "RADIO",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 10,
+        "originalNumber": 60,
+        "auditRef": "2025-01-Q60"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HBA1C",
+      "answerNote": "Réponse discutée dans la compilation (voir les commentaires).",
+      "hints": [
+        "Une glycation qui existe chez tout le monde est physiologique.",
+        "Regarde la valeur normale de l’HbA1c.",
+        "Elle n’est pas nulle chez le sujet sain."
+      ],
+      "explanation": {
+        "text": "La glycation est une réaction non enzymatique entre le glucose et les protéines : elle existe chez tout le monde, proportionnellement à la glycémie. L’HbA1c normale (environ 4 à 5,6 %) n’est donc pas nulle. Elle ne nécessite pas une glycémie supérieure à 130 mg/dL, augmente avec la glycémie, favorise plutôt le stress oxydatif et n’a rien à voir avec le bronzage (mélanine).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2025-01-ANAPATH-QCM-085",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Dans le DT2 qu’est ce qui n’est pas juste",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Il n'y a pas d'inflammation",
+          "explanation": "Vrai : pas d’insulite."
+        },
+        {
+          "id": "B",
+          "text": "Les cellules bêta finissent par disparaitre",
+          "explanation": "Retenue comme vraie : les cellules bêta diminuent fortement avec le temps."
+        },
+        {
+          "id": "C",
+          "text": "On peut voir des dépôts amyloïdes",
+          "explanation": "Vrai : amyline."
+        },
+        {
+          "id": "D",
+          "text": "A la lumière polarisée on peut voir une biréfringence (rouge/vert)des fibres amyloïdes si elles sont colorées au rouge Congo",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "Une biopsie est obligatoire pour confirmer le diagnostic (j’étais mdr)",
+          "explanation": "Faux (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 14,
+        "originalNumber": 85,
+        "auditRef": "2025-01-Q85"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ANAPATH",
+      "hints": [
+        "Le type 2 n’est pas une maladie auto-immune.",
+        "Les dépôts amyloïdes se colorent au rouge Congo.",
+        "A-t-on besoin d’un prélèvement de pancréas pour diagnostiquer un diabète ?"
+      ],
+      "explanation": {
+        "text": "Dans le type 2, le pancréas ne montre pas d’inflammation (pas d’insulite), les cellules bêta diminuent progressivement, et on peut voir des dépôts amyloïdes (amyline) dans les îlots, colorés au rouge Congo, avec une biréfringence en lumière polarisée. Une biopsie n’est jamais nécessaire au diagnostic d’un diabète.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2025-01-ADULTE-QCM-902",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Dans quels types de diabètes secondaires retrouve-t-on une insulinorésistance faisant partie du tableau du diabète secondaire (1 fausse) :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Mody type 5",
+          "explanation": "Faux (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Hémochromatose",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "anti-protéases dans le traitement du VIH",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "Glucocorticoide dans le traitement du (?)",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 17,
+        "originalNumber": null,
+        "auditRef": "2025-01-p17-l504"
+      },
+      "chapter": "diabete",
+      "subchapter": "autres-types",
+      "lessonLinks": [
+        "dia-autres"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SECONDAIRE",
+      "answerNote": "Deux questions étaient mêlées dans la retranscription ; seule la première (diabètes secondaires et insulinorésistance) est conservée. La seconde (diabète gestationnel : la metformine n'est pas le traitement de première intention) est perdue.",
+      "hints": [
+        "L’insulinorésistance accompagne l’excès de graisse abdominale et les hormones de contre-régulation.",
+        "Certains médicaments l’augmentent, d’autres l’améliorent.",
+        "Un des diabètes cités est monogénique et touche la sécrétion."
+      ],
+      "explanation": {
+        "text": "Le MODY 5 (HNF1B) est un défaut de sécrétion avec des kystes rénaux, sans insulinorésistance. L’hémochromatose, les antiprotéases et les glucocorticoïdes donnent un diabète en partie par insulinorésistance.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2025-01-RADIO-QCM-904",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "“augmente le risque d’avoir un DT2” ?) Question imagerie sur l’hypophyse (une fausse)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hypophyse change de taille avec âge"
+        },
+        {
+          "id": "B",
+          "text": "Limite supérieure est plate ou concave"
+        },
+        {
+          "id": "C",
+          "text": "Certains adénomes plus que 1mm ne se voient que après injection de produit de contraste (pas sur si c’était ça)"
+        },
+        {
+          "id": "D",
+          "text": "Adénome hyper intense en T1 avec injection de PC, (suite : réhausse plus que le parenchyme)"
+        },
+        {
+          "id": "E",
+          "text": "Question sur la retinopathie une faute"
+        },
+        {
+          "id": "F",
+          "text": "On traite par photocoagulation"
+        },
+        {
+          "id": "G",
+          "text": "La vitrectomie rend aveugle"
+        }
+      ],
+      "expected": [
+        "G"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2025-01",
+        "discipline": "RADIO",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "02_Retranscription Janvier 2025 - Secteur Endocrinologie.pdf",
+        "page": 17,
+        "originalNumber": null,
+        "auditRef": "2025-01-p17-l516"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "RETINO",
+      "answerNote": "Retranscription mêlant plusieurs questions (imagerie de l'hypophyse, rétinopathie) : consultable. Idée retenue : « la vitrectomie rend aveugle » est fausse."
+    }
+  ]
+}

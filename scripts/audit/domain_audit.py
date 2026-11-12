@@ -15,7 +15,11 @@ sys.path.insert(0, HERE)
 cfg = importlib.import_module(DOM)
 LABEL = {"hypophyse": ("Hypophyse", "Hypophyse"), "surrenales": ("Surrénales", "Surrénales"),
          "pharmaco": ("Pharmacologie générale (hors endocrinologie)", "Pharmacologie"),
-         "obesite": ("Obésité, nutrition & syndrome métabolique", "Obésité et nutrition")}[DOM]  # (domaine dans l'audit, titre du cours)
+         "obesite": ("Obésité, nutrition & syndrome métabolique", "Obésité et nutrition"),
+         "diabete": ("Diabète & hypoglycémies", "Diabète")}[DOM]
+# Intégration par parties (domaine volumineux) : « python3 domain_audit.py W diabete 1 » n'exporte que la partie 1 ;
+# la partie N exporte les parties 1 à N (export cumulatif).
+PART = sys.argv[3] if len(sys.argv) > 3 else None  # (domaine dans l'audit, titre du cours)
 
 final = json.load(open(os.path.join(W, "final.json"), encoding="utf-8"))
 # Le domaine de l'audit, plus les questions classées ailleurs par l'extraction et rattachées ici à la main.
@@ -23,6 +27,10 @@ pool = [q for q in final if q.get("domain") == LABEL[0] or (q["src"], q["line"])
 keys = {(q["src"], q["line"]) for q in pool}
 in_domain = {(q["src"], q["line"]) for q in final if q.get("domain") == LABEL[0]}
 missing = (set(cfg.H) | set(cfg.EXCLUDE)) - keys
+if getattr(cfg, "PEDIA_AUTO", False):  # toutes les questions de pédiatrie vont au cours de pédiatrie
+    for q in pool:
+        k = (q["src"], q["line"])
+        if q["disc"] == "PEDIA" and k not in cfg.H: cfg.EXCLUDE.setdefault(k, cfg._PEDIA)
 unclassified = in_domain - set(cfg.H) - set(cfg.EXCLUDE)
 if missing or unclassified:
     sys.exit(f"classement incomplet : inconnues {sorted(missing)}, non classées {sorted(unclassified)}")
@@ -40,7 +48,11 @@ for q in pool:
         "module": LABEL[1], "autres": "", "sous_theme": label, "note": note, "groupe": grp, "answer": q["answer"],
         "map": {"chapter": DOM, "subchapter": sub, "lessons": lessons[:3]},
     })
-json.dump(out, open(os.path.join(HERE, "data", f"{DOM}-audit.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+export = out
+if PART:
+    allowed = set().union(*(cfg.PARTS[k] for k in cfg.PARTS if k <= PART))
+    export = [q for q in out if q["map"]["subchapter"] in allowed]
+json.dump(export, open(os.path.join(HERE, "data", f"{DOM}-audit.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
 SHORT = {"Réponse proposée dans la compilation": "🟦 proposée", "Réponse discutée ou contestée": "🟧 discutée", "Question incomplète": "⬜ incomplète",
          "Réponse absente": "🟥 absente", "Réponse déduite du texte, à vérifier": "🟨 déduite", "Question non retranscrite (seul le nom du transcripteur figure)": "⬛ non retranscrite"}
@@ -74,4 +86,4 @@ with open(os.path.join(ROOT, "docs/audit", f"inventaire-{DOM}.csv"), "w", newlin
     w.writerow(["ref_audit", "session", "discipline", "enseignant", "page_pdf", "famille", "sous_chapitre", "lecons", "statut_correction", "reponse_marquee_en_rouge", "remarque", "enonce", "propositions"])
     for q in out:
         w.writerow([q["ref"], q["session"], q["disc"], q["teacher"], q["page"], q["groupe"], q["map"]["subchapter"], " ".join(q["map"]["lessons"]), q["status"], q["answer"], q["note"], " ".join(q["stem"]), " ¦ ".join(q["lines"])])
-print(len(out), "questions exportées ;", dict(cnt))
+print(len(export), "questions exportées", f"(partie {PART}, sur {len(out)})" if PART else "", ";", dict(cnt))

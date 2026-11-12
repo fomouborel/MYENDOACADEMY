@@ -1,0 +1,391 @@
+{
+  "source": "import-diabete-nd-marbaix",
+  "questions": [
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-131",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "La question sur la tronche des ilots diabete type 1 à son apparition (différent des anciens exams) Il fallait choisir la proposition correcte à propos du diabète 1 débutant :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Disparition des îlots de Langerhans"
+        },
+        {
+          "id": "B",
+          "text": "L’immunomarquage ne met pas en évidence la pro-insuline (?)"
+        },
+        {
+          "id": "C",
+          "text": "On peut voir des dépôts amyloïdes"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "absent",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 79,
+        "originalNumber": 1,
+        "auditRef": "ND-marbaix-pancreas-Q1"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ANAPATH",
+      "answerNote": "Aucune réponse n'est indiquée dans la compilation."
+    },
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-132",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Le diabète de type 1 est caractérisé par",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "la présence d’une insulite en chronique",
+          "explanation": "Non : l’insulite est précoce."
+        },
+        {
+          "id": "B",
+          "text": "une perte de cellule B en chronique",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "une disparition des îlots en chronique",
+          "explanation": "Non : les îlots restent."
+        },
+        {
+          "id": "D",
+          "text": "une fibrose des îlots en chronique",
+          "explanation": "Non."
+        },
+        {
+          "id": "E",
+          "text": "des dépôts amyloïdes",
+          "explanation": "Non : type 2."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 80,
+        "originalNumber": 2,
+        "auditRef": "ND-marbaix-pancreas-Q2"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ANAPATH",
+      "answerNote": "Deux questions étaient collées dans la retranscription ; seule la première (diabète de type 1) est conservée. Dans la seconde (type 2), la réponse marquée était : les îlots peuvent présenter un dépôt de substance amyloïde.",
+      "hints": [
+        "Dans le type 1, la cible de l’auto-immunité est un seul type de cellule de l’îlot.",
+        "Les cellules alpha et delta survivent : l’îlot garde sa place.",
+        "Avec quel marquage vérifierait-on la présence des cellules bêta ?"
+      ],
+      "explanation": {
+        "text": "Dans le type 1 ancien, l’auto-immunité a détruit les cellules bêta, mais les îlots de Langerhans restent en place, formés des cellules alpha, delta et PP. On ne met plus en évidence d’insuline ni de pro-insuline par immunohistochimie. L’insulite (infiltrat lymphocytaire) se voit au début, pas des années plus tard. Il n’y a ni fibrose cicatricielle, ni dépôt amyloïde (propre au type 2), ni hyperplasie compensatrice.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-135",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "Dans l’aspect histologique d’un pancréas d’un patient diabétique de type 1 depuis de nombreuses années (une réponse juste):",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "disparition des ilôts de L.",
+          "explanation": "Non."
+        },
+        {
+          "id": "B",
+          "text": "ilôts de L. remplacés par des nodules cicatriciels",
+          "explanation": "Non."
+        },
+        {
+          "id": "C",
+          "text": "les cellules B des îlots de L. sont chargés de substance amyloïde",
+          "explanation": "Non : type 2."
+        },
+        {
+          "id": "D",
+          "text": "ilôts de L. sont en place mais il n’y a plus de mise en évidence possible de la pré-insuline dans ceux-ci",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "hypertrophie des ilôts de L. suite à une hyperplasie compensatrice des cellules B suite à leur inflammation",
+          "explanation": "Non."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 80,
+        "originalNumber": 5,
+        "auditRef": "ND-marbaix-pancreas-Q5"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "ANAPATH",
+      "hints": [
+        "Dans le type 1, la cible de l’auto-immunité est un seul type de cellule de l’îlot.",
+        "Les cellules alpha et delta survivent : l’îlot garde sa place.",
+        "Avec quel marquage vérifierait-on la présence des cellules bêta ?"
+      ],
+      "explanation": {
+        "text": "Dans le type 1 ancien, l’auto-immunité a détruit les cellules bêta, mais les îlots de Langerhans restent en place, formés des cellules alpha, delta et PP. On ne met plus en évidence d’insuline ni de pro-insuline par immunohistochimie. L’insulite (infiltrat lymphocytaire) se voit au début, pas des années plus tard. Il n’y a ni fibrose cicatricielle, ni dépôt amyloïde (propre au type 2), ni hyperplasie compensatrice.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-136",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Dans le diabète de type 1 de longue évolution, qu’observe-t-on?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "une disparition des îlots de Langerhans",
+          "explanation": "Non : les îlots restent."
+        },
+        {
+          "id": "B",
+          "text": "une invasion inflammatoire dans les îlots de Langerhans",
+          "explanation": "Non : phase précoce."
+        },
+        {
+          "id": "C",
+          "text": "une disparition des cellules B",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "une insulite",
+          "explanation": "Non : phase précoce."
+        },
+        {
+          "id": "E",
+          "text": "une fibrose des îlots de L",
+          "explanation": "Non."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 80,
+        "originalNumber": 6,
+        "auditRef": "ND-marbaix-pancreas-Q6"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ANAPATH",
+      "hints": [
+        "Dans le type 1, la cible de l’auto-immunité est un seul type de cellule de l’îlot.",
+        "Les cellules alpha et delta survivent : l’îlot garde sa place.",
+        "Avec quel marquage vérifierait-on la présence des cellules bêta ?"
+      ],
+      "explanation": {
+        "text": "Dans le type 1 ancien, l’auto-immunité a détruit les cellules bêta, mais les îlots de Langerhans restent en place, formés des cellules alpha, delta et PP. On ne met plus en évidence d’insuline ni de pro-insuline par immunohistochimie. L’insulite (infiltrat lymphocytaire) se voit au début, pas des années plus tard. Il n’y a ni fibrose cicatricielle, ni dépôt amyloïde (propre au type 2), ni hyperplasie compensatrice.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-137",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Ce qu’on voit à l’anapath en cas de diabète de type 1 de longue évolution:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Nodules de cicatrisation dans les îlots de langerhans",
+          "explanation": "Non."
+        },
+        {
+          "id": "B",
+          "text": "Disparition des ilôts de langerhans",
+          "explanation": "Non : les îlots restent."
+        },
+        {
+          "id": "C",
+          "text": "Les cellules B des îlots de langerhans sont chargés de substance amyloïde",
+          "explanation": "Non : type 2."
+        },
+        {
+          "id": "D",
+          "text": "Il n’y a plus de mise en évidence possible de la pré-insuline dans les ilôts de langerhans",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "Hypertrophie des ilôts de langerhans suite à une hyperplasie compensatrice des cellules B suite à leur inflammation",
+          "explanation": "Non."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 80,
+        "originalNumber": 7,
+        "auditRef": "ND-marbaix-pancreas-Q7"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ANAPATH",
+      "hints": [
+        "Dans le type 1, la cible de l’auto-immunité est un seul type de cellule de l’îlot.",
+        "Les cellules alpha et delta survivent : l’îlot garde sa place.",
+        "Avec quel marquage vérifierait-on la présence des cellules bêta ?"
+      ],
+      "explanation": {
+        "text": "Dans le type 1 ancien, l’auto-immunité a détruit les cellules bêta, mais les îlots de Langerhans restent en place, formés des cellules alpha, delta et PP. On ne met plus en évidence d’insuline ni de pro-insuline par immunohistochimie. L’insulite (infiltrat lymphocytaire) se voit au début, pas des années plus tard. Il n’y a ni fibrose cicatricielle, ni dépôt amyloïde (propre au type 2), ni hyperplasie compensatrice.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ANAPATH-QCM-139",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Dans l’analyse histopathologique d’un patient décédé ayant présenté un diabète de type 1 de longue évolution, que va-t-on trouver?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "A la coloration du tissu on ne verra pas de marquage immunohistochimique de pro-insuline",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Dans les ilôts de Langerhans : on voit des nodules cicatriciels",
+          "explanation": "Non."
+        },
+        {
+          "id": "C",
+          "text": "Dans les ilôts de Langerhans on voit des dépôts de substance amyloïde constitués d’amyline",
+          "explanation": "Non : type 2."
+        },
+        {
+          "id": "D",
+          "text": "Dans les ilôts de Langerhans on voit une hyperplasie compensatrice des cellules",
+          "explanation": "Non."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ANAPATH",
+        "teacher": "Marbaix",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 80,
+        "originalNumber": 9,
+        "auditRef": "ND-marbaix-pancreas-Q9"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "ANAPATH",
+      "hints": [
+        "Dans le type 1, la cible de l’auto-immunité est un seul type de cellule de l’îlot.",
+        "Les cellules alpha et delta survivent : l’îlot garde sa place.",
+        "Avec quel marquage vérifierait-on la présence des cellules bêta ?"
+      ],
+      "explanation": {
+        "text": "Dans le type 1 ancien, l’auto-immunité a détruit les cellules bêta, mais les îlots de Langerhans restent en place, formés des cellules alpha, delta et PP. On ne met plus en évidence d’insuline ni de pro-insuline par immunohistochimie. L’insulite (infiltrat lymphocytaire) se voit au début, pas des années plus tard. Il n’y a ni fibrose cicatricielle, ni dépôt amyloïde (propre au type 2), ni hyperplasie compensatrice.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

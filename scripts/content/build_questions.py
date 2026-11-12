@@ -581,6 +581,50 @@ VF("exercices-obesite", 8, "obesite", "syndrome-metabolique", ["obes-metabolique
    "Un HDL bas (moins de 40 mg/dL chez l’homme, moins de 50 mg/dL chez la femme) est un des 5 critères, avec des triglycérides élevés.",
    H("Le HDL est souvent appelé « bon cholestérol ».", "Dans l’insulinorésistance, les triglycérides montent.", "Et le HDL ?"), ["syndrome métabolique", "lipides"])
 
+# ============================ COURS 8 — DIABÈTE, LOT 1 (exercices vrai ou faux) ============================
+VF("exercices-diabete", 1, "diabete", "diagnostic", ["dia-diagnostic"], "Une glycémie à jeun de 125 mg/dL, confirmée, permet de poser le diagnostic de diabète.", False,
+   "Le diabète commence à 126 mg/dL à jeun. Entre 100 et 125, on parle de glycémie à jeun anormale (prédiabète).",
+   H("Le seuil du diabète à jeun est un nombre précis.", "Entre la normale et le diabète, il existe une zone intermédiaire.", "125 est-il au-dessus ou en dessous du seuil ?"), ["critères diagnostiques"])
+VF("exercices-diabete", 2, "diabete", "diagnostic", ["dia-diagnostic"], "Une carence en fer surestime l’HbA1c.", True,
+   "La carence en fer augmente l’âge moyen des globules rouges circulants : ils ont plus de temps pour se glyquer. L’hémolyse et l’hémorragie, au contraire, la sous-estiment.",
+   H("L’HbA1c dépend de la durée de vie des globules rouges.", "Des globules rouges plus vieux sont plus glyqués.", "Que fait la carence en fer à l’âge moyen des globules rouges ?"), ["HbA1c"])
+VF("exercices-diabete", 3, "diabete", "diagnostic", ["dia-diagnostic"], "Après une injection d’insuline chez un non-diabétique, le peptide C est effondré.", True,
+   "L’insuline injectée ne contient pas de peptide C et freine la sécrétion du pancréas : l’insuline est très élevée, le peptide C effondré. Dans un insulinome, les deux sont élevés.",
+   H("Le peptide C est fabriqué en même temps que l’insuline du pancréas.", "L’insuline injectée en contient-elle ?", "Que fait l’excès d’insuline à la sécrétion pancréatique ?"), ["peptide C"])
+VF("exercices-diabete", 4, "diabete", "types", ["dia-types"], "Au diagnostic d’un diabète de type 1, des complications microangiopathiques sont fréquemment présentes.", False,
+   "Les complications demandent des années d’hyperglycémie. Le type 1 se révèle vite ; c’est le type 2, longtemps silencieux, qui peut avoir une rétinopathie dès le diagnostic.",
+   H("Combien de temps faut-il pour que la rétine ou le rein s’abîment ?", "Le type 1 se révèle-t-il vite ou lentement ?", "Quel type de diabète évolue longtemps sans bruit ?"), ["diabète de type 1"])
+VF("exercices-diabete", 5, "diabete", "types", ["dia-types"], "L’HbA1c permet de distinguer un diabète de type 1 d’un diabète de type 2.", False,
+   "L’HbA1c reflète seulement l’équilibre moyen. Pour typer : clinique, poids maximal, anticorps anti-GAD, peptide C, autres maladies auto-immunes.",
+   H("Que mesure l’HbA1c ?", "Un type 1 et un type 2 également déséquilibrés ont-ils la même valeur ?", "Quels examens cherchent l’auto-immunité ?"), ["typage"])
+VF("exercices-diabete", 6, "diabete", "autres-types", ["dia-autres"], "La metformine est le traitement médicamenteux de première intention du diabète gestationnel.", False,
+   "Après les mesures diététiques, le traitement de référence est l’insuline, qui ne traverse pas le placenta. La metformine le traverse.",
+   H("Un médicament pendant la grossesse doit épargner le fœtus.", "Lequel ne traverse pas le placenta ?", "La metformine le traverse-t-elle ?"), ["diabète gestationnel"])
+VF("exercices-diabete", 7, "diabete", "autres-types", ["dia-autres"], "Le MODY 2 (glucokinase) donne une hyperglycémie à jeun modérée et stable, habituellement sans complications.", True,
+   "La mutation de la glucokinase règle simplement plus haut le seuil de sécrétion de l’insuline : hyperglycémie modérée et stable, pas de cétose, pas de complications, rarement un traitement.",
+   H("La glucokinase est le capteur de glucose de la cellule bêta.", "Une mutation règle le seuil plus haut, sans détruire la cellule.", "L’hyperglycémie s’aggrave-t-elle avec le temps ?"), ["MODY"])
+VF("exercices-diabete", 8, "diabete", "autres-types", ["dia-autres"], "L’insuffisance surrénalienne est une cause de diabète secondaire.", False,
+   "Le cortisol est hyperglycémiant : son manque donne plutôt des hypoglycémies. C’est l’excès de cortisol (Cushing) qui donne un diabète.",
+   H("Le cortisol fait-il monter ou baisser la glycémie ?", "Que se passe-t-il quand il manque ?", "Quelle maladie surrénalienne donne un diabète ?"), ["diabète secondaire"])
+VF("exercices-diabete", 9, "diabete", "aigues", ["dia-aigues"], "Dans une acidocétose à pH 7,15, on donne systématiquement des bicarbonates.", False,
+   "Les bicarbonates ne sont donnés que si le pH est inférieur à 7,0. Le traitement repose sur le sérum physiologique, l’insuline IV, le potassium et le traitement de la cause.",
+   H("Quels sont les trois piliers du traitement ?", "Les bicarbonates ont des effets indésirables.", "À partir de quel pH les envisage-t-on ?"), ["acidocétose"])
+VF("exercices-diabete", 10, "diabete", "aigues", ["dia-aigues"], "Le coma hyperosmolaire s’accompagne d’une acidose métabolique et d’une respiration de Kussmaul.", False,
+   "Dans l’état hyperosmolaire, l’insuline restante bloque la cétogenèse : pas de cétose importante, pas d’acidose, pas de respiration de Kussmaul. La glycémie et l’osmolalité sont très élevées, la déshydratation est majeure.",
+   H("Qu’est-ce qui produit l’acidose dans l’acidocétose ?", "Dans l’état hyperosmolaire, reste-t-il un peu d’insuline ?", "Sans corps cétoniques, y a-t-il une acidose ?"), ["coma hyperosmolaire"])
+VF("exercices-diabete", 11, "diabete", "chroniques", ["dia-chroniques"], "Les inhibiteurs de SGLT2 (gliflozines) aggravent la néphropathie diabétique.", False,
+   "Les gliflozines ralentissent la progression de la néphropathie. Ce qui l’aggrave : HTA mal contrôlée, protéinurie, hyperglycémie, produits de contraste iodés, anti-inflammatoires.",
+   H("Les gliflozines agissent sur le rein.", "Les grandes études ont montré quel effet sur la fonction rénale ?", "Sont-elles recommandées dans la néphropathie ?"), ["néphropathie"])
+VF("exercices-diabete", 12, "diabete", "chroniques", ["dia-chroniques"], "Le dépistage de la rétinopathie diabétique repose sur un fond d’œil annuel après dilatation pupillaire.", True,
+   "Le fond d’œil (ou les photographies du fond d’œil) se fait chaque année, après dilatation : sans dilatation, une partie de la rétine échappe à l’examen.",
+   H("À quelle fréquence se fait le dépistage ?", "Une pupille étroite laisse-t-elle voir toute la rétine ?", "Que fait-on pour l’élargir ?"), ["rétinopathie"])
+VF("exercices-diabete", 13, "diabete", "chroniques", ["dia-pied"], "Le pied de Charcot aigu se traite avant tout par des anti-inflammatoires.", False,
+   "Le traitement de référence est la décharge complète par botte plâtrée à contact total, pendant plusieurs mois. Les anti-inflammatoires et les corticoïdes ne sont pas le traitement.",
+   H("Le Charcot survient sur un pied insensible qui continue à marcher.", "Que faut-il supprimer pour que les fractures consolident ?", "Le traitement est-il mécanique ou médicamenteux ?"), ["pied de Charcot"])
+VF("exercices-diabete", 14, "diabete", "chroniques", ["dia-pied"], "La classification PEDIS tient compte des germes retrouvés dans la plaie.", False,
+   "PEDIS : Perfusion, Extent (étendue), Depth (profondeur), Infection (grades 1 à 4, cliniques), Sensation. Elle ne tient pas compte de la bactériologie.",
+   H("PEDIS est un acronyme de 5 lettres.", "Le I décrit l’infection sur des critères cliniques.", "Les résultats de laboratoire en font-ils partie ?"), ["PEDIS"])
+
 # ============================ CAS CLINIQUES PROGRESSIFS (créés, hors archives) ============================
 NORMES = "normes reprises d’un énoncé d’examen UCL (compilation 2016-2021) — valeurs propres au laboratoire de l’exercice"
 def LAB(a, v, u, r): return {"analyte": a, "value": v, "unit": u, "reference": r, "referenceOrigin": NORMES}

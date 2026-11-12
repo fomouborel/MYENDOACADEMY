@@ -1,0 +1,467 @@
+{
+  "source": "exercices-diabete",
+  "questions": [
+    {
+      "id": "ENDO-EX-diabete-VF-001",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Une glycémie à jeun de 125 mg/dL, confirmée, permet de poser le diagnostic de diabète.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [
+        "critères diagnostiques"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Le seuil du diabète à jeun est un nombre précis.",
+        "Entre la normale et le diabète, il existe une zone intermédiaire.",
+        "125 est-il au-dessus ou en dessous du seuil ?"
+      ],
+      "explanation": {
+        "text": "Le diabète commence à 126 mg/dL à jeun. Entre 100 et 125, on parle de glycémie à jeun anormale (prédiabète).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-diabete-VF-002",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Une carence en fer surestime l’HbA1c.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [
+        "HbA1c"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "L’HbA1c dépend de la durée de vie des globules rouges.",
+        "Des globules rouges plus vieux sont plus glyqués.",
+        "Que fait la carence en fer à l’âge moyen des globules rouges ?"
+      ],
+      "explanation": {
+        "text": "La carence en fer augmente l’âge moyen des globules rouges circulants : ils ont plus de temps pour se glyquer. L’hémolyse et l’hémorragie, au contraire, la sous-estiment.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-diabete-VF-003",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Après une injection d’insuline chez un non-diabétique, le peptide C est effondré.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [
+        "peptide C"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Le peptide C est fabriqué en même temps que l’insuline du pancréas.",
+        "L’insuline injectée en contient-elle ?",
+        "Que fait l’excès d’insuline à la sécrétion pancréatique ?"
+      ],
+      "explanation": {
+        "text": "L’insuline injectée ne contient pas de peptide C et freine la sécrétion du pancréas : l’insuline est très élevée, le peptide C effondré. Dans un insulinome, les deux sont élevés.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-diabete-VF-004",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Au diagnostic d’un diabète de type 1, des complications microangiopathiques sont fréquemment présentes.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [
+        "diabète de type 1"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Combien de temps faut-il pour que la rétine ou le rein s’abîment ?",
+        "Le type 1 se révèle-t-il vite ou lentement ?",
+        "Quel type de diabète évolue longtemps sans bruit ?"
+      ],
+      "explanation": {
+        "text": "Les complications demandent des années d’hyperglycémie. Le type 1 se révèle vite ; c’est le type 2, longtemps silencieux, qui peut avoir une rétinopathie dès le diagnostic.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-diabete-VF-005",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "L’HbA1c permet de distinguer un diabète de type 1 d’un diabète de type 2.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [
+        "typage"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Que mesure l’HbA1c ?",
+        "Un type 1 et un type 2 également déséquilibrés ont-ils la même valeur ?",
+        "Quels examens cherchent l’auto-immunité ?"
+      ],
+      "explanation": {
+        "text": "L’HbA1c reflète seulement l’équilibre moyen. Pour typer : clinique, poids maximal, anticorps anti-GAD, peptide C, autres maladies auto-immunes.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-diabete-VF-006",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "La metformine est le traitement médicamenteux de première intention du diabète gestationnel.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "diabete",
+      "subchapter": "autres-types",
+      "lessonLinks": [
+        "dia-autres"
+      ],
+      "tags": [
+        "diabète gestationnel"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Un médicament pendant la grossesse doit épargner le fœtus.",
+        "Lequel ne traverse pas le placenta ?",
+        "La metformine le traverse-t-elle ?"
+      ],
+      "explanation": {
+        "text": "Après les mesures diététiques, le traitement de référence est l’insuline, qui ne traverse pas le placenta. La metformine le traverse.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-diabete-VF-007",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Le MODY 2 (glucokinase) donne une hyperglycémie à jeun modérée et stable, habituellement sans complications.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "diabete",
+      "subchapter": "autres-types",
+      "lessonLinks": [
+        "dia-autres"
+      ],
+      "tags": [
+        "MODY"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "La glucokinase est le capteur de glucose de la cellule bêta.",
+        "Une mutation règle le seuil plus haut, sans détruire la cellule.",
+        "L’hyperglycémie s’aggrave-t-elle avec le temps ?"
+      ],
+      "explanation": {
+        "text": "La mutation de la glucokinase règle simplement plus haut le seuil de sécrétion de l’insuline : hyperglycémie modérée et stable, pas de cétose, pas de complications, rarement un traitement.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-diabete-VF-008",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "L’insuffisance surrénalienne est une cause de diabète secondaire.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "diabete",
+      "subchapter": "autres-types",
+      "lessonLinks": [
+        "dia-autres"
+      ],
+      "tags": [
+        "diabète secondaire"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Le cortisol fait-il monter ou baisser la glycémie ?",
+        "Que se passe-t-il quand il manque ?",
+        "Quelle maladie surrénalienne donne un diabète ?"
+      ],
+      "explanation": {
+        "text": "Le cortisol est hyperglycémiant : son manque donne plutôt des hypoglycémies. C’est l’excès de cortisol (Cushing) qui donne un diabète.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-diabete-VF-009",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Dans une acidocétose à pH 7,15, on donne systématiquement des bicarbonates.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [
+        "acidocétose"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Quels sont les trois piliers du traitement ?",
+        "Les bicarbonates ont des effets indésirables.",
+        "À partir de quel pH les envisage-t-on ?"
+      ],
+      "explanation": {
+        "text": "Les bicarbonates ne sont donnés que si le pH est inférieur à 7,0. Le traitement repose sur le sérum physiologique, l’insuline IV, le potassium et le traitement de la cause.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-diabete-VF-010",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Le coma hyperosmolaire s’accompagne d’une acidose métabolique et d’une respiration de Kussmaul.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [
+        "coma hyperosmolaire"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Qu’est-ce qui produit l’acidose dans l’acidocétose ?",
+        "Dans l’état hyperosmolaire, reste-t-il un peu d’insuline ?",
+        "Sans corps cétoniques, y a-t-il une acidose ?"
+      ],
+      "explanation": {
+        "text": "Dans l’état hyperosmolaire, l’insuline restante bloque la cétogenèse : pas de cétose importante, pas d’acidose, pas de respiration de Kussmaul. La glycémie et l’osmolalité sont très élevées, la déshydratation est majeure.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-diabete-VF-011",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Les inhibiteurs de SGLT2 (gliflozines) aggravent la néphropathie diabétique.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [
+        "néphropathie"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Les gliflozines agissent sur le rein.",
+        "Les grandes études ont montré quel effet sur la fonction rénale ?",
+        "Sont-elles recommandées dans la néphropathie ?"
+      ],
+      "explanation": {
+        "text": "Les gliflozines ralentissent la progression de la néphropathie. Ce qui l’aggrave : HTA mal contrôlée, protéinurie, hyperglycémie, produits de contraste iodés, anti-inflammatoires.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-diabete-VF-012",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Le dépistage de la rétinopathie diabétique repose sur un fond d’œil annuel après dilatation pupillaire.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "VRAI"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [
+        "rétinopathie"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "À quelle fréquence se fait le dépistage ?",
+        "Une pupille étroite laisse-t-elle voir toute la rétine ?",
+        "Que fait-on pour l’élargir ?"
+      ],
+      "explanation": {
+        "text": "Le fond d’œil (ou les photographies du fond d’œil) se fait chaque année, après dilatation : sans dilatation, une partie de la rétine échappe à l’examen.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-diabete-VF-013",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "Le pied de Charcot aigu se traite avant tout par des anti-inflammatoires.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-pied"
+      ],
+      "tags": [
+        "pied de Charcot"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "Le Charcot survient sur un pied insensible qui continue à marcher.",
+        "Que faut-il supprimer pour que les fractures consolident ?",
+        "Le traitement est-il mécanique ou médicamenteux ?"
+      ],
+      "explanation": {
+        "text": "Le traitement de référence est la décharge complète par botte plâtrée à contact total, pendant plusieurs mois. Les anti-inflammatoires et les corticoïdes ne sont pas le traitement.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-EX-diabete-VF-014",
+      "kind": "exercise",
+      "format": "true-false",
+      "stem": "La classification PEDIS tient compte des germes retrouvés dans la plaie.",
+      "labs": [],
+      "options": [],
+      "expected": [
+        "FAUX"
+      ],
+      "answerStatus": "authored",
+      "sourceComments": [],
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-pied"
+      ],
+      "tags": [
+        "PEDIS"
+      ],
+      "difficulty": 1,
+      "clinical": false,
+      "hints": [
+        "PEDIS est un acronyme de 5 lettres.",
+        "Le I décrit l’infection sur des critères cliniques.",
+        "Les résultats de laboratoire en font-ils partie ?"
+      ],
+      "explanation": {
+        "text": "PEDIS : Perfusion, Extent (étendue), Depth (profondeur), Infection (grades 1 à 4, cliniques), Sensation. Elle ne tient pas compte de la bactériologie.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

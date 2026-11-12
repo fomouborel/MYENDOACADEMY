@@ -76,6 +76,51 @@
   }
  },
  {
+  "ref": "2024-01-Q38",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 6,
+  "num": 38,
+  "line": 198,
+  "stem": [
+   "Quelle proposition est FAUSSE :"
+  ],
+  "lines": [
+   "1. Chez les hommes, 50% des adénomes hypophysaire non-fonctionnels se manifestent par des",
+   "symptômes de compression",
+   "2. Les adénomes hypophysaires les plus fréquents sont les adénomes non-fonctionnels (ou non-",
+   "sécrétants)",
+   "3. Une stimulation hypoglycémique insulinique peut être utile dans l'exploration de la fonction",
+   "sécrétoire de l'hormone de croissance, le cortisol et l'ACTH",
+   "4. On peut observer une hyperprolactinémie et une augmentation de volume de la glande",
+   "hypophysaire chez la femme enceinte",
+   "5. Une acromégalie peut présenter une arthropathie"
+  ],
+  "marked": [
+   "2. Les adénomes hypophysaires les plus fréquents sont les adénomes non-fonctionnels (ou non-",
+   "sécrétants)"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Adénomes : fréquence et types",
+  "note": "Classée « Diabète » par l'extraction (janvier 2024). Même réponse que Maiter Q19 : les adénomes les plus fréquents sont les prolactinomes, pas les non fonctionnels.",
+  "groupe": "ADENOME-EPIDEMIO",
+  "answer": "2. Les adénomes hypophysaires les plus fréquents sont les adénomes non-fonctionnels (ou non- | sécrétants)",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "adenomes",
+   "lessons": [
+    "hyph-adenomes"
+   ]
+  }
+ },
+ {
   "ref": "2024-01-Q39",
   "src": "A",
   "session": "2024-01",
@@ -680,6 +725,159 @@
    "subchapter": "prolactine",
    "lessons": [
     "hyph-prolactine"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q19",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 40,
+  "num": 19,
+  "line": 1542,
+  "stem": [
+   "Ds diabète insipide central, 1 fausse:"
+  ],
+  "lines": [
+   "a. Hyponatrémie a la fin du test de restriction hydrique",
+   "b. Le patient continuera à perdre du poids meme pdt le test",
+   "Osmolalité urinaire est plus basse que l'osmolalité plasmatique"
+  ],
+  "marked": [
+   "a. Hyponatrémie a la fin du test de restriction hydrique"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Diabète insipide",
+  "note": "Classée « Diabète » par l'extraction (section diabète de Maiter) ; 3 propositions.",
+  "groupe": "DI",
+  "answer": "a. Hyponatrémie a la fin du test de restriction hydrique",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "posthypophyse",
+   "lessons": [
+    "hyph-posthypophyse"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q78",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 47,
+  "num": 78,
+  "line": 1882,
+  "stem": [
+   "Qu’est ce qu’on ne retrouve pas dans un diabète insipide ? 2 réponses"
+  ],
+  "lines": [
+   "a. Osmolalité urinaire > osmolalité plasmatique"
+  ],
+  "marked": [
+   "a. Osmolalité urinaire > osmolalité plasmatique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Diabète insipide",
+  "note": "Classée « Diabète » par l'extraction (section diabète de Maiter) ; une seule proposition.",
+  "groupe": "DI",
+  "answer": "a. Osmolalité urinaire > osmolalité plasmatique",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "posthypophyse",
+   "lessons": [
+    "hyph-posthypophyse"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q100",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 49,
+  "num": 100,
+  "line": 2022,
+  "stem": [
+   "Diabète insipide central.. Laquelle est fausse?"
+  ],
+  "lines": [
+   "a. Osmolarité plasmatique > urinaire",
+   "b. Ne répond pas à l’administration de desmopressine",
+   "Perte du signal hyperintense en irm t1 de la neurohypophyse",
+   "d. Produit une hypernatrémie"
+  ],
+  "marked": [
+   "b. Ne répond pas à l’administration de desmopressine"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Diabète insipide",
+  "note": "Classée « Diabète » par l'extraction (section diabète de Maiter).",
+  "groupe": "DI",
+  "answer": "b. Ne répond pas à l’administration de desmopressine",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "posthypophyse",
+   "lessons": [
+    "hyph-posthypophyse"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q132",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 53,
+  "num": 132,
+  "line": 2207,
+  "stem": [
+   "Toutes ces étiologies peuvent être à l’origine d’un diabète insipide central, sauf un :"
+  ],
+  "lines": [
+   "A. Prise de lithium",
+   "B. Neurosarcoïdose",
+   "C. Neurohypophysite",
+   "D. Traumatisme crânien",
+   "E. Métastase tige pituitaire"
+  ],
+  "marked": [
+   "A. Prise de lithium"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Hypophyse",
+  "autres": "",
+  "sous_theme": "Diabète insipide",
+  "note": "Classée « Diabète » par l'extraction (section diabète de Maiter).",
+  "groupe": "DI",
+  "answer": "A. Prise de lithium",
+  "map": {
+   "chapter": "hypophyse",
+   "subchapter": "posthypophyse",
+   "lessons": [
+    "hyph-posthypophyse"
    ]
   }
  },

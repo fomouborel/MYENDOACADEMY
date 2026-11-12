@@ -6,7 +6,7 @@ Ce fichier rassemble les décisions prises avec l'utilisatrice ou l'utilisateur,
 
 **Tout ce qui concerne la pédiatrie va dans le cours d'endocrinologie pédiatrique** (chapitre `pediatrie`), et non dans les cours d'organe.
 
-- **Surrénales, hypophyse et les domaines à venir** : les questions de pédiatrie (discipline `PEDIA`) sont réservées au cours de pédiatrie. Elles sont inventoriées mais pas encore intégrées (14 pour les surrénales, 5 pour l'obésité ; voir les rapports `DOMAINE-*.md`).
+- **Surrénales, hypophyse et les domaines à venir** : les questions de pédiatrie (discipline `PEDIA`) sont réservées au cours de pédiatrie. Elles sont inventoriées mais pas encore intégrées (14 pour les surrénales, 5 pour l'obésité, 30 pour le diabète ; voir les rapports `DOMAINE-*.md`).
 - **Thyroïde** : en phase 1, les questions de pédiatrie sur la thyroïde avaient été placées dans `hypo › congenitale`, avec la leçon « Hypothyroïdie congénitale et thyroïde de l'enfant » (`hypo-congenitale`). **Au moment d'intégrer le cours de pédiatrie, ce contenu y sera basculé** :
   - les questions de pédiatrie sur la thyroïde (Lysy, Beauloye) et la leçon `hypo/04-congenitale-enfant.md` passent dans le chapitre `pediatrie` ;
   - les **identifiants des questions ne changent pas** : la progression déjà enregistrée (réponses, révisions, erreurs) est conservée ;

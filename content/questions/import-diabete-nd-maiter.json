@@ -1,0 +1,5301 @@
+{
+  "source": "import-diabete-nd-maiter",
+  "questions": [
+    {
+      "id": "ENDO-ND-ADULTE-QCM-801",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "PEDIS, laquelle n’en fait pas partie",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Perfusion",
+          "explanation": "En fait partie."
+        },
+        {
+          "id": "B",
+          "text": "Infection",
+          "explanation": "En fait partie."
+        },
+        {
+          "id": "C",
+          "text": "Profondeur (Depth)",
+          "explanation": "En fait partie."
+        },
+        {
+          "id": "D",
+          "text": "Neuropathie périph (Sensibilité)",
+          "explanation": "En fait partie."
+        },
+        {
+          "id": "E",
+          "text": "Présence de germes anaérobies",
+          "explanation": "N’en fait pas partie (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 37,
+        "originalNumber": 1,
+        "auditRef": "ND-maiter-diabete-Q1"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-pied"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PIED",
+      "hints": [
+        "PEDIS est un acronyme de 5 lettres, en anglais.",
+        "Chaque lettre décrit la plaie ou le pied : vascularisation, taille, profondeur, infection, sensibilité.",
+        "Les résultats du laboratoire de bactériologie en font-ils partie ?"
+      ],
+      "explanation": {
+        "text": "Classification PEDIS (IWGDF) : Perfusion, Extent (étendue de la plaie), Depth (profondeur), Infection (grades 1 à 4), Sensation (sensibilité). Elle ne tient compte ni des germes ni de leurs résistances, ni de la douleur, ni de l’impotence fonctionnelle. L’ostéite est à la fois D3 et I3 ; l’ischémie critique se définit notamment par une TcPO2 inférieure à 30 mmHg.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-802",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "PEDIS évalue tous ces éléments sauf 2 :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Type bactérie",
+          "explanation": "Pas évalué (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Degré d’impotence fonctionnelle",
+          "explanation": "Pas évalué (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Profondeur",
+          "explanation": "Évaluée."
+        },
+        {
+          "id": "D",
+          "text": "Atteinte neuropathique",
+          "explanation": "Évaluée."
+        },
+        {
+          "id": "E",
+          "text": "Vascularisation du pied",
+          "explanation": "Évaluée."
+        }
+      ],
+      "expected": [
+        "A",
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 37,
+        "originalNumber": 2,
+        "auditRef": "ND-maiter-diabete-Q2"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-pied"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PIED",
+      "hints": [
+        "PEDIS est un acronyme de 5 lettres, en anglais.",
+        "Chaque lettre décrit la plaie ou le pied : vascularisation, taille, profondeur, infection, sensibilité.",
+        "Les résultats du laboratoire de bactériologie en font-ils partie ?"
+      ],
+      "explanation": {
+        "text": "Classification PEDIS (IWGDF) : Perfusion, Extent (étendue de la plaie), Depth (profondeur), Infection (grades 1 à 4), Sensation (sensibilité). Elle ne tient compte ni des germes ni de leurs résistances, ni de la douleur, ni de l’impotence fonctionnelle. L’ostéite est à la fois D3 et I3 ; l’ischémie critique se définit notamment par une TcPO2 inférieure à 30 mmHg.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-803",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Dites la fausse concernant le diabète",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "La glycémie dans les tissus interstitiels est supérieure à la glycémie plasmatique, qui est retard par rapport à la première"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 37,
+        "originalNumber": 3,
+        "auditRef": "ND-maiter-diabete-Q3"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DIAG-CRIT",
+      "answerNote": "Retranscription incomplète (propositions ou énoncé manquants) : question consultable, non notée."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-804",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-correct",
+      "stem": "HbA1C quand est-elle utile ? 2 vraies",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Suspicion diagnostic diabète sucré",
+          "explanation": "Défendable : critère diagnostique depuis 2010 (ADA)."
+        },
+        {
+          "id": "B",
+          "text": "Reflète la glycémie moyenne dans les 2 mois précédent",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Indice d’un diabète mal équilibré (ou indice de sévérité je sais plus)",
+          "explanation": "Vrai (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "B",
+        "C"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 38,
+        "originalNumber": 4,
+        "auditRef": "ND-maiter-diabete-Q4"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "HBA1C",
+      "answerNote": "Réponse discutée dans la compilation (voir les commentaires).",
+      "hints": [
+        "L’HbA1c reflète une moyenne sur plusieurs mois.",
+        "Elle sert à juger si un diabète connu est bien ou mal équilibré.",
+        "Depuis 2010, elle sert aussi au diagnostic, ce qui rend la question discutable."
+      ],
+      "explanation": {
+        "text": "L’HbA1c reflète la glycémie moyenne des 2 à 3 derniers mois et sert à juger l’équilibre d’un diabète. Elle est aussi un critère diagnostique (6,5 % ou plus) : la proposition « suspicion diagnostique » est donc également défendable, alors que la question ne demande que 2 vraies.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-805",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant le diabète, la fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "le diabète de type 1 peut être associé à la maladie d’Addison.",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "lors du diagnostic du DT1 le peptide C est indosable.",
+          "explanation": "Faux (réponse attendue) : souvent encore dosable."
+        },
+        {
+          "id": "C",
+          "text": "le diabète de type 1 est caractérisé par la présence d’anti GAD positif.",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "le diabète de type II peut se compliquer d'acidocétose s’il est sévèrement insulinopénique",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "Le LADA est un diabète auto immun de la personne âgée",
+          "explanation": "Retenue comme vraie : diabète auto-immun de l’adulte (souvent après 30 ou 35 ans)."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 38,
+        "originalNumber": 5,
+        "auditRef": "ND-maiter-diabete-Q5"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DT1",
+      "hints": [
+        "Au diagnostic, reste-t-il un peu de sécrétion d’insuline ?",
+        "Le type 1 s’associe à d’autres maladies auto-immunes.",
+        "Un type 2 très insulinopénique peut-il faire une cétose ?"
+      ],
+      "explanation": {
+        "text": "Le type 1 s’associe à d’autres maladies auto-immunes (Addison, thyroïdite) et se caractérise par des anticorps anti-GAD. Un type 2 très insulinopénique peut faire une acidocétose. Le LADA est un diabète auto-immun de l’adulte. Au diagnostic du type 1, le peptide C est bas mais souvent encore dosable : il ne devient indosable qu’après des années.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-806",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "QUESQUI NE PEUT PAS CAUSER DE DIABÈTE",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Neuroleptique de deuxième génération",
+          "explanation": "Peut causer un diabète."
+        },
+        {
+          "id": "B",
+          "text": "phéochromocytome",
+          "explanation": "Peut causer : catécholamines."
+        },
+        {
+          "id": "C",
+          "text": "macroprolactinome",
+          "explanation": "Ne peut pas (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 38,
+        "originalNumber": 6,
+        "auditRef": "ND-maiter-diabete-Q6"
+      },
+      "chapter": "diabete",
+      "subchapter": "autres-types",
+      "lessonLinks": [
+        "dia-autres"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SECONDAIRE",
+      "hints": [
+        "Un diabète secondaire vient d’une destruction du pancréas, d’hormones hyperglycémiantes ou de médicaments.",
+        "Les hormones hyperglycémiantes : GH, cortisol, catécholamines, glucagon.",
+        "Une des maladies proposées ne produit pas d’hormone hyperglycémiante et n’abîme pas le pancréas."
+      ],
+      "explanation": {
+        "text": "Causes de diabète secondaire : maladies du pancréas (pancréatite chronique, pancréatectomie, cancer, mucoviscidose, hémochromatose), endocrinopathies avec hormones hyperglycémiantes (Cushing, acromégalie, phéochromocytome, glucagonome), médicaments (corticoïdes, antipsychotiques atypiques, antiprotéases), hépatite C et cirrhose. Ne donnent pas de diabète : l’hépatite A (aiguë, sans séquelle), l’insuffisance surrénalienne (elle donne plutôt des hypoglycémies), le cancer médullaire de la thyroïde, l’hyperprolactinémie.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-807",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "On retrouve habituellement les caractéristiques suivantes au moment du diagnostic du diabète de type 2, sauf deux",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Début brutal des symptômes",
+          "explanation": "Non habituel (réponse attendue) : début insidieux."
+        },
+        {
+          "id": "B",
+          "text": "Surcharge pondérale",
+          "explanation": "Habituel."
+        },
+        {
+          "id": "C",
+          "text": "> 40 ans",
+          "explanation": "Habituel."
+        },
+        {
+          "id": "D",
+          "text": "Absence de cétose spontanée",
+          "explanation": "Habituel."
+        },
+        {
+          "id": "E",
+          "text": "Présence d’anticorps anti-adipocytes",
+          "explanation": "Non (réponse attendue) : marqueur inexistant."
+        }
+      ],
+      "expected": [
+        "A",
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 38,
+        "originalNumber": 7,
+        "auditRef": "ND-maiter-diabete-Q7"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "DT2",
+      "hints": [
+        "Le type 2 est insidieux et découvert souvent tard.",
+        "Il garde assez d’insuline pour éviter la cétose spontanée.",
+        "Il n’a pas de marqueur auto-immun propre."
+      ],
+      "explanation": {
+        "text": "Au diagnostic, le type 2 touche un adulte souvent de plus de 40 ans, en surpoids, sans cétose spontanée. Le début est insidieux, pas brutal. Les « anticorps anti-adipocytes » n’existent pas comme marqueur : le type 2 n’est pas auto-immun.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-808",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "La fausse concernant la neuropathie autonome ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "HTA paroxystique",
+          "explanation": "Faux (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Dysfonctionnement érectile",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Tachycardie de repos",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "Vidange gastrique ralentie",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "On ressent moins les hypoglycémies sévères",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 38,
+        "originalNumber": 8,
+        "auditRef": "ND-maiter-diabete-Q8"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "NEURO",
+      "hints": [
+        "La neuropathie autonome touche le cœur, le tube digestif, la vessie, les organes génitaux et la sudation.",
+        "Sur le plan tensionnel, elle empêche la tension de se maintenir debout.",
+        "Une des propositions décrit l’inverse de ce que fait la neuropathie autonome sur la tension, ou une atteinte qui n’est pas végétative."
+      ],
+      "explanation": {
+        "text": "Neuropathie autonome du diabétique : tachycardie de repos et perte de la variation de la fréquence cardiaque avec la respiration, hypotension orthostatique, ischémie myocardique indolore, gastroparésie, diarrhée motrice (souvent nocturne) ou constipation, dysfonction érectile, vessie neurologique, troubles de la sudation (anhidrose des pieds, hypersudation du haut du corps), mauvaise perception des hypoglycémies. L’hypertension artérielle n’en est pas un signe.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-809",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "La fausse concernant la néphropathie diabétique ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Débute par une microalbuminurie"
+        },
+        {
+          "id": "B",
+          "text": "Microalbuminurie > 100 mg/24h"
+        },
+        {
+          "id": "C",
+          "text": "Une protéinurie importante l’aggrave"
+        },
+        {
+          "id": "D",
+          "text": "IEC ont un effet positif sur l’HTA"
+        },
+        {
+          "id": "E",
+          "text": "IR arrive plus de 10 ans après la microalbuminurie"
+        }
+      ],
+      "expected": [
+        "B",
+        "E"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 38,
+        "originalNumber": 9,
+        "auditRef": "ND-maiter-diabete-Q9"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "NEPHRO",
+      "answerNote": "La consigne retranscrite demande 1 réponse(s), mais 2 proposition(s) sont marquées dans la compilation."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-810",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Caractéristiques retrouvées dans la maladie coronarienne chez le diabétique type 2 par rapport au non malade, la fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Angor peut être silencieux",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "Epreuve d’effort au cyclo-ergomètre est souvent faussement négative",
+          "explanation": "Retenue comme fausse (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Lésions coronariennes souvent diffuses",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "Fréquence est la même chez les deux sexes",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "Risque de resténose élevée après dilatations",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 38,
+        "originalNumber": 10,
+        "auditRef": "ND-maiter-diabete-Q10"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CORONAIRE",
+      "hints": [
+        "La neuropathie autonome rend l’ischémie silencieuse.",
+        "Le diabète fait perdre à la femme sa protection relative.",
+        "Une proposition décrit le résultat d’un test d’effort : la compilation la juge fausse."
+      ],
+      "explanation": {
+        "text": "Coronaropathie du diabétique : souvent silencieuse (infarctus indolore), lésions diffuses, survenue et décès plus précoces, même fréquence chez les hommes et les femmes, resténoses plus fréquentes après dilatation. La compilation tient pour fausse l’affirmation « l’épreuve d’effort est souvent faussement négative » ; en pratique, l’épreuve d’effort est souvent peu contributive chez le diabétique, et on lui préfère volontiers une imagerie de stress.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-811",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Chez un diabétique, causes de diarrhées (une fausse)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Prise de metformine",
+          "explanation": "Cause."
+        },
+        {
+          "id": "B",
+          "text": "Néphropathie",
+          "explanation": "Pas une cause (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Cushing",
+          "explanation": "Retenue comme cause par la compilation, mais lien peu clair."
+        },
+        {
+          "id": "D",
+          "text": "Neuropathie",
+          "explanation": "Cause."
+        },
+        {
+          "id": "E",
+          "text": "Basedow",
+          "explanation": "Cause."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 38,
+        "originalNumber": 11,
+        "auditRef": "ND-maiter-diabete-Q11"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DIARRHEE",
+      "hints": [
+        "Pense aux médicaments du diabète qui agissent dans l’intestin.",
+        "Pense aussi aux maladies associées : auto-immunes, pancréatiques, thyroïdiennes, et à la neuropathie autonome.",
+        "Une des propositions est un médicament réputé bien toléré sur le plan digestif, ou une atteinte qui ne touche pas l’intestin."
+      ],
+      "explanation": {
+        "text": "Diarrhée chronique d’un diabétique : metformine (très fréquent), acarbose, analogues du GLP-1, neuropathie autonome (diarrhée motrice, pullulation bactérienne), maladie cœliaque (associée au type 1), pancréatite chronique (insuffisance exocrine), hyperthyroïdie. Les inhibiteurs de la DPP-4 et les glinides sont peu pourvoyeurs de diarrhée ; la néphropathie n’en donne pas. Le lien entre le syndrome de Cushing et la diarrhée n’est pas classique.",
+        "status": "complement",
+        "sources": []
+      },
+      "answerNote": "La réponse retenue (néphropathie) est exacte, mais le syndrome de Cushing n’est pas non plus une cause classique de diarrhée : la question comporterait deux intrus. À valider auprès du cours."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-812",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Qu’est ce qui n’est pas caractéristique d’un coma hyperosmolaire ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Urée plasmatique élevée",
+          "explanation": "Caractéristique."
+        },
+        {
+          "id": "B",
+          "text": "Déshydratation",
+          "explanation": "Caractéristique."
+        },
+        {
+          "id": "C",
+          "text": "Présence d’un diabète de type 2 connu",
+          "explanation": "Discutable : le diabète est souvent méconnu."
+        },
+        {
+          "id": "D",
+          "text": "Respiration de Kussmaul",
+          "explanation": "Pas caractéristique (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "(oubli dernière proposition help)",
+          "explanation": "Proposition non retranscrite dans la compilation."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 39,
+        "originalNumber": 12,
+        "auditRef": "ND-maiter-diabete-Q12"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HYPEROSMO",
+      "answerNote": "Réponse discutée dans la compilation (voir les commentaires).",
+      "hints": [
+        "Dans l’état hyperosmolaire, il reste assez d’insuline pour bloquer la fabrication des corps cétoniques.",
+        "Sans corps cétoniques, quels signes d’acidose manquent ?",
+        "La déshydratation est majeure, d’où une insuffisance rénale fonctionnelle."
+      ],
+      "explanation": {
+        "text": "État hyperosmolaire : souvent une personne âgée, diabétique de type 2, après une infection ; glycémie très élevée (600 mg/dL ou plus, souvent au-delà de 800), osmolalité très élevée, déshydratation majeure, insuffisance rénale fonctionnelle (urée augmentée, plus que la créatinine), hémoconcentration, pseudohyponatrémie. Pas d’acidose (pH normal), pas de cétose importante, donc pas de respiration de Kussmaul ni d’haleine acétonique. Le diabète est souvent méconnu au moment de l’état hyperosmolaire, d’où la discussion.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-813",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Un patient de 25 ans est hospitalisé avec 400 de glycémie, un ph à 7.0 (coma acido-cétosique). Il a une pyélonéphrite et une fièvre à 39 degrés. Quelle attitude thérapeutique n’est pas recommandée ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Réhydratation par perfusion de sérum physio",
+          "explanation": "Recommandé."
+        },
+        {
+          "id": "B",
+          "text": "Insuline iv par pompe intraveineuse",
+          "explanation": "Recommandé."
+        },
+        {
+          "id": "C",
+          "text": "1g de paracétamol",
+          "explanation": "Possible."
+        },
+        {
+          "id": "D",
+          "text": "Bicarbonates jusqu’à un pH de 7.2",
+          "explanation": "Pas recommandé (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "Antibiotiques intraveineux",
+          "explanation": "Recommandé."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 39,
+        "originalNumber": 13,
+        "auditRef": "ND-maiter-diabete-Q13"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "ACIDOCETOSE",
+      "hints": [
+        "Le traitement repose sur trois piliers : eau et sel, insuline, potassium.",
+        "Le liquide de départ doit corriger une déshydratation avec perte de sel.",
+        "Un des traitements proposés n’est réservé qu’aux acidoses extrêmes."
+      ],
+      "explanation": {
+        "text": "Acidocétose : réhydratation par sérum physiologique (NaCl 0,9 %), insuline IV continue (environ 0,1 U/kg/h), potassium dès que la kaliémie le permet, glucosé ajouté quand la glycémie descend sous 250 mg/dL, traitement de la cause (antibiotiques IV après hémocultures). Les bicarbonates ne sont pas donnés d’office : seulement si le pH est inférieur à 7,0 (consensus 2024), car ils exposent à l’hypokaliémie et à l’acidose paradoxale du LCR. Le paracétamol traite la fièvre ; les antibiotiques IV traitent la pyélonéphrite.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-818",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Cause de insulino résistance, 1 fausse:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "IEC",
+          "explanation": "Pas une cause (réponse attendue) : plutôt favorables."
+        },
+        {
+          "id": "B",
+          "text": "Cirrhose",
+          "explanation": "Cause."
+        },
+        {
+          "id": "C",
+          "text": "Glucocorticoïde",
+          "explanation": "Cause."
+        },
+        {
+          "id": "D",
+          "text": "Hémochromatose",
+          "explanation": "Cause."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 40,
+        "originalNumber": 18,
+        "auditRef": "ND-maiter-diabete-Q18"
+      },
+      "chapter": "diabete",
+      "subchapter": "autres-types",
+      "lessonLinks": [
+        "dia-autres"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "IR",
+      "hints": [
+        "L’insulinorésistance accompagne l’excès de graisse abdominale et les hormones de contre-régulation.",
+        "Certains médicaments l’augmentent, d’autres l’améliorent.",
+        "Une des propositions désigne une situation sans effet notable, voire favorable, sur la sensibilité à l’insuline."
+      ],
+      "explanation": {
+        "text": "Causes d’insulinorésistance : obésité abdominale, ovaires polykystiques, stéatose hépatique (NASH), cirrhose, Cushing et corticoïdes, acromégalie, phéochromocytome, antiprotéases, hémochromatose, lipodystrophies. Ne la donnent pas : les IEC (plutôt favorables), l’hypothyroïdie, l’infarctus du myocarde (hyperglycémie de stress transitoire).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-820",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Situations où on perd bcp d’eau (c’était mis “polyurie polydipsie”): 1 fausse:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Diabète insipide central ou néphrogénique",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "Potomanie",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Diabète sucré",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "Hypocalcémie sévère",
+          "explanation": "Faux (réponse attendue) : c’est l’hypercalcémie."
+        },
+        {
+          "id": "E",
+          "text": "Hypokaliémie sévère",
+          "explanation": "Vrai : diabète insipide néphrogénique acquis."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 40,
+        "originalNumber": 20,
+        "auditRef": "ND-maiter-diabete-Q20"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "POLYURIE",
+      "hints": [
+        "La polyurie vient soit d’un soluté qui entraîne l’eau, soit d’un rein insensible à l’ADH, soit de boissons excessives.",
+        "Le calcium et le potassium peuvent bloquer l’action de l’ADH sur le rein, mais dans un seul sens.",
+        "Est-ce l’excès ou le manque de calcium qui donne une polyurie ?"
+      ],
+      "explanation": {
+        "text": "Polyurie et polydipsie : diabète sucré (diurèse osmotique), diabète insipide central ou néphrogénique, potomanie, hypercalcémie et hypokaliémie (rein insensible à l’ADH). L’hypocalcémie ne donne pas de polyurie.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-821",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant le DT2: 1 fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Une intervention chirurgicale nécessite un trt par insuline transitoire",
+          "explanation": "Vrai : insuline transitoire en cas de chirurgie lourde ou de déséquilibre."
+        },
+        {
+          "id": "B",
+          "text": "La metformine peut causer un déficit en B12",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "L’effet incrétine est augmenté à cause de l’hyperglucagonémie chronique",
+          "explanation": "Faux (réponse attendue) : l’effet incrétine est diminué."
+        },
+        {
+          "id": "D",
+          "text": "L’effet des SGLT2 est diminué en cas d’insuf rénale sévère",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 40,
+        "originalNumber": 21,
+        "auditRef": "ND-maiter-diabete-Q21"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DT2",
+      "hints": [
+        "Dans le type 2, les hormones digestives qui amplifient la sécrétion d’insuline après un repas perdent de leur efficacité.",
+        "La metformine a un effet connu sur une vitamine.",
+        "Les gliflozines agissent sur le rein : que se passe-t-il quand il filtre peu ?"
+      ],
+      "explanation": {
+        "text": "Dans le type 2, l’effet incrétine (l’amplification de la sécrétion d’insuline par le GLP-1 et le GIP après un repas oral) est diminué, et le glucagon est trop élevé : les deux anomalies coexistent, l’une n’augmente pas l’autre. La metformine peut causer un déficit en vitamine B12 ; l’effet des gliflozines sur la glycémie diminue en cas d’insuffisance rénale sévère ; une chirurgie peut nécessiter une insuline transitoire.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-822",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "La fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Il y a des diabètes génétiques qu’à transmission maternelle",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "Cancer pancréas peut donner un diabète de novo",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Diabète sur hémochromatose s’accompagne d’hypogonadisme et de cirrhose",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "La mélanodermie du diabète sur hémochromatose < stimulation de POMC et MSH par le fer",
+          "explanation": "Faux (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "Les antiprotéases peuvent donner un diabète par insulinorésistance sévère",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 40,
+        "originalNumber": 22,
+        "auditRef": "ND-maiter-diabete-Q22"
+      },
+      "chapter": "diabete",
+      "subchapter": "autres-types",
+      "lessonLinks": [
+        "dia-autres"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SECONDAIRE",
+      "hints": [
+        "Le diabète bronzé de l’hémochromatose a une couleur de peau particulière.",
+        "Elle vient du fer et d’un pigment de la peau.",
+        "Le fer stimule-t-il l’hypophyse à produire de la MSH ?"
+      ],
+      "explanation": {
+        "text": "Des diabètes génétiques se transmettent par la mère (mitochondrial). Un cancer du pancréas peut révéler un diabète récent. L’hémochromatose s’accompagne d’hypogonadisme et de cirrhose. Les antiprotéases donnent une insulinorésistance sévère. La mélanodermie de l’hémochromatose vient des dépôts de fer et d’un excès de mélanine dans la peau, pas d’une stimulation de la POMC ou de la MSH (mécanisme de l’Addison).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-823",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "OGTT, la fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "≥200 mg/dL"
+        },
+        {
+          "id": "B",
+          "text": "La variation du taux de Glycémie interstitielle en retard p/r glycémie capillaire"
+        },
+        {
+          "id": "C",
+          "text": "OGTT pour diagnostiquer diabète de grossesse se fait au T1"
+        },
+        {
+          "id": "D",
+          "text": "L'hyperglycémie chronique est toujours la résultante d’une anomalie de sécrétion/d'action de l’insuline par les cell B"
+        },
+        {
+          "id": "E",
+          "text": "?"
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 40,
+        "originalNumber": 23,
+        "auditRef": "ND-maiter-diabete-Q23"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "OGTT",
+      "answerNote": "Retranscription incomplète (propositions ou énoncé manquants) : question consultable, non notée."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-824",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "La fausse:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "HbA1c sous-estimée si hémolyse"
+        },
+        {
+          "id": "B",
+          "text": "HBA1c surestimée chez les noirs de peau et âgés ?"
+        },
+        {
+          "id": "C",
+          "text": "HBA1c vient de la glycation irréversible de toutes les molécules d’hydrates de carbone du sang"
+        },
+        {
+          "id": "D",
+          "text": "?"
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 40,
+        "originalNumber": 24,
+        "auditRef": "ND-maiter-diabete-Q24"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HBA1C",
+      "answerNote": "Retranscription incomplète (propositions ou énoncé manquants) : question consultable, non notée."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-826",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Un patient qui a une tachycardie de repos sans dyspnée, un ulcère au pied indolore avec des pouls périphériques non palpés, au FO on voit des hémorragies rétiniennes et des exsudats cotonneux. Les propositions étaient combinées:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "neuropathie autonome +/- une neuropathie sensitive +/- une rétinopathie et +/- une macro angiopathie"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 41,
+        "originalNumber": 26,
+        "auditRef": "ND-maiter-diabete-Q26"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "NEURO",
+      "answerNote": "Retranscription incomplète (propositions ou énoncé manquants) : question consultable, non notée."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-827",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-correct",
+      "stem": "À propos du Diabète de Type 1, choisir les 2 propositions correctes :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Le c-peptide est indosable au diagnostic",
+          "explanation": "Faux : souvent encore dosable."
+        },
+        {
+          "id": "B",
+          "text": "L'apparition du diabète peut être suivi d’une phase de rémission toujours transitoire",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "DT1 est associé à Addison et Hypoparathyroïdie dans polyneuro endocrinopathie de typqe 1",
+          "explanation": "Retenue comme fausse : l’association classique du diabète de type 1 est le syndrome polyendocrinien de type 2."
+        },
+        {
+          "id": "D",
+          "text": "Les symptômes apparaissent brutalement à l’occasion d’un événement précipitant",
+          "explanation": "Vrai (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "Une fois que les Ac anti-GAD apparaissent, le diabète apparaît dans les semaines suivantes",
+          "explanation": "Faux : des mois ou des années."
+        }
+      ],
+      "expected": [
+        "B",
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 41,
+        "originalNumber": 27,
+        "auditRef": "ND-maiter-diabete-Q27"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DT1",
+      "hints": [
+        "Le type 1 se révèle souvent brutalement après un événement (infection).",
+        "Après le début de l’insuline, les besoins peuvent baisser pendant un temps.",
+        "Les anticorps précèdent le diabète de combien de temps ?"
+      ],
+      "explanation": {
+        "text": "Le type 1 se révèle souvent brutalement, à l’occasion d’un événement précipitant (infection). Après le début de l’insuline, une rémission partielle (« lune de miel ») est possible, mais elle est toujours transitoire. Le peptide C est bas mais souvent dosable au diagnostic. Les anticorps anti-GAD apparaissent souvent des mois ou des années avant le diabète. Le diabète de type 1 appartient classiquement au syndrome polyendocrinien auto-immun de type 2 (avec l’Addison et la thyroïdite) ; il est possible mais plus rare dans le type 1 (hypoparathyroïdie, Addison, candidose).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-829",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Choisissez la fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Donner du bicarbonate peut induire une acidose paradoxale du LCR chez un diabétique en acidocétose",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "Donner de la metformine chez un IR sévère favorise l’apparition d’une acidose lactique",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "On vaccine les diabétiques pour la grippe, pneumocoque et …",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "L’osmolalité sanguine est déterminé principalement par la kaliémie, l’urée, et la glycémie",
+          "explanation": "Faux (réponse attendue) : natrémie, pas kaliémie."
+        },
+        {
+          "id": "E",
+          "text": "Acide bêta-hydroxybutyrique n’est pas détecté par la tigette urinaire pour cétonurie",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 41,
+        "originalNumber": 29,
+        "auditRef": "ND-maiter-diabete-Q29"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HYPEROSMO",
+      "hints": [
+        "Une proposition décrit le calcul de l’osmolalité.",
+        "Les principales particules du plasma sont le sodium, le glucose et l’urée.",
+        "Le potassium plasmatique est-il en concentration suffisante pour peser ?"
+      ],
+      "explanation": {
+        "text": "L’osmolalité plasmatique se calcule à partir de la natrémie, de la glycémie et de l’urée : 2 × Na + glycémie/18 + urée/6 (en mg/dL). La kaliémie y pèse très peu. Les bicarbonates peuvent donner une acidose paradoxale du LCR ; la metformine en insuffisance rénale sévère favorise l’acidose lactique ; on vaccine les diabétiques contre la grippe et le pneumocoque ; la tigette urinaire (nitroprussiate) ne détecte pas l’acide bêta-hydroxybutyrique.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-830",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Parmi ces symptômes, quel est celui qui correspond à celui de la cétose (sans acidose) ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Douleurs abdominales"
+        },
+        {
+          "id": "B",
+          "text": "Kussmaul"
+        },
+        {
+          "id": "C",
+          "text": "Polyurie- polydipsie"
+        },
+        {
+          "id": "D",
+          "text": "?"
+        },
+        {
+          "id": "E",
+          "text": "?"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 41,
+        "originalNumber": 30,
+        "auditRef": "ND-maiter-diabete-Q30"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ACIDOCETOSE",
+      "answerNote": "Retranscription incomplète (propositions ou énoncé manquants) : question consultable, non notée."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-831",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Tous ces éléments sont des signes de coma hyperosmolaire sauf 1 :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Acidocétose métabolique"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 41,
+        "originalNumber": 31,
+        "auditRef": "ND-maiter-diabete-Q31"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HYPEROSMO",
+      "answerNote": "Retranscription incomplète (propositions ou énoncé manquants) : question consultable, non notée."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-832",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Ce qui aide au DD entre diabète type I et type II la Fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Dosage de l’Hb glyquée au moment du D/",
+          "explanation": "Ne permet pas (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "IMC",
+          "explanation": "Permet."
+        },
+        {
+          "id": "C",
+          "text": "Complications au moment du diagnostic",
+          "explanation": "Permet."
+        },
+        {
+          "id": "D",
+          "text": "Présence d’anticorps anti GAD",
+          "explanation": "Permet."
+        },
+        {
+          "id": "E",
+          "text": "Respiration rapide",
+          "explanation": "Permet : acidocétose."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 41,
+        "originalNumber": 32,
+        "auditRef": "ND-maiter-diabete-Q32"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "TYPAGE",
+      "hints": [
+        "Pour distinguer deux types, il faut un critère qui diffère selon le mécanisme.",
+        "La clinique, l’âge, les anticorps, les complications au diagnostic et la cétose diffèrent.",
+        "Un marqueur d’équilibre moyen dépend-il du type ?"
+      ],
+      "explanation": {
+        "text": "Distinguent un type 1 d’un type 2 : l’IMC, les complications déjà présentes au diagnostic (en faveur d’un type 2 ancien méconnu), les anticorps anti-GAD, et la respiration rapide (Kussmaul, signe d’acidocétose, en faveur d’un type 1). L’HbA1c reflète seulement l’équilibre moyen : elle ne type pas le diabète.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-833",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Tous ces éléments sont des facteurs favorisants du diabète type II sauf 1 :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Atcd d’oreillons",
+          "explanation": "Pas un facteur (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Syndrome métabolique",
+          "explanation": "Facteur."
+        },
+        {
+          "id": "C",
+          "text": "RCIU",
+          "explanation": "Facteur."
+        },
+        {
+          "id": "D",
+          "text": "Histoire familiale",
+          "explanation": "Facteur."
+        },
+        {
+          "id": "E",
+          "text": "Ovaires polykystique",
+          "explanation": "Facteur : insulinorésistance."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 41,
+        "originalNumber": 33,
+        "auditRef": "ND-maiter-diabete-Q33"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DT2",
+      "hints": [
+        "Le type 2 associe une susceptibilité familiale et un mode de vie.",
+        "La nutrition pendant la vie fœtale compte aussi.",
+        "Une infection virale de l’enfance a-t-elle un lien établi avec le type 2 ?"
+      ],
+      "explanation": {
+        "text": "Favorisent le type 2 : syndrome métabolique, retard de croissance intra-utérin, histoire familiale, ovaires polykystiques. Les oreillons ne sont pas un facteur du type 2 (les infections virales sont discutées comme déclencheurs du type 1).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-834",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Tous ces troubles sont dus à la neuropathie autonome dans le diabète type II sauf 1 :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Survenue d’hypoglycémies postprandiales après injection d’insuline UR"
+        },
+        {
+          "id": "B",
+          "text": "Hypertension"
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 41,
+        "originalNumber": 34,
+        "auditRef": "ND-maiter-diabete-Q34"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "NEURO",
+      "answerNote": "Retranscription incomplète (propositions ou énoncé manquants) : question consultable, non notée."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-835",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "A propos de la diarrhée dans le diabète de type II, 1F :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Peut être due à une neuropathie sensitivomotrice"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 42,
+        "originalNumber": 35,
+        "auditRef": "ND-maiter-diabete-Q35"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DIARRHEE",
+      "answerNote": "Retranscription incomplète (propositions ou énoncé manquants) : question consultable, non notée."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-837",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "L’amaigrissement dans le diabète de type I est dû à tout ça sauf :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Néphropathie avec macroprotéinurie",
+          "explanation": "Réponse retenue (discutée)."
+        },
+        {
+          "id": "B",
+          "text": "Syndrome Garland",
+          "explanation": "Fait maigrir : amyotrophie proximale."
+        },
+        {
+          "id": "C",
+          "text": "Hyperthyroïdie associée",
+          "explanation": "Fait maigrir."
+        },
+        {
+          "id": "D",
+          "text": "Addison associé",
+          "explanation": "Fait maigrir."
+        },
+        {
+          "id": "E",
+          "text": "Oubli d’injection d’insuline",
+          "explanation": "Fait maigrir : insulinopénie."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 42,
+        "originalNumber": 37,
+        "auditRef": "ND-maiter-diabete-Q37"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DT1",
+      "answerNote": "Réponse discutée dans la compilation (voir les commentaires).",
+      "hints": [
+        "Un type 1 maigrit quand il manque d’insuline, ou quand une autre maladie accélère le catabolisme.",
+        "Pense aux maladies auto-immunes associées.",
+        "Une maladie qui fait plutôt gonfler fait-elle maigrir ?"
+      ],
+      "explanation": {
+        "text": "Un diabétique de type 1 maigrit en cas d’insulinopénie (oubli d’insuline), d’hyperthyroïdie ou d’Addison associés, de maladie cœliaque, ou d’amyotrophie diabétique proximale (syndrome de Garland). La néphropathie avec macroprotéinurie donne plutôt des œdèmes (prise de poids) : c’est la réponse retenue, mais un syndrome néphrotique sévère peut s’accompagner d’une fonte musculaire.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-839",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Diabétique : Amaigrissement par :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "polyradiculopathie de Garland"
+        },
+        {
+          "id": "B",
+          "text": "Association avec addison"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 42,
+        "originalNumber": 39,
+        "auditRef": "ND-maiter-diabete-Q39"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DT1",
+      "answerNote": "Retranscription incomplète (propositions ou énoncé manquants) : question consultable, non notée."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-841",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-correct",
+      "stem": "Coma hypoglycémique et acidocétosique, quelles sont les 2 informations inutiles pour les distinguer?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Combien d’insuline il prend par jour",
+          "explanation": "Inutile (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Convulsions",
+          "explanation": "Utile."
+        },
+        {
+          "id": "C",
+          "text": "La tension artérielle du patient en coma",
+          "explanation": "Inutile (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Respiration de Kussmaul",
+          "explanation": "Utile."
+        },
+        {
+          "id": "E",
+          "text": "Degré de déshydratation",
+          "explanation": "Utile."
+        }
+      ],
+      "expected": [
+        "A",
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 42,
+        "originalNumber": 41,
+        "auditRef": "ND-maiter-diabete-Q41"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "DD-COMA",
+      "hints": [
+        "Pour distinguer deux comas, il faut un signe qui diffère entre eux au moment où on examine le patient.",
+        "L’un s’installe en quelques minutes, avec des sueurs ; l’autre en plusieurs heures ou jours, avec une déshydratation.",
+        "Ce que le patient prend habituellement comme traitement est-il différent dans les deux cas ?"
+      ],
+      "explanation": {
+        "text": "Coma hypoglycémique : installation brutale, sueurs profuses, agitation et convulsions possibles, pas de déshydratation. Coma acidocétosique : installation progressive, peau et muqueuses sèches (déshydratation), respiration de Kussmaul, haleine acétonique (« pomme de reinette »). La glycémie capillaire tranche immédiatement. Ne permettent pas de les distinguer : la dose ou le schéma d’insuline, le type de diabète (les deux surviennent chez le diabétique de type 1 sous insuline), la tension artérielle.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-842",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Tous sont responsables d’une hyperglycémie, sauf 2 :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Insuffisance surrénalienne",
+          "explanation": "Pas une cause (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Mucoviscidose",
+          "explanation": "Cause."
+        },
+        {
+          "id": "C",
+          "text": "Phéochromocytome",
+          "explanation": "Cause."
+        },
+        {
+          "id": "D",
+          "text": "Cancer médullaire de la thyroïde",
+          "explanation": "Pas une cause (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "Acromégalie",
+          "explanation": "Cause."
+        }
+      ],
+      "expected": [
+        "A",
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 42,
+        "originalNumber": 42,
+        "auditRef": "ND-maiter-diabete-Q42"
+      },
+      "chapter": "diabete",
+      "subchapter": "autres-types",
+      "lessonLinks": [
+        "dia-autres"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SECONDAIRE",
+      "hints": [
+        "Un diabète secondaire vient d’une destruction du pancréas, d’hormones hyperglycémiantes ou de médicaments.",
+        "Les hormones hyperglycémiantes : GH, cortisol, catécholamines, glucagon.",
+        "Une des maladies proposées ne produit pas d’hormone hyperglycémiante et n’abîme pas le pancréas."
+      ],
+      "explanation": {
+        "text": "Causes de diabète secondaire : maladies du pancréas (pancréatite chronique, pancréatectomie, cancer, mucoviscidose, hémochromatose), endocrinopathies avec hormones hyperglycémiantes (Cushing, acromégalie, phéochromocytome, glucagonome), médicaments (corticoïdes, antipsychotiques atypiques, antiprotéases), hépatite C et cirrhose. Ne donnent pas de diabète : l’hépatite A (aiguë, sans séquelle), l’insuffisance surrénalienne (elle donne plutôt des hypoglycémies), le cancer médullaire de la thyroïde, l’hyperprolactinémie.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-843",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant le C-peptide, la fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "augmente en cas d’insuffisance rénale",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "Un bon marqueur des cellules Bêta des îlots de langherans",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Augmente en cas d’hypoglycémie sévère suite à l’injection d’insuline chez un patient non diabétique",
+          "explanation": "Faux (réponse attendue) : il s’effondre."
+        },
+        {
+          "id": "D",
+          "text": "Augmente en cas d’insulinorésistance",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "Indétectable",
+          "explanation": "Proposition incomplète (« indétectable » dans le type 1 ancien)."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 42,
+        "originalNumber": 43,
+        "auditRef": "ND-maiter-diabete-Q43"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic",
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "CPEPTIDE",
+      "hints": [
+        "Le peptide C est coupé de la proinsuline en même temps que l’insuline.",
+        "Il témoigne donc de la sécrétion propre du pancréas, pas de l’insuline injectée.",
+        "Que devient la sécrétion du pancréas quand on injecte beaucoup d’insuline ?"
+      ],
+      "explanation": {
+        "text": "Le peptide C reflète la sécrétion des cellules bêta. Il augmente en cas d’insuffisance rénale (élimination rénale) et d’insulinorésistance (hyperinsulinisme). Après une injection d’insuline chez un non-diabétique, l’insuline mesurée est très élevée mais le peptide C est effondré, car la sécrétion pancréatique est freinée.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-844",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Quels sont des facteurs d'apparition du diabète de type 2 (la fausse) :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "RCIU",
+          "explanation": "Facteur."
+        },
+        {
+          "id": "B",
+          "text": "Perte de cellule B des îlots",
+          "explanation": "Retenue comme fausse (réponse attendue) : évolution de la maladie plutôt que facteur."
+        },
+        {
+          "id": "C",
+          "text": "résistance à l’insuline",
+          "explanation": "Facteur."
+        },
+        {
+          "id": "D",
+          "text": "surpoids",
+          "explanation": "Facteur."
+        },
+        {
+          "id": "E",
+          "text": "antécédents familiaux",
+          "explanation": "Facteur."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 42,
+        "originalNumber": 44,
+        "auditRef": "ND-maiter-diabete-Q44"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DT2",
+      "hints": [
+        "Distingue facteur de risque et mécanisme de la maladie.",
+        "La perte des cellules bêta fait partie de l’évolution du type 2, pas des facteurs qui le favorisent.",
+        "Quelle proposition décrit une conséquence plutôt qu’un facteur ?"
+      ],
+      "explanation": {
+        "text": "Favorisent le type 2 : retard de croissance intra-utérin, insulinorésistance, surpoids, antécédents familiaux. La diminution progressive des cellules bêta fait partie de l’histoire naturelle de la maladie : la compilation la retient comme la proposition fausse.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-845",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Dosage HbA1c indiquée dans une de ces situations",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "déterminer si l’anémie du patient est d’origine diabétique ou non",
+          "explanation": "Non."
+        },
+        {
+          "id": "B",
+          "text": "aider au typage du diabète",
+          "explanation": "Non."
+        },
+        {
+          "id": "C",
+          "text": "évaluer le contrôle de la glycémie au cours des 2 derniers mois",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "évaluer le nombre et la sévérité des hypoglycémies",
+          "explanation": "Non : une moyenne masque les hypoglycémies."
+        },
+        {
+          "id": "E",
+          "text": "identifier une insulinorésistance",
+          "explanation": "Non : HOMA ou clamp."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 42,
+        "originalNumber": 45,
+        "auditRef": "ND-maiter-diabete-Q45"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "HBA1C",
+      "hints": [
+        "Pense à la durée de vie des globules rouges.",
+        "Elle donne une moyenne, pas les pics ni les creux.",
+        "Que sait-on de l’équilibre d’un patient avec un chiffre moyen sur 3 mois ?"
+      ],
+      "explanation": {
+        "text": "L’HbA1c évalue l’équilibre glycémique moyen des 2 à 3 derniers mois. Elle n’explique pas une anémie, ne type pas un diabète, ne compte pas les hypoglycémies (une moyenne peut cacher de grandes variations) et ne mesure pas l’insulinorésistance.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-846",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Toutes ces affirmations sont vraies SAUF UNE :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "L’hémoglobine glyquée (HbA1c) n’est pas fiable en cas d’hémolyse",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "Des anticorps GAD fortement positifs lors du diagnostic d’un diabète va en faveur d’un type 1",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Un type 2 peut se compliquer de cétose en cas d’insulinopénie très sévère",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "Le LADA est un type de diabète auto-immunitaire des personnes âgées",
+          "explanation": "Retenue comme vraie : diabète auto-immun de l’adulte."
+        },
+        {
+          "id": "E",
+          "text": "Le test de HOMA est simple et peut se faire en consultation chez le patient non à jeun, pour déterminer sa sensibilité à l’insuline",
+          "explanation": "Faux (réponse attendue) : à jeun."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 43,
+        "originalNumber": 46,
+        "auditRef": "ND-maiter-diabete-Q46"
+      },
+      "chapter": "diabete",
+      "subchapter": "autres-types",
+      "lessonLinks": [
+        "dia-autres"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "IR",
+      "hints": [
+        "Le test HOMA utilise deux dosages simples.",
+        "Ces dosages doivent être faits dans des conditions précises.",
+        "Un repas récent fausse-t-il la glycémie et l’insuline ?"
+      ],
+      "explanation": {
+        "text": "L’HbA1c n’est pas fiable en cas d’hémolyse ; des anti-GAD fortement positifs orientent vers un type 1 ; un type 2 très insulinopénique peut faire une cétose ; le LADA est un diabète auto-immun de l’adulte. Le test HOMA se calcule à partir de la glycémie et de l’insuline à jeun : il ne se fait pas chez un patient non à jeun.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-848",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Qu’est-ce qui n’est pas en faveur d’un coma hyperosmolaire ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Une hyperglycémie élevée, généralement au-dessus de 600",
+          "explanation": "En faveur."
+        },
+        {
+          "id": "B",
+          "text": "Une personne âgée diabète de type 2 déséquilibré, dans le décours d’une infection",
+          "explanation": "En faveur."
+        },
+        {
+          "id": "C",
+          "text": "L’urée est supérieure à la créatinine",
+          "explanation": "En faveur : insuffisance rénale fonctionnelle."
+        },
+        {
+          "id": "D",
+          "text": "Un pH normal",
+          "explanation": "En faveur."
+        },
+        {
+          "id": "E",
+          "text": "Une haleine “pomme de reinette”, odeur “acétone”",
+          "explanation": "Pas en faveur (réponse attendue) : cétose."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 43,
+        "originalNumber": 48,
+        "auditRef": "ND-maiter-diabete-Q48"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HYPEROSMO",
+      "hints": [
+        "Dans l’état hyperosmolaire, il reste assez d’insuline pour bloquer la fabrication des corps cétoniques.",
+        "Sans corps cétoniques, quels signes d’acidose manquent ?",
+        "La déshydratation est majeure, d’où une insuffisance rénale fonctionnelle."
+      ],
+      "explanation": {
+        "text": "État hyperosmolaire : souvent une personne âgée, diabétique de type 2, après une infection ; glycémie très élevée (600 mg/dL ou plus, souvent au-delà de 800), osmolalité très élevée, déshydratation majeure, insuffisance rénale fonctionnelle (urée augmentée, plus que la créatinine), hémoconcentration, pseudohyponatrémie. Pas d’acidose (pH normal), pas de cétose importante, donc pas de respiration de Kussmaul ni d’haleine acétonique.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-849",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Patient en coma acidocétosique diabétique, ph de 7,1, avec une pneumonie à pneumocoque sensible à l’ampicilline. Toutes ces modalités thérapeutiques sont systématiquement recommandées sauf 2 :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Injection d’insuline en intraveineux",
+          "explanation": "Recommandé."
+        },
+        {
+          "id": "B",
+          "text": "Réhydratation intensive avec une solution glucosée hypotonique",
+          "explanation": "Pas recommandé (réponse attendue) : sérum physiologique au départ."
+        },
+        {
+          "id": "C",
+          "text": "Administration de KCl dans la perfusion",
+          "explanation": "Recommandé."
+        },
+        {
+          "id": "D",
+          "text": "Administration de bicarbonate jusqu’à correction du pH",
+          "explanation": "Pas recommandé (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "Administration d’ampicilline en iv",
+          "explanation": "Recommandé : germe sensible."
+        }
+      ],
+      "expected": [
+        "B",
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 43,
+        "originalNumber": 49,
+        "auditRef": "ND-maiter-diabete-Q49"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "ACIDOCETOSE",
+      "hints": [
+        "Le traitement repose sur trois piliers : eau et sel, insuline, potassium.",
+        "Le liquide de départ doit corriger une déshydratation avec perte de sel.",
+        "Un des traitements proposés n’est réservé qu’aux acidoses extrêmes."
+      ],
+      "explanation": {
+        "text": "Acidocétose : réhydratation par sérum physiologique (NaCl 0,9 %), insuline IV continue (environ 0,1 U/kg/h), potassium dès que la kaliémie le permet, glucosé ajouté quand la glycémie descend sous 250 mg/dL, traitement de la cause (antibiotiques IV après hémocultures). Les bicarbonates ne sont pas donnés d’office : seulement si le pH est inférieur à 7,0 (consensus 2024), car ils exposent à l’hypokaliémie et à l’acidose paradoxale du LCR.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-853",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Cause de diarrhée chronique chez un diabétique, sauf une:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Metformine",
+          "explanation": "Cause."
+        },
+        {
+          "id": "B",
+          "text": "Maladie coeliaque",
+          "explanation": "Cause."
+        },
+        {
+          "id": "C",
+          "text": "Pancréatite chronique",
+          "explanation": "Cause."
+        },
+        {
+          "id": "D",
+          "text": "Traitement par fibrates",
+          "explanation": "Retenue comme non-cause (réponse attendue), mais les fibrates peuvent donner des troubles digestifs."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 43,
+        "originalNumber": 53,
+        "auditRef": "ND-maiter-diabete-Q53"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DIARRHEE",
+      "hints": [
+        "Pense aux médicaments du diabète qui agissent dans l’intestin.",
+        "Pense aussi aux maladies associées : auto-immunes, pancréatiques, thyroïdiennes, et à la neuropathie autonome.",
+        "Une des propositions est un médicament réputé bien toléré sur le plan digestif, ou une atteinte qui ne touche pas l’intestin."
+      ],
+      "explanation": {
+        "text": "Diarrhée chronique d’un diabétique : metformine (très fréquent), acarbose, analogues du GLP-1, neuropathie autonome (diarrhée motrice, pullulation bactérienne), maladie cœliaque (associée au type 1), pancréatite chronique (insuffisance exocrine), hyperthyroïdie. Les inhibiteurs de la DPP-4 et les glinides sont peu pourvoyeurs de diarrhée ; la néphropathie n’en donne pas. Les notices des fibrates citent toutefois des troubles digestifs, dont la diarrhée, parmi les effets fréquents.",
+        "status": "complement",
+        "sources": []
+      },
+      "answerNote": "La compilation retient les fibrates comme la proposition fausse. Leurs notices citent pourtant des troubles digestifs (dont la diarrhée) parmi les effets indésirables fréquents. À valider auprès du cours."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-855",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "caractéristiques d’un diabète de type 1 au moment de son diagnostic (toutes vraies sauf 2)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Âge < 30 ans",
+          "explanation": "Caractéristique."
+        },
+        {
+          "id": "B",
+          "text": "Complication microangiopathique",
+          "explanation": "Pas présent (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Augmentation de la ferritine",
+          "explanation": "Pas présent (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Cétose",
+          "explanation": "Caractéristique."
+        },
+        {
+          "id": "E",
+          "text": "Amaigrissement récent",
+          "explanation": "Caractéristique."
+        }
+      ],
+      "expected": [
+        "B",
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 44,
+        "originalNumber": 55,
+        "auditRef": "ND-maiter-diabete-Q55"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "DT1",
+      "hints": [
+        "Le type 1 se révèle brutalement, peu après le début de l’hyperglycémie.",
+        "Les complications chroniques demandent des années pour apparaître.",
+        "La ferritine est-elle un marqueur du type 1 ?"
+      ],
+      "explanation": {
+        "text": "Au diagnostic, le diabète de type 1 touche souvent un sujet de moins de 30 ans, de poids normal ou bas, qui a maigri récemment, avec un syndrome polyuro-polydipsique, une cétose et des anticorps anti-GAD. Les complications microangiopathiques sont absentes (elles demandent des années d’hyperglycémie), la ferritine n’est pas augmentée, et le peptide C est bas mais souvent encore dosable (sécrétion résiduelle).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-856",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant la classification PEDIS (1 fausse) :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "prend en compte la bactériologie, avec germes et résistances"
+        },
+        {
+          "id": "B",
+          "text": "perfusion et infection = valeur pronostique"
+        },
+        {
+          "id": "C",
+          "text": "nous donne les stades du pied diabétique (/ulcère?) pour permettre une bonne prise en charge et attitude thérapeutique"
+        },
+        {
+          "id": "D",
+          "text": "ostéite est à la fois I3 et D3"
+        },
+        {
+          "id": "E",
+          "text": "toujours utiliser PEDIS pour un ulcère (je ne me rappelle plus de la formulation, si c’était pour le diagnostic ou quoi)"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 44,
+        "originalNumber": 56,
+        "auditRef": "ND-maiter-diabete-Q56"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-pied"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PIED",
+      "answerNote": "Retranscription incomplète (propositions ou énoncé manquants) : question consultable, non notée."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-859",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Qu'est-ce qui n'aggrave pas l'atteinte rénale d'un diabétique type 2 (truc du style, et plus sûre du tout des propositions) :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "La protéinurie",
+          "explanation": "Aggrave."
+        },
+        {
+          "id": "B",
+          "text": "L'HTA",
+          "explanation": "Aggrave."
+        },
+        {
+          "id": "C",
+          "text": "La prise de grandes quantités liquidiennes",
+          "explanation": "N’aggrave pas (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Produit de contraste iodé",
+          "explanation": "Aggrave."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 44,
+        "originalNumber": 59,
+        "auditRef": "ND-maiter-diabete-Q59"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "NEPHRO",
+      "answerNote": "Réponse discutée dans la compilation (voir les commentaires).",
+      "hints": [
+        "Ce qui aggrave la néphropathie : ce qui augmente la pression dans le glomérule ou abîme directement le rein.",
+        "Pense à la tension, à l’albumine qui fuit, au sucre et aux produits toxiques pour le rein.",
+        "Une des propositions décrit au contraire une situation qui protège le rein."
+      ],
+      "explanation": {
+        "text": "Aggravent la néphropathie diabétique : HTA mal contrôlée, protéinurie, diabète mal équilibré, produits de contraste iodés, anti-inflammatoires, dyslipidémie. Ne l’aggravent pas : les gliflozines (inhibiteurs de SGLT2), qui la ralentissent ; l’insuline, même introduite tôt ; boire beaucoup. Traitement : IEC ou sartan en premier en cas d’albuminurie, gliflozine, tension inférieure à 130/80 mmHg (ADA 2025). Albuminurie anormale à partir de 30 mg/24 h (ou 30 mg/g de créatinine).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-861",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Quelle pathologie causant un diabète n’est pas héréditaire?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "MEN1 avec acromégalie (NEM-1)",
+          "explanation": "Héréditaire."
+        },
+        {
+          "id": "B",
+          "text": "Cushing maladie",
+          "explanation": "Pas héréditaire (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Diabète mitochondrial",
+          "explanation": "Héréditaire."
+        },
+        {
+          "id": "D",
+          "text": "Mody",
+          "explanation": "Héréditaire."
+        },
+        {
+          "id": "E",
+          "text": "Hémochromatose",
+          "explanation": "Héréditaire."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 44,
+        "originalNumber": 61,
+        "auditRef": "ND-maiter-diabete-Q61"
+      },
+      "chapter": "diabete",
+      "subchapter": "autres-types",
+      "lessonLinks": [
+        "dia-autres"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SECONDAIRE",
+      "hints": [
+        "Distingue une maladie génétique d’une maladie acquise.",
+        "Une maladie due à un adénome hypophysaire est-elle habituellement transmise ?",
+        "La NEM 1 est une maladie génétique."
+      ],
+      "explanation": {
+        "text": "Sont héréditaires : la NEM 1 (autosomique dominante, avec possible acromégalie), le diabète mitochondrial, les MODY et l’hémochromatose. La maladie de Cushing (adénome hypophysaire corticotrope) est habituellement sporadique.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-862",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant le diabète sucré, la fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Glycémie normale à jeun entre 60 et 100",
+          "explanation": "Vrai (60 à 100 dans la compilation)."
+        },
+        {
+          "id": "B",
+          "text": "Complications microangiopathiques provoquées par un diabète mal équilibré",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "OGTT 120’ de 150 mg/dl correspond à une intolérance glucidique",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "Glycémie veineuse 10 à 15% inférieure à la glycémie capillaire",
+          "explanation": "Faux (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "HbA1c surestimée chez les sujets âgés",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 45,
+        "originalNumber": 62,
+        "auditRef": "ND-maiter-diabete-Q62"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DIAG-CRIT",
+      "hints": [
+        "Une proposition compare deux prélèvements de sang.",
+        "La différence classique est entre le plasma et le sang total, pas entre veine et capillaire.",
+        "À jeun, les glycémies veineuse et capillaire sont proches."
+      ],
+      "explanation": {
+        "text": "À jeun, la glycémie normale est inférieure à 100 mg/dL. La microangiopathie est due à l’hyperglycémie. 140 à 199 à la 120e minute = intolérance. L’HbA1c est surestimée chez le sujet âgé. La glycémie veineuse n’est pas « 10 à 15 % inférieure » à la capillaire : à jeun, elles sont proches (la capillaire est un peu plus haute après un repas) ; l’écart de 10 à 15 % concerne le sang total et le plasma.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-863",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Signe spécifique de cétose",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Polyurie/polydipsie"
+        },
+        {
+          "id": "B",
+          "text": "Douleur abdo"
+        },
+        {
+          "id": "C",
+          "text": "Amaigrissement"
+        },
+        {
+          "id": "D",
+          "text": "respiration profonde"
+        },
+        {
+          "id": "E",
+          "text": "?"
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 45,
+        "originalNumber": 63,
+        "auditRef": "ND-maiter-diabete-Q63"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ACIDOCETOSE",
+      "answerNote": "Retranscription incomplète (propositions ou énoncé manquants) : question consultable, non notée."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-864",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "A propos des rétinopathies diabétiques trouvez les deux affirmations fausses",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Un tabagisme chronique actif est un facteur aggravant bien connu",
+          "explanation": "Retenue comme vraie par la compilation : lien discuté."
+        },
+        {
+          "id": "B",
+          "text": "un oedème maculaire perturbe l’acuité visuelle et la vision centrale",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "un fond d’oeil sans dilatation annuel suffit pour dépister la rétinopathie diabétique",
+          "explanation": "Faux (réponse attendue) : après dilatation."
+        },
+        {
+          "id": "D",
+          "text": "Au fond d’oeil un exsudat cotonneux et une hémorragie rétinienne en tâches est un facteur de mauvais pronostic",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "une rétinopathie de base va évoluer vers une rétinopathie proliférante indépendamment de l'équilibre glycémique",
+          "explanation": "Faux (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "C",
+        "E"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 45,
+        "originalNumber": 64,
+        "auditRef": "ND-maiter-diabete-Q64"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "RETINO",
+      "hints": [
+        "Le dépistage de la rétinopathie se fait dans des conditions précises.",
+        "L’équilibre glycémique influence l’évolution de la rétinopathie.",
+        "Un fond d’œil sans élargir la pupille montre-t-il toute la rétine ?"
+      ],
+      "explanation": {
+        "text": "Rétinopathie diabétique : cause majeure de cécité ; dépistage par un fond d’œil annuel après dilatation (ou photographies) ; les exsudats cotonneux, les hémorragies en taches et les AMIR signent une forme sévère (mauvais pronostic) ; les néovaisseaux définissent la forme proliférante, traitée par photocoagulation au laser ; l’œdème maculaire touche la vision centrale et se traite par anti-VEGF ; la vitrectomie sert à sauver la vision. Elle s’aggrave avec un mauvais équilibre glycémique et l’HTA ; le sexe ne change pas le risque.",
+        "status": "complement",
+        "sources": []
+      },
+      "answerNote": "La compilation tient le tabac pour un facteur aggravant « bien connu » de la rétinopathie. Les recommandations de l’ADA jugent ce lien incertain (le tabac aggrave surtout la macroangiopathie et la néphropathie) : la proposition sur le tabac est donc discutable. À valider auprès du cours."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-865",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Une patiente se présente aux urgences avec un ulcère au pied. Les critères suivants sont tous des critères d'hospitalisation sauf un, lequel ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "sepsis avec état fébrile",
+          "explanation": "Critère."
+        },
+        {
+          "id": "B",
+          "text": "statut pe périphérique avec pouls périphérique non perçu",
+          "explanation": "Critère."
+        },
+        {
+          "id": "C",
+          "text": "déséquilibre important du diabète",
+          "explanation": "Critère."
+        },
+        {
+          "id": "D",
+          "text": "signes d'ostéite probable (contact osseux)",
+          "explanation": "Pas un critère à lui seul (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 45,
+        "originalNumber": 65,
+        "auditRef": "ND-maiter-diabete-Q65"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-pied"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "PIED",
+      "hints": [
+        "Les critères d’hospitalisation sont des signes de gravité générale ou d’ischémie.",
+        "Un sepsis, une ischémie, un déséquilibre important sont graves.",
+        "Une ostéite sans autre signe de gravité peut-elle se traiter en ambulatoire ?"
+      ],
+      "explanation": {
+        "text": "Imposent l’hospitalisation d’un ulcère du pied : sepsis et fièvre, ischémie (pouls non perçus), déséquilibre important du diabète, impossibilité de suivre les soins. Une ostéite probable (contact osseux) sans signe de gravité peut, selon la compilation, se prendre en charge en ambulatoire, même si elle est souvent hospitalisée en pratique.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-866",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Patient de 50 ans hospitalisé pour coma diabétique acido-cétosique, glycémie à 520, pH à 7, pneumonie lobaire droite - état fébrile. Quel traitement n’est pas recommandé :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Réhydratation avec solution glucose 5% + bicarbonates",
+          "explanation": "Pas recommandé (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Insuline IV 0,10U/kg/h",
+          "explanation": "Recommandé."
+        },
+        {
+          "id": "C",
+          "text": "KCl dans la perfusion",
+          "explanation": "Recommandé."
+        },
+        {
+          "id": "D",
+          "text": "Antibiotiques en IV après avoir fait des hémocultures",
+          "explanation": "Recommandé."
+        },
+        {
+          "id": "E",
+          "text": "Phosphate de potassium si phosphaturie basse",
+          "explanation": "Possible."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 45,
+        "originalNumber": 66,
+        "auditRef": "ND-maiter-diabete-Q66"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "ACIDOCETOSE",
+      "hints": [
+        "Le traitement repose sur trois piliers : eau et sel, insuline, potassium.",
+        "Le liquide de départ doit corriger une déshydratation avec perte de sel.",
+        "Un des traitements proposés n’est réservé qu’aux acidoses extrêmes."
+      ],
+      "explanation": {
+        "text": "Acidocétose : réhydratation par sérum physiologique (NaCl 0,9 %), insuline IV continue (environ 0,1 U/kg/h), potassium dès que la kaliémie le permet, glucosé ajouté quand la glycémie descend sous 250 mg/dL, traitement de la cause (antibiotiques IV après hémocultures). Les bicarbonates ne sont pas donnés d’office : seulement si le pH est inférieur à 7,0 (consensus 2024), car ils exposent à l’hypokaliémie et à l’acidose paradoxale du LCR.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-867",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Chez un patient diabétique qui a des diarrhées chroniques, à quoi ne faut-il pas penser ? (une réponse)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Metformine",
+          "explanation": "Cause."
+        },
+        {
+          "id": "B",
+          "text": "Traitement par acarbose",
+          "explanation": "Cause."
+        },
+        {
+          "id": "C",
+          "text": "Glinide",
+          "explanation": "Pas une cause (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Atteinte autonome",
+          "explanation": "Cause."
+        },
+        {
+          "id": "E",
+          "text": "Maladie coeliaque",
+          "explanation": "Cause."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 45,
+        "originalNumber": 67,
+        "auditRef": "ND-maiter-diabete-Q67"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "DIARRHEE",
+      "hints": [
+        "Pense aux médicaments du diabète qui agissent dans l’intestin.",
+        "Pense aussi aux maladies associées : auto-immunes, pancréatiques, thyroïdiennes, et à la neuropathie autonome.",
+        "Une des propositions est un médicament réputé bien toléré sur le plan digestif, ou une atteinte qui ne touche pas l’intestin."
+      ],
+      "explanation": {
+        "text": "Diarrhée chronique d’un diabétique : metformine (très fréquent), acarbose, analogues du GLP-1, neuropathie autonome (diarrhée motrice, pullulation bactérienne), maladie cœliaque (associée au type 1), pancréatite chronique (insuffisance exocrine), hyperthyroïdie. Les inhibiteurs de la DPP-4 et les glinides sont peu pourvoyeurs de diarrhée ; la néphropathie n’en donne pas.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-868",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant la maladie coronarienne chez le patient diabétique, quelle affirmation est fausse ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Prévalence égale dans les deux sexes",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "Donne souvent une atteinte diffuse",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Risque que l’épreuve d’effort par cyclo-ergomètre soit faussement négative",
+          "explanation": "Retenue comme fausse (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Les re-sténoses après pose d’un stent sont plus fréquentes",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 45,
+        "originalNumber": 68,
+        "auditRef": "ND-maiter-diabete-Q68"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "CORONAIRE",
+      "hints": [
+        "La neuropathie autonome rend l’ischémie silencieuse.",
+        "Le diabète fait perdre à la femme sa protection relative.",
+        "Une proposition décrit le résultat d’un test d’effort : la compilation la juge fausse."
+      ],
+      "explanation": {
+        "text": "Coronaropathie du diabétique : souvent silencieuse (infarctus indolore), lésions diffuses, survenue et décès plus précoces, même fréquence chez les hommes et les femmes, resténoses plus fréquentes après dilatation. La compilation tient pour fausse l’affirmation « l’épreuve d’effort est souvent faussement négative » ; en pratique, l’épreuve d’effort est souvent peu contributive chez le diabétique, et on lui préfère volontiers une imagerie de stress.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-870",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "qu’est ce qui ne provoque pas une insulinorésistance sévère",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "des ovaires polykystiques",
+          "explanation": "Insulinorésistance."
+        },
+        {
+          "id": "B",
+          "text": "infarctus du myocarde",
+          "explanation": "Ne la provoque pas (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "pancréatite aiguë",
+          "explanation": "Retenue comme cause par la compilation (hyperglycémie, stress inflammatoire)."
+        },
+        {
+          "id": "D",
+          "text": "acanthosis nigricans",
+          "explanation": "Marqueur d’insulinorésistance."
+        },
+        {
+          "id": "E",
+          "text": "nash",
+          "explanation": "Insulinorésistance."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 46,
+        "originalNumber": 70,
+        "auditRef": "ND-maiter-diabete-Q70"
+      },
+      "chapter": "diabete",
+      "subchapter": "autres-types",
+      "lessonLinks": [
+        "dia-autres"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "IR",
+      "hints": [
+        "L’insulinorésistance accompagne l’excès de graisse abdominale et les hormones de contre-régulation.",
+        "Certains médicaments l’augmentent, d’autres l’améliorent.",
+        "Un stress aigu donne une hyperglycémie transitoire, pas une insulinorésistance sévère durable."
+      ],
+      "explanation": {
+        "text": "Les ovaires polykystiques et la NASH s’accompagnent d’insulinorésistance ; l’acanthosis nigricans en est un marqueur (plutôt une conséquence qu’une cause). La pancréatite aiguë peut donner une hyperglycémie transitoire. L’infarctus du myocarde donne une hyperglycémie de stress, mais pas d’insulinorésistance sévère : c’est la réponse retenue.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-875",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant la néphropathie diabétique : 1 vraie ou 1 fausse ??:",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Peut être réversible si bon contrôle de la tension artérielle et de la glycémie"
+        },
+        {
+          "id": "B",
+          "text": "Une protéinurie de >1g/24h est possible malgré une fonction rénale normale"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 46,
+        "originalNumber": 75,
+        "auditRef": "ND-maiter-diabete-Q75"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "NEPHRO",
+      "answerNote": "Retranscription incomplète (propositions ou énoncé manquants) : question consultable, non notée."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-879",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Qu’est ce qui ne permet pas de typer un diabète ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Doser les anticorps anti-GAD",
+          "explanation": "Permet."
+        },
+        {
+          "id": "B",
+          "text": "Demander quel a été le plus haut poids du patient dans le passé",
+          "explanation": "Permet."
+        },
+        {
+          "id": "C",
+          "text": "Demander si autre maladie autoimmune?",
+          "explanation": "Permet."
+        },
+        {
+          "id": "D",
+          "text": "Doser l’Hb glyquée",
+          "explanation": "Ne permet pas (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "Faire un test HOMA",
+          "explanation": "Permet."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 47,
+        "originalNumber": 79,
+        "auditRef": "ND-maiter-diabete-Q79"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "TYPAGE",
+      "hints": [
+        "Typer, c’est trouver le mécanisme : auto-immunité, insulinorésistance, sécrétion.",
+        "L’histoire du poids et les autres maladies auto-immunes orientent.",
+        "Lequel de ces examens ne mesure qu’un équilibre moyen ?"
+      ],
+      "explanation": {
+        "text": "Pour typer un diabète : anticorps anti-GAD, poids maximal atteint dans la vie, autres maladies auto-immunes, test HOMA (sensibilité et sécrétion), peptide C. L’HbA1c ne type pas le diabète.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-880",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Toutes ces propositions aident au diagnostic différentiel entre coma hypoglycémique et coma acidocétosique sauf 2. Lesquels ? c’était 1 seule fausse je pense",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Palpation abdominale"
+        },
+        {
+          "id": "B",
+          "text": "Etat d’hydratation"
+        },
+        {
+          "id": "C",
+          "text": "Respiration rapide ?"
+        },
+        {
+          "id": "D",
+          "text": "Vitesse d’installation / brutale"
+        },
+        {
+          "id": "E",
+          "text": "Convulsions"
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 47,
+        "originalNumber": 80,
+        "auditRef": "ND-maiter-diabete-Q80"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DD-COMA",
+      "answerNote": "Réponse discutée dans la compilation (voir les commentaires)."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-881",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Laquelle est fausse ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "40% des diabètes de type 2 ont un syndrome métabolique",
+          "explanation": "Faux (réponse attendue) : bien plus."
+        },
+        {
+          "id": "B",
+          "text": "Un diabète de type 2 peut donner de la cétose",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Des anticorps anti-GAD signent un diagnostic de diabète type 1",
+          "explanation": "Vrai (diabète auto-immun)."
+        },
+        {
+          "id": "D",
+          "text": "Le test HOMA mesure la fonction des cellules B et la sensibilité à l’insuline",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "Une proposition vraie a propos de la CRP",
+          "explanation": "Proposition non retranscrite dans la compilation."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 47,
+        "originalNumber": 81,
+        "auditRef": "ND-maiter-diabete-Q81"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DT2",
+      "hints": [
+        "Une proposition donne un pourcentage.",
+        "La plupart des diabétiques de type 2 ont un syndrome métabolique.",
+        "40 % est-il un chiffre trop bas ou trop haut ?"
+      ],
+      "explanation": {
+        "text": "La grande majorité des diabétiques de type 2 (de l’ordre de 70 à 80 %, selon les définitions) ont un syndrome métabolique : 40 % est trop bas. Un type 2 peut donner une cétose s’il est très insulinopénique. Les anti-GAD signent un diabète auto-immun (type 1 ou LADA). Le test HOMA estime la fonction des cellules bêta et la sensibilité à l’insuline.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-882",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Votre patient a les résultats suivants au test d’OGGT. 0’ -> 124 30’ -> 60’-> 200 90’ -> >200 120’ -> 180 Quel est le diagnostic ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "pas de problème glucidique",
+          "explanation": "Non."
+        },
+        {
+          "id": "B",
+          "text": "intolérance glucidique",
+          "explanation": "Incomplet : la glycémie à jeun est aussi anormale."
+        },
+        {
+          "id": "C",
+          "text": "glycémie anormale à jeun",
+          "explanation": "Incomplet : il y a aussi une intolérance."
+        },
+        {
+          "id": "D",
+          "text": "glycémie anormale à jeun et intolérance glucidique",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "diabète",
+          "explanation": "Non : ni 126 à jeun, ni 200 à 120 minutes."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 47,
+        "originalNumber": 82,
+        "auditRef": "ND-maiter-diabete-Q82"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "OGTT",
+      "hints": [
+        "Interprète séparément le temps 0 et le temps 120.",
+        "À jeun : 100 à 125 = glycémie à jeun anormale.",
+        "À 120 minutes : 140 à 199 = intolérance. Seule la 120e minute compte pour le diagnostic."
+      ],
+      "explanation": {
+        "text": "À jeun 124 mg/dL = glycémie à jeun anormale (100 à 125). À 120 minutes 180 mg/dL = intolérance au glucose (140 à 199). Les valeurs intermédiaires (60 et 90 minutes au-delà de 200) ne servent pas au diagnostic. Diagnostic : glycémie à jeun anormale et intolérance au glucose.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-883",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Dans quels cas un test d’HGPO n’est pas indiqué ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Insuffisance hypophysaire",
+          "explanation": "Pas indiqué (réponse attendue) : on utilise d’autres tests (hypoglycémie insulinique, voir le cours « Hypophyse »)."
+        },
+        {
+          "id": "B",
+          "text": "Diabète de grossesse",
+          "explanation": "Indiqué."
+        },
+        {
+          "id": "C",
+          "text": "Acromégalie",
+          "explanation": "Indiqué."
+        },
+        {
+          "id": "D",
+          "text": "Mise au point d’une glycémie à jeun à 110 mg/dl",
+          "explanation": "Indiqué."
+        },
+        {
+          "id": "E",
+          "text": "Hypoglycémie réactionnelle",
+          "explanation": "Indiqué."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 47,
+        "originalNumber": 83,
+        "auditRef": "ND-maiter-diabete-Q83"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "OGTT",
+      "hints": [
+        "L’HGPO sert quand la glycémie à jeun ne suffit pas à conclure.",
+        "Elle a aussi des indications en dehors du diabète (freinage d’une hormone, hypoglycémies après le repas).",
+        "Si une glycémie à jeun confirme déjà le diabète, que t’apporterait une HGPO ?"
+      ],
+      "explanation": {
+        "text": "Indications de l’HGPO (75 g de glucose) : diabète gestationnel, glycémie à jeun limite (100 à 125 mg/dL) pour chercher un diabète ou une intolérance, acromégalie (absence de freinage de la GH) et hypoglycémie réactionnelle (épreuve prolongée). Elle est inutile quand le diagnostic est déjà posé par une glycémie à jeun de 126 mg/dL ou plus confirmée, et elle n’explore pas une insuffisance hypophysaire.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-884",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-correct",
+      "stem": "Qu’est-ce qui n’aggrave pas une néphropathie diabétique (2 bonnes réponses) ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Furosemide",
+          "explanation": "N’aggrave pas (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Insuline donnée précocement",
+          "explanation": "N’aggrave pas (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Protéinurie",
+          "explanation": "Aggrave."
+        },
+        {
+          "id": "D",
+          "text": "HTA",
+          "explanation": "Aggrave."
+        },
+        {
+          "id": "E",
+          "text": "Produit de contraste iodé",
+          "explanation": "Aggrave."
+        }
+      ],
+      "expected": [
+        "A",
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 47,
+        "originalNumber": 84,
+        "auditRef": "ND-maiter-diabete-Q84"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "NEPHRO",
+      "hints": [
+        "Ce qui aggrave la néphropathie : ce qui augmente la pression dans le glomérule ou abîme directement le rein.",
+        "Pense à la tension, à l’albumine qui fuit, au sucre et aux produits toxiques pour le rein.",
+        "L’insuline corrige l’hyperglycémie, qui est ce qui abîme le rein."
+      ],
+      "explanation": {
+        "text": "Aggravent la néphropathie diabétique : HTA mal contrôlée, protéinurie, diabète mal équilibré, produits de contraste iodés, anti-inflammatoires, dyslipidémie. Ne l’aggravent pas : les gliflozines (inhibiteurs de SGLT2), qui la ralentissent ; l’insuline, même introduite tôt ; boire beaucoup. Traitement : IEC ou sartan en premier en cas d’albuminurie, gliflozine, tension inférieure à 130/80 mmHg (ADA 2025). Albuminurie anormale à partir de 30 mg/24 h (ou 30 mg/g de créatinine). Le furosémide n’aggrave pas la néphropathie en lui-même (attention seulement à la déshydratation).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-885",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "A propos des complications chroniques du diabète, 2 fausses :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "L’hyperglycémie est la cause majeure des microangiopathies",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "L’hyperglycémie est la cause majeure des macroangiopathies",
+          "explanation": "Faux (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Le syndrome de garland est une neuropathie autonome particulièrement douloureuse",
+          "explanation": "Retenue comme vraie par la compilation, mais inexacte : ce n’est pas une neuropathie autonome."
+        },
+        {
+          "id": "D",
+          "text": "La pyélonéphrite emphysémateuse est une complication redoutable du diabète",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "L’atteinte orthosympathique arrive avant la parasympathique",
+          "explanation": "Faux (réponse attendue) : la parasympathique d’abord."
+        }
+      ],
+      "expected": [
+        "B",
+        "E"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 47,
+        "originalNumber": 85,
+        "auditRef": "ND-maiter-diabete-Q85"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "COMPL-CHRON",
+      "hints": [
+        "Distingue la micro et la macroangiopathie : laquelle dépend surtout du sucre ?",
+        "Dans la neuropathie autonome, le nerf vague est atteint tôt.",
+        "Le syndrome de Garland est une atteinte des muscles de la cuisse."
+      ],
+      "explanation": {
+        "text": "L’hyperglycémie est la cause majeure de la microangiopathie, pas de la macroangiopathie (qui dépend de tous les facteurs de risque). Dans la neuropathie autonome, l’atteinte parasympathique (vague) précède l’orthosympathique, d’où la tachycardie de repos. La pyélonéphrite emphysémateuse est une infection grave propre au diabétique. Le syndrome de Garland est une amyotrophie proximale douloureuse (neuropathie motrice), pas une neuropathie autonome : la proposition qui le dit autonome est elle aussi inexacte.",
+        "status": "complement",
+        "sources": []
+      },
+      "answerNote": "Les deux réponses retenues (B et E) sont fausses, mais la proposition C l’est aussi : le syndrome de Garland est une amyotrophie proximale (neuropathie motrice douloureuse), pas une neuropathie autonome. À valider auprès du cours."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-887",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Dans la classification PEDIS, deux propositions fausses :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "L’item E indique la profondeur de la lésion"
+        },
+        {
+          "id": "B",
+          "text": "L’item I indique le degré d’infection"
+        },
+        {
+          "id": "C",
+          "text": "L’ischémie critique est définie à partir de TCPO2<30mmHg"
+        },
+        {
+          "id": "D",
+          "text": "La classification ne prend pas en compte les résultats bactériologiques"
+        },
+        {
+          "id": "E",
+          "text": "La classification ne prend pas en compte la sensibilité du pied"
+        }
+      ],
+      "expected": [
+        "A",
+        "D",
+        "E"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 48,
+        "originalNumber": 87,
+        "auditRef": "ND-maiter-diabete-Q87"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-pied"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PIED",
+      "answerNote": "La consigne retranscrite demande 2 réponse(s), mais 3 proposition(s) sont marquées dans la compilation."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-888",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Urgences: dame de 71 ans, vit seule depuis 25 ans. Diabète mal équilibré traité par biguanide et SH. Présente des douleurs nocturnes dans le membre inférieur droit. A l’examen clinique, elle présente une gangrène humide au 2eme orteil avec signe d’infection.Glycémie à 280 mg/dL. Que faire?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hospit",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Vasodilatateurs , aspirine et antalgiques + envoi au MG",
+          "explanation": "Non."
+        },
+        {
+          "id": "C",
+          "text": "Insulinothérapie et consultation rapprochée en diabétologie",
+          "explanation": "Insuffisant : il faut hospitaliser."
+        },
+        {
+          "id": "D",
+          "text": "Appel du chir de garde pour amputer son orteil",
+          "explanation": "Non : pas d’amputation d’emblée."
+        },
+        {
+          "id": "E",
+          "text": "Prescription d’une artériographie des membres inférieurs en urgence.",
+          "explanation": "Pas en urgence : elle se programme pendant l’hospitalisation."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 48,
+        "originalNumber": 88,
+        "auditRef": "ND-maiter-diabete-Q88"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-pied"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "PIED",
+      "answerNote": "Gangrène humide infectée d'un orteil : urgence du pied diabétique.",
+      "hints": [
+        "Gangrène humide et infection chez une personne âgée qui vit seule.",
+        "La gravité est locale et générale.",
+        "Peut-on la renvoyer à domicile ?"
+      ],
+      "explanation": {
+        "text": "Une gangrène d’orteil chez une patiente âgée qui vit seule, avec un diabète déséquilibré et des pouls non perçus (ischémie), impose l’hospitalisation : bilan artériel (artériographie programmée), revascularisation si possible, traitement de l’infection, insuline, soins locaux. On ne la renvoie pas chez son médecin traitant, et on n’ampute pas d’emblée.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-891",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Patient de 70 ans au urgences avec AEG, glycémie à 300, IMC à 32, cétonurie ++, le pH à 7.3 Choisissez les deux fausses",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Le patient est à mettre sous pompe à insuline pour le stabiliser"
+        },
+        {
+          "id": "B",
+          "text": "vu son IMC et son âge, c’est surement un diabète de type 2"
+        },
+        {
+          "id": "C",
+          "text": "Je dose les Ac en pensant à un diabète de type1"
+        },
+        {
+          "id": "D",
+          "text": "Vu sa glycémie, je mets le patient sous metformine et lui dis de rentrer chez lui"
+        },
+        {
+          "id": "E",
+          "text": "Je fais une imagerie de son pancréas au vu de son AEG et de son âge."
+        }
+      ],
+      "expected": [
+        "B",
+        "C",
+        "D"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 48,
+        "originalNumber": 91,
+        "auditRef": "ND-maiter-diabete-Q91"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "TYPAGE",
+      "answerNote": "La consigne retranscrite demande 2 réponse(s), mais 3 proposition(s) sont marquées dans la compilation."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-893",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Quelle pathologie ne donne pas de diabète sucré ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Antipsychotique atypique",
+          "explanation": "Cause."
+        },
+        {
+          "id": "B",
+          "text": "Mucoviscidose",
+          "explanation": "Cause."
+        },
+        {
+          "id": "C",
+          "text": "Cancer du pancréas",
+          "explanation": "Cause."
+        },
+        {
+          "id": "D",
+          "text": "Phéochromocytome",
+          "explanation": "Cause."
+        },
+        {
+          "id": "E",
+          "text": "hyperprolactinémie",
+          "explanation": "Pas une cause (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 49,
+        "originalNumber": 93,
+        "auditRef": "ND-maiter-diabete-Q93"
+      },
+      "chapter": "diabete",
+      "subchapter": "autres-types",
+      "lessonLinks": [
+        "dia-autres"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SECONDAIRE",
+      "hints": [
+        "Un diabète secondaire vient d’une destruction du pancréas, d’hormones hyperglycémiantes ou de médicaments.",
+        "Les hormones hyperglycémiantes : GH, cortisol, catécholamines, glucagon.",
+        "Une des maladies proposées ne produit pas d’hormone hyperglycémiante et n’abîme pas le pancréas."
+      ],
+      "explanation": {
+        "text": "Causes de diabète secondaire : maladies du pancréas (pancréatite chronique, pancréatectomie, cancer, mucoviscidose, hémochromatose), endocrinopathies avec hormones hyperglycémiantes (Cushing, acromégalie, phéochromocytome, glucagonome), médicaments (corticoïdes, antipsychotiques atypiques, antiprotéases), hépatite C et cirrhose. Ne donnent pas de diabète : l’hépatite A (aiguë, sans séquelle), l’insuffisance surrénalienne (elle donne plutôt des hypoglycémies), le cancer médullaire de la thyroïde, l’hyperprolactinémie.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-896",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "C-peptide, choisissez la fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Indosable si diabète de type 2 depuis longtemps",
+          "explanation": "Faux (réponse attendue) : habituellement encore dosable."
+        },
+        {
+          "id": "B",
+          "text": "Dégradation de la pro insuline",
+          "explanation": "Vrai : coupure de la proinsuline."
+        },
+        {
+          "id": "C",
+          "text": "Présent dans les urines",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "Dosable en cas de prise trop importante de sulfonylurés",
+          "explanation": "Vrai : sécrétion stimulée."
+        },
+        {
+          "id": "E",
+          "text": "...",
+          "explanation": "Proposition non retranscrite dans la compilation."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 49,
+        "originalNumber": 96,
+        "auditRef": "ND-maiter-diabete-Q96"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic",
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "CPEPTIDE",
+      "hints": [
+        "Le peptide C est coupé de la proinsuline en même temps que l’insuline.",
+        "Il témoigne donc de la sécrétion propre du pancréas, pas de l’insuline injectée.",
+        "Dans un type 2 ancien, la sécrétion baisse mais disparaît-elle ?"
+      ],
+      "explanation": {
+        "text": "Le peptide C vient de la coupure de la proinsuline, il est éliminé dans les urines, et il est dosable (élevé) en cas de surdosage en sulfamides, qui stimulent la sécrétion. Dans un type 2 ancien, la sécrétion diminue mais reste habituellement dosable : il n’est indosable que dans un type 1 ancien.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-898",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Toutes les propositions suivantes concernant le diabète de type 2 sont vraies sauf une",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Rciu",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "Malnut foetale",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "On retrouve rarement une histoire familiale",
+          "explanation": "Faux (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Ac anti Gad et anti IA2 toujours négatifs",
+          "explanation": "Vrai (s’ils sont positifs, c’est un diabète auto-immun)."
+        },
+        {
+          "id": "E",
+          "text": "Souvent syndrome métabolique",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 49,
+        "originalNumber": 98,
+        "auditRef": "ND-maiter-diabete-Q98"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DT2",
+      "hints": [
+        "Le type 2 associe une susceptibilité familiale et un mode de vie.",
+        "La nutrition pendant la vie fœtale compte aussi.",
+        "Le type 2 est-il une maladie familiale ?"
+      ],
+      "explanation": {
+        "text": "Le type 2 est favorisé par le retard de croissance intra-utérin et la malnutrition fœtale, il s’accompagne souvent d’un syndrome métabolique, et les anticorps anti-GAD et anti-IA2 sont négatifs. L’histoire familiale est fréquente, pas rare.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-899",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Dans la rétinopathie diabétique, quelle est la fausse ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Rôle avéré du tabac",
+          "explanation": "Retenue comme vraie par la compilation : lien discuté."
+        },
+        {
+          "id": "B",
+          "text": "Plus souvent chez la femme",
+          "explanation": "Faux (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Fluoangiographie rétinienne permet de faire le diagnostic",
+          "explanation": "Vrai : précise l’ischémie et les néovaisseaux."
+        },
+        {
+          "id": "D",
+          "text": "Des lésions hémorragiques (AMIR) et exsudats cotonneux sont des signes de mauvais pronostic",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "Est une cause possible de cécité",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 49,
+        "originalNumber": 99,
+        "auditRef": "ND-maiter-diabete-Q99"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "RETINO",
+      "hints": [
+        "Une proposition porte sur la différence entre hommes et femmes.",
+        "Le risque de rétinopathie dépend de l’ancienneté et de l’équilibre du diabète.",
+        "Le sexe a-t-il une influence notable ?"
+      ],
+      "explanation": {
+        "text": "Rétinopathie diabétique : cause majeure de cécité ; dépistage par un fond d’œil annuel après dilatation (ou photographies) ; les exsudats cotonneux, les hémorragies en taches et les AMIR signent une forme sévère (mauvais pronostic) ; les néovaisseaux définissent la forme proliférante, traitée par photocoagulation au laser ; l’œdème maculaire touche la vision centrale et se traite par anti-VEGF ; la vitrectomie sert à sauver la vision. Elle s’aggrave avec un mauvais équilibre glycémique et l’HTA ; le sexe ne change pas le risque.",
+        "status": "complement",
+        "sources": []
+      },
+      "answerNote": "La compilation tient le tabac pour un facteur aggravant « bien connu » de la rétinopathie. Les recommandations de l’ADA jugent ce lien incertain (le tabac aggrave surtout la macroangiopathie et la néphropathie) : la proposition sur le tabac est donc discutable. À valider auprès du cours."
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-901",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Coma hyperosmolaire, la fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Peut être déclenchée par une infection",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "Glycémie très élevée",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "Déshydratation importante",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "Acidose métabolique avec trou anionique augmenté",
+          "explanation": "Faux (réponse attendue)."
+        },
+        {
+          "id": "E",
+          "text": "Hyponatrémie ou pseudohyponatrémie",
+          "explanation": "Vrai : pseudohyponatrémie."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 49,
+        "originalNumber": 101,
+        "auditRef": "ND-maiter-diabete-Q101"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HYPEROSMO",
+      "hints": [
+        "Dans l’état hyperosmolaire, il reste assez d’insuline pour bloquer la fabrication des corps cétoniques.",
+        "Sans corps cétoniques, quels signes d’acidose manquent ?",
+        "La déshydratation est majeure, d’où une insuffisance rénale fonctionnelle."
+      ],
+      "explanation": {
+        "text": "État hyperosmolaire : souvent une personne âgée, diabétique de type 2, après une infection ; glycémie très élevée (600 mg/dL ou plus, souvent au-delà de 800), osmolalité très élevée, déshydratation majeure, insuffisance rénale fonctionnelle (urée augmentée, plus que la créatinine), hémoconcentration, pseudohyponatrémie. Pas d’acidose (pH normal), pas de cétose importante, donc pas de respiration de Kussmaul ni d’haleine acétonique.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-902",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Coma acidocétosique suite une pneumonie bactérienne, que ne faut-il pas faire en premier lieu ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Kcl",
+          "explanation": "À faire selon la kaliémie."
+        },
+        {
+          "id": "B",
+          "text": "Insuline iv",
+          "explanation": "À faire."
+        },
+        {
+          "id": "C",
+          "text": "Bicarbonate jusqu’à normalisation du ph",
+          "explanation": "À ne pas faire (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Injection ab",
+          "explanation": "À faire après hémocultures."
+        },
+        {
+          "id": "E",
+          "text": "Réhydratation",
+          "explanation": "À faire."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 50,
+        "originalNumber": 102,
+        "auditRef": "ND-maiter-diabete-Q102"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ACIDOCETOSE",
+      "hints": [
+        "Le traitement repose sur trois piliers : eau et sel, insuline, potassium.",
+        "Le liquide de départ doit corriger une déshydratation avec perte de sel.",
+        "Un des traitements proposés n’est réservé qu’aux acidoses extrêmes."
+      ],
+      "explanation": {
+        "text": "Acidocétose : réhydratation par sérum physiologique (NaCl 0,9 %), insuline IV continue (environ 0,1 U/kg/h), potassium dès que la kaliémie le permet, glucosé ajouté quand la glycémie descend sous 250 mg/dL, traitement de la cause (antibiotiques IV après hémocultures). Les bicarbonates ne sont pas donnés d’office : seulement si le pH est inférieur à 7,0 (consensus 2024), car ils exposent à l’hypokaliémie et à l’acidose paradoxale du LCR.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-903",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Qu’est ce qui n’est pas une neuropathie autonome chez un patient diabètique ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hypertension artérielle asymptomatique",
+          "explanation": "Pas une neuropathie autonome (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Diarrhées fréquentes",
+          "explanation": "Neuropathie autonome."
+        },
+        {
+          "id": "C",
+          "text": "Dysfonction érectile",
+          "explanation": "Neuropathie autonome."
+        },
+        {
+          "id": "D",
+          "text": "Syndrome d’hypersudation",
+          "explanation": "Neuropathie autonome."
+        },
+        {
+          "id": "E",
+          "text": "Tachycardie régulière de repos",
+          "explanation": "Neuropathie autonome."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 50,
+        "originalNumber": 103,
+        "auditRef": "ND-maiter-diabete-Q103"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "NEURO",
+      "hints": [
+        "La neuropathie autonome touche le cœur, le tube digestif, la vessie, les organes génitaux et la sudation.",
+        "Sur le plan tensionnel, elle empêche la tension de se maintenir debout.",
+        "Une des propositions décrit l’inverse de ce que fait la neuropathie autonome sur la tension, ou une atteinte qui n’est pas végétative."
+      ],
+      "explanation": {
+        "text": "Neuropathie autonome du diabétique : tachycardie de repos et perte de la variation de la fréquence cardiaque avec la respiration, hypotension orthostatique, ischémie myocardique indolore, gastroparésie, diarrhée motrice (souvent nocturne) ou constipation, dysfonction érectile, vessie neurologique, troubles de la sudation (anhidrose des pieds, hypersudation du haut du corps), mauvaise perception des hypoglycémies. L’hypertension artérielle n’en est pas un signe.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-908",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Lequel des énoncés suivants n’est pas une indication d’HGPO",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Diagnostic acromégalie",
+          "explanation": "Indication."
+        },
+        {
+          "id": "B",
+          "text": "Diagnostic diabète gestationnel",
+          "explanation": "Indication."
+        },
+        {
+          "id": "C",
+          "text": "Diagnostic diabète ou pré-diabète",
+          "explanation": "Indication (glycémie à jeun limite)."
+        },
+        {
+          "id": "D",
+          "text": "Diagnostic hypoglycémie réactionnelle",
+          "explanation": "Indication."
+        },
+        {
+          "id": "E",
+          "text": "Confirmation d’un diabète de type 2 chez une personne ayant une glycémie à 150mg/dl à jeun",
+          "explanation": "Pas d’indication (réponse attendue) : 150 à jeun suffit, à confirmer par un second dosage."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 50,
+        "originalNumber": 108,
+        "auditRef": "ND-maiter-diabete-Q108"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "OGTT",
+      "hints": [
+        "L’HGPO sert quand la glycémie à jeun ne suffit pas à conclure.",
+        "Elle a aussi des indications en dehors du diabète (freinage d’une hormone, hypoglycémies après le repas).",
+        "Si une glycémie à jeun confirme déjà le diabète, que t’apporterait une HGPO ?"
+      ],
+      "explanation": {
+        "text": "Indications de l’HGPO (75 g de glucose) : diabète gestationnel, glycémie à jeun limite (100 à 125 mg/dL) pour chercher un diabète ou une intolérance, acromégalie (absence de freinage de la GH) et hypoglycémie réactionnelle (épreuve prolongée). Elle est inutile quand le diagnostic est déjà posé par une glycémie à jeun de 126 mg/dL ou plus confirmée, et elle n’explore pas une insuffisance hypophysaire.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-909",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Parmi les résultats d’HGPO suivants (mesurés en glycémie veineuse), lequel fait penser à une intolérance glucidique",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "0’ : 90 mg/dl -> 120’ : 130 mg/dl",
+          "explanation": "Normal."
+        },
+        {
+          "id": "B",
+          "text": "0’ : 90 mg/dl -> 120 ‘ : 210 mg/dl",
+          "explanation": "Diabète."
+        },
+        {
+          "id": "C",
+          "text": "0’ : 90 mg/dl -> 120’ : 180 mg/dl",
+          "explanation": "Intolérance (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "0’ : 130 mg/dl -> 120’ : 210 mg/dl",
+          "explanation": "Diabète."
+        },
+        {
+          "id": "E",
+          "text": "0’ : 130 mg/dl -> 120’ : 180 mg/dl",
+          "explanation": "Diabète par la glycémie à jeun."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 50,
+        "originalNumber": 109,
+        "auditRef": "ND-maiter-diabete-Q109"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "OGTT",
+      "hints": [
+        "Regarde d’abord le temps 0, puis le temps 120.",
+        "Intolérance : glycémie à jeun normale et 140 à 199 à 120 minutes.",
+        "Au-delà de 200 à 120 minutes, c’est un diabète."
+      ],
+      "explanation": {
+        "text": "Intolérance au glucose : 140 à 199 mg/dL à la 120e minute. 90 puis 180 = intolérance. 90 puis 130 = normal. 90 puis 210 = diabète. 130 à jeun = diabète (à confirmer), quelle que soit la 2e heure.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCMM-910",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "two-false",
+      "stem": "Hb glyquée : 2 fausses",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "S’exprime en % ou en mmol/mol",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "Reflète l’état glycémique du mois précédent",
+          "explanation": "Faux (réponse attendue) : 2 à 3 mois."
+        },
+        {
+          "id": "C",
+          "text": "Signe un diabète si > 6%",
+          "explanation": "Faux (réponse attendue) : 6,5 % ou plus."
+        },
+        {
+          "id": "D",
+          "text": "Est sous-estimée si hémolyse",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "Est surestimée chez les personnes âgées",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "B",
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 50,
+        "originalNumber": 110,
+        "auditRef": "ND-maiter-diabete-Q110"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HBA1C",
+      "hints": [
+        "Pense à la durée de vie des globules rouges.",
+        "Des globules rouges plus jeunes ont eu moins de temps pour se glyquer, des globules rouges plus vieux davantage.",
+        "Combien de temps vit un globule rouge, et à partir de quel pourcentage parle-t-on de diabète ?"
+      ],
+      "explanation": {
+        "text": "L’HbA1c reflète la glycémie moyenne des 2 à 3 derniers mois (durée de vie des globules rouges). Elle est sous-estimée quand les globules rouges sont jeunes (hémolyse, hémorragie, transfusion) et surestimée en cas de carence en fer ou chez le sujet âgé. Elle s’exprime en % ou en mmol/mol, la glycation est irréversible, et le diagnostic de diabète est posé à 6,5 % ou plus (ADA 2025).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-911",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "A propos du diabète de type 1, tous les éléments sont caractéristiques au moment du diagnostic, sauf un :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Age du patient < 30 ans",
+          "explanation": "Caractéristique."
+        },
+        {
+          "id": "B",
+          "text": "Poids normal",
+          "explanation": "Caractéristique."
+        },
+        {
+          "id": "C",
+          "text": "Symptomatologie : polyurie, polydipsie..",
+          "explanation": "Caractéristique."
+        },
+        {
+          "id": "D",
+          "text": "Anticorps anti-GAD",
+          "explanation": "Caractéristique."
+        },
+        {
+          "id": "E",
+          "text": "C peptide nul (=indosable)",
+          "explanation": "Pas caractéristique (réponse attendue) : souvent encore dosable."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 51,
+        "originalNumber": 111,
+        "auditRef": "ND-maiter-diabete-Q111"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "DT1",
+      "hints": [
+        "Le type 1 se révèle brutalement, peu après le début de l’hyperglycémie.",
+        "Les complications chroniques demandent des années pour apparaître.",
+        "Au diagnostic, reste-t-il un peu de sécrétion d’insuline ?"
+      ],
+      "explanation": {
+        "text": "Au diagnostic, le diabète de type 1 touche souvent un sujet de moins de 30 ans, de poids normal ou bas, qui a maigri récemment, avec un syndrome polyuro-polydipsique, une cétose et des anticorps anti-GAD. Les complications microangiopathiques sont absentes (elles demandent des années d’hyperglycémie), la ferritine n’est pas augmentée, et le peptide C est bas mais souvent encore dosable (sécrétion résiduelle).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-912",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Un patient est en acidocétose, pH à 7.15, que ne fait-on pas d’office?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Perfusion",
+          "explanation": "Oui."
+        },
+        {
+          "id": "B",
+          "text": "Glucosé",
+          "explanation": "Oui, quand la glycémie passe sous 250."
+        },
+        {
+          "id": "C",
+          "text": "Insuline",
+          "explanation": "Oui."
+        },
+        {
+          "id": "D",
+          "text": "KCl",
+          "explanation": "Oui, selon la kaliémie."
+        },
+        {
+          "id": "E",
+          "text": "Bicarbonates",
+          "explanation": "Pas d’office (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 51,
+        "originalNumber": 112,
+        "auditRef": "ND-maiter-diabete-Q112"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "ACIDOCETOSE",
+      "hints": [
+        "Le traitement repose sur trois piliers : eau et sel, insuline, potassium.",
+        "Le liquide de départ doit corriger une déshydratation avec perte de sel.",
+        "Un des traitements proposés n’est réservé qu’aux acidoses extrêmes."
+      ],
+      "explanation": {
+        "text": "Acidocétose : réhydratation par sérum physiologique (NaCl 0,9 %), insuline IV continue (environ 0,1 U/kg/h), potassium dès que la kaliémie le permet, glucosé ajouté quand la glycémie descend sous 250 mg/dL, traitement de la cause (antibiotiques IV après hémocultures). Les bicarbonates ne sont pas donnés d’office : seulement si le pH est inférieur à 7,0 (consensus 2024), car ils exposent à l’hypokaliémie et à l’acidose paradoxale du LCR.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-913",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Ces caractéristiques permettent de différencier le coma hypoglycémique et acidocétose , sauf une :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Type de diabète",
+          "explanation": "Ne permet pas (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Respiration de Kussmaul",
+          "explanation": "Permet."
+        },
+        {
+          "id": "C",
+          "text": "Rapidité d’arrivée des symptômes",
+          "explanation": "Permet."
+        },
+        {
+          "id": "D",
+          "text": "Etat d’hydratation",
+          "explanation": "Permet."
+        },
+        {
+          "id": "E",
+          "text": "Haleine pomme de reinette",
+          "explanation": "Permet."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 51,
+        "originalNumber": 113,
+        "auditRef": "ND-maiter-diabete-Q113"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DD-COMA",
+      "hints": [
+        "Pour distinguer deux comas, il faut un signe qui diffère entre eux au moment où on examine le patient.",
+        "L’un s’installe en quelques minutes, avec des sueurs ; l’autre en plusieurs heures ou jours, avec une déshydratation.",
+        "Ce que le patient prend habituellement comme traitement est-il différent dans les deux cas ?"
+      ],
+      "explanation": {
+        "text": "Coma hypoglycémique : installation brutale, sueurs profuses, agitation et convulsions possibles, pas de déshydratation. Coma acidocétosique : installation progressive, peau et muqueuses sèches (déshydratation), respiration de Kussmaul, haleine acétonique (« pomme de reinette »). La glycémie capillaire tranche immédiatement. Ne permettent pas de les distinguer : la dose ou le schéma d’insuline, le type de diabète (les deux surviennent chez le diabétique de type 1 sous insuline), la tension artérielle.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-914",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Qu’est-ce qui ne suggère pas une neuropathie autonome ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Pied de charcot",
+          "explanation": "Ne suggère pas (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Hypotension orthostatique",
+          "explanation": "Suggère."
+        },
+        {
+          "id": "C",
+          "text": "Perte de régulation de la FC avec la respiration",
+          "explanation": "Suggère."
+        },
+        {
+          "id": "D",
+          "text": "Dysfonction érectile",
+          "explanation": "Suggère."
+        },
+        {
+          "id": "E",
+          "text": "Diarrhée motrice",
+          "explanation": "Suggère."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 51,
+        "originalNumber": 114,
+        "auditRef": "ND-maiter-diabete-Q114"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "NEURO",
+      "hints": [
+        "La neuropathie autonome touche le cœur, le tube digestif, la vessie, les organes génitaux et la sudation.",
+        "Sur le plan tensionnel, elle empêche la tension de se maintenir debout.",
+        "Une des propositions est une atteinte ostéo-articulaire liée surtout à la perte de sensibilité."
+      ],
+      "explanation": {
+        "text": "Neuropathie autonome du diabétique : tachycardie de repos et perte de la variation de la fréquence cardiaque avec la respiration, hypotension orthostatique, ischémie myocardique indolore, gastroparésie, diarrhée motrice (souvent nocturne) ou constipation, dysfonction érectile, vessie neurologique, troubles de la sudation (anhidrose des pieds, hypersudation du haut du corps), mauvaise perception des hypoglycémies. L’hypertension artérielle n’en est pas un signe. Le pied de Charcot est lié surtout à la neuropathie sensitive.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-916",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Parmi ces données biologiques, laquelle n’est pas suggestive d’un coma hyperosmolaire?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hyperglycémie",
+          "explanation": "Suggestive."
+        },
+        {
+          "id": "B",
+          "text": "Acidose métabolique",
+          "explanation": "Pas suggestive (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "Urée augmentée",
+          "explanation": "Suggestive."
+        },
+        {
+          "id": "D",
+          "text": "Pseudohyponatrémie",
+          "explanation": "Suggestive."
+        },
+        {
+          "id": "E",
+          "text": "Hématocrite augmenté",
+          "explanation": "Suggestive : hémoconcentration."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 51,
+        "originalNumber": 116,
+        "auditRef": "ND-maiter-diabete-Q116"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HYPEROSMO",
+      "hints": [
+        "Dans l’état hyperosmolaire, il reste assez d’insuline pour bloquer la fabrication des corps cétoniques.",
+        "Sans corps cétoniques, quels signes d’acidose manquent ?",
+        "La déshydratation est majeure, d’où une insuffisance rénale fonctionnelle."
+      ],
+      "explanation": {
+        "text": "État hyperosmolaire : souvent une personne âgée, diabétique de type 2, après une infection ; glycémie très élevée (600 mg/dL ou plus, souvent au-delà de 800), osmolalité très élevée, déshydratation majeure, insuffisance rénale fonctionnelle (urée augmentée, plus que la créatinine), hémoconcentration, pseudohyponatrémie. Pas d’acidose (pH normal), pas de cétose importante, donc pas de respiration de Kussmaul ni d’haleine acétonique.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-920",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Classification PEDIS : une fausse",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "P pour perfusion",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "B",
+          "text": "E pour extension",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "C",
+          "text": "D pour douleur",
+          "explanation": "Faux (réponse attendue) : D = profondeur (depth)."
+        },
+        {
+          "id": "D",
+          "text": "I pour infection",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "S pour sensibilité",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 52,
+        "originalNumber": 120,
+        "auditRef": "ND-maiter-diabete-Q120"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-pied"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "PIED",
+      "hints": [
+        "PEDIS est un acronyme de 5 lettres, en anglais.",
+        "Chaque lettre décrit la plaie ou le pied : vascularisation, taille, profondeur, infection, sensibilité.",
+        "La douleur fait-elle partie des 5 lettres ?"
+      ],
+      "explanation": {
+        "text": "Classification PEDIS (IWGDF) : Perfusion, Extent (étendue de la plaie), Depth (profondeur), Infection (grades 1 à 4), Sensation (sensibilité). Elle ne tient compte ni des germes ni de leurs résistances, ni de la douleur, ni de l’impotence fonctionnelle. L’ostéite est à la fois D3 et I3 ; l’ischémie critique se définit notamment par une TcPO2 inférieure à 30 mmHg.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-923",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Qu’est ce qui ne donne pas d’insulino-résistance ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hypothyroïdie",
+          "explanation": "Ne la donne pas (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Anti-protéases (ritonavir entre autre)",
+          "explanation": "La donne."
+        },
+        {
+          "id": "C",
+          "text": "Acromégalie",
+          "explanation": "La donne."
+        },
+        {
+          "id": "D",
+          "text": "Cushing",
+          "explanation": "La donne."
+        },
+        {
+          "id": "E",
+          "text": "Hémochromatose",
+          "explanation": "La donne (et détruit les cellules bêta)."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 52,
+        "originalNumber": 123,
+        "auditRef": "ND-maiter-diabete-Q123"
+      },
+      "chapter": "diabete",
+      "subchapter": "autres-types",
+      "lessonLinks": [
+        "dia-autres"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "IR",
+      "hints": [
+        "L’insulinorésistance accompagne l’excès de graisse abdominale et les hormones de contre-régulation.",
+        "Certains médicaments l’augmentent, d’autres l’améliorent.",
+        "Une des propositions désigne une situation sans effet notable, voire favorable, sur la sensibilité à l’insuline."
+      ],
+      "explanation": {
+        "text": "Causes d’insulinorésistance : obésité abdominale, ovaires polykystiques, stéatose hépatique (NASH), cirrhose, Cushing et corticoïdes, acromégalie, phéochromocytome, antiprotéases, hémochromatose, lipodystrophies. Ne la donnent pas : les IEC (plutôt favorables), l’hypothyroïdie, l’infarctus du myocarde (hyperglycémie de stress transitoire).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-927",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Mamy de 71 ans, vit seule, diabétique traitée avec un biguanide et SH, le diabète semble avoir été négligé (mal équilibré), va aux urgences pour une douleur dans le mollet droit la nuit, on se rend compte qu’elle a un ulcère (gangrène) localisé au 2ème orteil, pas de signes inflammatoire, les pouls ne sont pas palpés, et glycémie capillaire à 280",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Hospitaliser",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Commencer une insulinothérapie et lui donner un rendez-vous en diabétologie",
+          "explanation": "Insuffisant."
+        },
+        {
+          "id": "C",
+          "text": "Réaliser une artériographie du MI en urgence",
+          "explanation": "Pas en urgence : elle se programme pendant l’hospitalisation."
+        },
+        {
+          "id": "D",
+          "text": "Appeler le chirurgien pour réaliser une amputation dans les 24 heures",
+          "explanation": "Non."
+        },
+        {
+          "id": "E",
+          "text": "référer à son médecin traitant",
+          "explanation": "Non."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 52,
+        "originalNumber": 127,
+        "auditRef": "ND-maiter-diabete-Q127"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-pied"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "PIED",
+      "answerNote": "Même cas que Maiter Q88 (gangrène d'un orteil).",
+      "hints": [
+        "Gangrène d’orteil et pouls non perçus : il y a une ischémie.",
+        "La patiente est âgée, vit seule, avec un diabète négligé.",
+        "Peut-elle rentrer chez elle ?"
+      ],
+      "explanation": {
+        "text": "Une gangrène d’orteil chez une patiente âgée qui vit seule, avec un diabète déséquilibré et des pouls non perçus (ischémie), impose l’hospitalisation : bilan artériel (artériographie programmée), revascularisation si possible, traitement de l’infection, insuline, soins locaux. On ne la renvoie pas chez son médecin traitant, et on n’ampute pas d’emblée.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-928",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Qu'est ce qui n’aggrave PAS une néphropathie diabétique",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "HTA non contrôlée",
+          "explanation": "Aggrave."
+        },
+        {
+          "id": "B",
+          "text": "Dyslipidémie athérogène",
+          "explanation": "Aggrave."
+        },
+        {
+          "id": "C",
+          "text": "Insulinothérapie introduite trop rapidement",
+          "explanation": "N’aggrave pas (réponse attendue)."
+        },
+        {
+          "id": "D",
+          "text": "Protéinurie",
+          "explanation": "Aggrave."
+        },
+        {
+          "id": "E",
+          "text": "Hyperglycémie",
+          "explanation": "Aggrave."
+        }
+      ],
+      "expected": [
+        "C"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 52,
+        "originalNumber": 128,
+        "auditRef": "ND-maiter-diabete-Q128"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "NEPHRO",
+      "hints": [
+        "Ce qui aggrave la néphropathie : ce qui augmente la pression dans le glomérule ou abîme directement le rein.",
+        "Pense à la tension, à l’albumine qui fuit, au sucre et aux produits toxiques pour le rein.",
+        "Une des propositions décrit un traitement qui corrige ce qui abîme le rein."
+      ],
+      "explanation": {
+        "text": "Aggravent la néphropathie diabétique : HTA mal contrôlée, protéinurie, diabète mal équilibré, produits de contraste iodés, anti-inflammatoires, dyslipidémie. Ne l’aggravent pas : les gliflozines (inhibiteurs de SGLT2), qui la ralentissent ; l’insuline, même introduite tôt ; boire beaucoup. Traitement : IEC ou sartan en premier en cas d’albuminurie, gliflozine, tension inférieure à 130/80 mmHg (ADA 2025). Albuminurie anormale à partir de 30 mg/24 h (ou 30 mg/g de créatinine).",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-ND-ADULTE-QCM-930",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Quel est le traitement du LADA chez une personne âgée?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Insulinothérapie",
+          "explanation": "Oui (réponse attendue)."
+        },
+        {
+          "id": "B",
+          "text": "Sulfamides",
+          "explanation": "Non."
+        },
+        {
+          "id": "C",
+          "text": "Mesures hygiéno-diététiques",
+          "explanation": "Insuffisant seul."
+        }
+      ],
+      "expected": [
+        "A"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "ND",
+        "discipline": "ADULTE",
+        "teacher": "Maiter",
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 53,
+        "originalNumber": 130,
+        "auditRef": "ND-maiter-diabete-Q130"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "TYPAGE",
+      "hints": [
+        "Le LADA est un diabète auto-immun.",
+        "La destruction des cellules bêta progresse.",
+        "Quel traitement remplace une sécrétion qui disparaît ?"
+      ],
+      "explanation": {
+        "text": "Le LADA est un diabète auto-immun de l’adulte : l’insulinopénie s’installe en quelques mois à années. Le traitement repose sur l’insuline, y compris chez la personne âgée. Les sulfamides épuisent des cellules bêta déjà menacées, et les seules mesures hygiéno-diététiques ne suffisent pas.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

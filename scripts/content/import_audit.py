@@ -104,7 +104,8 @@ def expected_of(opts, marked):
 ND_BASE = {"Maiter adulte – Thyroïde": 200, "Maiter adulte – Hypophyse": 300, "Lysy – Thyroïde": 160, "Marbaix – Anapath thyroïde/parathyroïdes/surrénales": 100,
            "Duprez + Coche – Imagerie": 0, "Horsmans – Pharmaco hormones": 0, "Marbaix – Anapath hypophyse": 120, "Maiter adulte – Surrénale": 400,
            "Horsmans – Pharmaco hématopoïèse": 10, "Horsmans – Pharmaco hypolipémiants": 20, "Horsmans – Pharmaco immunosuppresseurs": 30,
-           "Hermans – Syndrome métabolique": 500, "Navez – Chirurgie bariatrique": 600, "Thissen – Obésité": 700}
+           "Hermans – Syndrome métabolique": 500, "Navez – Chirurgie bariatrique": 600, "Thissen – Obésité": 700,
+           "Maiter adulte – Diabète": 800, "Marbaix – Anapath pancréas": 130}
 used = collections.defaultdict(set)
 for qid in existing.values():
     m = re.match(r"ENDO-(.+)-(ADULTE|PEDIA|RADIO|ANAPATH|PHARMA)-(QCM|QCMM|VF|QROC|CAS)-(\d{3})$", qid)
@@ -160,6 +161,34 @@ RESPLIT = {"2024-01-Q39": ("observables en cas de macropolactinome nô secretant
            "2025-01-p16-l489": ("pour excès de poids (1 faux) :",
                            ["BMI > 40", "BMI entre 27 et 29.9 avec complications cardiovasculaires", "BMI >30 sans complications cardio",
                             "BMI entre 25 et 26,9 avec complications cardiovasculaires", "BMI >35 avec complications cardiovasculaires"]),
+           # Diabète : lettres de proposition perdues (propositions fusionnées) ou deux questions collées
+           "2022-05-Q1": ("Concernant le diabète sucré, quelle est la proposition qui est fausse ?",
+                           ["la glycémie normale à jeun est de 60-100", "….", "une glycémie > 190 à la 120ème minute au HPGO est synonyme d’une intolérance glucidique",
+                            "Glycémie veineuse est supérieure de plus ou moins 20% de la glycémie interstitielle", "l’HbA1c est un bon reflet de la glycémie des 6 derniers mois"]),
+           "ND-maiter-diabete-Q5": ("Concernant le diabète, la fausse :",
+                           ["le diabète de type 1 peut être associé à la maladie d’Addison.", "lors du diagnostic du DT1 le peptide C est indosable.",
+                            "le diabète de type 1 est caractérisé par la présence d’anti GAD positif.", "le diabète de type II peut se compliquer d'acidocétose s’il est sévèrement insulinopénique",
+                            "Le LADA est un diabète auto immun de la personne âgée"]),
+           "ND-maiter-diabete-Q29": ("Choisissez la fausse :",
+                           ["Donner du bicarbonate peut induire une acidose paradoxale du LCR chez un diabétique en acidocétose",
+                            "Donner de la metformine chez un IR sévère favorise l’apparition d’une acidose lactique", "On vaccine les diabétiques pour la grippe, pneumocoque et …",
+                            "L’osmolalité sanguine est déterminé principalement par la kaliémie, l’urée, et la glycémie",
+                            "Acide bêta-hydroxybutyrique n’est pas détecté par la tigette urinaire pour cétonurie"]),
+           "ND-maiter-diabete-Q64": ("A propos des rétinopathies diabétiques trouvez les deux affirmations fausses",
+                           ["Un tabagisme chronique actif est un facteur aggravant bien connu", "un oedème maculaire perturbe l’acuité visuelle et la vision centrale",
+                            "un fond d’oeil sans dilatation annuel suffit pour dépister la rétinopathie diabétique",
+                            "Au fond d’oeil un exsudat cotonneux et une hémorragie rétinienne en tâches est un facteur de mauvais pronostic",
+                            "une rétinopathie de base va évoluer vers une rétinopathie proliférante indépendamment de l'équilibre glycémique"]),
+           "ND-marbaix-pancreas-Q2": ("Le diabète de type 1 est caractérisé par",
+                           ["la présence d’une insulite en chronique", "une perte de cellule B en chronique", "une disparition des îlots en chronique",
+                            "une fibrose des îlots en chronique", "des dépôts amyloïdes"]),
+           "2026-01-Q6": ("Quelle est la proposition juste par rapport à un diabète secondaire?",
+                           ["le diabète mitochondrial se transmet de manière autosomique dominante",
+                            "Une néoplasie du pancréas donner seulement une petit hyperglycémie car prend peu de place dans le pancréas",
+                            "l hemochromatose est une mutation de l hepcidine qui va causer une infiltration de la surrénale",
+                            "la prise de GC dans le cas d une infiltration du sciatique cause un diabète secondaire"]),
+           "2025-01-p17-l504": ("Dans quels types de diabètes secondaires retrouve-t-on une insulinorésistance faisant partie du tableau du diabète secondaire (1 fausse) :",
+                           ["Mody type 5", "Hémochromatose", "anti-protéases dans le traitement du VIH", "Glucocorticoide dans le traitement du (?)"]),
            # la mention « Réponses à confirmer +1+1 » du transcripteur avait été lue comme une 6e proposition
            "2025-01-Q50": ("Hypercortisolémie avec ACTH élévé lesquelles des ses situations ne sont possibles (2 réponses) :",
                            ["macroadenome hypophysaire", "microadénome hypophysaire", "tumeur carcinoïde bronchique",
@@ -186,7 +215,15 @@ INSTR = {"ND-maiter-hypophyse-Q8": "one-false",
          # Obésité
          "ND-thissen-obesite-Q6": "two-false",         # deux réponses exactes marquées (« laquelle ne donne pas »)
          "ND-hermans-syndrome-metabolique-Q119": "two-false",
-         "ND-thissen-obesite-Q11": "two-false"}       # « Deux affirmations fausses »                   # « parmi ces propositions fausses, laquelle est la vraie »
+         "ND-thissen-obesite-Q11": "two-false",       # « Deux affirmations fausses »
+         # Diabète
+         "2023-05-Q14": "two-false",                  # « ce qui n'est pas présent (2 réponses) »
+         "2023-05-Q9": "two-false",                   # « 2 sont fausses »
+         "ND-maiter-diabete-Q27": "two-correct",      # « choisir les 2 propositions correctes »
+         "ND-maiter-diabete-Q64": "two-false",        # « les deux affirmations fausses »
+         "2025-01-Q2": "one-false",                   # consigne non retranscrite : une seule proposition fausse
+         "2023-05-Q23": "one-correct",                # « lequel est à exclure en premier lieu » : un seul choix
+         "ND-maiter-diabete-Q127": "one-correct"}                   # consigne non retranscrite : une seule proposition fausse                   # « parmi ces propositions fausses, laquelle est la vraie »
 
 files = collections.defaultdict(list)
 report = collections.Counter()
@@ -200,6 +237,9 @@ for q in AUDIT:
     stem = re.sub(r"^Q POSSIBLEMENT ANNULEE\s*\d*\.?\s*", "", stem)
     extra, rest = split_stem(q["lines"])
     if extra: stem = (stem + " " + " ".join(x.strip() for x in extra)).strip()
+    # Confidentialité : la retranscription termine parfois une question par « numéro. Prénom » (le transcripteur
+    # de la question suivante). Cette ligne n'est pas une proposition et ne doit jamais apparaître.
+    while rest and re.match(r"^\s*\d{1,3}\s*[.)]\s*[A-ZÀ-Ý][a-zà-ÿ]+\s*$", rest[-1]): rest = rest[:-1]
     opts, comments = parse_options(rest)
     if q["ref"] in RESPLIT: stem, opts = RESPLIT[q["ref"]][0], list(RESPLIT[q["ref"]][1])
     if q["ref"] in TRUNCATE:
@@ -216,6 +256,7 @@ for q in AUDIT:
         status, note = "incomplete", (note or "") + " Réponse marquée non rattachable à une proposition retranscrite."
     if status in ("proposed", "disputed", "deduced") and len(opts) < 3:
         status = "incomplete"
+    if status == "absent" and len(opts) < 3: status = "incomplete"
     if status == "absent": exp = []
     want = {"one-false": 1, "one-true": 1, "one-correct": 1, "two-false": 2, "two-correct": 2}[instr]
     if status in ("proposed", "deduced") and exp and len(exp) != want:

@@ -1,0 +1,622 @@
+{
+  "source": "import-diabete-2026-01",
+  "questions": [
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-001",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Mr avec polyurie et polydipsie depuis 3 mois. Glycémie à jeun 130 et HbA1C 6%. Qu'est ce qui permet de faire le diagnostic",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Glycémie de > 110 suffisante pr poser le diagno"
+        },
+        {
+          "id": "B",
+          "text": "HbA1C suffisante si répété"
+        },
+        {
+          "id": "C",
+          "text": "HbA1c suffisante car c’est tjrs la valeur principale pr le diagno"
+        },
+        {
+          "id": "D",
+          "text": "Glycémie de > 126 permet de poser le diagno"
+        },
+        {
+          "id": "E",
+          "text": "nécessaire de faire une HGOP"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "absent",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Preumont",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 1,
+        "originalNumber": 1,
+        "auditRef": "2026-01-Q1"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "DIAG-CRIT",
+      "answerNote": "Aucune réponse n'est indiquée dans la compilation."
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-002",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Proposition fausse à propos du diabète de type 1",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Le C peptide peut être disable au diagnostic"
+        },
+        {
+          "id": "B",
+          "text": "Le LADA est un sous type de diaibète de type 1"
+        },
+        {
+          "id": "C",
+          "text": "L’absence d'atcd familiale est un argument en faveur du diabète de type 1"
+        },
+        {
+          "id": "D",
+          "text": "Sa présentation initiale est toujours une acidocétose"
+        },
+        {
+          "id": "E",
+          "text": "??"
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Preumont",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 1,
+        "originalNumber": 2,
+        "auditRef": "2026-01-Q2"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "DT1",
+      "answerNote": "Retranscription incomplète (propositions ou énoncé manquants) : question consultable, non notée."
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-003",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "Annulée 1 vraie",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Il faut doser l’HbA1C tous les 3-6 mois si elle augmente"
+        },
+        {
+          "id": "B",
+          "text": "Une HbA1C supérieure à 6,4"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Preumont",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 1,
+        "originalNumber": 3,
+        "auditRef": "2026-01-Q3"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "HBA1C",
+      "answerNote": "Question annulée selon les étudiants."
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-004",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Concernant le diabète gestationnel, tt est faux sauf une",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Metformine est le traitement peu importe la glycémie",
+          "explanation": "Faux : insuline si nécessaire."
+        },
+        {
+          "id": "B",
+          "text": "Mêmes cibles glycémiques que pr DT2",
+          "explanation": "Faux : cibles plus strictes."
+        },
+        {
+          "id": "C",
+          "text": "HbA1c est un bon marqueur",
+          "explanation": "Faux."
+        },
+        {
+          "id": "D",
+          "text": "Faire une glycémie à jeun en début de grossesse et une HGOP à 24 sem",
+          "explanation": "Vrai (réponse attendue) : dépistage universel."
+        },
+        {
+          "id": "E",
+          "text": "Faire pour les femmes à risque une glycémie à jeun en début de grossesse et une HGOP à 24 sem",
+          "explanation": "Défendable aussi (ADA : dépistage précoce des femmes à risque)."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "disputed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Preumont",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 1,
+        "originalNumber": 4,
+        "auditRef": "2026-01-Q4"
+      },
+      "chapter": "diabete",
+      "subchapter": "autres-types",
+      "lessonLinks": [
+        "dia-autres"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "GESTATIONNEL",
+      "hints": [
+        "Le dépistage se fait en deux temps au cours de la grossesse.",
+        "Les objectifs sont plus stricts que hors grossesse.",
+        "Quel traitement médicamenteux ne traverse pas le placenta ?"
+      ],
+      "explanation": {
+        "text": "Diabète gestationnel : glycémie à jeun en début de grossesse (au moins chez les femmes à risque), puis HGPO avec 75 g entre 24 et 28 semaines (seuils de 92, 180 et 153 mg/dL). Objectifs : moins de 95 mg/dL à jeun, moins de 140 une heure après le repas. Mesures diététiques d’abord, puis insuline : la metformine n’est pas le traitement de référence. L’HbA1c n’est pas un bon marqueur pendant la grossesse. Le diabète disparaît le plus souvent après l’accouchement, mais le risque ultérieur de diabète de type 2 est fortement augmenté. Selon l’ADA, la glycémie de début de grossesse est recommandée chez les femmes à risque (et peut être proposée à toutes) ; plusieurs pays, dont la Belgique, la proposent à toutes.",
+        "status": "complement",
+        "sources": []
+      },
+      "answerNote": "La compilation retient D (dépistage pour toutes). La proposition E (dépistage précoce des femmes à risque) correspond aussi aux recommandations de l’ADA : les deux se défendent selon la stratégie de dépistage. À valider auprès du cours."
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-006",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "Quelle est la proposition juste par rapport à un diabète secondaire?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "le diabète mitochondrial se transmet de manière autosomique dominante",
+          "explanation": "Faux : transmission maternelle."
+        },
+        {
+          "id": "B",
+          "text": "Une néoplasie du pancréas donner seulement une petit hyperglycémie car prend peu de place dans le pancréas",
+          "explanation": "Faux : un diabète franc est possible."
+        },
+        {
+          "id": "C",
+          "text": "l hemochromatose est une mutation de l hepcidine qui va causer une infiltration de la surrénale",
+          "explanation": "Faux : gène HFE surtout, surcharge du foie et du pancréas."
+        },
+        {
+          "id": "D",
+          "text": "la prise de GC dans le cas d une infiltration du sciatique cause un diabète secondaire",
+          "explanation": "Vrai (réponse attendue) : plutôt une hyperglycémie transitoire, qui révèle souvent un diabète latent."
+        }
+      ],
+      "expected": [
+        "D"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Preumont",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 2,
+        "originalNumber": 6,
+        "auditRef": "2026-01-Q6"
+      },
+      "chapter": "diabete",
+      "subchapter": "autres-types",
+      "lessonLinks": [
+        "dia-autres"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "SECONDAIRE",
+      "hints": [
+        "Le diabète mitochondrial se transmet par la mère.",
+        "L’hémochromatose surcharge surtout le foie et le pancréas.",
+        "Un médicament injecté localement peut avoir un effet général."
+      ],
+      "explanation": {
+        "text": "Le diabète mitochondrial se transmet par la mère (pas autosomique dominant). Un cancer du pancréas peut donner un diabète franc. L’hémochromatose est liée surtout à des mutations du gène HFE (avec une hepcidine insuffisante) et surcharge le foie, le pancréas, l’hypophyse, le cœur et la peau. Une infiltration de corticoïdes (sciatique) passe en partie dans le sang et peut provoquer une hyperglycémie, souvent transitoire : c’est la réponse retenue.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-007",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-true",
+      "stem": "Patiente de 30 ans, sans ATCD, avec une mère et une grand-mère diabétique et une glycémie à jeun à 130 mg/dL à la médecine du travail. Proposition vraie :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Peut être un diabète MODY"
+        },
+        {
+          "id": "B",
+          "text": "Une mesure unique de sa glycémie à jeun suffit à poser le diagnostique de diabète"
+        },
+        {
+          "id": "C",
+          "text": "C’est sans aucun doute un diabète de type I en voyant le BMI et l’âge"
+        },
+        {
+          "id": "D",
+          "text": "C’est sûrement un diabète de type 2 en voyant le BMI et l’âge"
+        },
+        {
+          "id": "E",
+          "text": "Il faut refaire une mesure de la glycémie"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "absent",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Preumont",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 2,
+        "originalNumber": 7,
+        "auditRef": "2026-01-Q7"
+      },
+      "chapter": "diabete",
+      "subchapter": "diagnostic",
+      "lessonLinks": [
+        "dia-diagnostic"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "DIAG-CRIT",
+      "answerNote": "Aucune réponse n'est indiquée dans la compilation."
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-009",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Dans un coma hyperosmolaire, quelle est la fausse :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Corps cétoniques absents dans les urines mais positifs dans le plasma"
+        },
+        {
+          "id": "B",
+          "text": "Souvent hyperglycémie très élevée, > 800"
+        },
+        {
+          "id": "C",
+          "text": "Le traitement est typiquement une réhydratation progressive"
+        },
+        {
+          "id": "D",
+          "text": "un oedème cérébral est une conséquence d’une réhydratation trop rapide"
+        },
+        {
+          "id": "E",
+          "text": "La 5e lol"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "absent",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Preumont",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 2,
+        "originalNumber": 9,
+        "auditRef": "2026-01-Q9"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "HYPEROSMO",
+      "answerNote": "Aucune réponse n'est indiquée dans la compilation."
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-012",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Un patient avec un diabète peut tomber dans le coma pour plusieurs raisons : coma hypoglycémique, hyperosmolaire ou acidocétose diabétique. Toutes ces choses permettent de faire le diagnostic différentiel , SAUF UNE. Laquelle ?",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "glycémie au moment du coma",
+          "explanation": "Permet."
+        },
+        {
+          "id": "B",
+          "text": "schéma insulinique de base",
+          "explanation": "Ne permet pas (réponse attendue)."
+        },
+        {
+          "id": "C",
+          "text": "caractère brutal",
+          "explanation": "Permet."
+        },
+        {
+          "id": "D",
+          "text": "transpiration excessive",
+          "explanation": "Permet."
+        },
+        {
+          "id": "E",
+          "text": "convulsions",
+          "explanation": "Permet."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Preumont",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 3,
+        "originalNumber": 12,
+        "auditRef": "2026-01-Q12"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 3,
+      "clinical": true,
+      "duplicateGroup": "DD-COMA",
+      "hints": [
+        "Pour distinguer deux comas, il faut un signe qui diffère entre eux au moment où on examine le patient.",
+        "L’un s’installe en quelques minutes, avec des sueurs ; l’autre en plusieurs heures ou jours, avec une déshydratation.",
+        "Ce que le patient prend habituellement comme traitement est-il différent dans les deux cas ?"
+      ],
+      "explanation": {
+        "text": "Coma hypoglycémique : installation brutale, sueurs profuses, agitation et convulsions possibles, pas de déshydratation. Coma acidocétosique : installation progressive, peau et muqueuses sèches (déshydratation), respiration de Kussmaul, haleine acétonique (« pomme de reinette »). La glycémie capillaire tranche immédiatement. Ne permettent pas de les distinguer : la dose ou le schéma d’insuline, le type de diabète (les deux surviennent chez le diabétique de type 1 sous insuline), la tension artérielle. L’état hyperosmolaire se reconnaît à une glycémie très élevée sans acidose.",
+        "status": "complement",
+        "sources": []
+      }
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-906",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Sur les complications chroniques du diabète :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Une rétinopathie diabétique proliférante présente une prolifération de néo-vaisseaux"
+        },
+        {
+          "id": "B",
+          "text": "Une vitrectomie fait perdre la vue"
+        },
+        {
+          "id": "C",
+          "text": "La macroangiopathie est liée à un mauvais contrôle de la glycémie et des FRCV"
+        },
+        {
+          "id": "D",
+          "text": "Le pied diabétique est causé par un ensemble de facteurs : infection, neuropathie, …"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "absent",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Preumont",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 3,
+        "originalNumber": null,
+        "auditRef": "2026-01-p3-l121"
+      },
+      "chapter": "diabete",
+      "subchapter": "chroniques",
+      "lessonLinks": [
+        "dia-chroniques"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "COMPL-CHRON",
+      "answerNote": "Aucune réponse n'est indiquée dans la compilation."
+    },
+    {
+      "id": "ENDO-2026-01-ADULTE-QCM-907",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-correct",
+      "stem": "Dans un coma acido-cétosique :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Il faut donner du bicarbonate si le pH est inférieur à 7,3"
+        },
+        {
+          "id": "B",
+          "text": "Il faut donner du K+ peu importe la kaliémie"
+        }
+      ],
+      "expected": [],
+      "answerStatus": "incomplete",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ADULTE",
+        "teacher": "Preumont",
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 4,
+        "originalNumber": null,
+        "auditRef": "2026-01-p4-l131"
+      },
+      "chapter": "diabete",
+      "subchapter": "aigues",
+      "lessonLinks": [
+        "dia-aigues"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ACIDOCETOSE",
+      "answerNote": "Aucune réponse n'est indiquée dans la compilation."
+    },
+    {
+      "id": "ENDO-2026-01-ANAPATH-QCM-043",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Dans le DT2 qu’est ce qui n’est pas juste ? (Tuyau)",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Il n'y a pas d'inflammation",
+          "explanation": "Vrai : pas d’insulite."
+        },
+        {
+          "id": "B",
+          "text": "Les cellules bêta finissent par disparaitre",
+          "explanation": "Retenue comme vraie : les cellules bêta diminuent fortement avec le temps."
+        },
+        {
+          "id": "C",
+          "text": "On peut voir des dépôts amyloïdes",
+          "explanation": "Vrai : amyline."
+        },
+        {
+          "id": "D",
+          "text": "A la lumière polarisée on peut voir une biréfringence (rouge/vert)des fibres amyloïdes si elles sont colorées au rouge Congo",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "E",
+          "text": "Une biopsie est obligatoire pour confirmer le diagnostic",
+          "explanation": "Faux (réponse attendue)."
+        }
+      ],
+      "expected": [
+        "E"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2026-01",
+        "discipline": "ANAPATH",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "Retranscription – Janvier 2026 _ Secteur Endocrinologie (1).pdf",
+        "page": 10,
+        "originalNumber": 43,
+        "auditRef": "2026-01-Q43"
+      },
+      "chapter": "diabete",
+      "subchapter": "types",
+      "lessonLinks": [
+        "dia-types"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ANAPATH",
+      "hints": [
+        "Le type 2 n’est pas une maladie auto-immune.",
+        "Les dépôts amyloïdes se colorent au rouge Congo.",
+        "A-t-on besoin d’un prélèvement de pancréas pour diagnostiquer un diabète ?"
+      ],
+      "explanation": {
+        "text": "Dans le type 2, le pancréas ne montre pas d’inflammation (pas d’insulite), les cellules bêta diminuent progressivement, et on peut voir des dépôts amyloïdes (amyline) dans les îlots, colorés au rouge Congo, avec une biréfringence en lumière polarisée. Une biopsie n’est jamais nécessaire au diagnostic d’un diabète.",
+        "status": "complement",
+        "sources": []
+      }
+    }
+  ]
+}

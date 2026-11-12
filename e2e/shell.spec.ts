@@ -11,7 +11,7 @@ async function navTo(page: Page, label: string) {
 test('accueil : les cours intégrés (thyroïde, hypophyse) sont accessibles', async ({ page }) => {
   await page.goto('./');
   await expect(page.getByRole('heading', { name: 'Bienvenue' })).toBeVisible();
-  for (const t of ['Pathologies thyroïdiennes', 'Hyperthyroïdie', 'Hypothyroïdie', 'Hypophyse', 'Surrénales', 'Pharmacologie générale', 'Obésité et nutrition']) {
+  for (const t of ['Pathologies thyroïdiennes', 'Hyperthyroïdie', 'Hypothyroïdie', 'Hypophyse', 'Surrénales', 'Pharmacologie générale', 'Obésité et nutrition', 'Diabète et hypoglycémies']) {
     await expect(page.getByRole('link', { name: new RegExp(t) }).first()).toBeVisible();
   }
 });
@@ -59,7 +59,7 @@ test('rechargement direct d’une adresse (GitHub Pages)', async ({ page }) => {
 });
 
 test('pas de défilement horizontal (responsive)', async ({ page }) => {
-  for (const url of ['./', './#/cours/thyroide/lecon/thyr-explo', './#/quiz?mode=exam-level&chapter=thyroide', './#/cours/hyper', './#/examens', './#/cas-cliniques', './#/examens-blancs', './#/erreurs', './#/revisions', './#/cours/hypophyse', './#/cours/hypophyse/lecon/hyph-anatomie', './#/cours/surrenales', './#/cours/surrenales/lecon/surr-hyperandrogenie', './#/cours/pharmaco/lecon/pharm-immunosuppresseurs', './#/cours/obesite/lecon/obes-metabolique']) {
+  for (const url of ['./', './#/cours/thyroide/lecon/thyr-explo', './#/quiz?mode=exam-level&chapter=thyroide', './#/cours/hyper', './#/examens', './#/cas-cliniques', './#/examens-blancs', './#/erreurs', './#/revisions', './#/cours/hypophyse', './#/cours/hypophyse/lecon/hyph-anatomie', './#/cours/surrenales', './#/cours/surrenales/lecon/surr-hyperandrogenie', './#/cours/pharmaco/lecon/pharm-immunosuppresseurs', './#/cours/obesite/lecon/obes-metabolique', './#/cours/diabete/lecon/dia-chroniques']) {
     await page.goto(url);
     await page.waitForTimeout(200);
     const overflow = await page.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth);

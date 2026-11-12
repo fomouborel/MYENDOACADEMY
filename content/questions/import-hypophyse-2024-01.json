@@ -353,6 +353,76 @@
         "status": "complement",
         "sources": []
       }
+    },
+    {
+      "id": "ENDO-2024-01-ADULTE-QCM-038",
+      "kind": "archive",
+      "format": "mcq",
+      "instruction": "one-false",
+      "stem": "Quelle proposition est FAUSSE :",
+      "labs": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Chez les hommes, 50% des adénomes hypophysaire non-fonctionnels se manifestent par des symptômes de compression",
+          "explanation": "Vrai : découverte tardive, par compression."
+        },
+        {
+          "id": "B",
+          "text": "Les adénomes hypophysaires les plus fréquents sont les adénomes non-fonctionnels (ou non- sécrétants)",
+          "explanation": "Faux (réponse attendue) : ce sont les prolactinomes."
+        },
+        {
+          "id": "C",
+          "text": "Une stimulation hypoglycémique insulinique peut être utile dans l'exploration de la fonction sécrétoire de l'hormone de croissance, le cortisol et l'ACTH",
+          "explanation": "Vrai."
+        },
+        {
+          "id": "D",
+          "text": "On peut observer une hyperprolactinémie et une augmentation de volume de la glande hypophysaire chez la femme enceinte",
+          "explanation": "Vrai : hyperplasie lactotrope."
+        },
+        {
+          "id": "E",
+          "text": "Une acromégalie peut présenter une arthropathie",
+          "explanation": "Vrai."
+        }
+      ],
+      "expected": [
+        "B"
+      ],
+      "answerStatus": "proposed",
+      "sourceComments": [],
+      "provenance": {
+        "session": "2024-01",
+        "discipline": "ADULTE",
+        "teacher": null,
+        "formerTeacher": false,
+        "sourceFile": "#Compilation endocrino 2016-2024.pdf",
+        "page": 6,
+        "originalNumber": 38,
+        "auditRef": "2024-01-Q38"
+      },
+      "chapter": "hypophyse",
+      "subchapter": "adenomes",
+      "lessonLinks": [
+        "hyph-adenomes"
+      ],
+      "tags": [],
+      "difficulty": 2,
+      "clinical": false,
+      "duplicateGroup": "ADENOME-EPIDEMIO",
+      "answerNote": "Classée « Diabète » par l'extraction (janvier 2024). Même réponse que Maiter Q19 : les adénomes les plus fréquents sont les prolactinomes, pas les non fonctionnels.",
+      "hints": [
+        "Une proposition porte sur la fréquence relative des types d’adénomes.",
+        "Quel adénome sécrétant est découvert très souvent chez la femme jeune ?",
+        "Les adénomes non fonctionnels sont surtout fréquents parmi les macroadénomes."
+      ],
+      "explanation": {
+        "text": "La proposition fausse est que les adénomes non fonctionnels seraient les plus fréquents : ce sont les prolactinomes, comme dans la question Q19 de Maiter et en janvier 2025. Les autres propositions sont exactes : les adénomes non fonctionnels de l’homme se révèlent souvent par la compression (découverte tardive) ; l’hypoglycémie insulinique explore la GH, le cortisol et l’ACTH ; l’hypophyse grossit et la prolactine monte pendant la grossesse ; l’acromégalie donne une arthropathie.",
+        "status": "complement",
+        "sources": []
+      }
     }
   ]
 }

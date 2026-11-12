@@ -324,6 +324,44 @@ EXPL = {
         status="disputed",
         note="Classée « Surrénales » par l'extraction (section d'anatomie pathologique mixte). Réponse discutable : un adénome silencieux est souvent gonadotrope (il fabrique des gonadotrophines sans effet clinique) et peut être découvert par hasard."),
 
+    "ENDO-2024-01-ADULTE-QCM-038": dict(
+        h=["Une proposition porte sur la fréquence relative des types d'adénomes.",
+           "Quel adénome sécrétant est découvert très souvent chez la femme jeune ?",
+           "Les adénomes non fonctionnels sont surtout fréquents parmi les macroadénomes."],
+        e="La proposition fausse est que les adénomes non fonctionnels seraient les plus fréquents : ce sont les prolactinomes, comme dans la question Q19 de Maiter et en janvier 2025. Les autres propositions sont exactes : les adénomes non fonctionnels de l'homme se révèlent souvent par la compression (découverte tardive) ; l'hypoglycémie insulinique explore la GH, le cortisol et l'ACTH ; l'hypophyse grossit et la prolactine monte pendant la grossesse ; l'acromégalie donne une arthropathie.",
+        o=["Vrai : découverte tardive, par compression.",
+           "Faux (réponse attendue) : ce sont les prolactinomes.",
+           "Vrai.",
+           "Vrai : hyperplasie lactotrope.",
+           "Vrai."]),
+    "ENDO-ND-ADULTE-QCM-819": dict(
+        h=["Pendant la restriction hydrique, le patient continue d'uriner beaucoup.",
+           "Il perd de l'eau libre sans pouvoir boire.",
+           "Que devient alors le sodium dans le sang ?"],
+        e="Dans un diabète insipide central, la restriction hydrique ne fait pas concentrer les urines : le patient continue d'uriner et perd du poids, et l'osmolalité urinaire reste inférieure à l'osmolalité plasmatique. Il perd de l'eau libre : la natrémie monte (hypernatrémie), elle ne baisse pas. L'épreuve est arrêtée si la natrémie ou la perte de poids deviennent dangereuses.",
+        o=["Faux (réponse attendue) : c'est une hypernatrémie.",
+           "Vrai : la polyurie persiste.",
+           "Vrai : urines diluées."]),
+    "ENDO-ND-ADULTE-QCM-900": dict(
+        h=["Dans la forme centrale, qu'est-ce qui manque : l'ADH ou la réponse du rein ?",
+           "La desmopressine remplace l'ADH.",
+           "Le rein est-il capable de répondre si on lui apporte l'hormone ?"],
+        e="Dans le diabète insipide central, c'est l'ADH qui manque : le rein répond normalement à la desmopressine, qui est d'ailleurs le traitement. On observe des urines diluées (osmolalité plasmatique supérieure à l'osmolalité urinaire), une perte de l'hypersignal T1 de la neurohypophyse et, si le patient ne peut pas boire, une hypernatrémie. C'est le diabète insipide néphrogénique qui ne répond pas à la desmopressine.",
+        o=["Vrai.",
+           "Faux (réponse attendue) : il y répond (c'est le traitement).",
+           "Vrai.",
+           "Vrai : si l'accès à l'eau est limité."]),
+    "ENDO-ND-ADULTE-QCM-932": dict(
+        h=["Distingue les causes centrales (hypothalamus, tige, posthypophyse) des causes rénales.",
+           "Un médicament bien connu en psychiatrie agit sur le rein.",
+           "Il rend le tube collecteur insensible à l'ADH."],
+        e="Le lithium donne un diabète insipide néphrogénique : il rend le rein insensible à l'ADH. Ce n'est pas une cause de diabète insipide central. La neurosarcoïdose, l'hypophysite (atteinte de la tige et de la posthypophyse), les traumatismes crâniens et les métastases de la tige sont des causes centrales.",
+        o=["Pas une cause centrale (réponse attendue) : néphrogénique.",
+           "Cause centrale.",
+           "Cause centrale.",
+           "Cause centrale.",
+           "Cause centrale."]),
+
     # ═════════════ Cushing ═════════════
     "ENDO-ND-ADULTE-QCM-322": dict(
         h=["L'excès de cortisol fait fondre l'os.",

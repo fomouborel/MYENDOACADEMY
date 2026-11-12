@@ -1,0 +1,6470 @@
+[
+ {
+  "ref": "2024-01-Q1",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 1,
+  "num": 1,
+  "line": 3,
+  "stem": [
+   "Qu'est-ce qui ne permet le diagnostic d’un diabète ?"
+  ],
+  "lines": [
+   "Glycémie à jeun de 123 mg/dl",
+   "OGTT à 190 à 2 h"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Critères diagnostiques et glycémies",
+  "note": "",
+  "groupe": "DIAG-CRIT",
+  "answer": "",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q2",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 1,
+  "num": 2,
+  "line": 6,
+  "stem": [
+   "Dans quel cas l'HBA1c peut être utilisé ? Une réponse fausse"
+  ],
+  "lines": [
+   "A. Diagnostic d'un pré diabète",
+   "B. Diagnostic d'un diabète sucré",
+   "C. Évaluation de la glycémie au cours des 2 derniers mois",
+   "D. Dans le diagnostic quand la glycémie est à 124 mg/dl (une réponse dans le style)",
+   "E. Dans le diagnostic des différents diabètes"
+  ],
+  "marked": [
+   "E. Dans le diagnostic des différents diabètes"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Hémoglobine glyquée (HbA1c)",
+  "note": "",
+  "groupe": "HBA1C",
+  "answer": "E. Dans le diagnostic des différents diabètes",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q3",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 1,
+  "num": 3,
+  "line": 12,
+  "stem": [
+   "Concernant HbA1c : une réponse fausse"
+  ],
+  "lines": [
+   "A. reflet de la glycémie des 2 derniers mois",
+   "B. sous-estimé en cas de déficit en fer -> suresrtimée car augmentation durée de vie GR",
+   "C. sous-estimé en cas d’hémolyse",
+   "D. exprimé en % ou en mmol/"
+  ],
+  "marked": [
+   "B. sous-estimé en cas de déficit en fer -> suresrtimée car augmentation durée de vie GR"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Hémoglobine glyquée (HbA1c)",
+  "note": "",
+  "groupe": "HBA1C",
+  "answer": "B. sous-estimé en cas de déficit en fer -> suresrtimée car augmentation durée de vie GR",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q4",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 1,
+  "num": 4,
+  "line": 17,
+  "stem": [
+   "causes de diabète, la fausse"
+  ],
+  "lines": [
+   "A. Acromégalie",
+   "B. Cushing",
+   "C. Mucoviscidose",
+   "Hépatite C",
+   "Hépatite A"
+  ],
+  "marked": [
+   "Hépatite A"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabètes secondaires et hérédité",
+  "note": "",
+  "groupe": "SECONDAIRE",
+  "answer": "Hépatite A",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-p1-l23",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 1,
+  "num": null,
+  "line": 23,
+  "stem": [
+   "Pas la 4: Ce qui est compatible avec un coma hyperosmolaire (la fausse)"
+  ],
+  "lines": [
+   "Glycémie haute",
+   "Déshydratation",
+   "Hypo-osmolaire"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse absente",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Coma hyperosmolaire",
+  "note": "Retranscription : « pas la 4 » ; aucune réponse marquée.",
+  "groupe": "HYPEROSMO",
+  "answer": "",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q6",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 1,
+  "num": 6,
+  "line": 29,
+  "stem": [
+   "Au diagnostic du DT1 : signe non présent"
+  ],
+  "lines": [
+   "- < 30 ans",
+   "- poids nl",
+   "- cetose",
+   "Microangiopathies dia"
+  ],
+  "marked": [
+   "Microangiopathies dia"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète de type 1",
+  "note": "",
+  "groupe": "DT1",
+  "answer": "Microangiopathies dia",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q9",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 2,
+  "num": 9,
+  "line": 42,
+  "stem": [
+   "On peut penser à un “MODY 2” face à une hyperglycémie. Tous les éléments cités caractérisent cette",
+   "patho sauf 1 : ( 1 réponse )"
+  ],
+  "lines": [
+   "Glycémie > 200mg/dl",
+   "Mutation du gène de glucokinase",
+   "Souvent les complications CV sont absents",
+   "Pas de cétonurie",
+   "Histoire familiale"
+  ],
+  "marked": [
+   "Glycémie > 200mg/dl"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "MODY",
+  "note": "",
+  "groupe": "MODY",
+  "answer": "Glycémie > 200mg/dl",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q10",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 2,
+  "num": 10,
+  "line": 49,
+  "stem": [
+   "diabète gestationnel : la fausse"
+  ],
+  "lines": [
+   "R/ metformine",
+   "Va disparaitre après l’accouchement",
+   "Il faut faire un OGGT au 2e trimestre"
+  ],
+  "marked": [
+   "R/ metformine"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète gestationnel",
+  "note": "",
+  "groupe": "GESTATIONNEL",
+  "answer": "R/ metformine",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q11",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 2,
+  "num": 11,
+  "line": 53,
+  "stem": [
+   "Question sur la rétinopathie diabétique, la FAUSSE.:"
+  ],
+  "lines": [
+   "A) première cause de prob de vue chez les jeunes en Europe",
+   "B)?",
+   "C) Conseille de faire un contrôle chez l’ophtalmo tous les 2 ans",
+   "D) traitement au laser quand proliférant",
+   "E) Exsudat cotonneux est de mauvais pronostic"
+  ],
+  "marked": [
+   "C) Conseille de faire un contrôle chez l’ophtalmo tous les 2 ans"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Question incomplète",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Rétinopathie diabétique",
+  "note": "",
+  "groupe": "RETINO",
+  "answer": "C) Conseille de faire un contrôle chez l’ophtalmo tous les 2 ans",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q12",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 2,
+  "num": 12,
+  "line": 59,
+  "stem": [
+   "Nephropathie diabétique -> 2 fausses"
+  ],
+  "lines": [
+   "HTA non contrôlée aggrave la néphropathie",
+   "IEC ou sartans = 1er traitement",
+   "iSGLT2 peut aggraver la néphropathie",
+   "Objectif de tension est <150/80mmHg",
+   "Albuminurie anormale > 30mg/24h"
+  ],
+  "marked": [
+   "iSGLT2 peut aggraver la néphropathie",
+   "Objectif de tension est <150/80mmHg"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Néphropathie diabétique",
+  "note": "",
+  "groupe": "NEPHRO",
+  "answer": "iSGLT2 peut aggraver la néphropathie | Objectif de tension est <150/80mmHg",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q13",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 2,
+  "num": 13,
+  "line": 65,
+  "stem": [
+   "Signes cliniques/biologiques de l’existence d’une neuropathie autonome dans le cadre d’un diabète de",
+   "type 2. Lequel est faux ?"
+  ],
+  "lines": [
+   "Pas de douleur lors d’une ischémie myocardique",
+   "Mauvaise perception des hypoglycémies",
+   "Dysfonction erectile",
+   "Hypertension arterielle",
+   "Tachychardie reguliere au repos"
+  ],
+  "marked": [
+   "Hypertension arterielle"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Neuropathie (dont autonome)",
+  "note": "",
+  "groupe": "NEURO",
+  "answer": "Hypertension arterielle",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q15",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 2,
+  "num": 15,
+  "line": 73,
+  "stem": [
+   "critère diag diabète enfant"
+  ],
+  "lines": [
+   "Anticorps anti îlots",
+   "Polyurie polydypsie",
+   "Glucose > 200",
+   "Glucosurie",
+   "Aucune des propositions"
+  ],
+  "marked": [
+   "Aucune des propositions"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Critères diagnostiques et glycémies",
+  "note": "",
+  "groupe": "DIAG-CRIT",
+  "answer": "Aucune des propositions",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q19",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 3,
+  "num": 19,
+  "line": 93,
+  "stem": [
+   "Qu’est ce qui peut donner un diabète? la fausse"
+  ],
+  "lines": [
+   "Hepatite C",
+   "Hepatite A",
+   "Hemochromatose",
+   "Pancréatectomie"
+  ],
+  "marked": [
+   "Hepatite A"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabètes secondaires et hérédité",
+  "note": "",
+  "groupe": "SECONDAIRE",
+  "answer": "Hepatite A",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q21",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 3,
+  "num": 21,
+  "line": 106,
+  "stem": [
+   "Quel traitement pour la neuropathie aigue (pied de charcot), la fausse"
+  ],
+  "lines": [
+   "a) il faut traiter par antiinflammatoire",
+   "b) Dx basé sur la clinique et la radio",
+   "c) En aigu peut se presenter par oedeme et erytheme indolore",
+   "d) En chronique ca favorise les deformations du pied",
+   "e) Le facteur prédisposant est la neuropathie diabetique"
+  ],
+  "marked": [
+   "a) il faut traiter par antiinflammatoire"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Pied diabétique, PEDIS, neuro-arthropathie de Charcot",
+  "note": "",
+  "groupe": "PIED",
+  "answer": "a) il faut traiter par antiinflammatoire",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-pied"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q49",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 7,
+  "num": 49,
+  "line": 237,
+  "stem": [
+   "ce qui permet de différencier acidocétose et une hypoglycémie (1 fausse)",
+   "Type de diabète"
+  ],
+  "lines": [
+   "État de conscience",
+   "Tachycardie",
+   "déshydratation"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse absente",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Coma hypoglycémique ou acidocétosique ?",
+  "note": "",
+  "groupe": "DD-COMA",
+  "answer": "",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "2024-01-Q55",
+  "src": "A",
+  "session": "2024-01",
+  "section": "Janvier 2024",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 8,
+  "num": 55,
+  "line": 261,
+  "stem": [
+   "Concernant la neuro-arthropathie diabétique, tous les éléments suivants sont corrects sauf un :",
+   "Diagnostic principalement clinique et radiologique"
+  ],
+  "lines": [
+   "En phase aigue se présente par un œdème et un érythème non douloureux",
+   "Le traitement est principalement médicamenteux à base d’anti-inflammatoires et",
+   "glucocorticoïdes",
+   "Elle fait suite à la neuropathie diabétique",
+   "En chronique entraîne des déformations sévères du pied"
+  ],
+  "marked": [
+   "Le traitement est principalement médicamenteux à base d’anti-inflammatoires et",
+   "glucocorticoïdes"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Pied diabétique, PEDIS, neuro-arthropathie de Charcot",
+  "note": "",
+  "groupe": "PIED",
+  "answer": "Le traitement est principalement médicamenteux à base d’anti-inflammatoires et | glucocorticoïdes",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-pied"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q1",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 14,
+  "num": 1,
+  "line": 467,
+  "stem": [
+   "Quelles glycémies suivantes permettent pas le diagnostique de diabète (2 fausses réponses)"
+  ],
+  "lines": [
+   "a.glycémie à jeun de 129",
+   "b.glycémie à jeun de 124",
+   "c.glycémie de 210 pendant la journée avec des symptômes",
+   "d.glycémie de 220 après 120 minutes OGTT",
+   "e.glycémie de 180 après 120 minutes OGTT"
+  ],
+  "marked": [
+   "b.glycémie à jeun de 124",
+   "e.glycémie de 180 après 120 minutes OGTT"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Critères diagnostiques et glycémies",
+  "note": "",
+  "groupe": "DIAG-CRIT",
+  "answer": "b.glycémie à jeun de 124 | e.glycémie de 180 après 120 minutes OGTT",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q2",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 14,
+  "num": 2,
+  "line": 473,
+  "stem": [
+   "indication OGTT : une fausse"
+  ],
+  "lines": [
+   "a. dt gestationnel",
+   "b. Rechercher un diabete suite a glycemie a (jeun) 110mg/dl (c’était ca la proposition ?)",
+   "c. rechercher un diabete suite a glycemie a jeun 130mg/dl (diagnostic est déjà pose avec la",
+   "glycemie a jeun donc pas besoin de faire OGTT pour dx)",
+   "d. bilan hypoglycemie reactionnelle",
+   "e. rechercher acromegalie"
+  ],
+  "marked": [
+   "c. rechercher un diabete suite a glycemie a jeun 130mg/dl (diagnostic est déjà pose avec la",
+   "glycemie a jeun donc pas besoin de faire OGTT pour dx)"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Hyperglycémie provoquée par voie orale (HGPO)",
+  "note": "",
+  "groupe": "OGTT",
+  "answer": "c. rechercher un diabete suite a glycemie a jeun 130mg/dl (diagnostic est déjà pose avec la | glycemie a jeun donc pas besoin de faire OGTT pour dx)",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q3",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 14,
+  "num": 3,
+  "line": 480,
+  "stem": [
+   "Question sur HbAc, laquelle est la fausse"
+  ],
+  "lines": [
+   "A. Reflète bien la glycémie moyenne des 2 derniers mois",
+   "B. Sous estimée en cas de deficit en fer",
+   "C. Sous estimée en cas d’hémorragie",
+   "D. Si égale à 6,9% on peut poser le diagnostic de diabète (oui car > ou = à 6,5%)",
+   "E. Peut etre mesurée en % ou mmol/mol"
+  ],
+  "marked": [
+   "B. Sous estimée en cas de deficit en fer"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Hémoglobine glyquée (HbA1c)",
+  "note": "",
+  "groupe": "HBA1C",
+  "answer": "B. Sous estimée en cas de deficit en fer",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q4",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 14,
+  "num": 4,
+  "line": 486,
+  "stem": [
+   "Quelle est l’affirmation fausse :"
+  ],
+  "lines": [
+   "a) La présence d’anticorps anti-GAD permet de faire le diagnostic de diabète de type 1",
+   "b) Le test HOMA permet de vérifier la sécrétion d’insuline par les cellules beta mais pas la",
+   "sensibilité à l’insuline"
+  ],
+  "marked": [
+   "b) Le test HOMA permet de vérifier la sécrétion d’insuline par les cellules beta mais pas la",
+   "sensibilité à l’insuline"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Insulinorésistance",
+  "note": "",
+  "groupe": "IR",
+  "answer": "b) Le test HOMA permet de vérifier la sécrétion d’insuline par les cellules beta mais pas la | sensibilité à l’insuline",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q5",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 14,
+  "num": 5,
+  "line": 490,
+  "stem": [
+   "Voici les caractéristiques du diagnostic du diabète de type 1 sauf une:"
+  ],
+  "lines": [
+   "a) âge moins de 30 ans",
+   "b) anticorps anti GAD positif",
+   "c) complications microangiopathiques",
+   "d) IMC bas ou normal",
+   "e) cetose"
+  ],
+  "marked": [
+   "c) complications microangiopathiques"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète de type 1",
+  "note": "",
+  "groupe": "DT1",
+  "answer": "c) complications microangiopathiques",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q6",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 14,
+  "num": 6,
+  "line": 496,
+  "stem": [
+   "Chez un diabétique de type 1 la fausse :"
+  ],
+  "lines": [
+   "a) peut survenir chez la personne âgée",
+   "b) proposition avec la “lune de miel” qui était juste",
+   "c) Hyperglycémie quand 80% des cellules ont été détruites",
+   "d) … (vrai)",
+   "e) Si les 2 parents sont diabétique de type 1 il y a 75% de chance que leur enfant le soit0"
+  ],
+  "marked": [
+   "e) Si les 2 parents sont diabétique de type 1 il y a 75% de chance que leur enfant le soit0"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète de type 1",
+  "note": "",
+  "groupe": "DT1",
+  "answer": "e) Si les 2 parents sont diabétique de type 1 il y a 75% de chance que leur enfant le soit0",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q7",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 15,
+  "num": 7,
+  "line": 503,
+  "stem": [
+   "Dans laquelle de ces pathologies l’insulinorésistance n’est pas une des raisons de l’apparition",
+   "d’un diabète secondaire ?"
+  ],
+  "lines": [
+   "A)Hémochromatose",
+   "b) Hépatite c",
+   "c) Mody-2",
+   "d) Cushing",
+   "e) Acromégalie"
+  ],
+  "marked": [
+   "c) Mody-2"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabètes secondaires et hérédité",
+  "note": "",
+  "groupe": "SECONDAIRE",
+  "answer": "c) Mody-2",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q8",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 15,
+  "num": 8,
+  "line": 510,
+  "stem": [
+   "Facteurs predisposant au diabète de type 2, une fausse :"
+  ],
+  "lines": [
+   "A. Hérédité génétique",
+   "B. Sédentarité",
+   "C. Surcharge pondérale",
+   "D. Alcoolisme chronique",
+   "E. Nutrition inutero"
+  ],
+  "marked": [
+   "D. Alcoolisme chronique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète de type 2",
+  "note": "",
+  "groupe": "DT2",
+  "answer": "D. Alcoolisme chronique",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q9",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 15,
+  "num": 9,
+  "line": 516,
+  "stem": [
+   "Parmi les propositions suivantes, 2 sont fausses concernant le MODY 2 :"
+  ],
+  "lines": [
+   "A. Glycémie toujours supérieure à 200",
+   "B. Microangiopathies classiques",
+   "C. on retrouve des atcd de diabete dans la famille",
+   "D. Est du a une mutation de la glucokinase"
+  ],
+  "marked": [
+   "A. Glycémie toujours supérieure à 200",
+   "B. Microangiopathies classiques"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "MODY",
+  "note": "",
+  "groupe": "MODY",
+  "answer": "A. Glycémie toujours supérieure à 200 | B. Microangiopathies classiques",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q10",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 15,
+  "num": 10,
+  "line": 521,
+  "stem": [
+   "Question sur le Diabète gestationnel, 2 faux"
+  ],
+  "lines": [
+   "A. Le diagnostic se fait entre la 14 et la 18 e  semaine",
+   "B. Augmente le risque de dvlp un DII",
+   "D. Les objectifs sont < 95 a jeun et < 140 après 1h",
+   "E. La metformine est LE traitement a donner"
+  ],
+  "marked": [
+   "A. Le diagnostic se fait entre la 14 et la 18 e  semaine",
+   "E. La metformine est LE traitement a donner"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète gestationnel",
+  "note": "",
+  "groupe": "GESTATIONNEL",
+  "answer": "A. Le diagnostic se fait entre la 14 et la 18 e  semaine | E. La metformine est LE traitement a donner",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q11",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 15,
+  "num": 11,
+  "line": 526,
+  "stem": [
+   "Question sur la rétinopathie diabétique, la FAUSSE.:"
+  ],
+  "lines": [
+   "A) première cause de prob de vue chez les jeunes en Europe",
+   "B)?",
+   "C) Conseille de faire un contrôle chez l’ophtalmo tous les 2 ans",
+   "D) traitement au laser quand proliférant",
+   "E) Exsudat cotonneux est de mauvais pronostic"
+  ],
+  "marked": [
+   "C) Conseille de faire un contrôle chez l’ophtalmo tous les 2 ans"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Question incomplète",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Rétinopathie diabétique",
+  "note": "",
+  "groupe": "RETINO",
+  "answer": "C) Conseille de faire un contrôle chez l’ophtalmo tous les 2 ans",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q12",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 15,
+  "num": 12,
+  "line": 532,
+  "stem": [
+   "Toutes les situations suivantes aggravent une néphropathie diabétique sauf une:"
+  ],
+  "lines": [
+   "A. Une protéinurie",
+   "B. Une hypertention artérielle mal contrôlée",
+   "C. L’administration d’un SGLT2",
+   "D. Un diabète mal contrôlé",
+   "E. L’injection d’un produit de contraste"
+  ],
+  "marked": [
+   "C. L’administration d’un SGLT2"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Néphropathie diabétique",
+  "note": "",
+  "groupe": "NEPHRO",
+  "answer": "C. L’administration d’un SGLT2",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q14",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 16,
+  "num": 14,
+  "line": 550,
+  "stem": [
+   "Coma hyperosmolaire, ce qui n’est pas présent (2 réponses) :"
+  ],
+  "lines": [
+   "A. Insuffisance rénale",
+   "B. Acidose métabolique",
+   "C. Glycémie très élevée",
+   "D. Une forte déshydratation",
+   "E. Cétonurie fortement positive"
+  ],
+  "marked": [
+   "B. Acidose métabolique",
+   "E. Cétonurie fortement positive"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Coma hyperosmolaire",
+  "note": "",
+  "groupe": "HYPEROSMO",
+  "answer": "B. Acidose métabolique | E. Cétonurie fortement positive",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q15",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 16,
+  "num": 15,
+  "line": 556,
+  "stem": [
+   "Ce qui permet de différencier un coma hypoglycémique et une acidocétose (2 fausses) :"
+  ],
+  "lines": [
+   "A. Schéma insulinique du patient",
+   "B. Respiration de Kussmall",
+   "C. Le caractère brutal",
+   "D. Type de diabète",
+   "E. Déshydratation"
+  ],
+  "marked": [
+   "A. Schéma insulinique du patient",
+   "D. Type de diabète"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Coma hypoglycémique ou acidocétosique ?",
+  "note": "",
+  "groupe": "DD-COMA",
+  "answer": "A. Schéma insulinique du patient | D. Type de diabète",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q16",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 16,
+  "num": 16,
+  "line": 562,
+  "stem": [
+   "Un patient est en acidocétose, pH à 7.15, que ne fait-on pas d’office?"
+  ],
+  "lines": [
+   "A. Perfusion",
+   "B. Glucosé",
+   "C. Insuline",
+   "D. KCl",
+   "E. Bicarbonates"
+  ],
+  "marked": [
+   "E. Bicarbonates"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Cétose et acidocétose",
+  "note": "",
+  "groupe": "ACIDOCETOSE",
+  "answer": "E. Bicarbonates",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q23",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 17,
+  "num": 23,
+  "line": 604,
+  "stem": [
+   "Un patient diabétique de type 1, 42 ans, arrive aux urgences pour erythème et rougueur au",
+   "pied droit. à son admission sa biologie montre un petit syndrome inflammatoire (petite CRP",
+   "donnée) et une hyperleucocytose neutrophilique (valeur donné). Il a une perte de sensibilité",
+   "ainsi qu’une neuropathie périphérique. Parmis les diagnostics suivants, lequel est a exclure en",
+   "premier lieu ?"
+  ],
+  "lines": [
+   "a. Pied de Charcot aigu",
+   "b. Thrombose veineuse profonde",
+   "c. Cellulite",
+   "d. Infections",
+   "e. fracture"
+  ],
+  "marked": [
+   "a. Pied de Charcot aigu"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Pied diabétique, PEDIS, neuro-arthropathie de Charcot",
+  "note": "",
+  "groupe": "PIED",
+  "answer": "a. Pied de Charcot aigu",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-pied"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q32",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 19,
+  "num": 32,
+  "line": 671,
+  "stem": [
+   "quelle est l’affirmation fausse concernant les coronaropathies chez les diabétiques par",
+   "rapport à la population"
+  ],
+  "lines": [
+   "A. les dépôts sont plus diffus",
+   "B. Décès plus précoce",
+   "C. touche plus les H que les F",
+   "D. Un infarctus peut passer inaperçu"
+  ],
+  "marked": [
+   "C. touche plus les H que les F"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Maladie coronarienne du diabétique",
+  "note": "",
+  "groupe": "CORONAIRE",
+  "answer": "C. touche plus les H que les F",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "2023-05-Q53",
+  "src": "A",
+  "session": "2023-05",
+  "section": "Mai 2023",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 21,
+  "num": 53,
+  "line": 755,
+  "stem": [
+   "Situations où on perd bcp d’eau (c’était mis “polyurie polydipsie”): 1 fausse:"
+  ],
+  "lines": [
+   "a. Diabète insipide central ou néphrogénique",
+   "b. Potomanie",
+   "c. Diabète sucré",
+   "d. Hypocalcémie sévère",
+   "e. Hypokaliémie sévère"
+  ],
+  "marked": [
+   "d. Hypocalcémie sévère",
+   "e. Hypokaliémie sévère"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Polyurie et polydipsie",
+  "note": "Deux propositions marquées pour « 1 fausse » : l'hypokaliémie sévère donne pourtant une polyurie (diabète insipide néphrogénique), comme l'hypercalcémie ; seule l'hypocalcémie n'en donne pas.",
+  "groupe": "POLYURIE",
+  "answer": "d. Hypocalcémie sévère | e. Hypokaliémie sévère",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-Q1",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 28,
+  "num": 1,
+  "line": 1022,
+  "stem": [
+   "Concernant le diabète sucré, quelle est la proposition qui est fausse ?"
+  ],
+  "lines": [
+   "a- la glycémie normale à jeun est de 60-100",
+   "b- ….",
+   "c- une glycémie > 190 à la 120ème minute au HPGO est synonyme d’une intolérance",
+   "glucidique",
+   "d-Glycémie veineuse est supérieure de plus ou moins 20% de la glycémie interstitielle",
+   "e- l’HbA1c est un bon reflet de la glycémie des 6 derniers mois"
+  ],
+  "marked": [
+   "e- l’HbA1c est un bon reflet de la glycémie des 6 derniers mois"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Hémoglobine glyquée (HbA1c)",
+  "note": "",
+  "groupe": "HBA1C",
+  "answer": "e- l’HbA1c est un bon reflet de la glycémie des 6 derniers mois",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-Q2",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 28,
+  "num": 2,
+  "line": 1029,
+  "stem": [
+   "le signe qui caractérise le plus la cétose :"
+  ],
+  "lines": [
+   "•  Douleurs abdominales",
+   "• polydipsie-polyurie importante",
+   "• amaigrissement récent",
+   "• (comme dans les anciens examens)"
+  ],
+  "marked": [
+   "•  Douleurs abdominales"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Cétose et acidocétose",
+  "note": "",
+  "groupe": "ACIDOCETOSE",
+  "answer": "•  Douleurs abdominales",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-Q3",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 28,
+  "num": 3,
+  "line": 1034,
+  "stem": [
+   "Parmi les pathos suivantes, laquelle ne se transmet pas génétiquement (“toutes",
+   "ont un caractère familial sauf une”)?"
+  ],
+  "lines": [
+   "• Hémochromatose",
+   "• Diabète mitochondrial",
+   "•  Pancréatite chronique",
+   "• Mody",
+   "• Lipodystrophie Dunnigan de type familiale"
+  ],
+  "marked": [
+   "•  Pancréatite chronique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabètes secondaires et hérédité",
+  "note": "",
+  "groupe": "SECONDAIRE",
+  "answer": "•  Pancréatite chronique",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-Q4",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 28,
+  "num": 4,
+  "line": 1041,
+  "stem": [
+   "Quelle méthode n’est pas utilisée pour différencier les diabètes ?"
+  ],
+  "lines": [
+   "- c-peptide",
+   "- HOMA",
+   "- Poids max du patient dans sa vie",
+   "- IR avec protéinurie",
+   "- AC anti-GAD"
+  ],
+  "marked": [
+   "- Poids max du patient dans sa vie",
+   "- IR avec protéinurie"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Typer un diabète (type 1, type 2, LADA)",
+  "note": "",
+  "groupe": "TYPAGE",
+  "answer": "- Poids max du patient dans sa vie | - IR avec protéinurie",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-Q5",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 28,
+  "num": 5,
+  "line": 1047,
+  "stem": [
+   "Toutes les caractéristiques suivantes peuvent être présentes lors du diagnostic",
+   "du DT2, sauf 2 qui ne sont pas présentes (ou très inhabituelles)"
+  ],
+  "lines": [
+   "A) patient asymptomatique",
+   "B) rétinopathie déjà présente au fond d'œil",
+   "C) coma hyperosmolaire",
+   "D) acidocétose",
+   "E) ferritine diminuée"
+  ],
+  "marked": [
+   "D) acidocétose",
+   "E) ferritine diminuée"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète de type 2",
+  "note": "",
+  "groupe": "DT2",
+  "answer": "D) acidocétose | E) ferritine diminuée",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-Q7",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 28,
+  "num": 7,
+  "line": 1054,
+  "stem": [
+   "NEUROPATHIE diabétique autonome, tous sauf 1:"
+  ],
+  "lines": [
+   "A) Gastroparésie",
+   "B) Constipation opiniatre",
+   "C) Hypotension orthostatique",
+   "D) Troubles érectiles",
+   "E) Diminution de la sensibilité aux hypoglycémies"
+  ],
+  "marked": [
+   "B) Constipation opiniatre"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Neuropathie (dont autonome)",
+  "note": "",
+  "groupe": "NEURO",
+  "answer": "B) Constipation opiniatre",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-p28-l1060",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 28,
+  "num": null,
+  "line": 1060,
+  "stem": [
+   "DD coma hypoglycémique et acidocétosique sauf 1?"
+  ],
+  "lines": [
+   "•  la quantité d’insuline prise habituellement",
+   "• muqueuse et peau sèche",
+   "• convulsions",
+   "• début brutal",
+   "• Sueurs profuses"
+  ],
+  "marked": [
+   "•  la quantité d’insuline prise habituellement"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Coma hypoglycémique ou acidocétosique ?",
+  "note": "",
+  "groupe": "DD-COMA",
+  "answer": "•  la quantité d’insuline prise habituellement",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-Q11",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 29,
+  "num": 11,
+  "line": 1079,
+  "stem": [
+   "Pied diabétique de CHARCOT, 1 fausse :"
+  ],
+  "lines": [
+   "• Gold standard de traitement = plâtre",
+   "• Seule étiologie = la polyneuropathie diabétique",
+   "• Si infection I3 selon pedis, alors suspecter pied diabétique",
+   "• Urgence diagnostique et Thérapeutique",
+   "• diagnostic via radio"
+  ],
+  "marked": [
+   "• Seule étiologie = la polyneuropathie diabétique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Pied diabétique, PEDIS, neuro-arthropathie de Charcot",
+  "note": "",
+  "groupe": "PIED",
+  "answer": "• Seule étiologie = la polyneuropathie diabétique",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-pied"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-Q12",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 29,
+  "num": 12,
+  "line": 1085,
+  "stem": [
+   "Toutes les propositions ci-dessous peuvent entraîner une diarrhée chronique",
+   "chez un diabétiques SAUF une, laquelle :"
+  ],
+  "lines": [
+   "• Metformine",
+   "• Pancréatite chronique",
+   "•  Inhibiteur DPP4",
+   "• Maladie cœliaque (si un patient diabétique a aussi une maladie cœliaque)",
+   "• Neuropathie autonome"
+  ],
+  "marked": [
+   "•  Inhibiteur DPP4"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diarrhée chronique du diabétique",
+  "note": "",
+  "groupe": "DIARRHEE",
+  "answer": "•  Inhibiteur DPP4",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-Q13",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 29,
+  "num": 13,
+  "line": 1092,
+  "stem": [
+   "Causes d’hyperglycémie chronique, 2 fausses :"
+  ],
+  "lines": [
+   "• Phéochromocytome",
+   "•  Insuffisance surrénalienne",
+   "• Mucoviscidose",
+   "• Acromégalie",
+   "•  Cancer médullaire de la thyroïde"
+  ],
+  "marked": [
+   "•  Insuffisance surrénalienne",
+   "•  Cancer médullaire de la thyroïde"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabètes secondaires et hérédité",
+  "note": "",
+  "groupe": "SECONDAIRE",
+  "answer": "•  Insuffisance surrénalienne | •  Cancer médullaire de la thyroïde",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-Q14",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 29,
+  "num": 14,
+  "line": 1098,
+  "stem": [
+   "Toutes ces propositions permettent de différencier le coma hypoglycémique",
+   "d’une acido-cétose, sauf une (question d’une autre année) :"
+  ],
+  "lines": [
+   "• la rapidité du coma",
+   "• les convulsions",
+   "• le dose d’insuline que le patient prend",
+   "• la sécheresse cutanéo-muqueuse"
+  ],
+  "marked": [
+   "• le dose d’insuline que le patient prend"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Coma hypoglycémique ou acidocétosique ?",
+  "note": "",
+  "groupe": "DD-COMA",
+  "answer": "• le dose d’insuline que le patient prend",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-Q15",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 30,
+  "num": 15,
+  "line": 1105,
+  "stem": [
+   "Patient de 50 ans hospitalisé pour coma diabétique acido-cétosique, glycémie à 520, pH à 7,",
+   "pneumonie lobaire droite - état fébrile. Quel traitement n’est pas recommandé́ : (c’était un cas",
+   "similaire)"
+  ],
+  "lines": [
+   "A.Réhydratation intensive avec solution glucose 5%",
+   "B.Insuline IV 0,10U/kg/h",
+   "C.KCl dans la perfusion",
+   "D.Antibiotiques en IV après avoir fait des hémocultures",
+   "E.Phosphate de potassium si phosphaturie basse"
+  ],
+  "marked": [
+   "A.Réhydratation intensive avec solution glucose 5%"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Cétose et acidocétose",
+  "note": "",
+  "groupe": "ACIDOCETOSE",
+  "answer": "A.Réhydratation intensive avec solution glucose 5%",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-Q20",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 30,
+  "num": 20,
+  "line": 1134,
+  "stem": [
+   "Caractéristiques retrouvées dans la maladie coronarienne chez le diabétique type 2 par",
+   "rapport au non malade, la fausse"
+  ],
+  "lines": [
+   "• Angor peut être silencieux",
+   "• Epreuve d’effort au cyclo-ergomètre est souvent faussement négative",
+   "• Lésions coronariennes souvent diffuses",
+   "• touche plus souvent les jeunes",
+   "• Risque de resténose élevée après dilatations"
+  ],
+  "marked": [
+   "• Epreuve d’effort au cyclo-ergomètre est souvent faussement négative"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Maladie coronarienne du diabétique",
+  "note": "",
+  "groupe": "CORONAIRE",
+  "answer": "• Epreuve d’effort au cyclo-ergomètre est souvent faussement négative",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "2022-05-Q22",
+  "src": "A",
+  "session": "2022-05",
+  "section": "Mai 2022 – Adulte",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 31,
+  "num": 22,
+  "line": 1152,
+  "stem": [
+   "Outre une hyperglycémie, une insulino-résistance sévère peut donner tous ces",
+   "problèmes sauf un :"
+  ],
+  "lines": [
+   "• OMPK",
+   "• acanthosis nigricans",
+   "• une augmentation de sécrétion de GH",
+   "• une stéatose hépatique avec diminution de ferritine",
+   "• une hypertriglycéridémie à jeun"
+  ],
+  "marked": [
+   "• une stéatose hépatique avec diminution de ferritine"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Insulinorésistance",
+  "note": "",
+  "groupe": "IR",
+  "answer": "• une stéatose hépatique avec diminution de ferritine",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q1",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 37,
+  "num": 1,
+  "line": 1430,
+  "stem": [
+   "PEDIS, laquelle n’en fait pas partie"
+  ],
+  "lines": [
+   "a. Perfusion",
+   "b. Infection",
+   "Profondeur (Depth)",
+   "d. Neuropathie périph (Sensibilité)",
+   "e. Présence de germes anaérobies"
+  ],
+  "marked": [
+   "e. Présence de germes anaérobies"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Pied diabétique, PEDIS, neuro-arthropathie de Charcot",
+  "note": "",
+  "groupe": "PIED",
+  "answer": "e. Présence de germes anaérobies",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-pied"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q2",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 37,
+  "num": 2,
+  "line": 1436,
+  "stem": [
+   "PEDIS évalue tous ces éléments sauf 2 :"
+  ],
+  "lines": [
+   "a. Type bactérie",
+   "b. Degré d’impotence fonctionnelle",
+   "Profondeur",
+   "d. Atteinte neuropathique",
+   "e. Vascularisation du pied"
+  ],
+  "marked": [
+   "a. Type bactérie",
+   "b. Degré d’impotence fonctionnelle"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Pied diabétique, PEDIS, neuro-arthropathie de Charcot",
+  "note": "",
+  "groupe": "PIED",
+  "answer": "a. Type bactérie | b. Degré d’impotence fonctionnelle",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-pied"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q3",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 37,
+  "num": 3,
+  "line": 1442,
+  "stem": [
+   "Dites la fausse concernant le diabète"
+  ],
+  "lines": [
+   "1. La glycémie dans les tissus interstitiels est supérieure à la glycémie plasmatique, qui est retard par rapport à",
+   "la première"
+  ],
+  "marked": [
+   "1. La glycémie dans les tissus interstitiels est supérieure à la glycémie plasmatique, qui est retard par rapport à",
+   "la première"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Critères diagnostiques et glycémies",
+  "note": "",
+  "groupe": "DIAG-CRIT",
+  "answer": "1. La glycémie dans les tissus interstitiels est supérieure à la glycémie plasmatique, qui est retard par rapport à | la première",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q4",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 38,
+  "num": 4,
+  "line": 1446,
+  "stem": [
+   "HbA1C quand est-elle utile ? 2 vraies"
+  ],
+  "lines": [
+   "a. Suspicion diagnostic diabète sucré",
+   "b. Reflète la glycémie moyenne dans les 2 mois précédent",
+   "Indice d’un diabète mal équilibré (ou indice de sévérité je sais plus)"
+  ],
+  "marked": [
+   "b. Reflète la glycémie moyenne dans les 2 mois précédent",
+   "Indice d’un diabète mal équilibré (ou indice de sévérité je sais plus)"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse discutée ou contestée",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Hémoglobine glyquée (HbA1c)",
+  "note": "",
+  "groupe": "HBA1C",
+  "answer": "b. Reflète la glycémie moyenne dans les 2 mois précédent | Indice d’un diabète mal équilibré (ou indice de sévérité je sais plus)",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q5",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 38,
+  "num": 5,
+  "line": 1450,
+  "stem": [
+   "Concernant le diabète, la fausse :"
+  ],
+  "lines": [
+   "1- le diabète de type 1 peut être associé à la maladie d’Addison.",
+   "2- lors du diagnostic du DT1 le peptide C est indosable.",
+   "3- le diabète de type 1 est caractérisé par la présence d’anti GAD positif.",
+   "4- le diabète de type II peut se compliquer d'acidocétose s’il est sévèrement insulinopénique",
+   "5- Le LADA est un diabète auto immun de la personne âgée"
+  ],
+  "marked": [
+   "2- lors du diagnostic du DT1 le peptide C est indosable."
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète de type 1",
+  "note": "",
+  "groupe": "DT1",
+  "answer": "2- lors du diagnostic du DT1 le peptide C est indosable.",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q6",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 38,
+  "num": 6,
+  "line": 1456,
+  "stem": [
+   "QUESQUI NE PEUT PAS CAUSER DE DIABÈTE"
+  ],
+  "lines": [
+   "A. Neuroleptique de deuxième génération",
+   "B. phéochromocytome",
+   "C. macroprolactinome"
+  ],
+  "marked": [
+   "C. macroprolactinome"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabètes secondaires et hérédité",
+  "note": "",
+  "groupe": "SECONDAIRE",
+  "answer": "C. macroprolactinome",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q7",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 38,
+  "num": 7,
+  "line": 1460,
+  "stem": [
+   "On retrouve habituellement les caractéristiques suivantes au moment du diagnostic du diabète de type 2, sauf",
+   "deux"
+  ],
+  "lines": [
+   "A. Début brutal des symptômes",
+   "B. Surcharge pondérale",
+   "C. > 40 ans",
+   "D. Absence de cétose spontanée",
+   "E. Présence d’anticorps anti-adipocytes"
+  ],
+  "marked": [
+   "A. Début brutal des symptômes",
+   "E. Présence d’anticorps anti-adipocytes"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète de type 2",
+  "note": "",
+  "groupe": "DT2",
+  "answer": "A. Début brutal des symptômes | E. Présence d’anticorps anti-adipocytes",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q8",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 38,
+  "num": 8,
+  "line": 1467,
+  "stem": [
+   "La fausse concernant la neuropathie autonome ?"
+  ],
+  "lines": [
+   "a. HTA paroxystique",
+   "b. Dysfonctionnement érectile",
+   "Tachycardie de repos",
+   "d. Vidange gastrique ralentie",
+   "e. On ressent moins les hypoglycémies sévères"
+  ],
+  "marked": [
+   "a. HTA paroxystique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Neuropathie (dont autonome)",
+  "note": "",
+  "groupe": "NEURO",
+  "answer": "a. HTA paroxystique",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q9",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 38,
+  "num": 9,
+  "line": 1473,
+  "stem": [
+   "La fausse concernant la néphropathie diabétique ?"
+  ],
+  "lines": [
+   "a. Débute par une microalbuminurie",
+   "b. Microalbuminurie > 100 mg/24h",
+   "Une protéinurie importante l’aggrave",
+   "d. IEC ont un effet positif sur l’HTA",
+   "e. IR arrive plus de 10 ans après la microalbuminurie"
+  ],
+  "marked": [
+   "b. Microalbuminurie > 100 mg/24h",
+   "e. IR arrive plus de 10 ans après la microalbuminurie"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Néphropathie diabétique",
+  "note": "",
+  "groupe": "NEPHRO",
+  "answer": "b. Microalbuminurie > 100 mg/24h | e. IR arrive plus de 10 ans après la microalbuminurie",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q10",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 38,
+  "num": 10,
+  "line": 1479,
+  "stem": [
+   "Caractéristiques retrouvées dans la maladie coronarienne chez le diabétique type 2 par rapport au non malade,",
+   "la fausse"
+  ],
+  "lines": [
+   "A. Angor peut être silencieux",
+   "B. Epreuve d’effort au cyclo-ergomètre est souvent faussement négative",
+   "C. Lésions coronariennes souvent diffuses",
+   "D. Fréquence est la même chez les deux sexes",
+   "E. Risque de resténose élevée après dilatations"
+  ],
+  "marked": [
+   "B. Epreuve d’effort au cyclo-ergomètre est souvent faussement négative"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Maladie coronarienne du diabétique",
+  "note": "",
+  "groupe": "CORONAIRE",
+  "answer": "B. Epreuve d’effort au cyclo-ergomètre est souvent faussement négative",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q11",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 38,
+  "num": 11,
+  "line": 1486,
+  "stem": [
+   "Chez un diabétique, causes de diarrhées (une fausse)"
+  ],
+  "lines": [
+   "a. Prise de metformine",
+   "b. Néphropathie",
+   "c. Cushing",
+   "d. Neuropathie",
+   "e. Basedow"
+  ],
+  "marked": [
+   "b. Néphropathie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diarrhée chronique du diabétique",
+  "note": "",
+  "groupe": "DIARRHEE",
+  "answer": "b. Néphropathie",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q12",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 39,
+  "num": 12,
+  "line": 1493,
+  "stem": [
+   "Qu’est ce qui n’est pas caractéristique d’un coma hyperosmolaire ?"
+  ],
+  "lines": [
+   "a. Urée plasmatique élevée",
+   "b. Déshydratation",
+   "Présence d’un diabète de type 2 connu",
+   "d. Respiration de Kussmaul",
+   "e. (oubli dernière proposition help)"
+  ],
+  "marked": [
+   "d. Respiration de Kussmaul"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Coma hyperosmolaire",
+  "note": "",
+  "groupe": "HYPEROSMO",
+  "answer": "d. Respiration de Kussmaul",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q13",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 39,
+  "num": 13,
+  "line": 1499,
+  "stem": [
+   "Un patient de 25 ans est hospitalisé avec 400 de glycémie, un ph à 7.0 (coma acido-cétosique). Il a une",
+   "pyélonéphrite et une fièvre à 39 degrés. Quelle attitude thérapeutique n’est pas recommandée ?"
+  ],
+  "lines": [
+   "a. Réhydratation par perfusion de sérum physio",
+   "b. Insuline iv par pompe intraveineuse",
+   "1g de paracétamol",
+   "d. Bicarbonates jusqu’à un pH de 7.2",
+   "e. Antibiotiques intraveineux"
+  ],
+  "marked": [
+   "d. Bicarbonates jusqu’à un pH de 7.2"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Cétose et acidocétose",
+  "note": "",
+  "groupe": "ACIDOCETOSE",
+  "answer": "d. Bicarbonates jusqu’à un pH de 7.2",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q18",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 40,
+  "num": 18,
+  "line": 1537,
+  "stem": [
+   "Cause de insulino résistance, 1 fausse:"
+  ],
+  "lines": [
+   "a. IEC",
+   "b. Cirrhose",
+   "Glucocorticoïde",
+   "d. Hémochromatose"
+  ],
+  "marked": [
+   "a. IEC"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Insulinorésistance",
+  "note": "",
+  "groupe": "IR",
+  "answer": "a. IEC",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q20",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 40,
+  "num": 20,
+  "line": 1546,
+  "stem": [
+   "Situations où on perd bcp d’eau (c’était mis “polyurie polydipsie”): 1 fausse:"
+  ],
+  "lines": [
+   "f.",
+   "Diabète insipide central ou néphrogénique",
+   "g. Potomanie",
+   "h. Diabète sucré",
+   "i.",
+   "Hypocalcémie sévère",
+   "j.",
+   "Hypokaliémie sévère"
+  ],
+  "marked": [
+   "i.",
+   "Hypocalcémie sévère"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Polyurie et polydipsie",
+  "note": "",
+  "groupe": "POLYURIE",
+  "answer": "i. | Hypocalcémie sévère",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q21",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 40,
+  "num": 21,
+  "line": 1555,
+  "stem": [
+   "Concernant le DT2: 1 fausse"
+  ],
+  "lines": [
+   "a. Une intervention chirurgicale nécessite un trt par insuline transitoire",
+   "b. La metformine peut causer un déficit en B12",
+   "L’effet incrétine est augmenté à cause de l’hyperglucagonémie chronique",
+   "d. L’effet des SGLT2 est diminué en cas d’insuf rénale sévère"
+  ],
+  "marked": [
+   "L’effet incrétine est augmenté à cause de l’hyperglucagonémie chronique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète de type 2",
+  "note": "",
+  "groupe": "DT2",
+  "answer": "L’effet incrétine est augmenté à cause de l’hyperglucagonémie chronique",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q22",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 40,
+  "num": 22,
+  "line": 1560,
+  "stem": [
+   "La fausse"
+  ],
+  "lines": [
+   "E. Il y a des diabètes génétiques qu’à transmission maternelle",
+   "F. Cancer pancréas peut donner un diabète de novo",
+   "G. Diabète sur hémochromatose s’accompagne d’hypogonadisme et de cirrhose",
+   "H.  La mélanodermie du diabète sur hémochromatose < stimulation de POMC et MSH par le fer",
+   "I.",
+   "Les antiprotéases peuvent donner un diabète par insulinorésistance sévère"
+  ],
+  "marked": [
+   "H.  La mélanodermie du diabète sur hémochromatose < stimulation de POMC et MSH par le fer"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabètes secondaires et hérédité",
+  "note": "",
+  "groupe": "SECONDAIRE",
+  "answer": "H.  La mélanodermie du diabète sur hémochromatose < stimulation de POMC et MSH par le fer",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q23",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 40,
+  "num": 23,
+  "line": 1567,
+  "stem": [
+   "OGTT, la fausse"
+  ],
+  "lines": [
+   "A. ≥200 mg/dL",
+   "B. La variation du taux de Glycémie interstitielle en retard p/r glycémie capillaire",
+   "C. OGTT pour diagnostiquer diabète de grossesse se fait au T1",
+   "D. L'hyperglycémie chronique est toujours la résultante d’une anomalie de sécrétion/d'action de l’insuline",
+   "par les cell B",
+   "E. ?"
+  ],
+  "marked": [
+   "C. OGTT pour diagnostiquer diabète de grossesse se fait au T1"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Hyperglycémie provoquée par voie orale (HGPO)",
+  "note": "",
+  "groupe": "OGTT",
+  "answer": "C. OGTT pour diagnostiquer diabète de grossesse se fait au T1",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q24",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 40,
+  "num": 24,
+  "line": 1574,
+  "stem": [
+   "La fausse:"
+  ],
+  "lines": [
+   "A. HbA1c sous-estimée si hémolyse",
+   "B. HBA1c surestimée chez les noirs de peau et âgés ?",
+   "C. HBA1c vient de la glycation irréversible de toutes les molécules d’hydrates de carbone du sang",
+   "E. ?"
+  ],
+  "marked": [
+   "C. HBA1c vient de la glycation irréversible de toutes les molécules d’hydrates de carbone du sang"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Hémoglobine glyquée (HbA1c)",
+  "note": "",
+  "groupe": "HBA1C",
+  "answer": "C. HBA1c vient de la glycation irréversible de toutes les molécules d’hydrates de carbone du sang",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q26",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 41,
+  "num": 26,
+  "line": 1586,
+  "stem": [
+   "Un patient qui a une tachycardie de repos sans dyspnée, un ulcère au pied indolore avec des pouls périphériques",
+   "non palpés, au FO on voit des hémorragies rétiniennes et des exsudats cotonneux. Les propositions étaient",
+   "combinées:"
+  ],
+  "lines": [
+   "B. neuropathie autonome +/- une neuropathie sensitive +/- une rétinopathie et +/- une macro angiopathie"
+  ],
+  "marked": [
+   "B. neuropathie autonome +/- une neuropathie sensitive +/- une rétinopathie et +/- une macro angiopathie"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Question incomplète",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Neuropathie (dont autonome)",
+  "note": "",
+  "groupe": "NEURO",
+  "answer": "B. neuropathie autonome +/- une neuropathie sensitive +/- une rétinopathie et +/- une macro angiopathie",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q27",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 41,
+  "num": 27,
+  "line": 1590,
+  "stem": [
+   "À propos du Diabète de Type 1, choisir les 2 propositions correctes :"
+  ],
+  "lines": [
+   "A. Le c-peptide est indosable au diagnostic",
+   "B. L'apparition du diabète peut être suivi d’une phase de rémission toujours transitoire",
+   "C. DT1 est associé à Addison et Hypoparathyroïdie dans polyneuro endocrinopathie de typqe 1",
+   "D. Les symptômes apparaissent brutalement à l’occasion d’un événement précipitant",
+   "E. Une fois que les Ac anti-GAD apparaissent, le diabète apparaît dans les semaines suivantes"
+  ],
+  "marked": [
+   "B. L'apparition du diabète peut être suivi d’une phase de rémission toujours transitoire",
+   "D. Les symptômes apparaissent brutalement à l’occasion d’un événement précipitant"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète de type 1",
+  "note": "",
+  "groupe": "DT1",
+  "answer": "B. L'apparition du diabète peut être suivi d’une phase de rémission toujours transitoire | D. Les symptômes apparaissent brutalement à l’occasion d’un événement précipitant",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q29",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 41,
+  "num": 29,
+  "line": 1606,
+  "stem": [
+   "Choisissez la fausse :"
+  ],
+  "lines": [
+   "a. Donner du bicarbonate peut induire une acidose paradoxale du LCR chez un diabétique en acidocétose",
+   "b. Donner de la metformine chez un IR sévère favorise l’apparition d’une acidose lactique",
+   "On vaccine les diabétiques pour la grippe, pneumocoque et …",
+   "d. L’osmolalité sanguine est déterminé principalement par la kaliémie, l’urée, et la glycémie",
+   "e. Acide bêta-hydroxybutyrique n’est pas détecté par la tigette urinaire pour cétonurie"
+  ],
+  "marked": [
+   "d. L’osmolalité sanguine est déterminé principalement par la kaliémie, l’urée, et la glycémie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Coma hyperosmolaire",
+  "note": "",
+  "groupe": "HYPEROSMO",
+  "answer": "d. L’osmolalité sanguine est déterminé principalement par la kaliémie, l’urée, et la glycémie",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q30",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 41,
+  "num": 30,
+  "line": 1612,
+  "stem": [
+   "Parmi ces symptômes, quel est celui qui correspond à celui de la cétose (sans acidose) ?"
+  ],
+  "lines": [
+   "a. Douleurs abdominales",
+   "b. Kussmaul",
+   "Polyurie- polydipsie",
+   "d. ?",
+   "e. ?"
+  ],
+  "marked": [
+   "a. Douleurs abdominales"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Cétose et acidocétose",
+  "note": "",
+  "groupe": "ACIDOCETOSE",
+  "answer": "a. Douleurs abdominales",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q31",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 41,
+  "num": 31,
+  "line": 1618,
+  "stem": [
+   "Tous ces éléments sont des signes de coma hyperosmolaire sauf 1 :"
+  ],
+  "lines": [
+   "a. Acidocétose métabolique"
+  ],
+  "marked": [
+   "a. Acidocétose métabolique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Coma hyperosmolaire",
+  "note": "",
+  "groupe": "HYPEROSMO",
+  "answer": "a. Acidocétose métabolique",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q32",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 41,
+  "num": 32,
+  "line": 1620,
+  "stem": [
+   "Ce qui aide au DD entre diabète type I et type II la Fausse :"
+  ],
+  "lines": [
+   "a. Dosage de l’Hb glyquée au moment du D/",
+   "b. IMC",
+   "Complications au moment du diagnostic",
+   "d. Présence d’anticorps anti GAD",
+   "e. Respiration rapide"
+  ],
+  "marked": [
+   "a. Dosage de l’Hb glyquée au moment du D/"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Typer un diabète (type 1, type 2, LADA)",
+  "note": "",
+  "groupe": "TYPAGE",
+  "answer": "a. Dosage de l’Hb glyquée au moment du D/",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q33",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 41,
+  "num": 33,
+  "line": 1626,
+  "stem": [
+   "Tous ces éléments sont des facteurs favorisants du diabète type II sauf 1 :"
+  ],
+  "lines": [
+   "a. Atcd d’oreillons",
+   "b. Syndrome métabolique",
+   "RCIU",
+   "d. Histoire familiale",
+   "e. Ovaires polykystique"
+  ],
+  "marked": [
+   "a. Atcd d’oreillons"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète de type 2",
+  "note": "",
+  "groupe": "DT2",
+  "answer": "a. Atcd d’oreillons",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q34",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 41,
+  "num": 34,
+  "line": 1632,
+  "stem": [
+   "Tous ces troubles sont dus à la neuropathie autonome dans le diabète type II sauf 1 :"
+  ],
+  "lines": [
+   "a. Survenue d’hypoglycémies postprandiales après injection d’insuline UR",
+   "b. Hypertension"
+  ],
+  "marked": [
+   "b. Hypertension"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Neuropathie (dont autonome)",
+  "note": "",
+  "groupe": "NEURO",
+  "answer": "b. Hypertension",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q35",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 42,
+  "num": 35,
+  "line": 1636,
+  "stem": [
+   "A propos de la diarrhée dans le diabète de type II, 1F :"
+  ],
+  "lines": [
+   "a. Peut être due à une neuropathie sensitivomotrice"
+  ],
+  "marked": [
+   "a. Peut être due à une neuropathie sensitivomotrice"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diarrhée chronique du diabétique",
+  "note": "",
+  "groupe": "DIARRHEE",
+  "answer": "a. Peut être due à une neuropathie sensitivomotrice",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q37",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 42,
+  "num": 37,
+  "line": 1641,
+  "stem": [
+   "L’amaigrissement dans le diabète de type I est dû à tout ça sauf :"
+  ],
+  "lines": [
+   "a. Néphropathie avec macroprotéinurie",
+   "b. Syndrome Garland",
+   "Hyperthyroïdie associée",
+   "d. Addison associé",
+   "e. Oubli d’injection d’insuline"
+  ],
+  "marked": [
+   "a. Néphropathie avec macroprotéinurie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète de type 1",
+  "note": "",
+  "groupe": "DT1",
+  "answer": "a. Néphropathie avec macroprotéinurie",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q39",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 42,
+  "num": 39,
+  "line": 1650,
+  "stem": [
+   "Diabétique : Amaigrissement par :"
+  ],
+  "lines": [
+   "a. polyradiculopathie de Garland",
+   "b. Association avec addison"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète de type 1",
+  "note": "",
+  "groupe": "DT1",
+  "answer": "",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q41",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 42,
+  "num": 41,
+  "line": 1655,
+  "stem": [
+   "Coma hypoglycémique et acidocétosique, quelles sont les 2 informations inutiles pour les distinguer?"
+  ],
+  "lines": [
+   "A. Combien d’insuline il prend par jour",
+   "B. Convulsions",
+   "C. La tension artérielle du patient en coma",
+   "D. Respiration de Kussmaul",
+   "E. Degré de déshydratation"
+  ],
+  "marked": [
+   "A. Combien d’insuline il prend par jour",
+   "C. La tension artérielle du patient en coma"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Coma hypoglycémique ou acidocétosique ?",
+  "note": "",
+  "groupe": "DD-COMA",
+  "answer": "A. Combien d’insuline il prend par jour | C. La tension artérielle du patient en coma",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q42",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 42,
+  "num": 42,
+  "line": 1661,
+  "stem": [
+   "Tous sont responsables d’une hyperglycémie, sauf 2 :"
+  ],
+  "lines": [
+   "A.Insuffisance surrénalienne",
+   "B. Mucoviscidose",
+   "C. Phéochromocytome",
+   "D. Cancer médullaire de la thyroïde",
+   "E. Acromégalie"
+  ],
+  "marked": [
+   "A.Insuffisance surrénalienne",
+   "D. Cancer médullaire de la thyroïde"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabètes secondaires et hérédité",
+  "note": "",
+  "groupe": "SECONDAIRE",
+  "answer": "A.Insuffisance surrénalienne | D. Cancer médullaire de la thyroïde",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q43",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 42,
+  "num": 43,
+  "line": 1667,
+  "stem": [
+   "Concernant le C-peptide, la fausse :"
+  ],
+  "lines": [
+   "A. augmente en cas d’insuffisance rénale",
+   "B. Un bon marqueur des cellules Bêta des îlots de langherans",
+   "C. Augmente en cas d’hypoglycémie sévère suite à l’injection d’insuline chez un patient non diabétique",
+   "D. Augmente en cas d’insulinorésistance",
+   "E. Indétectable"
+  ],
+  "marked": [
+   "C. Augmente en cas d’hypoglycémie sévère suite à l’injection d’insuline chez un patient non diabétique"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Peptide C",
+  "note": "",
+  "groupe": "CPEPTIDE",
+  "answer": "C. Augmente en cas d’hypoglycémie sévère suite à l’injection d’insuline chez un patient non diabétique",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic",
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q44",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 42,
+  "num": 44,
+  "line": 1673,
+  "stem": [
+   "Quels sont des facteurs d'apparition du diabète de type 2 (la fausse) :"
+  ],
+  "lines": [
+   "A) RCIU",
+   "B) Perte de cellule B des îlots",
+   "C) résistance à l’insuline",
+   "D) surpoids",
+   "E) antécédents familiaux"
+  ],
+  "marked": [
+   "B) Perte de cellule B des îlots"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète de type 2",
+  "note": "",
+  "groupe": "DT2",
+  "answer": "B) Perte de cellule B des îlots",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q45",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 42,
+  "num": 45,
+  "line": 1679,
+  "stem": [
+   "Dosage HbA1c indiquée dans une de ces situations"
+  ],
+  "lines": [
+   "A) déterminer si l’anémie du patient est d’origine diabétique ou non",
+   "B) aider au typage du diabète",
+   "C) évaluer le contrôle de la glycémie au cours des 2 derniers mois",
+   "D) évaluer le nombre et la sévérité des hypoglycémies",
+   "E) identifier une insulinorésistance"
+  ],
+  "marked": [
+   "C) évaluer le contrôle de la glycémie au cours des 2 derniers mois"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Hémoglobine glyquée (HbA1c)",
+  "note": "",
+  "groupe": "HBA1C",
+  "answer": "C) évaluer le contrôle de la glycémie au cours des 2 derniers mois",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q46",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 43,
+  "num": 46,
+  "line": 1686,
+  "stem": [
+   "Toutes ces affirmations sont vraies SAUF UNE :"
+  ],
+  "lines": [
+   "A) L’hémoglobine glyquée (HbA1c) n’est pas fiable en cas d’hémolyse",
+   "B) Des anticorps GAD fortement positifs lors du diagnostic d’un diabète va en faveur d’un type 1",
+   "C) Un type 2 peut se compliquer de cétose en cas d’insulinopénie très sévère",
+   "D) Le LADA est un type de diabète auto-immunitaire des personnes âgées",
+   "E) Le test de HOMA est simple et peut se faire en consultation chez le patient non à jeun, pour déterminer",
+   "sa sensibilité à l’insuline"
+  ],
+  "marked": [
+   "E) Le test de HOMA est simple et peut se faire en consultation chez le patient non à jeun, pour déterminer",
+   "sa sensibilité à l’insuline"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Insulinorésistance",
+  "note": "",
+  "groupe": "IR",
+  "answer": "E) Le test de HOMA est simple et peut se faire en consultation chez le patient non à jeun, pour déterminer | sa sensibilité à l’insuline",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q48",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 43,
+  "num": 48,
+  "line": 1693,
+  "stem": [
+   "Qu’est-ce qui n’est pas en faveur d’un coma hyperosmolaire ?"
+  ],
+  "lines": [
+   "A. Une hyperglycémie élevée, généralement au-dessus de 600",
+   "B. Une personne âgée diabète de type 2 déséquilibré, dans le décours d’une infection",
+   "C. L’urée est supérieure à la créatinine",
+   "D. Un pH normal",
+   "E. Une haleine “pomme de reinette”, odeur “acétone”"
+  ],
+  "marked": [
+   "E. Une haleine “pomme de reinette”, odeur “acétone”"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Coma hyperosmolaire",
+  "note": "",
+  "groupe": "HYPEROSMO",
+  "answer": "E. Une haleine “pomme de reinette”, odeur “acétone”",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q49",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 43,
+  "num": 49,
+  "line": 1699,
+  "stem": [
+   "Patient en coma acidocétosique diabétique, ph de 7,1, avec une pneumonie à pneumocoque sensible à",
+   "l’ampicilline. Toutes ces modalités thérapeutiques sont systématiquement recommandées sauf 2 :"
+  ],
+  "lines": [
+   "A) Injection d’insuline en intraveineux",
+   "B)  Réhydratation intensive avec une solution glucosée hypotonique",
+   "C) Administration de KCl dans la perfusion",
+   "D) Administration de bicarbonate jusqu’à correction du pH",
+   "E) Administration d’ampicilline en iv"
+  ],
+  "marked": [
+   "B)  Réhydratation intensive avec une solution glucosée hypotonique",
+   "D) Administration de bicarbonate jusqu’à correction du pH"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Cétose et acidocétose",
+  "note": "",
+  "groupe": "ACIDOCETOSE",
+  "answer": "B)  Réhydratation intensive avec une solution glucosée hypotonique | D) Administration de bicarbonate jusqu’à correction du pH",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q53",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 43,
+  "num": 53,
+  "line": 1727,
+  "stem": [
+   "Cause de diarrhée chronique chez un diabétique, sauf une:"
+  ],
+  "lines": [
+   "a. Metformine",
+   "b. Maladie coeliaque",
+   "Pancréatite chronique",
+   "d. Traitement par fibrates"
+  ],
+  "marked": [
+   "d. Traitement par fibrates"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diarrhée chronique du diabétique",
+  "note": "",
+  "groupe": "DIARRHEE",
+  "answer": "d. Traitement par fibrates",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q55",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 44,
+  "num": 55,
+  "line": 1739,
+  "stem": [
+   "caractéristiques d’un diabète de type 1 au moment de son diagnostic (toutes vraies sauf 2)"
+  ],
+  "lines": [
+   "A) Âge < 30 ans",
+   "B)  Complication microangiopathique",
+   "C) Augmentation de la ferritine",
+   "D) Cétose",
+   "E) Amaigrissement récent"
+  ],
+  "marked": [
+   "B)  Complication microangiopathique",
+   "C) Augmentation de la ferritine"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète de type 1",
+  "note": "",
+  "groupe": "DT1",
+  "answer": "B)  Complication microangiopathique | C) Augmentation de la ferritine",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q56",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 44,
+  "num": 56,
+  "line": 1745,
+  "stem": [
+   "Concernant la classification PEDIS (1 fausse) :"
+  ],
+  "lines": [
+   "A. prend en compte la bactériologie, avec germes et résistances",
+   "B. perfusion et infection = valeur pronostique",
+   "C. nous donne les stades du pied diabétique (/ulcère?) pour permettre une bonne prise en charge et",
+   "attitude thérapeutique",
+   "D. ostéite est à la fois I3 et D3",
+   "E. toujours utiliser PEDIS pour un ulcère (je ne me rappelle plus de la formulation, si c’était pour le",
+   "diagnostic ou quoi)"
+  ],
+  "marked": [
+   "A. prend en compte la bactériologie, avec germes et résistances"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Pied diabétique, PEDIS, neuro-arthropathie de Charcot",
+  "note": "",
+  "groupe": "PIED",
+  "answer": "A. prend en compte la bactériologie, avec germes et résistances",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-pied"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q59",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 44,
+  "num": 59,
+  "line": 1768,
+  "stem": [
+   "Qu'est-ce qui n'aggrave pas l'atteinte rénale d'un diabétique type 2 (truc du style, et plus sûre du tout des",
+   "propositions) :"
+  ],
+  "lines": [
+   "1. La protéinurie",
+   "2. L'HTA",
+   "3. La prise de grandes quantités liquidiennes",
+   "4. Produit de contraste iodé",
+   "5. Fumeur"
+  ],
+  "marked": [
+   "3. La prise de grandes quantités liquidiennes"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Néphropathie diabétique",
+  "note": "",
+  "groupe": "NEPHRO",
+  "answer": "3. La prise de grandes quantités liquidiennes",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q61",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 44,
+  "num": 61,
+  "line": 1782,
+  "stem": [
+   "Quelle pathologie causant un diabète n’est pas héréditaire?"
+  ],
+  "lines": [
+   "a. MEN1 avec acromégalie (NEM-1)",
+   "b. Cushing maladie",
+   "Diabète mitochondrial",
+   "d. Mody",
+   "e. Hémochromatose"
+  ],
+  "marked": [
+   "b. Cushing maladie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabètes secondaires et hérédité",
+  "note": "",
+  "groupe": "SECONDAIRE",
+  "answer": "b. Cushing maladie",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q62",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 45,
+  "num": 62,
+  "line": 1789,
+  "stem": [
+   "Concernant le diabète sucré, la fausse"
+  ],
+  "lines": [
+   "A. Glycémie normale à jeun entre 60 et 100",
+   "B. Complications microangiopathiques provoquées par un diabète mal équilibré",
+   "C. OGTT 120’ de 150 mg/dl correspond à une intolérance glucidique",
+   "D.  Glycémie veineuse 10 à 15% inférieure à la glycémie capillaire",
+   "E. HbA1c surestimée chez les sujets âgés"
+  ],
+  "marked": [
+   "D.  Glycémie veineuse 10 à 15% inférieure à la glycémie capillaire"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Critères diagnostiques et glycémies",
+  "note": "",
+  "groupe": "DIAG-CRIT",
+  "answer": "D.  Glycémie veineuse 10 à 15% inférieure à la glycémie capillaire",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q63",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 45,
+  "num": 63,
+  "line": 1795,
+  "stem": [
+   "Signe spécifique de cétose"
+  ],
+  "lines": [
+   "a. Polyurie/polydipsie",
+   "b. Douleur abdo",
+   "Amaigrissement",
+   "d. respiration profonde",
+   "?"
+  ],
+  "marked": [
+   "b. Douleur abdo"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Cétose et acidocétose",
+  "note": "",
+  "groupe": "ACIDOCETOSE",
+  "answer": "b. Douleur abdo",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q64",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 45,
+  "num": 64,
+  "line": 1801,
+  "stem": [
+   "A propos des rétinopathies diabétiques trouvez les deux affirmations fausses",
+   "Un tabagisme chronique actif est un facteur aggravant bien connu"
+  ],
+  "lines": [
+   "un oedème maculaire perturbe l’acuité visuelle et la vision centrale",
+   "un fond d’oeil sans dilatation annuel suffit pour dépister la rétinopathie diabétique",
+   "Au fond d’oeil un exsudat cotonneux et une hémorragie rétinienne en tâches est un facteur de",
+   "mauvais pronostic",
+   "une rétinopathie de base va évoluer vers une rétinopathie proliférante indépendamment de",
+   "l'équilibre glycémique"
+  ],
+  "marked": [
+   "un fond d’oeil sans dilatation annuel suffit pour dépister la rétinopathie diabétique",
+   "une rétinopathie de base va évoluer vers une rétinopathie proliférante indépendamment de",
+   "l'équilibre glycémique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Rétinopathie diabétique",
+  "note": "",
+  "groupe": "RETINO",
+  "answer": "un fond d’oeil sans dilatation annuel suffit pour dépister la rétinopathie diabétique | une rétinopathie de base va évoluer vers une rétinopathie proliférante indépendamment de | l'équilibre glycémique",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q65",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 45,
+  "num": 65,
+  "line": 1809,
+  "stem": [
+   "Une patiente se présente aux urgences avec un ulcère au pied. Les critères suivants sont tous des critères",
+   "d'hospitalisation sauf un, lequel ?"
+  ],
+  "lines": [
+   "a. sepsis avec état fébrile",
+   "b. statut pe périphérique avec pouls périphérique non perçu",
+   "déséquilibre important du diabète",
+   "d. signes d'ostéite probable (contact osseux)"
+  ],
+  "marked": [
+   "d. signes d'ostéite probable (contact osseux)"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Pied diabétique, PEDIS, neuro-arthropathie de Charcot",
+  "note": "",
+  "groupe": "PIED",
+  "answer": "d. signes d'ostéite probable (contact osseux)",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-pied"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q66",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 45,
+  "num": 66,
+  "line": 1815,
+  "stem": [
+   "Patient de 50 ans hospitalisé pour coma diabétique acido-cétosique, glycémie à 520, pH à 7, pneumonie lobaire",
+   "droite - état fébrile. Quel traitement n’est pas recommandé :"
+  ],
+  "lines": [
+   "A) Réhydratation avec solution glucose 5% + bicarbonates",
+   "B) Insuline IV 0,10U/kg/h",
+   "C) KCl dans la perfusion",
+   "D) Antibiotiques en IV après avoir fait des hémocultures",
+   "E) Phosphate de potassium si phosphaturie basse"
+  ],
+  "marked": [
+   "A) Réhydratation avec solution glucose 5% + bicarbonates"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Cétose et acidocétose",
+  "note": "",
+  "groupe": "ACIDOCETOSE",
+  "answer": "A) Réhydratation avec solution glucose 5% + bicarbonates",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q67",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 45,
+  "num": 67,
+  "line": 1822,
+  "stem": [
+   "Chez un patient diabétique qui a des diarrhées chroniques, à quoi ne faut-il pas penser ? (une réponse)"
+  ],
+  "lines": [
+   "A. Metformine",
+   "B. Traitement par acarbose",
+   "C. Glinide",
+   "D. Atteinte autonome",
+   "E. Maladie coeliaque"
+  ],
+  "marked": [
+   "C. Glinide"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diarrhée chronique du diabétique",
+  "note": "",
+  "groupe": "DIARRHEE",
+  "answer": "C. Glinide",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q68",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 45,
+  "num": 68,
+  "line": 1828,
+  "stem": [
+   "Concernant la maladie coronarienne chez le patient diabétique, quelle affirmation est fausse ?"
+  ],
+  "lines": [
+   "A. Prévalence égale dans les deux sexes",
+   "B. Donne souvent une atteinte diffuse",
+   "C.  Risque que l’épreuve d’effort par cyclo-ergomètre soit faussement négative",
+   "D. Les re-sténoses après pose d’un stent sont plus fréquentes"
+  ],
+  "marked": [
+   "C.  Risque que l’épreuve d’effort par cyclo-ergomètre soit faussement négative"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Maladie coronarienne du diabétique",
+  "note": "",
+  "groupe": "CORONAIRE",
+  "answer": "C.  Risque que l’épreuve d’effort par cyclo-ergomètre soit faussement négative",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q70",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 46,
+  "num": 70,
+  "line": 1834,
+  "stem": [
+   "qu’est ce qui ne provoque pas une insulinorésistance sévère"
+  ],
+  "lines": [
+   "a) des ovaires polykystiques",
+   "b) infarctus du myocarde",
+   "c) pancréatite aiguë",
+   "d) acanthosis nigricans",
+   "e) nash"
+  ],
+  "marked": [
+   "b) infarctus du myocarde"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Insulinorésistance",
+  "note": "",
+  "groupe": "IR",
+  "answer": "b) infarctus du myocarde",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q75",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 46,
+  "num": 75,
+  "line": 1866,
+  "stem": [
+   "Concernant la néphropathie diabétique : 1 vraie ou 1 fausse ??:"
+  ],
+  "lines": [
+   "A) Peut être réversible si bon contrôle de la tension artérielle et de la glycémie",
+   "B) Une protéinurie de >1g/24h est possible malgré une fonction rénale normale"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Néphropathie diabétique",
+  "note": "",
+  "groupe": "NEPHRO",
+  "answer": "",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q79",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 47,
+  "num": 79,
+  "line": 1884,
+  "stem": [
+   "Qu’est ce qui ne permet pas de typer un diabète ?"
+  ],
+  "lines": [
+   "a. Doser les anticorps anti-GAD",
+   "b. Demander quel a été le plus haut poids du patient dans le passé",
+   "Demander si autre maladie autoimmune?",
+   "d. Doser l’Hb glyquée",
+   "e. Faire un test HOMA"
+  ],
+  "marked": [
+   "d. Doser l’Hb glyquée"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Typer un diabète (type 1, type 2, LADA)",
+  "note": "",
+  "groupe": "TYPAGE",
+  "answer": "d. Doser l’Hb glyquée",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q80",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 47,
+  "num": 80,
+  "line": 1890,
+  "stem": [
+   "Toutes ces propositions aident au diagnostic différentiel entre coma hypoglycémique et coma acidocétosique",
+   "sauf 2. Lesquels ? c’était 1 seule fausse je pense"
+  ],
+  "lines": [
+   "a. Palpation abdominale",
+   "b. Etat d’hydratation",
+   "Respiration rapide ?",
+   "d. Vitesse d’installation / brutale",
+   "e. Convulsions"
+  ],
+  "marked": [
+   "a. Palpation abdominale"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Coma hypoglycémique ou acidocétosique ?",
+  "note": "",
+  "groupe": "DD-COMA",
+  "answer": "a. Palpation abdominale",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q81",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 47,
+  "num": 81,
+  "line": 1897,
+  "stem": [
+   "Laquelle est fausse ?"
+  ],
+  "lines": [
+   "a. 40% des diabètes de type 2 ont un syndrome métabolique",
+   "b. Un diabète de type 2 peut donner de la cétose",
+   "Des anticorps anti-GAD signent un diagnostic de diabète type 1",
+   "d. Le test HOMA mesure la fonction des cellules B et la sensibilité à l’insuline",
+   "e. Une proposition vraie a propos de la CRP"
+  ],
+  "marked": [
+   "a. 40% des diabètes de type 2 ont un syndrome métabolique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète de type 2",
+  "note": "",
+  "groupe": "DT2",
+  "answer": "a. 40% des diabètes de type 2 ont un syndrome métabolique",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q82",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 47,
+  "num": 82,
+  "line": 1903,
+  "stem": [
+   "Votre patient a les résultats suivants au test d’OGGT."
+  ],
+  "lines": [
+   "0’ -> 124",
+   "30’ ->",
+   "60’-> 200",
+   "90’ -> >200",
+   "120’ -> 180",
+   "Quel est le diagnostic ?",
+   "A. pas de problème glucidique",
+   "B. intolérance glucidique",
+   "C. glycémie anormale à jeun",
+   "D. glycémie anormale à jeun et intolérance glucidique",
+   "E. diabète"
+  ],
+  "marked": [
+   "D. glycémie anormale à jeun et intolérance glucidique"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Hyperglycémie provoquée par voie orale (HGPO)",
+  "note": "",
+  "groupe": "OGTT",
+  "answer": "D. glycémie anormale à jeun et intolérance glucidique",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q83",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 47,
+  "num": 83,
+  "line": 1915,
+  "stem": [
+   "Dans quels cas un test d’HGPO n’est pas indiqué ?"
+  ],
+  "lines": [
+   "A. Insuffisance hypophysaire",
+   "B. Diabète de grossesse",
+   "C. Acromégalie",
+   "D. Mise au point d’une glycémie à jeun à 110 mg/dl",
+   "E. Hypoglycémie réactionnelle"
+  ],
+  "marked": [
+   "A. Insuffisance hypophysaire"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Hyperglycémie provoquée par voie orale (HGPO)",
+  "note": "",
+  "groupe": "OGTT",
+  "answer": "A. Insuffisance hypophysaire",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q84",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 47,
+  "num": 84,
+  "line": 1921,
+  "stem": [
+   "Qu’est-ce qui n’aggrave pas une néphropathie diabétique (2 bonnes réponses) ?"
+  ],
+  "lines": [
+   "a. Furosemide",
+   "b. Insuline donnée précocement",
+   "Protéinurie",
+   "d. HTA",
+   "e. Produit de contraste iodé"
+  ],
+  "marked": [
+   "a. Furosemide",
+   "b. Insuline donnée précocement"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Néphropathie diabétique",
+  "note": "",
+  "groupe": "NEPHRO",
+  "answer": "a. Furosemide | b. Insuline donnée précocement",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q85",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 47,
+  "num": 85,
+  "line": 1927,
+  "stem": [
+   "A propos des complications chroniques du diabète, 2 fausses :"
+  ],
+  "lines": [
+   "A. L’hyperglycémie est la cause majeure des microangiopathies",
+   "B. L’hyperglycémie est la cause majeure des macroangiopathies",
+   "C. Le syndrome de garland est une neuropathie autonome particulièrement douloureuse",
+   "D. La pyélonéphrite emphysémateuse est une complication redoutable du diabète",
+   "E. L’atteinte orthosympathique arrive avant la parasympathique"
+  ],
+  "marked": [
+   "B. L’hyperglycémie est la cause majeure des macroangiopathies",
+   "E. L’atteinte orthosympathique arrive avant la parasympathique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Complications chroniques : généralités",
+  "note": "",
+  "groupe": "COMPL-CHRON",
+  "answer": "B. L’hyperglycémie est la cause majeure des macroangiopathies | E. L’atteinte orthosympathique arrive avant la parasympathique",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q87",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 48,
+  "num": 87,
+  "line": 1940,
+  "stem": [
+   "Dans la classification PEDIS, deux propositions fausses :"
+  ],
+  "lines": [
+   "A. L’item E indique la profondeur de la lésion",
+   "B. L’item I indique le degré d’infection",
+   "C. L’ischémie critique est définie à partir de TCPO2<30mmHg",
+   "D. La classification ne prend pas en compte les résultats bactériologiques",
+   "E. La classification ne prend pas en compte la sensibilité du pied"
+  ],
+  "marked": [
+   "A. L’item E indique la profondeur de la lésion",
+   "D. La classification ne prend pas en compte les résultats bactériologiques",
+   "E. La classification ne prend pas en compte la sensibilité du pied"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Pied diabétique, PEDIS, neuro-arthropathie de Charcot",
+  "note": "",
+  "groupe": "PIED",
+  "answer": "A. L’item E indique la profondeur de la lésion | D. La classification ne prend pas en compte les résultats bactériologiques | E. La classification ne prend pas en compte la sensibilité du pied",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-pied"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q88",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 48,
+  "num": 88,
+  "line": 1946,
+  "stem": [
+   "Urgences: dame de 71 ans, vit seule depuis 25 ans. Diabète mal équilibré traité par biguanide et SH. Présente des",
+   "douleurs nocturnes dans le membre inférieur droit. A l’examen clinique, elle présente une gangrène humide au",
+   "2eme orteil avec signe d’infection.Glycémie à 280 mg/dL. Que faire?"
+  ],
+  "lines": [
+   "A. Hospit",
+   "B. Vasodilatateurs , aspirine et antalgiques + envoi au MG",
+   "C. Insulinothérapie et consultation rapprochée en diabétologie",
+   "D. Appel du chir de garde pour amputer son orteil",
+   "E. Prescription d’une artériographie des membres inférieurs en urgence."
+  ],
+  "marked": [
+   "A. Hospit"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Pied diabétique, PEDIS, neuro-arthropathie de Charcot",
+  "note": "Gangrène humide infectée d'un orteil : urgence du pied diabétique.",
+  "groupe": "PIED",
+  "answer": "A. Hospit",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-pied"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q91",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 48,
+  "num": 91,
+  "line": 1971,
+  "stem": [
+   "Patient de 70 ans au urgences avec AEG, glycémie à 300, IMC à 32, cétonurie ++, le pH à 7.3 Choisissez les deux",
+   "fausses"
+  ],
+  "lines": [
+   "A. Le patient est à mettre sous pompe à insuline pour le stabiliser",
+   "B. vu son IMC et son âge, c’est surement un diabète de type 2",
+   "C. Je dose les Ac en pensant à un diabète de type1",
+   "D. Vu sa glycémie, je mets le patient sous metformine et lui dis de rentrer chez lui",
+   "E. Je fais une imagerie de son pancréas au vu de son AEG et de son âge."
+  ],
+  "marked": [
+   "B. vu son IMC et son âge, c’est surement un diabète de type 2",
+   "C. Je dose les Ac en pensant à un diabète de type1",
+   "D. Vu sa glycémie, je mets le patient sous metformine et lui dis de rentrer chez lui"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Typer un diabète (type 1, type 2, LADA)",
+  "note": "",
+  "groupe": "TYPAGE",
+  "answer": "B. vu son IMC et son âge, c’est surement un diabète de type 2 | C. Je dose les Ac en pensant à un diabète de type1 | D. Vu sa glycémie, je mets le patient sous metformine et lui dis de rentrer chez lui",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q93",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 49,
+  "num": 93,
+  "line": 1985,
+  "stem": [
+   "Quelle pathologie ne donne pas de diabète sucré ?"
+  ],
+  "lines": [
+   "A. Antipsychotique atypique",
+   "B. Mucoviscidose",
+   "C. Cancer du pancréas",
+   "D.Phéochromocytome",
+   "E hyperprolactinémie"
+  ],
+  "marked": [
+   "E hyperprolactinémie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabètes secondaires et hérédité",
+  "note": "",
+  "groupe": "SECONDAIRE",
+  "answer": "E hyperprolactinémie",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q96",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 49,
+  "num": 96,
+  "line": 2004,
+  "stem": [
+   "C-peptide, choisissez la fausse :"
+  ],
+  "lines": [
+   "a. Indosable si diabète de type 2 depuis longtemps",
+   "b. Dégradation de la pro insuline",
+   "Présent dans les urines",
+   "d. Dosable en cas de prise trop importante de sulfonylurés",
+   "e. ..."
+  ],
+  "marked": [
+   "a. Indosable si diabète de type 2 depuis longtemps"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Peptide C",
+  "note": "",
+  "groupe": "CPEPTIDE",
+  "answer": "a. Indosable si diabète de type 2 depuis longtemps",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic",
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q98",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 49,
+  "num": 98,
+  "line": 2010,
+  "stem": [
+   "Toutes les propositions suivantes concernant le diabète de type 2 sont vraies sauf une"
+  ],
+  "lines": [
+   "a. Rciu",
+   "b. Malnut foetale",
+   "On retrouve rarement une histoire familiale",
+   "d. Ac anti Gad et anti IA2 toujours négatifs",
+   "e. Souvent syndrome métabolique"
+  ],
+  "marked": [
+   "On retrouve rarement une histoire familiale"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète de type 2",
+  "note": "",
+  "groupe": "DT2",
+  "answer": "On retrouve rarement une histoire familiale",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q99",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 49,
+  "num": 99,
+  "line": 2016,
+  "stem": [
+   "Dans la rétinopathie diabétique, quelle est la fausse ?"
+  ],
+  "lines": [
+   "a. Rôle avéré du tabac",
+   "b. Plus souvent chez la femme",
+   "Fluoangiographie rétinienne permet de faire le diagnostic",
+   "d. Des lésions hémorragiques (AMIR) et exsudats cotonneux sont des signes de mauvais pronostic",
+   "e. Est une cause possible de cécité"
+  ],
+  "marked": [
+   "b. Plus souvent chez la femme"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Rétinopathie diabétique",
+  "note": "",
+  "groupe": "RETINO",
+  "answer": "b. Plus souvent chez la femme",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q101",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 49,
+  "num": 101,
+  "line": 2027,
+  "stem": [
+   "Coma hyperosmolaire, la fausse :"
+  ],
+  "lines": [
+   "A. Peut être déclenchée par une infection",
+   "B. Glycémie très élevée",
+   "C. Déshydratation importante",
+   "D. Acidose métabolique avec trou anionique augmenté",
+   "E. Hyponatrémie ou pseudohyponatrémie"
+  ],
+  "marked": [
+   "D. Acidose métabolique avec trou anionique augmenté"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Coma hyperosmolaire",
+  "note": "",
+  "groupe": "HYPEROSMO",
+  "answer": "D. Acidose métabolique avec trou anionique augmenté",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q102",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 50,
+  "num": 102,
+  "line": 2034,
+  "stem": [
+   "Coma acidocétosique suite une pneumonie bactérienne, que ne faut-il pas faire en premier lieu ?"
+  ],
+  "lines": [
+   "A. Kcl",
+   "B. Insuline iv",
+   "C. Bicarbonate jusqu’à normalisation du ph",
+   "D. Injection ab",
+   "E. Réhydratation"
+  ],
+  "marked": [
+   "C. Bicarbonate jusqu’à normalisation du ph"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Cétose et acidocétose",
+  "note": "",
+  "groupe": "ACIDOCETOSE",
+  "answer": "C. Bicarbonate jusqu’à normalisation du ph",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q103",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 50,
+  "num": 103,
+  "line": 2040,
+  "stem": [
+   "Qu’est ce qui n’est pas une neuropathie autonome chez un patient diabètique ?"
+  ],
+  "lines": [
+   "A. Hypertension artérielle asymptomatique",
+   "B. Diarrhées fréquentes",
+   "c. Dysfonction érectile",
+   "D. Syndrome d’hypersudation",
+   "e. Tachycardie régulière de repos"
+  ],
+  "marked": [
+   "A. Hypertension artérielle asymptomatique"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Neuropathie (dont autonome)",
+  "note": "",
+  "groupe": "NEURO",
+  "answer": "A. Hypertension artérielle asymptomatique",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q108",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 50,
+  "num": 108,
+  "line": 2070,
+  "stem": [
+   "Lequel des énoncés suivants n’est pas une indication d’HGPO"
+  ],
+  "lines": [
+   "A. Diagnostic acromégalie",
+   "B. Diagnostic diabète gestationnel",
+   "C. Diagnostic diabète ou pré-diabète",
+   "D. Diagnostic hypoglycémie réactionnelle",
+   "E. Confirmation d’un diabète de type 2 chez une personne ayant une glycémie à 150mg/dl à jeun"
+  ],
+  "marked": [
+   "E. Confirmation d’un diabète de type 2 chez une personne ayant une glycémie à 150mg/dl à jeun"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Hyperglycémie provoquée par voie orale (HGPO)",
+  "note": "",
+  "groupe": "OGTT",
+  "answer": "E. Confirmation d’un diabète de type 2 chez une personne ayant une glycémie à 150mg/dl à jeun",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q109",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 50,
+  "num": 109,
+  "line": 2076,
+  "stem": [
+   "Parmi les résultats d’HGPO suivants (mesurés en glycémie veineuse), lequel fait penser à une intolérance",
+   "glucidique"
+  ],
+  "lines": [
+   "A. 0’ : 90 mg/dl -> 120’ : 130 mg/dl",
+   "B. 0’ : 90 mg/dl -> 120 ‘ : 210 mg/dl",
+   "C. 0’ : 90 mg/dl -> 120’ : 180 mg/dl",
+   "D. 0’ : 130 mg/dl -> 120’ : 210 mg/dl",
+   "E. 0’ : 130 mg/dl -> 120’ : 180 mg/dl"
+  ],
+  "marked": [
+   "C. 0’ : 90 mg/dl -> 120’ : 180 mg/dl"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Hyperglycémie provoquée par voie orale (HGPO)",
+  "note": "",
+  "groupe": "OGTT",
+  "answer": "C. 0’ : 90 mg/dl -> 120’ : 180 mg/dl",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q110",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 50,
+  "num": 110,
+  "line": 2083,
+  "stem": [
+   "Hb glyquée : 2 fausses"
+  ],
+  "lines": [
+   "A. S’exprime en % ou en mmol/mol",
+   "B. Reflète l’état glycémique du mois précédent",
+   "C. Signe un diabète si > 6%",
+   "D. Est sous-estimée si hémolyse",
+   "E. Est surestimée chez les personnes âgées"
+  ],
+  "marked": [
+   "B. Reflète l’état glycémique du mois précédent",
+   "C. Signe un diabète si > 6%"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Hémoglobine glyquée (HbA1c)",
+  "note": "",
+  "groupe": "HBA1C",
+  "answer": "B. Reflète l’état glycémique du mois précédent | C. Signe un diabète si > 6%",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q111",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 51,
+  "num": 111,
+  "line": 2090,
+  "stem": [
+   "A propos du diabète de type 1, tous les éléments sont caractéristiques au moment du diagnostic, sauf un :"
+  ],
+  "lines": [
+   "A. Age du patient < 30 ans",
+   "B. Poids normal",
+   "C. Symptomatologie : polyurie, polydipsie..",
+   "D. Anticorps anti-GAD",
+   "E. C peptide nul (=indosable)"
+  ],
+  "marked": [
+   "E. C peptide nul (=indosable)"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète de type 1",
+  "note": "",
+  "groupe": "DT1",
+  "answer": "E. C peptide nul (=indosable)",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q112",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 51,
+  "num": 112,
+  "line": 2096,
+  "stem": [
+   "Un patient est en acidocétose, pH à 7.15, que ne fait-on pas d’office?"
+  ],
+  "lines": [
+   "F.",
+   "Perfusion",
+   "G. Glucosé",
+   "H. Insuline",
+   "I.",
+   "KCl",
+   "J.",
+   "Bicarbonates"
+  ],
+  "marked": [
+   "J.",
+   "Bicarbonates"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Cétose et acidocétose",
+  "note": "",
+  "groupe": "ACIDOCETOSE",
+  "answer": "J. | Bicarbonates",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q113",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 51,
+  "num": 113,
+  "line": 2105,
+  "stem": [
+   "Ces caractéristiques permettent de différencier le coma hypoglycémique et acidocétose , sauf une :"
+  ],
+  "lines": [
+   "A. Type de diabète",
+   "B. Respiration de Kussmaul",
+   "C. Rapidité d’arrivée des symptômes",
+   "D. Etat d’hydratation",
+   "E. Haleine pomme de reinette"
+  ],
+  "marked": [
+   "A. Type de diabète"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Coma hypoglycémique ou acidocétosique ?",
+  "note": "",
+  "groupe": "DD-COMA",
+  "answer": "A. Type de diabète",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q114",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 51,
+  "num": 114,
+  "line": 2111,
+  "stem": [
+   "Qu’est-ce qui ne suggère pas une neuropathie autonome ?"
+  ],
+  "lines": [
+   "A. Pied de charcot",
+   "B. Hypotension orthostatique",
+   "C. Perte de régulation de la FC avec la respiration",
+   "D. Dysfonction érectile",
+   "E. Diarrhée motrice"
+  ],
+  "marked": [
+   "A. Pied de charcot"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Neuropathie (dont autonome)",
+  "note": "",
+  "groupe": "NEURO",
+  "answer": "A. Pied de charcot",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q116",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 51,
+  "num": 116,
+  "line": 2124,
+  "stem": [
+   "Parmi ces données biologiques, laquelle n’est pas suggestive d’un coma hyperosmolaire?"
+  ],
+  "lines": [
+   "A. Hyperglycémie",
+   "B. Acidose métabolique",
+   "C. Urée augmentée",
+   "D. Pseudohyponatrémie",
+   "E. Hématocrite augmenté"
+  ],
+  "marked": [
+   "B. Acidose métabolique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Coma hyperosmolaire",
+  "note": "",
+  "groupe": "HYPEROSMO",
+  "answer": "B. Acidose métabolique",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q120",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 52,
+  "num": 120,
+  "line": 2144,
+  "stem": [
+   "Classification PEDIS : une fausse"
+  ],
+  "lines": [
+   "A. P pour perfusion",
+   "B. E pour extension",
+   "C. D pour douleur",
+   "D. I pour infection",
+   "E. S pour sensibilité"
+  ],
+  "marked": [
+   "C. D pour douleur"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Pied diabétique, PEDIS, neuro-arthropathie de Charcot",
+  "note": "",
+  "groupe": "PIED",
+  "answer": "C. D pour douleur",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-pied"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q123",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 52,
+  "num": 123,
+  "line": 2162,
+  "stem": [
+   "Qu’est ce qui ne donne pas d’insulino-résistance ?"
+  ],
+  "lines": [
+   "A. Hypothyroïdie",
+   "B. Anti-protéases (ritonavir entre autre)",
+   "C. Acromégalie",
+   "D. Cushing",
+   "E. Hémochromatose"
+  ],
+  "marked": [
+   "A. Hypothyroïdie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Insulinorésistance",
+  "note": "",
+  "groupe": "IR",
+  "answer": "A. Hypothyroïdie",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q127",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 52,
+  "num": 127,
+  "line": 2175,
+  "stem": [
+   "Mamy de 71 ans, vit seule, diabétique traitée avec un biguanide et SH, le diabète semble avoir été négligé (mal",
+   "équilibré), va aux urgences pour une douleur dans le mollet droit la nuit, on se rend compte qu’elle a un ulcère",
+   "(gangrène) localisé au 2ème orteil, pas de signes inflammatoire, les pouls ne sont pas palpés, et glycémie capillaire",
+   "à 280"
+  ],
+  "lines": [
+   "A. Hospitaliser",
+   "B. Commencer une insulinothérapie et lui donner un rendez-vous en diabétologie",
+   "C. Réaliser une artériographie du MI en urgence",
+   "D. Appeler le chirurgien pour réaliser une amputation dans les 24 heures",
+   "E. référer à son médecin traitant"
+  ],
+  "marked": [
+   "A. Hospitaliser"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Pied diabétique, PEDIS, neuro-arthropathie de Charcot",
+  "note": "Même cas que Maiter Q88 (gangrène d'un orteil).",
+  "groupe": "PIED",
+  "answer": "A. Hospitaliser",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-pied"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q128",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 52,
+  "num": 128,
+  "line": 2184,
+  "stem": [
+   "Qu'est ce qui n’aggrave PAS une néphropathie diabétique"
+  ],
+  "lines": [
+   "A. HTA non contrôlée",
+   "B. Dyslipidémie athérogène",
+   "C. Insulinothérapie introduite trop rapidement",
+   "D. Protéinurie",
+   "E. Hyperglycémie"
+  ],
+  "marked": [
+   "C. Insulinothérapie introduite trop rapidement"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Néphropathie diabétique",
+  "note": "",
+  "groupe": "NEPHRO",
+  "answer": "C. Insulinothérapie introduite trop rapidement",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "ND-maiter-diabete-Q130",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Maiter adulte – Diabète",
+  "disc": "ADULTE",
+  "teacher": "Maiter",
+  "page": 53,
+  "num": 130,
+  "line": 2197,
+  "stem": [
+   "Quel est le traitement du LADA chez une personne âgée?"
+  ],
+  "lines": [
+   "A.  Insulinothérapie",
+   "B. Sulfamides",
+   "C. Mesures hygiéno-diététiques"
+  ],
+  "marked": [
+   "A.  Insulinothérapie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Typer un diabète (type 1, type 2, LADA)",
+  "note": "",
+  "groupe": "TYPAGE",
+  "answer": "A.  Insulinothérapie",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-marbaix-pancreas-Q1",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Marbaix – Anapath pancréas",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 79,
+  "num": 1,
+  "line": 3535,
+  "stem": [
+   "La question sur la tronche des ilots diabete type 1 à son apparition (différent des anciens exams) Il fallait choisir la",
+   "proposition correcte à propos du diabète 1 débutant :"
+  ],
+  "lines": [
+   "a. Disparition des îlots de Langerhans",
+   "b. L’immunomarquage ne met pas en évidence la pro-insuline (?)",
+   "On peut voir des dépôts amyloïdes"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse absente",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Anatomie pathologique du pancréas",
+  "note": "",
+  "groupe": "ANAPATH",
+  "answer": "",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-marbaix-pancreas-Q2",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Marbaix – Anapath pancréas",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 80,
+  "num": 2,
+  "line": 3541,
+  "stem": [
+   "Le diabète de type 1 est caractérisé par"
+  ],
+  "lines": [
+   "a. la présence d’une insulite en chronique",
+   "b. une perte de cellule B en chronique",
+   "c. une disparition des îlots en chronique",
+   "d. une fibrose des îlots en chronique",
+   "e. des dépôts amyloïdes",
+   "3.Dans le diabète de type II, une bonne réponse",
+   "a. Les îlots présentent de l’inflammation",
+   "b. Les îlots peuvent présenter un dépôt de substance amyloïde",
+   "c. Les îlots disparaissent progressivement",
+   "d. Il y a une destruction des cellules B.",
+   "e. Les cellules B sont présentes en nombre anormalement élevé"
+  ],
+  "marked": [
+   "b. une perte de cellule B en chronique",
+   "b. Les îlots peuvent présenter un dépôt de substance amyloïde"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Anatomie pathologique du pancréas",
+  "note": "Deux questions étaient collées dans la retranscription ; seule la première (diabète de type 1) est conservée. Dans la seconde (type 2), la réponse marquée était : les îlots peuvent présenter un dépôt de substance amyloïde.",
+  "groupe": "ANAPATH",
+  "answer": "b. une perte de cellule B en chronique | b. Les îlots peuvent présenter un dépôt de substance amyloïde",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-marbaix-pancreas-Q5",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Marbaix – Anapath pancréas",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 80,
+  "num": 5,
+  "line": 3555,
+  "stem": [
+   "Dans l’aspect histologique d’un pancréas d’un patient diabétique de type 1 depuis de nombreuses années (une",
+   "réponse juste):"
+  ],
+  "lines": [
+   "A. disparition des ilôts de L.",
+   "B. ilôts de L. remplacés par des nodules cicatriciels",
+   "C. les cellules B des îlots de L. sont chargés de substance amyloïde",
+   "D. ilôts de L. sont en place mais il n’y a plus de mise en évidence possible de la pré-insuline dans ceux-ci",
+   "E. hypertrophie des ilôts de L. suite à une hyperplasie compensatrice des cellules B suite à leur inflammation"
+  ],
+  "marked": [
+   "D. ilôts de L. sont en place mais il n’y a plus de mise en évidence possible de la pré-insuline dans ceux-ci"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Anatomie pathologique du pancréas",
+  "note": "",
+  "groupe": "ANAPATH",
+  "answer": "D. ilôts de L. sont en place mais il n’y a plus de mise en évidence possible de la pré-insuline dans ceux-ci",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-marbaix-pancreas-Q6",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Marbaix – Anapath pancréas",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 80,
+  "num": 6,
+  "line": 3562,
+  "stem": [
+   "Dans le diabète de type 1 de longue évolution, qu’observe-t-on?"
+  ],
+  "lines": [
+   "A. une disparition des îlots de Langerhans",
+   "B. une invasion inflammatoire dans les îlots de Langerhans",
+   "C. une disparition des cellules B",
+   "D. une insulite",
+   "E. une fibrose des îlots de L"
+  ],
+  "marked": [
+   "C. une disparition des cellules B"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Anatomie pathologique du pancréas",
+  "note": "",
+  "groupe": "ANAPATH",
+  "answer": "C. une disparition des cellules B",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-marbaix-pancreas-Q7",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Marbaix – Anapath pancréas",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 80,
+  "num": 7,
+  "line": 3568,
+  "stem": [
+   "Ce qu’on voit à l’anapath en cas de diabète de type 1 de longue évolution:"
+  ],
+  "lines": [
+   "A. Nodules de cicatrisation dans les îlots de langerhans",
+   "B. Disparition des ilôts de langerhans",
+   "C. Les cellules B des îlots de langerhans sont chargés de substance amyloïde",
+   "D. Il n’y a plus de mise en évidence possible de la pré-insuline dans les ilôts de langerhans",
+   "E. Hypertrophie des ilôts de langerhans suite à une hyperplasie compensatrice des cellules B suite à",
+   "leur inflammation"
+  ],
+  "marked": [
+   "D. Il n’y a plus de mise en évidence possible de la pré-insuline dans les ilôts de langerhans"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Anatomie pathologique du pancréas",
+  "note": "",
+  "groupe": "ANAPATH",
+  "answer": "D. Il n’y a plus de mise en évidence possible de la pré-insuline dans les ilôts de langerhans",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "ND-marbaix-pancreas-Q9",
+  "src": "A",
+  "session": "2016-2021",
+  "section": "Marbaix – Anapath pancréas",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 80,
+  "num": 9,
+  "line": 3582,
+  "stem": [
+   "Dans l’analyse histopathologique d’un patient décédé ayant présenté un diabète de type 1 de longue évolution,",
+   "que va-t-on trouver?"
+  ],
+  "lines": [
+   "A. A la coloration du tissu on ne verra pas de marquage immunohistochimique de pro-insuline",
+   "B. Dans les ilôts de Langerhans : on voit des nodules cicatriciels",
+   "C. Dans les ilôts de Langerhans on voit des dépôts de substance amyloïde constitués d’amyline",
+   "D. Dans les ilôts de Langerhans on voit une hyperplasie compensatrice des cellules"
+  ],
+  "marked": [
+   "A. A la coloration du tissu on ne verra pas de marquage immunohistochimique de pro-insuline"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Anatomie pathologique du pancréas",
+  "note": "",
+  "groupe": "ANAPATH",
+  "answer": "A. A la coloration du tissu on ne verra pas de marquage immunohistochimique de pro-insuline",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q1",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 1,
+  "num": 1,
+  "line": 13,
+  "stem": [
+   "Qu’est ce qui ne permet pas le diagnostic de diabète ( 2 réponse ) ?"
+  ],
+  "lines": [
+   "- glycémie à jeun à 125",
+   "-glycémie à jeun à 130",
+   "- OGTT à 180 après 120 min",
+   "- OGTT à 210 après 120 min",
+   "- Glycémie à 200 à 15h avec polyurie"
+  ],
+  "marked": [
+   "- glycémie à jeun à 125",
+   "- OGTT à 180 après 120 min"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Critères diagnostiques et glycémies",
+  "note": "",
+  "groupe": "DIAG-CRIT",
+  "answer": "- glycémie à jeun à 125 | - OGTT à 180 après 120 min",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q2",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 1,
+  "num": 2,
+  "line": 19,
+  "stem": [
+   "À propos du c-peptide :"
+  ],
+  "lines": [
+   "- est éliminé par voie rénale",
+   "- est un bon reflet de la fonction des cellules bêta",
+   "- il est dosable dans une hypoglycémie secondaire à un insulinome",
+   "- il est indosable dans un diabète de type 1 depuis longtemps",
+   "- les anticorps anti-peptide c sont les meilleurs pour le diabète de type 1",
+   "3. Lidia"
+  ],
+  "marked": [
+   "- les anticorps anti-peptide c sont les meilleurs pour le diabète de type 1"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Peptide C",
+  "note": "",
+  "groupe": "CPEPTIDE",
+  "answer": "- les anticorps anti-peptide c sont les meilleurs pour le diabète de type 1",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic",
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q4",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 1,
+  "num": 4,
+  "line": 26,
+  "stem": [
+   "concernant l’HbAc1, la vraie"
+  ],
+  "lines": [
+   "A. - est le reflet de la glycémie moyenne du mois précédent l'analyse",
+   "B. - est surestimé lors d’un déficit en fer",
+   "C. - est surestimé lors d’une hémoglobinopathie",
+   "D. - valeur de 6,4% permet de poser le diagnostic de diabète",
+   "E. - glycation réversible",
+   "5. Oihan"
+  ],
+  "marked": [
+   "B. - est surestimé lors d’un déficit en fer"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Hémoglobine glyquée (HbA1c)",
+  "note": "",
+  "groupe": "HBA1C",
+  "answer": "B. - est surestimé lors d’un déficit en fer",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q6",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 2,
+  "num": 6,
+  "line": 34,
+  "stem": [
+   "Concernant le diabète de type 2, la fausse :"
+  ],
+  "lines": [
+   "A. Il y a des jeunes atteints",
+   "B. Un retard (c’était nutrition in utéro) in utero est un facteur de risque (ou un truc",
+   "comme ça, c’était vrai)",
+   "C. Le diabète peut disparaitre suite à une perte pondérale",
+   "D. Il y a fréquemment une composante familliale",
+   "E. Un BMI<25 doit exclure un diagnostic de diabète de type 2"
+  ],
+  "marked": [
+   "E. Un BMI<25 doit exclure un diagnostic de diabète de type 2"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète de type 2",
+  "note": "",
+  "groupe": "DT2",
+  "answer": "E. Un BMI<25 doit exclure un diagnostic de diabète de type 2",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q8",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 2,
+  "num": 8,
+  "line": 48,
+  "stem": [
+   "femme 30 ans , mère diabétique et grand-père maternel diabétique . En consultation,",
+   "dosage de glycémie à jeun 130mg/dl et asymptomatique . Concernant la démarche",
+   "diagnostique, une réponse fausse"
+  ],
+  "lines": [
+   "A. - on fait une HGPO + dosage glycémie à 120min pour confirmer le diabète",
+   "B. - ça pourrait être un MODY, qui doit faire l’objet d’une recherche génétique",
+   "C. - doser anti Gad à la recherche diabète de type 1 en phase pré clinique",
+   "D. - absence de critères menant à rechercher une cétonémie",
+   "E. - absence de critères pour suspecter un diabète mitochondrial"
+  ],
+  "marked": [
+   "A. - on fait une HGPO + dosage glycémie à 120min pour confirmer le diabète"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Critères diagnostiques et glycémies",
+  "note": "",
+  "groupe": "DIAG-CRIT",
+  "answer": "A. - on fait une HGPO + dosage glycémie à 120min pour confirmer le diabète",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q14",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 3,
+  "num": 14,
+  "line": 84,
+  "stem": [
+   "Un patient est en acidocétose, pH à 7.2, la fausse ?"
+  ],
+  "lines": [
+   "A. Perfusion NACL",
+   "B. Glucosé",
+   "C. Insuline",
+   "D. KCL",
+   "E. Bicarbonates"
+  ],
+  "marked": [
+   "E. Bicarbonates"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Cétose et acidocétose",
+  "note": "",
+  "groupe": "ACIDOCETOSE",
+  "answer": "E. Bicarbonates",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q16",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 3,
+  "num": 16,
+  "line": 91,
+  "stem": [
+   "Les éléments suivants permettent de faire le diagnostic différentiel entre une",
+   "acidose-cétose diabétique et un coma hyperosmolaire sauf un. Lequel?"
+  ],
+  "lines": [
+   "- Une glycémie très élevée, souvent supérieure à 800mg/dl",
+   "- La présence ou l’absence de cétose",
+   "- Une présence d’hypo-osmolalité plasmatique",
+   "- Des troubles neurologiques avec altération de la conscience",
+   "- La présence d’acidose"
+  ],
+  "marked": [
+   "- Une glycémie très élevée, souvent supérieure à 800mg/dl"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Coma hyperosmolaire",
+  "note": "",
+  "groupe": "HYPEROSMO",
+  "answer": "- Une glycémie très élevée, souvent supérieure à 800mg/dl",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q20",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 4,
+  "num": 20,
+  "line": 120,
+  "stem": [
+   "DD du coma hypoglycémique et du coma acidocétosique (dire la fausse)"
+  ],
+  "lines": [
+   "A) le schéma d’insulinothérapie",
+   "B) la transpiration",
+   "C) la déshydratation",
+   "D) la vitesse d’arrivée"
+  ],
+  "marked": [
+   "A) le schéma d’insulinothérapie"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Coma hypoglycémique ou acidocétosique ?",
+  "note": "",
+  "groupe": "DD-COMA",
+  "answer": "A) le schéma d’insulinothérapie",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q23",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 5,
+  "num": 23,
+  "line": 141,
+  "stem": [
+   "Pied de charcot (ou neuroarthropathie) la fausse :"
+  ],
+  "lines": [
+   "A. - il se présente par un œdème et une erythrose indolore du pied",
+   "B. -sa forme chronique est une déformation du pied",
+   "C. -un ulcère médio plantaire peut être une présentation du pied de charcot",
+   "D. -il est présent chez les diabétiques qui n’ont pas de neuropathie sensitive",
+   "E. - c’est une urgence et nécessite un diagnostic précoce"
+  ],
+  "marked": [
+   "D. -il est présent chez les diabétiques qui n’ont pas de neuropathie sensitive"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Pied diabétique, PEDIS, neuro-arthropathie de Charcot",
+  "note": "",
+  "groupe": "PIED",
+  "answer": "D. -il est présent chez les diabétiques qui n’ont pas de neuropathie sensitive",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-pied"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q60",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "RADIO",
+  "teacher": "non précisé",
+  "page": 10,
+  "num": 60,
+  "line": 298,
+  "stem": [
+   "La glycation de l’hémoglobine est un phénomène naturel et ubiquitaire. Quelle",
+   "affirmation va en ce sens (la vraie) ?"
+  ],
+  "lines": [
+   "A. L’hémoglobine glyquée normale est entre 4-5,7% , donc la glycation de produit",
+   "même de manière physiologique",
+   "B. Se produit car le taux de glucose est souvent supérieur à 130 mg/dl",
+   "C. Reste pareil à 100mg/dl de glucose ???",
+   "D. La glycation empêche le stress oxydatif venant du glucose",
+   "E. La coloration de la peau au soleil vient de la glycation"
+  ],
+  "marked": [
+   "A. L’hémoglobine glyquée normale est entre 4-5,7% , donc la glycation de produit",
+   "même de manière physiologique"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse discutée ou contestée",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Hémoglobine glyquée (HbA1c)",
+  "note": "",
+  "groupe": "HBA1C",
+  "answer": "A. L’hémoglobine glyquée normale est entre 4-5,7% , donc la glycation de produit | même de manière physiologique",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-Q85",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ANAPATH",
+  "teacher": "Marbaix",
+  "page": 14,
+  "num": 85,
+  "line": 422,
+  "stem": [
+   "Dans le DT2 qu’est ce qui n’est pas juste"
+  ],
+  "lines": [
+   "A. Il n'y a pas d'inflammation",
+   "B. Les cellules bêta finissent par disparaitre",
+   "C. On peut voir des dépôts amyloïdes",
+   "D. A la lumière polarisée on peut voir une biréfringence (rouge/vert)des fibres",
+   "amyloïdes si elles sont colorées au rouge Congo",
+   "E. Une biopsie est obligatoire pour confirmer le diagnostic (j’étais mdr)"
+  ],
+  "marked": [
+   "E. Une biopsie est obligatoire pour confirmer le diagnostic (j’étais mdr)"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Anatomie pathologique du pancréas",
+  "note": "",
+  "groupe": "ANAPATH",
+  "answer": "E. Une biopsie est obligatoire pour confirmer le diagnostic (j’étais mdr)",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-p17-l504",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "ADULTE",
+  "teacher": "non attribué (adulte)",
+  "page": 17,
+  "num": null,
+  "line": 504,
+  "stem": [
+   "Dans quels types de diabètes secondaires retrouve-t-on une insulinorésistance faisant",
+   "partie du tableau du diabète secondaire (1 fausse) :"
+  ],
+  "lines": [
+   "Mody type 5",
+   "Hémochromatose",
+   "anti-protéases dans le traitement du VIH",
+   "Glucocorticoide dans le traitement du (?)",
+   "Question sur le diabète gestationnel, la fausse",
+   "• Disparait à l’accouchement",
+   "• Les cibles sont < 95 à jeun et < 140 1H post prandial",
+   "• On le traite en première intention par metformine",
+   "• Test HGOP au deuxième trimestre",
+   "• Plus de risque de l’avoir pour une deuxième grossesse si a déjà eu (c’était pas"
+  ],
+  "marked": [
+   "Mody type 5",
+   "• On le traite en première intention par metformine"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabètes secondaires et hérédité",
+  "note": "Deux questions étaient mêlées dans la retranscription ; seule la première (diabètes secondaires et insulinorésistance) est conservée. La seconde (diabète gestationnel : la metformine n'est pas le traitement de première intention) est perdue.",
+  "groupe": "SECONDAIRE",
+  "answer": "Mody type 5 | • On le traite en première intention par metformine",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "2025-01-p17-l516",
+  "src": "E",
+  "session": "2025-01",
+  "section": "Janvier 2025",
+  "disc": "RADIO",
+  "teacher": "non précisé",
+  "page": 17,
+  "num": null,
+  "line": 516,
+  "stem": [
+   "“augmente le risque d’avoir un DT2” ?)"
+  ],
+  "lines": [
+   "Question imagerie sur l’hypophyse (une fausse)",
+   "• Hypophyse change de taille avec âge",
+   "• Limite supérieure est plate ou concave",
+   "• Certains adénomes plus que 1mm ne se voient que après injection de produit de",
+   "contraste (pas sur si c’était ça)",
+   "• Adénome hyper intense en T1 avec injection de PC, (suite : réhausse plus que le",
+   "parenchyme)",
+   "Question sur la retinopathie une faute",
+   "• On traite par photocoagulation",
+   "• La vitrectomie rend aveugle"
+  ],
+  "marked": [
+   "• La vitrectomie rend aveugle"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Rétinopathie diabétique",
+  "note": "Retranscription mêlant plusieurs questions (imagerie de l'hypophyse, rétinopathie) : consultable. Idée retenue : « la vitrectomie rend aveugle » est fausse.",
+  "groupe": "RETINO",
+  "answer": "• La vitrectomie rend aveugle",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q1",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Preumont",
+  "disc": "ADULTE",
+  "teacher": "Preumont",
+  "page": 1,
+  "num": 1,
+  "line": 16,
+  "stem": [
+   "Mr avec polyurie et polydipsie depuis 3 mois. Glycémie à jeun 130 et HbA1C 6%.",
+   "Qu'est ce qui permet de faire le diagnostic"
+  ],
+  "lines": [
+   "-",
+   "Glycémie de > 110 suffisante pr poser le diagno",
+   "-",
+   "HbA1C suffisante si répété",
+   "-",
+   "HbA1c suffisante car c’est tjrs la valeur principale pr le diagno",
+   "-",
+   "Glycémie de > 126 permet de poser le diagno",
+   "-",
+   "nécessaire de faire une HGOP"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse absente",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Critères diagnostiques et glycémies",
+  "note": "",
+  "groupe": "DIAG-CRIT",
+  "answer": "",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q2",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Preumont",
+  "disc": "ADULTE",
+  "teacher": "Preumont",
+  "page": 1,
+  "num": 2,
+  "line": 28,
+  "stem": [
+   "Proposition fausse à propos du diabète de type 1"
+  ],
+  "lines": [
+   "-",
+   "Le C peptide peut être disable au diagnostic",
+   "-",
+   "Le LADA est un sous type de diaibète de type 1",
+   "-",
+   "L’absence d'atcd familiale est un argument en faveur du diabète de type 1",
+   "-",
+   "Sa présentation initiale est toujours une acidocétose",
+   "-",
+   "??"
+  ],
+  "marked": [
+   "Sa présentation initiale est toujours une acidocétose"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Question incomplète",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète de type 1",
+  "note": "",
+  "groupe": "DT1",
+  "answer": "Sa présentation initiale est toujours une acidocétose",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q3",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Preumont",
+  "disc": "ADULTE",
+  "teacher": "Preumont",
+  "page": 1,
+  "num": 3,
+  "line": 39,
+  "stem": [
+   "Annulée 1 vraie"
+  ],
+  "lines": [
+   "A. Il faut doser l’HbA1C tous les 3-6 mois si elle augmente",
+   "B. Une HbA1C supérieure à 6,4"
+  ],
+  "marked": [
+   "3. Annulée 1 vraie"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Question incomplète",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Hémoglobine glyquée (HbA1c)",
+  "note": "Question annulée selon les étudiants.",
+  "groupe": "HBA1C",
+  "answer": "3. Annulée 1 vraie",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q4",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Preumont",
+  "disc": "ADULTE",
+  "teacher": "Preumont",
+  "page": 1,
+  "num": 4,
+  "line": 42,
+  "stem": [
+   "Concernant le diabète gestationnel, tt est faux sauf une"
+  ],
+  "lines": [
+   "-",
+   "Metformine est le traitement peu importe la glycémie",
+   "-",
+   "Mêmes cibles glycémiques que pr DT2",
+   "-",
+   "HbA1c est un bon marqueur",
+   "-",
+   "Faire une glycémie à jeun en début de grossesse et une HGOP à 24 sem",
+   "-",
+   "Faire pour les femmes à risque une glycémie à jeun en début de grossesse",
+   "et une HGOP à 24 sem"
+  ],
+  "marked": [
+   "-",
+   "Faire une glycémie à jeun en début de grossesse et une HGOP à 24 sem"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabète gestationnel",
+  "note": "",
+  "groupe": "GESTATIONNEL",
+  "answer": "- | Faire une glycémie à jeun en début de grossesse et une HGOP à 24 sem",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q6",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Preumont",
+  "disc": "ADULTE",
+  "teacher": "Preumont",
+  "page": 2,
+  "num": 6,
+  "line": 64,
+  "stem": [
+   "Quelle est la proposition juste par rapport à un diabète secondaire?"
+  ],
+  "lines": [
+   "A. le diabète mitochondrial se transmet de manière autosomique dominante",
+   "B.",
+   "C. Une néoplasie du pancréas donner seulement une petit hyperglycémie car",
+   "prend peu de place dans le pancréas",
+   "D. l hemochromatose est une mutation de l hepcidine qui va causer une",
+   "infiltration de la surrénale",
+   "E. la prise de GC dans le cas d une infiltration du sciatique cause un diabète",
+   "secondaire"
+  ],
+  "marked": [
+   "E. la prise de GC dans le cas d une infiltration du sciatique cause un diabète",
+   "secondaire"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Diabètes secondaires et hérédité",
+  "note": "",
+  "groupe": "SECONDAIRE",
+  "answer": "E. la prise de GC dans le cas d une infiltration du sciatique cause un diabète | secondaire",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "autres-types",
+   "lessons": [
+    "dia-autres"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q7",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Preumont",
+  "disc": "ADULTE",
+  "teacher": "Preumont",
+  "page": 2,
+  "num": 7,
+  "line": 73,
+  "stem": [
+   "Patiente de 30 ans, sans ATCD, avec une mère et une grand-mère diabétique et",
+   "une glycémie à jeun à 130 mg/dL à la médecine du travail. Proposition vraie :"
+  ],
+  "lines": [
+   "a. Peut être un diabète MODY",
+   "b. Une mesure unique de sa glycémie à jeun suffit à poser le diagnostique de",
+   "diabète",
+   "c. C’est sans aucun doute un diabète de type I en voyant le BMI et l’âge",
+   "d. C’est sûrement un diabète de type 2 en voyant le BMI et l’âge",
+   "e. Il faut refaire une mesure de la glycémie"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse absente",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Critères diagnostiques et glycémies",
+  "note": "",
+  "groupe": "DIAG-CRIT",
+  "answer": "",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "diagnostic",
+   "lessons": [
+    "dia-diagnostic"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q9",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Preumont",
+  "disc": "ADULTE",
+  "teacher": "Preumont",
+  "page": 2,
+  "num": 9,
+  "line": 89,
+  "stem": [
+   "Dans un coma hyperosmolaire, quelle est la fausse :"
+  ],
+  "lines": [
+   "A. Corps cétoniques absents dans les urines mais positifs dans le plasma",
+   "B. Souvent hyperglycémie très élevée, > 800",
+   "C. Le traitement est typiquement une réhydratation progressive",
+   "D. un oedème cérébral est une conséquence d’une réhydratation trop rapide",
+   "E. La 5e lol"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse absente",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Coma hyperosmolaire",
+  "note": "",
+  "groupe": "HYPEROSMO",
+  "answer": "",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q12",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Preumont",
+  "disc": "ADULTE",
+  "teacher": "Preumont",
+  "page": 3,
+  "num": 12,
+  "line": 109,
+  "stem": [
+   "Un patient avec un diabète peut tomber dans le coma pour plusieurs raisons : coma",
+   "hypoglycémique, hyperosmolaire ou acidocétose diabétique. Toutes ces choses",
+   "permettent de faire le diagnostic différentiel , SAUF UNE. Laquelle ?"
+  ],
+  "lines": [
+   "a) glycémie au moment du coma",
+   "b) schéma insulinique de base",
+   "c) caractère brutal",
+   "d) transpiration excessive",
+   "e) convulsions"
+  ],
+  "marked": [
+   "b) schéma insulinique de base"
+  ],
+  "placeholder": false,
+  "clinical": true,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Coma hypoglycémique ou acidocétosique ?",
+  "note": "",
+  "groupe": "DD-COMA",
+  "answer": "b) schéma insulinique de base",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-p3-l121",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Preumont",
+  "disc": "ADULTE",
+  "teacher": "Preumont",
+  "page": 3,
+  "num": null,
+  "line": 121,
+  "stem": [
+   "Sur les complications chroniques du diabète :"
+  ],
+  "lines": [
+   "A. Une rétinopathie diabétique proliférante présente une prolifération de néo-vaisseaux",
+   "B. Une vitrectomie fait perdre la vue",
+   "C. La macroangiopathie est liée à un mauvais contrôle de la glycémie et des FRCV",
+   "D. Le pied diabétique est causé par un ensemble de facteurs : infection, neuropathie, …"
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse absente",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Complications chroniques : généralités",
+  "note": "",
+  "groupe": "COMPL-CHRON",
+  "answer": "",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "chroniques",
+   "lessons": [
+    "dia-chroniques"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-p4-l131",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Preumont",
+  "disc": "ADULTE",
+  "teacher": "Preumont",
+  "page": 4,
+  "num": null,
+  "line": 131,
+  "stem": [
+   "Dans un coma acido-cétosique :"
+  ],
+  "lines": [
+   "A. Il faut donner du bicarbonate si le pH est inférieur à 7,3",
+   "B. Il faut donner du K+ peu importe la kaliémie",
+   "C."
+  ],
+  "marked": [],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse absente",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Cétose et acidocétose",
+  "note": "",
+  "groupe": "ACIDOCETOSE",
+  "answer": "",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "aigues",
+   "lessons": [
+    "dia-aigues"
+   ]
+  }
+ },
+ {
+  "ref": "2026-01-Q43",
+  "src": "G",
+  "session": "2026-01",
+  "section": "Janvier 2026 – Anapath",
+  "disc": "ANAPATH",
+  "teacher": "non précisé",
+  "page": 10,
+  "num": 43,
+  "line": 409,
+  "stem": [
+   "Dans le DT2 qu’est ce qui n’est pas juste ? (Tuyau)"
+  ],
+  "lines": [
+   "A. Il n'y a pas d'inflammation",
+   "B. Les cellules bêta finissent par disparaitre",
+   "C. On peut voir des dépôts amyloïdes",
+   "D. A la lumière polarisée on peut voir une biréfringence (rouge/vert)des fibres",
+   "amyloïdes si elles sont colorées au rouge Congo",
+   "E. Une biopsie est obligatoire pour confirmer le diagnostic"
+  ],
+  "marked": [
+   "E. Une biopsie est obligatoire pour confirmer le diagnostic"
+  ],
+  "placeholder": false,
+  "clinical": false,
+  "status": "Réponse proposée dans la compilation",
+  "module": "Diabète",
+  "autres": "",
+  "sous_theme": "Anatomie pathologique du pancréas",
+  "note": "",
+  "groupe": "ANAPATH",
+  "answer": "E. Une biopsie est obligatoire pour confirmer le diagnostic",
+  "map": {
+   "chapter": "diabete",
+   "subchapter": "types",
+   "lessons": [
+    "dia-types"
+   ]
+  }
+ }
+]

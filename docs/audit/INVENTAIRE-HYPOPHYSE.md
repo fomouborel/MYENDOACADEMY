@@ -1,14 +1,14 @@
 # Inventaire détaillé des questions : hypophyse
 
 > Généré par `scripts/audit/domain_audit.py` à partir de l'extraction des PDF (voir `AUDIT-PHASE-1.md`) et du classement manuel `scripts/audit/hypophyse.py`.
-> **88 questions** retenues : 90 classées automatiquement dans ce domaine, dont 4 écartées (voir la fin), et 2 rattachées depuis un autre domaine.
+> **93 questions** retenues : 90 classées automatiquement dans ce domaine, dont 4 écartées (voir la fin), et 7 rattachées depuis un autre domaine.
 > **Statuts** : 🟦 réponse proposée dans la compilation (en rouge) · 🟧 discutée/contestée · ⬜ question incomplète · 🟥 réponse absente · 🟨 déduite du texte.
 > Aucune correction officielle n'a été identifiée dans les sources.
 
 | Statut | Questions |
 |---|---:|
-| 🟦 proposée | 68 |
-| ⬜ incomplète | 11 |
+| 🟦 proposée | 72 |
+| ⬜ incomplète | 12 |
 | 🟧 discutée | 8 |
 | 🟥 absente | 1 |
 
@@ -60,10 +60,11 @@
 |---|---|---|---|---|---|
 | `ND-duprez-coche-imagerie-Q126` | 2016-2021 · radio · p.86 | Concernant les atteintes dans le nanisme hypophysaire, trouvez les 2 intrus (c’était pas 1 intru ? :( non 2 p… | C. Petite anté-hypophyse / D. Pas de tige pituitaire | ⬜ incomplète | Consigne incertaine (« 2 intrus » ou « 2 justes ») et propositions mal retranscrites selon les étudiants : consultable, non notée. |
 
-## Adénomes : fréquence et types (3)
+## Adénomes : fréquence et types (4)
 
 | Réf. audit | Session · discipline · p. | Énoncé (début) | Réponse en rouge | Statut | Remarques |
 |---|---|---|---|---|---|
+| `2024-01-Q38` | janv. 2024 · adulte · p.6 | Quelle proposition est FAUSSE : | 2. Les adénomes hypophysaires les plus fréquents sont les adénomes no… | 🟦 proposée | Classée « Diabète » par l'extraction (janvier 2024). Même réponse que Maiter Q19 : les adénomes les plus fréquents sont les prolactinomes, pas les non fonctionnels. |
 | `ND-maiter-hypophyse-Q5` | 2016-2021 · adulte · p.58 | A propos de l’hypophyse, 1F : | — | ⬜ incomplète | Une seule proposition. |
 | `ND-maiter-hypophyse-Q19` | 2016-2021 · adulte · p.60 | Toutes les propositions suivantes sont justes sauf une : | B. Les adénomes hypophysaires cliniquement non fonctionnels sont les … | 🟦 proposée | — |
 | `2025-01-p17-l499` | janv. 2025 · adulte · p.17 | Quel est le type d’adenome le plus fréquent | B. Microprolactinome chez la femme | 🟦 proposée | — |
@@ -246,11 +247,15 @@
 |---|---|---|---|---|---|
 | `ND-marbaix-hypophyse-Q3` | 2016-2021 · anapath · p.81 | Syndrome de Sheehan: | d. Nécrose ischémique de l’hypophyse sur choc circulatoire secondaire… | 🟦 proposée | Anatomie pathologique (Marbaix) ; proposition e résumée par le transcripteur. |
 
-## Diabète insipide (4)
+## Diabète insipide (8)
 
 | Réf. audit | Session · discipline · p. | Énoncé (début) | Réponse en rouge | Statut | Remarques |
 |---|---|---|---|---|---|
 | `2024-01-p4-l118` | janv. 2024 · radio · p.4 | Dans le diabète insipide centrale (la fausse) | Osmolarité urinaire plus haute que la plasmatique | 🟦 proposée | Radiologie ; 3 propositions. |
+| `ND-maiter-diabete-Q19` | 2016-2021 · adulte · p.40 | Ds diabète insipide central, 1 fausse: | a. Hyponatrémie a la fin du test de restriction hydrique | 🟦 proposée | Classée « Diabète » par l'extraction (section diabète de Maiter) ; 3 propositions. |
+| `ND-maiter-diabete-Q78` | 2016-2021 · adulte · p.47 | Qu’est ce qu’on ne retrouve pas dans un diabète insipide ? 2 réponses | a. Osmolalité urinaire > osmolalité plasmatique | ⬜ incomplète | Classée « Diabète » par l'extraction (section diabète de Maiter) ; une seule proposition. |
+| `ND-maiter-diabete-Q100` | 2016-2021 · adulte · p.49 | Diabète insipide central.. Laquelle est fausse? | b. Ne répond pas à l’administration de desmopressine | 🟦 proposée | Classée « Diabète » par l'extraction (section diabète de Maiter). |
+| `ND-maiter-diabete-Q132` | 2016-2021 · adulte · p.53 | Toutes ces étiologies peuvent être à l’origine d’un diabète insipide central, sauf un : | A. Prise de lithium | 🟦 proposée | Classée « Diabète » par l'extraction (section diabète de Maiter). |
 | `ND-maiter-hypophyse-Q21` | 2016-2021 · adulte · p.60 | Toutes les affirmations suivantes sont correctes, sauf une. | C. Une hyponatrémie peut se rencontrer dans un diabète insipide d’ori… | 🟦 proposée | Question transversale (selle turcique vide, hyponatrémie, diabète insipide, testostérone). |
 | `2025-01-Q45` | janv. 2025 · adulte · p.8 | Concernant le diabète insipide, quelle réponse est fausse : | C) le dosage unique de l’ADH permet le diagnostic | 🟦 proposée | — |
 | `2025-01-p18-l557` | janv. 2025 · adulte · p.18 | Une question sur le diabète insipide (proposition fausse) | • Test à la soif permet de le différencier / • Un test de dosage d’AD… | 🟧 discutée | Deux propositions en rouge pour une seule fausse. Le test de restriction hydrique permet bien de différencier les causes ; d'après la question Q45 de la même session, seule « dosage d'ADH » est fauss… |

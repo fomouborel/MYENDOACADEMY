@@ -209,16 +209,87 @@
       "order": 10,
       "domain": "diabete",
       "title": "Diabète et hypoglycémies",
-      "short": "Prévu après la thyroïde",
+      "short": "Diagnostic, types de diabète, complications aiguës et chroniques, pied diabétique (traitements et hypoglycémies : lot 2 à venir)",
       "icon": "🩸",
-      "status": "pending",
+      "status": "available",
       "subchapters": [
         {
-          "id": "a-definir",
-          "title": "À définir après intégration"
+          "id": "diagnostic",
+          "title": "Diagnostic"
+        },
+        {
+          "id": "types",
+          "title": "Type 1, type 2, LADA"
+        },
+        {
+          "id": "autres-types",
+          "title": "Autres types de diabète"
+        },
+        {
+          "id": "aigues",
+          "title": "Complications aiguës"
+        },
+        {
+          "id": "chroniques",
+          "title": "Complications chroniques et pied diabétique"
         }
       ],
-      "lessons": []
+      "lessons": [
+        {
+          "id": "dia-diagnostic",
+          "title": "Diagnostic du diabète : glycémies, HbA1c, HGPO, peptide C",
+          "file": "diabete/01-diagnostic.md",
+          "subchapters": [
+            "diagnostic"
+          ],
+          "minutes": 10
+        },
+        {
+          "id": "dia-types",
+          "title": "Diabète de type 1, de type 2 et LADA",
+          "file": "diabete/02-types.md",
+          "subchapters": [
+            "types"
+          ],
+          "minutes": 10
+        },
+        {
+          "id": "dia-autres",
+          "title": "MODY, diabète gestationnel, diabètes secondaires, insulinorésistance",
+          "file": "diabete/03-autres-types.md",
+          "subchapters": [
+            "autres-types"
+          ],
+          "minutes": 9
+        },
+        {
+          "id": "dia-aigues",
+          "title": "Complications aiguës : acidocétose, coma hyperosmolaire, coma",
+          "file": "diabete/04-complications-aigues.md",
+          "subchapters": [
+            "aigues"
+          ],
+          "minutes": 13
+        },
+        {
+          "id": "dia-chroniques",
+          "title": "Complications chroniques : rétine, rein, nerfs, cœur",
+          "file": "diabete/05-complications-chroniques.md",
+          "subchapters": [
+            "chroniques"
+          ],
+          "minutes": 14
+        },
+        {
+          "id": "dia-pied",
+          "title": "Le pied diabétique : PEDIS, pied de Charcot",
+          "file": "diabete/06-pied-diabetique.md",
+          "subchapters": [
+            "chroniques"
+          ],
+          "minutes": 9
+        }
+      ]
     },
     {
       "id": "hypophyse",
